@@ -8,7 +8,7 @@
 
 ## 🌍 大会
 
-- [FIFA ワールドカップ™](https://cybermoment.app/gameday/football/ja/worldcup/worldcup.ics)
+- [Worldcup](https://cybermoment.app/gameday/football/ja/worldcup/worldcup.ics)
 - [プレミアリーグ](https://cybermoment.app/gameday/football/ja/premier_league/premier_league.ics)
 - [ラ リーガ](https://cybermoment.app/gameday/football/ja/laliga/laliga.ics)
 - [ブンデスリーガ](https://cybermoment.app/gameday/football/ja/bundesliga/bundesliga.ics)

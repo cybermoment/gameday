@@ -8,7 +8,7 @@ Lingue:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Españo
 
 ## 🌍 Competizioni
 
-- [Coppa del mondo FIFA™](https://cybermoment.app/gameday/football/it/worldcup/worldcup.ics)
+- [Worldcup](https://cybermoment.app/gameday/football/it/worldcup/worldcup.ics)
 - [Premier League](https://cybermoment.app/gameday/football/it/premier_league/premier_league.ics)
 - [Liga](https://cybermoment.app/gameday/football/it/laliga/laliga.ics)
 - [Bundesliga](https://cybermoment.app/gameday/football/it/bundesliga/bundesliga.ics)

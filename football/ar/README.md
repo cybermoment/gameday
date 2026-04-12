@@ -8,7 +8,7 @@
 
 ## 🌍 المسابقات
 
-- [كأس العالم FIFA™](https://cybermoment.app/gameday/football/ar/worldcup/worldcup.ics)
+- [Worldcup](https://cybermoment.app/gameday/football/ar/worldcup/worldcup.ics)
 - [الدوري الإنجليزي الممتاز](https://cybermoment.app/gameday/football/ar/premier_league/premier_league.ics)
 - [الدوري الإسباني - لا ليجا](https://cybermoment.app/gameday/football/ar/laliga/laliga.ics)
 - [الدوري الألماني - بوندسليجا](https://cybermoment.app/gameday/football/ar/bundesliga/bundesliga.ics)

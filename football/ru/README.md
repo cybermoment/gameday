@@ -8,7 +8,7 @@
 
 ## 🌍 Турниры
 
-- [Чемпионат мира по футболу FIFA™](https://cybermoment.app/gameday/football/ru/worldcup/worldcup.ics)
+- [Worldcup](https://cybermoment.app/gameday/football/ru/worldcup/worldcup.ics)
 - [Премьер-Лига](https://cybermoment.app/gameday/football/ru/premier_league/premier_league.ics)
 - [Примера-Дивизион](https://cybermoment.app/gameday/football/ru/laliga/laliga.ics)
 - [Бундеслига](https://cybermoment.app/gameday/football/ru/bundesliga/bundesliga.ics)

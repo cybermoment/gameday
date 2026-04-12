@@ -8,7 +8,7 @@
 
 ## 🌍 대회
 
-- [FIFA 월드컵™](https://cybermoment.app/gameday/football/ko/worldcup/worldcup.ics)
+- [Worldcup](https://cybermoment.app/gameday/football/ko/worldcup/worldcup.ics)
 - [프리미어리그](https://cybermoment.app/gameday/football/ko/premier_league/premier_league.ics)
 - [프리메라리가](https://cybermoment.app/gameday/football/ko/laliga/laliga.ics)
 - [분데스리가](https://cybermoment.app/gameday/football/ko/bundesliga/bundesliga.ics)

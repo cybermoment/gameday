@@ -9,7 +9,7 @@
 ## 🌍 赛事
 
 - [中超](https://cybermoment.app/gameday/football/zh/csl/csl.ics)
-- [国际足联世界杯™](https://cybermoment.app/gameday/football/zh/worldcup/worldcup.ics)
+- [Worldcup](https://cybermoment.app/gameday/football/zh/worldcup/worldcup.ics)
 - [英超](https://cybermoment.app/gameday/football/zh/premier_league/premier_league.ics)
 - [西甲](https://cybermoment.app/gameday/football/zh/laliga/laliga.ics)
 - [德甲](https://cybermoment.app/gameday/football/zh/bundesliga/bundesliga.ics)
