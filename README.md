@@ -4,8 +4,9 @@ GameDay provides ICS calendar feeds for sports schedules. Subscribe once and get
 
 ## Supported Sports
 - ⚽ Football (Soccer)
+- 🏀 NBA, 🏎️ F1, 🎾 Tennis (Coming Soon...)
 
-## ⚽ Football
+## ⚽ Football (Soccer)
 
 | Language | Entry Link |
 | :--- | :--- |
