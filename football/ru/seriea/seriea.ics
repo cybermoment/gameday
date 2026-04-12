@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Наполи
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cli1lgf9lcih5ons3pft9iqz8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Лечче
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cj1crau6yj93nnyk80lzjpes4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Болонья
 DTSTART:20250823T184500Z
 DTEND:20250823T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cl0nfg88xxoznw3qe89ejvbbo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Кремонезе
 DTSTART:20250823T184500Z
 DTEND:20250823T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ckhlsqn997c1wwypjh8jsbkt0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Лацио
 DTSTART:20250824T163000Z
 DTEND:20250824T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cijyabwrwwuazjxynj4k53yfo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Фиорентина
 DTSTART:20250824T163000Z
 DTEND:20250824T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ci2kxxx76lbrwh0aw8wl24avo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Парма
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ck0djtpx1mzn7xyncs3eifv9w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Пиза
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-chhs4jqieq3l8wyuww0wt8h78@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Хеллас Верона
 DTSTART:20250825T163000Z
 DTEND:20250825T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-clzony52hgkslk2qcp027nnkk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Торино
 DTSTART:20250825T184500Z
 DTEND:20250825T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cjir7ivrn1ol4vwld9wfrfcwk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Сассуоло
 DTSTART:20250829T163000Z
 DTEND:20250829T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cmrzazt4puvob6i3e8792zk0k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Милан
 DTSTART:20250829T184500Z
 DTEND:20250829T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cocjrxkycj7rojvg68psz8sno@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Аталанта
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cp4xpnjmoxua4xp2os0o54kk4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Комо
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cmdro0qfo163kml8ooz371rtg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Кальяри
 DTSTART:20250830T184500Z
 DTEND:20250830T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-coqrhq09kxd16iejvgtzj3mz8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Рома
 DTSTART:20250830T184500Z
 DTEND:20250830T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cpjqg4esn6oq24obqmfbj63h0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS ФК «Ювентус»
 DTSTART:20250831T163000Z
 DTEND:20250831T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cn63x2v18luvioyw8kovsgkyc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Фиорентина
 DTSTART:20250831T163000Z
 DTEND:20250831T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cpxwneowcffpmb2wvwitp8x04@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Хеллас Верона
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cnye1t7vywtihm10fiy3n6ot0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Удинезе
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cnk8qz4vy7manfhepmw2luln8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Парма
 DTSTART:20250913T130000Z
 DTEND:20250913T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cqrnaavxgeypn5c4h3nvbayvo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Интернационале
 DTSTART:20250913T160000Z
 DTEND:20250913T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-crxnwayoksm2qllunbop37w9g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Наполи
 DTSTART:20250913T184500Z
 DTEND:20250913T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-crjn81u7zfyuq3acjvddvhedw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Торино
 DTSTART:20250914T103000Z
 DTEND:20250914T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ct4pr9n90ljgamkcw2r4qdl3o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Лечче
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cqdjyshnqqje3o55ba6jalono@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Удинезе
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-csq3u15fsrczzowqcz1he0dg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Лацио
 DTSTART:20250914T160000Z
 DTEND:20250914T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ctirptm06szy6db17n31sdgr8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Болонья
 DTSTART:20250914T184500Z
 DTEND:20250914T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-csbw81x78eyi6bravqqmf8ljo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Кремонезе
 DTSTART:20250915T163000Z
 DTEND:20250915T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ctwudwrsdua0zffrszke1fp5g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Дженоа
 DTSTART:20250915T184500Z
 DTEND:20250915T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cr5ncddam0hu23i7vmkh4syl0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Кальяри
 DTSTART:20250919T184500Z
 DTEND:20250919T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cwayb4slmogc08eftjr54x6ac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -455,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Дженоа
 DTSTART:20250920T130000Z
 DTEND:20250920T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cuawxsnj5e0jykj7h7xw9t7v8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS ФК «Ювентус»
 DTSTART:20250920T160000Z
 DTEND:20250920T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cxvo1oohfwovsdei3cpw6tes4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Милан
 DTSTART:20250920T184500Z
 DTEND:20250920T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cxhk2dlt114nx1405g52t1bmc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Рома
 DTSTART:20250921T103000Z
 DTEND:20250921T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cvwv2nuu43dmvycrt5mse7lec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Парма
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cuoyvh94watus9uvz0po9sc9g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Аталанта
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cx3go6z9ruqo169jvzbwtq4gk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Комо
 DTSTART:20250921T160000Z
 DTEND:20250921T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cv30lveqsxxb7uod3lhwqnbx0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Сассуоло
 DTSTART:20250921T184500Z
 DTEND:20250921T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cvinn2fcsyfjax1uwdda87eok@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Пиза
 DTSTART:20250922T184500Z
 DTEND:20250922T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cwp801847hnz6cu08s3qng3ro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Кремонезе
 DTSTART:20250927T130000Z
 DTEND:20250927T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cyny4dfagllz9a2qd6jfoptlg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Аталанта
 DTSTART:20250927T160000Z
 DTEND:20250927T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-czgfsy6it2t6xq68unh5m43ro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Интернационале
 DTSTART:20250927T184500Z
 DTEND:20250927T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cy9s1cccxhtx6nkhlj4u1te6s@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -628,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Удинезе
 DTSTART:20250928T103000Z
 DTEND:20250928T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d1x445mhky7hc1p6jeeifhgr8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -643,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Хеллас Верона
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d1iqbauqztqni51jxkp8wuuj8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Фиорентина
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d13j9w14b12tik6wf4bvy3ztg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Болонья
 DTSTART:20250928T160000Z
 DTEND:20250928T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-czuo2pvhjnqvkbvqy4t5nwpw4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -687,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Наполи
 DTSTART:20250928T184500Z
 DTEND:20250928T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d09944d1ux39ydv2wp8sx7hn8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Торино
 DTSTART:20250929T163000Z
 DTEND:20250929T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d0p9a2knjp3jb4mdfk6zz2rdg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Лацио
 DTSTART:20250929T184500Z
 DTEND:20250929T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cz23urlp2fqu90rtkbatvaadw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -730,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Сассуоло
 DTSTART:20251003T184500Z
 DTEND:20251003T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d5z6nojyvxc2hymcp71tmj11w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -745,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Лечче
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d54tgboprbgicv3i71jygpz4k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -759,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Торино
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d4bf8awg8k155fyjhvi6qov84@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Кремонезе
 DTSTART:20251004T160000Z
 DTEND:20251004T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d3iq0zn8rncwijul121qytqms@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -787,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Комо
 DTSTART:20251004T184500Z
 DTEND:20251004T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d2bnjrz33iomo2sqb6uuutxqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Кальяри
 DTSTART:20251005T103000Z
 DTEND:20251005T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d5j5q19nxheidda4qq7pfof84@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Пиза
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d2pyl0n9fu5dothwptleadzbo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Рома
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d34dcq8pjqzraxcsk3qmbwums@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -844,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Дженоа
 DTSTART:20251005T160000Z
 DTEND:20251005T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d4pwyiyho3sntimg7gb5yssno@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Милан
 DTSTART:20251005T184500Z
 DTEND:20251005T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d3x6fe0w9bbzch8xuw4gkng9g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -873,7 +873,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Сассуоло
 DTSTART:20251018T130000Z
 DTEND:20251018T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d8d1t5jcq22vyydtoit9n4jdg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -888,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Хеллас Верона
 DTSTART:20251018T130000Z
 DTEND:20251018T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d95p2ejy2of7ii7s45jnvz9jo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -903,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Наполи
 DTSTART:20251018T160000Z
 DTEND:20251018T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d9ymqc53t61s1cxt7tau89c7o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -918,7 +918,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Интернационале
 DTSTART:20251018T184500Z
 DTEND:20251018T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d9k63wuz61kyno1kx76agjx1w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -932,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS ФК «Ювентус»
 DTSTART:20251019T103000Z
 DTEND:20251019T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d760hjpwhimi7tvktc4u66d5g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -947,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Парма
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d7yrxii7ad8bixosyqiukk5qs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -962,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Болонья
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d6rs8i22079apm2uhqqg71edw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Лацио
 DTSTART:20251019T160000Z
 DTEND:20251019T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d6dhthqfbbqbffuo2pxce5kpg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -990,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Фиорентина
 DTSTART:20251019T184500Z
 DTEND:20251019T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d8rcigwrcg9hzy3pyupj4wc9g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1004,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Удинезе
 DTSTART:20251020T184500Z
 DTEND:20251020T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d7kgfsvp8vyro7n0492ezd89g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -1018,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Пиза
 DTSTART:20251024T184500Z
 DTEND:20251024T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dbm5cdzyy5io7ip09r4fqp0r8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1032,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Лечче
 DTSTART:20251025T130000Z
 DTEND:20251025T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ddlym8mubvauwp515wqsyazv8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -1046,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Комо
 DTSTART:20251025T130000Z
 DTEND:20251025T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dcexpeqv5l6k0hh0dq6prdwr8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Интернационале
 DTSTART:20251025T160000Z
 DTEND:20251025T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dc0ileeq572dt6lk7j3q6n1n8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -1075,7 +1075,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Аталанта
 DTSTART:20251025T184500Z
 DTEND:20251025T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dad6y4ul99an1ydnjuwqf09as@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -1089,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Дженоа
 DTSTART:20251026T113000Z
 DTEND:20251026T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dd7pxcuki8noxhspqtl0pdbtg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Рома
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dctctwsjvrck5r6q08o0intas@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -1119,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Кальяри
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-de0f2p1wl2iw9w068jdvh2bys@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -1134,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Болонья
 DTSTART:20251026T170000Z
 DTEND:20251026T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-darobpsf8kt94ioyj305wq9ec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -1149,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS ФК «Ювентус»
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-db7u0fk0bzsdqr84t6t7chgk4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1163,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Наполи
 DTSTART:20251028T173000Z
 DTEND:20251028T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dh9dw8ynx40z3bjgfjxxohvkk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -1178,7 +1178,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Милан
 DTSTART:20251028T194500Z
 DTEND:20251028T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-deepiitjyl9oygsb0t61th8gk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -1192,7 +1192,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Хеллас Верона
 DTSTART:20251029T173000Z
 DTEND:20251029T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dfm31uxt446l2jetgokqmpbtg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1207,7 +1207,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Удинезе
 DTSTART:20251029T173000Z
 DTEND:20251029T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dgv0e7dm17h0zgaph0utle7f8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -1221,7 +1221,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Парма
 DTSTART:20251029T173000Z
 DTEND:20251029T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-di2cpubntuatd5o4uesn6b9ck@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1235,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Фиорентина
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dggjx0pqzs2sz8zcgo7spx990@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1249,7 +1249,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Кремонезе
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dg0jqjxvhdlvm17zu5lxdb384@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -1264,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Торино
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-det3s3pww7gsva0v1edvi37dg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -1278,7 +1278,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Сассуоло
 DTSTART:20251030T173000Z
 DTEND:20251030T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-df7pc4tsmi40f808ft7kkvvo4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -1292,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Лацио
 DTSTART:20251030T194500Z
 DTEND:20251030T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dhnuk2lkv2t2krxmz9ezd2vpw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Аталанта
 DTSTART:20251101T140000Z
 DTEND:20251101T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dlp2qf98lb84w8c5g7qp42mfo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -1321,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Комо
 DTSTART:20251101T170000Z
 DTEND:20251101T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dk1y2p3cuhqk9g9jrvfmk6784@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -1336,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS ФК «Ювентус»
 DTSTART:20251101T194500Z
 DTEND:20251101T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-digmzny5no6kxh6hfopalgahg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -1350,7 +1350,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Интернационале
 DTSTART:20251102T113000Z
 DTEND:20251102T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dm3jxfctxpdynsz4ifnil87pw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Лечче
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-diuxkzq1t6j5r3b8myu04i3h0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -1380,7 +1380,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Пиза
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dl8z0whe7rrb6x9q5t2ujr0gk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -1395,7 +1395,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Болонья
 DTSTART:20251102T170000Z
 DTEND:20251102T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dkg96ikwaxincjz0osgjhgqac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -1409,7 +1409,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Рома
 DTSTART:20251102T194500Z
 DTEND:20251102T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-djnhnvs0hjjv7p1rlkt1eizh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1423,7 +1423,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Дженоа
 DTSTART:20251103T173000Z
 DTEND:20251103T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dkulf66kq04h9lzqdtjkqpixg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -1438,7 +1438,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Кальяри
 DTSTART:20251103T194500Z
 DTEND:20251103T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dj93wlc4y6a5z30ns89tmayac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1452,7 +1452,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Кремонезе
 DTSTART:20251107T194500Z
 DTEND:20251107T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dpp84bygkdgyg0sajw9uj1gr8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -1467,7 +1467,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Кальяри
 DTSTART:20251108T140000Z
 DTEND:20251108T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dnarz7g34ocl241c9fgxzp3pw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1482,7 +1482,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Хеллас Верона
 DTSTART:20251108T140000Z
 DTEND:20251108T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dow8k870q7vkvk4h4gjfr5m38@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -1497,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Торино
 DTSTART:20251108T170000Z
 DTEND:20251108T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dohyl0ad5ysvxd4ai8yzzmrys@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -1511,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Милан
 DTSTART:20251108T194500Z
 DTEND:20251108T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dpamiled595lvr7mgypx0j28k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -1525,7 +1525,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Сассуоло
 DTSTART:20251109T113000Z
 DTEND:20251109T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dmi121gv0qj4x1w693cvie6fo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -1539,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Фиорентина
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dnp4q65aivoy78vun7flzhq8k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -1554,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Наполи
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dmwg1gvcw4ie6d5l4q676ym1g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -1568,7 +1568,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Удинезе
 DTSTART:20251109T170000Z
 DTEND:20251109T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dq3n2rxv07cjted6iwajujthw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1582,7 +1582,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Лацио
 DTSTART:20251109T194500Z
 DTEND:20251109T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-do3jie3bxgeab77cfb661pj4k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1596,7 +1596,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Болонья
 DTSTART:20251122T140000Z
 DTEND:20251122T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dtrclyu07br4uab21k5xhj578@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -1610,7 +1610,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Дженоа
 DTSTART:20251122T140000Z
 DTEND:20251122T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dqi2afpogoxcqe16jjfngwpp0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -1624,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS ФК «Ювентус»
 DTSTART:20251122T170000Z
 DTEND:20251122T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-drcehua6mov8dgeptqggfq42c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -1639,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Аталанта
 DTSTART:20251122T194500Z
 DTEND:20251122T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dsjz0ccrqs2n0j591bnkv8tg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -1654,7 +1654,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Парма
 DTSTART:20251123T113000Z
 DTEND:20251123T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-du5o1hifd5wf9cgqx1k5qj9qs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -1669,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Рома
 DTSTART:20251123T140000Z
 DTEND:20251123T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dqy2r61k7vty81i3wioak13x0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -1683,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Лечче
 DTSTART:20251123T170000Z
 DTEND:20251123T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ds5esvdr9jzrgdf3m7mg1hxqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1697,7 +1697,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Милан
 DTSTART:20251123T194500Z
 DTEND:20251123T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-drqv6y09c9wfm5hvdtz6g3evo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1711,7 +1711,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Комо
 DTSTART:20251124T173000Z
 DTEND:20251124T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dtct334p03m4xw2l4fxzg6adw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -1726,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Пиза
 DTSTART:20251124T194500Z
 DTEND:20251124T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dsyfzer3u4sczqe32ahodc5xw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -1741,7 +1741,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Сассуоло
 DTSTART:20251128T194500Z
 DTEND:20251128T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dvd1bi000q9cija2e8ob7xgr8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1756,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Удинезе
 DTSTART:20251129T140000Z
 DTEND:20251129T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dxf1sr570o15ypiab9xekb47o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -1770,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Хеллас Верона
 DTSTART:20251129T140000Z
 DTEND:20251129T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dvrjf79b61apqegvoxcxk4ahg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -1785,7 +1785,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Кальяри
 DTSTART:20251129T170000Z
 DTEND:20251129T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dw7l04vfj0i7p0g0hnp73cro4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -1799,7 +1799,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Лацио
 DTSTART:20251129T194500Z
 DTEND:20251129T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dx0msvb8l9mbv6nayc3tdjfh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1813,7 +1813,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Торино
 DTSTART:20251130T113000Z
 DTEND:20251130T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dwm79w7tnuve8xn9ietkl0mc4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -1828,7 +1828,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Интернационале
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dxtjfc6x21jgycgji2syawxzo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -1843,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Фиорентина
 DTSTART:20251130T170000Z
 DTEND:20251130T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dukc3hs2xd16cdykyplyroidw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -1857,7 +1857,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Наполи
 DTSTART:20251130T194500Z
 DTEND:20251130T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dy7z0c1nl7x403oo7s9ic1las@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1871,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Кремонезе
 DTSTART:20251201T194500Z
 DTEND:20251201T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-duyr0a0pw22aug9rjvf5vwums@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -1885,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Фиорентина
 DTSTART:20251206T140000Z
 DTEND:20251206T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e123np88zmlm4u16ziyk1atqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -1900,7 +1900,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Комо
 DTSTART:20251206T170000Z
 DTEND:20251206T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dzgg2dchs0eaxjke2ljsr0l5g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -1914,7 +1914,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Аталанта
 DTSTART:20251206T194500Z
 DTEND:20251206T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e2axxvzgny3zspuyfyl41ukus@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -1929,7 +1929,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Лечче
 DTSTART:20251207T113000Z
 DTEND:20251207T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dz0y3waleoh6j2ih9chxlmzh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -1943,7 +1943,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Рома
 DTSTART:20251207T140000Z
 DTEND:20251207T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dymba46s2x3m84cophpcnnlzo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -1957,7 +1957,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Болонья
 DTSTART:20251207T170000Z
 DTEND:20251207T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dzus54uynnlkk8kunhzse0u1g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -1971,7 +1971,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS ФК «Ювентус»
 DTSTART:20251207T194500Z
 DTEND:20251207T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e096ecqrgn0fwuv0s58t1az9w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -1986,7 +1986,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Парма
 DTSTART:20251208T140000Z
 DTEND:20251208T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e0nmvoyc7233dc8207kp6702c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -2001,7 +2001,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Дженоа
 DTSTART:20251208T170000Z
 DTEND:20251208T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e1wg402dqdofdpblk9lc80owk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -2015,7 +2015,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Милан
 DTSTART:20251208T194500Z
 DTEND:20251208T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e1i36p26rp3mmmepqw1pdu87o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -2030,7 +2030,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Пиза
 DTSTART:20251212T194500Z
 DTEND:20251212T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e4bjrtggvllrtp9utmav8836c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -2045,7 +2045,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Кремонезе
 DTSTART:20251213T140000Z
 DTEND:20251213T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e5xznov5gl96vdg6fb673h8us@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -2060,7 +2060,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Лацио
 DTSTART:20251213T170000Z
 DTEND:20251213T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e54xho1vjc5wpg0ck8yumyjo4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -2074,7 +2074,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Кальяри
 DTSTART:20251213T194500Z
 DTEND:20251213T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e2pafpo3vzld4dn6vy9tdi784@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -2088,7 +2088,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Сассуоло
 DTSTART:20251214T113000Z
 DTEND:20251214T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e4qbgxvs3csynq5ak8yasgc9g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2102,7 +2102,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Хеллас Верона
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e3ijxjza9yfhg2mjkr3tqtd78@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2117,7 +2117,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Наполи
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e6cu4bc2wvzzoo0ja9jvfqqz8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -2131,7 +2131,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Интернационале
 DTSTART:20251214T170000Z
 DTEND:20251214T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e3x5gndisdsp938zd7nmozod0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2146,7 +2146,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS ФК «Ювентус»
 DTSTART:20251214T194500Z
 DTEND:20251214T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e33vxyc8k04if8gzc5gi3tn9w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -2160,7 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Комо
 DTSTART:20251215T194500Z
 DTEND:20251215T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e5jd42wfy8nyeucs0jyxf4o44@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -2174,7 +2174,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Кремонезе
 DTSTART:20251220T170000Z
 DTEND:20251220T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e98iaxuhnp31i9wwzo57upfro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -2188,7 +2188,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Рома
 DTSTART:20251220T194500Z
 DTEND:20251220T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e8tvzuht0l1djh5ni0e3irlzo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -2202,7 +2202,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Пиза
 DTSTART:20251221T113000Z
 DTEND:20251221T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e6tpfxp6ju1ri8t0tbhms0d1w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -2216,7 +2216,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Торино
 DTSTART:20251221T140000Z
 DTEND:20251221T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ea1qy46mwfvqufnf1gif5p4wk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -2231,7 +2231,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Удинезе
 DTSTART:20251221T170000Z
 DTEND:20251221T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e7mnch3l1z9ja7yx9lo2ninf8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2246,7 +2246,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Аталанта
 DTSTART:20251221T194500Z
 DTEND:20251221T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e810e1xzrome2qehy43mv1edw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2261,7 +2261,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Фиорентина
 DTSTART:20251227T113000Z
 DTEND:20251227T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ecwjc630j0uezvzvfou83faj8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -2275,7 +2275,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Комо
 DTSTART:20251227T140000Z
 DTEND:20251227T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ec3snqm0rvvrhq6gcckxajspg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -2290,7 +2290,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Кальяри
 DTSTART:20251227T140000Z
 DTEND:20251227T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ee3xl5vlrk8rwfcvjvrhyuzo4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -2305,7 +2305,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Лацио
 DTSTART:20251227T170000Z
 DTEND:20251227T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eeiearb86xbt33aakaoj5rbx0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -2319,7 +2319,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS ФК «Ювентус»
 DTSTART:20251227T194500Z
 DTEND:20251227T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-edb0ezyz2qh8ioasdyywy5zpw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -2334,7 +2334,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Хеллас Верона
 DTSTART:20251228T113000Z
 DTEND:20251228T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eci8k86sktisriy3ce4uvhafo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2348,7 +2348,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Наполи
 DTSTART:20251228T140000Z
 DTEND:20251228T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ebnmnf2geg6rtju8p1g0zyfis@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -2362,7 +2362,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Сассуоло
 DTSTART:20251228T170000Z
 DTEND:20251228T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eb95ok4yqqkuy9i4cavv9ru38@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -2376,7 +2376,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Интернационале
 DTSTART:20251228T194500Z
 DTEND:20251228T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eaurpcmvj7o6h5p7z7gycng9g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -2390,7 +2390,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Дженоа
 DTSTART:20251229T194500Z
 DTEND:20251229T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-edpgvib62l4nji0yx471zf09g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -2404,7 +2404,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Милан
 DTSTART:20260102T194500Z
 DTEND:20260102T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-efb4054pkim890m38geyhzpqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -2418,7 +2418,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Удинезе
 DTSTART:20260103T113000Z
 DTEND:20260103T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-efpid2dbk8x3yyjuo2b5pdkic@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2433,7 +2433,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Парма
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ei5v3fz0l6xr7nh933s8db76c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -2448,7 +2448,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Пиза
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-egikby2mt9d9oezp7s5hm58us@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2463,7 +2463,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Лечче
 DTSTART:20260103T170000Z
 DTEND:20260103T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ehd57it29eiid499msbkyw5jo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -2477,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Рома
 DTSTART:20260103T194500Z
 DTEND:20260103T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eewp6c030caxh9ia0j8zl5gyc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -2491,7 +2491,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Наполи
 DTSTART:20260104T113000Z
 DTEND:20260104T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ehrgqtm5ghe0vn3dx37fepixg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -2505,7 +2505,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Кремонезе
 DTSTART:20260104T140000Z
 DTEND:20260104T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eg458j2mgzjz7q5593klyutck@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2520,7 +2520,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Торино
 DTSTART:20260104T170000Z
 DTEND:20260104T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eik42z6kw37nxznbrxsyiarys@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -2535,7 +2535,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Болонья
 DTSTART:20260104T194500Z
 DTEND:20260104T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-egx77xc7jmgsxnl1wh2m6ddzo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2549,7 +2549,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Комо
 DTSTART:20260106T140000Z
 DTEND:20260106T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-elrgn9wyfbxmib5v33945uk2c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -2564,7 +2564,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Рома
 DTSTART:20260106T170000Z
 DTEND:20260106T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ek5ol2jqzzvwqaqamyq40idqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -2579,7 +2579,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS ФК «Ювентус»
 DTSTART:20260106T194500Z
 DTEND:20260106T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-em5sawp2n1ma8ix5uvoarjuvo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -2594,7 +2594,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Аталанта
 DTSTART:20260107T173000Z
 DTEND:20260107T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eiyerurkjcrtone02gvzc17v8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -2608,7 +2608,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Хеллас Верона
 DTSTART:20260107T173000Z
 DTEND:20260107T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ekyr1h6np9h1d6ooh6v1smlg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Удинезе
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-emlr65k1xlt2jgir4u6ozg650@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -2638,7 +2638,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Интернационале
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eld4erfmnbst0a3xa3q9lwwlw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -2652,7 +2652,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Фиорентина
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ejrea7dcgzve3s4xipdffrml0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -2666,7 +2666,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Кальяри
 DTSTART:20260108T173000Z
 DTEND:20260108T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ejcqsnfujvrrjh1eu3qq8xb10@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -2680,7 +2680,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Дженоа
 DTSTART:20260108T194500Z
 DTEND:20260108T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ekk7jwulff7ebsdvjh2trdtlg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2694,7 +2694,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Пиза
 DTSTART:20260110T140000Z
 DTEND:20260110T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eq7ymzfykzsalkmmcgk0lpq8k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -2708,7 +2708,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Болонья
 DTSTART:20260110T140000Z
 DTEND:20260110T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-enesrmm9se7vwmx31gxh4sis4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2723,7 +2723,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Сассуоло
 DTSTART:20260110T170000Z
 DTEND:20260110T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eptf02fop6zlcshf1m1sd75sk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -2737,7 +2737,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Торино
 DTSTART:20260110T194500Z
 DTEND:20260110T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-en04mux4sa2tpto1gmkpy7wgk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -2751,7 +2751,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Парма
 DTSTART:20260111T113000Z
 DTEND:20260111T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-epet2s8f9nzgwui77ttese8es@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -2766,7 +2766,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Милан
 DTSTART:20260111T140000Z
 DTEND:20260111T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-entekp44qih1hes3mgxc4st1w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2781,7 +2781,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Лацио
 DTSTART:20260111T170000Z
 DTEND:20260111T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eqm50hc29ki4dx7pcyszgz66s@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -2796,7 +2796,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Наполи
 DTSTART:20260111T194500Z
 DTEND:20260111T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eom4wiyoq5er0g124axh5o4k4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2810,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Кальяри
 DTSTART:20260112T173000Z
 DTEND:20260112T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eo7rchwee8ucktswv023iaej8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -2825,7 +2825,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Кремонезе
 DTSTART:20260112T194500Z
 DTEND:20260112T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ep0g9l3db3avpnzfq7c5i11xw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -2839,7 +2839,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Парма
 DTSTART:20260114T173000Z
 DTEND:20260114T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e9n7n8yfsr12gjtx9g7mq426s@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -2854,7 +2854,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Лечче
 DTSTART:20260114T194500Z
 DTEND:20260114T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e8fftcbn38afvjdakkxpxme50@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2868,7 +2868,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Болонья
 DTSTART:20260115T173000Z
 DTEND:20260115T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eagc3y9t6oac8tqk8pl7bt89g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -2883,7 +2883,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Милан
 DTSTART:20260115T194500Z
 DTEND:20260115T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-e787yms68yqfq6to6wp7q8ydw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -2898,7 +2898,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Аталанта
 DTSTART:20260116T194500Z
 DTEND:20260116T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-etv0hejdoeonpz2kldst7um1g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -2913,7 +2913,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Интернационале
 DTSTART:20260117T140000Z
 DTEND:20260117T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-euobme2805323p6yr1kknnvh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -2927,7 +2927,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Сассуоло
 DTSTART:20260117T170000Z
 DTEND:20260117T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-et2geg4x7h15khe3ul40v845w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -2942,7 +2942,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS ФК «Ювентус»
 DTSTART:20260117T194500Z
 DTEND:20260117T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-erezqmpfgndqhtkxj1wczdst0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -2956,7 +2956,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Дженоа
 DTSTART:20260118T113000Z
 DTEND:20260118T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-etgr2t5n144nao4q1gjde7nro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -2970,7 +2970,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Фиорентина
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-er0low3fcoze3d3bycpssyn84@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -2984,7 +2984,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Рома
 DTSTART:20260118T170000Z
 DTEND:20260118T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eu9yf1tlc5l8eln0irxgz3sic@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -2999,7 +2999,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Лечче
 DTSTART:20260118T194500Z
 DTEND:20260118T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eso1gnu58c38mls1vab6jrswk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3013,7 +3013,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Хеллас Верона
 DTSTART:20260119T173000Z
 DTEND:20260119T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ervdtlo4o4pdk761rs21js6c4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -3027,7 +3027,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Комо
 DTSTART:20260119T194500Z
 DTEND:20260119T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-es9m1d8tdtthb69t2zer74ufo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3041,7 +3041,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Пиза
 DTSTART:20260123T194500Z
 DTEND:20260123T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ewod71xdhguxn8t3flreq7qxg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3055,7 +3055,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Торино
 DTSTART:20260124T140000Z
 DTEND:20260124T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-evgz6zohzg7rg9lnkyu5r0avo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3070,7 +3070,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Кальяри
 DTSTART:20260124T170000Z
 DTEND:20260124T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-evv8cmnssdlr3i857zu7k7578@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -3085,7 +3085,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Лацио
 DTSTART:20260124T194500Z
 DTEND:20260124T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-exiq2izmkvobez4syavdwmb6c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -3100,7 +3100,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Кремонезе
 DTSTART:20260125T113000Z
 DTEND:20260125T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eybhwt9xvz6mqs6opedh2txqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -3115,7 +3115,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Болонья
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ew9qgc4sgn8ttzyeoil66fxn8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -3130,7 +3130,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Парма
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ev2qqd49urkz78tpy89ik2yac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -3144,7 +3144,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Наполи
 DTSTART:20260125T170000Z
 DTEND:20260125T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ex4brgymhxbpo9dgkrgmof7ys@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -3158,7 +3158,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Милан
 DTSTART:20260125T194500Z
 DTEND:20260125T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-exx5llxazla0chuxb9brq4h78@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3172,7 +3172,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Удинезе
 DTSTART:20260126T194500Z
 DTEND:20260126T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eyps98kixrskfyv4gatv3xb84@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -3187,7 +3187,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Дженоа
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f0prwprw92hfgu5p39x4zji8k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3201,7 +3201,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Сассуоло
 DTSTART:20260131T140000Z
 DTEND:20260131T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f1xe9okjrzzi578py4d9ey9ec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -3216,7 +3216,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Фиорентина
 DTSTART:20260131T170000Z
 DTEND:20260131T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f146ajvfctngv7alhhtv7bv9w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -3231,7 +3231,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Хеллас Верона
 DTSTART:20260131T194500Z
 DTEND:20260131T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ezijfihwl2ggtddbl8w6v3f2s@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -3245,7 +3245,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Лечче
 DTSTART:20260201T113000Z
 DTEND:20260201T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f2diu7wmdh2kczfhftc1it8gk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -3260,7 +3260,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Аталанта
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ezwup2ixvxyoqk1dekva57f9w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3275,7 +3275,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Интернационале
 DTSTART:20260201T170000Z
 DTEND:20260201T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f0bbqrg3b3tex4m38iihdgyz8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -3289,7 +3289,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS ФК «Ювентус»
 DTSTART:20260201T194500Z
 DTEND:20260201T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f1ixg21n70uh4ry0pt8aay68k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -3303,7 +3303,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Рома
 DTSTART:20260202T194500Z
 DTEND:20260202T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f2rxcygl24xsn5cnvp0upq3o4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -3317,7 +3317,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Милан
 DTSTART:20260203T194500Z
 DTEND:20260203T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ez4c76g0he7o1bvd8iaitxjis@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -3331,7 +3331,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Пиза
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1649awjhwjabdhzre2rel4wk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -3346,7 +3346,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Наполи
 DTSTART:20260207T170000Z
 DTEND:20260207T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f4dpn9pt0dx67oue2aigxphjo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -3361,7 +3361,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Торино
 DTSTART:20260207T194500Z
 DTEND:20260207T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f3z7l1dghgflb3mwypyfv1tec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -3376,7 +3376,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Парма
 DTSTART:20260208T113000Z
 DTEND:20260208T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f3kr5n5cib5fjzh4wkyfc23h0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -3390,7 +3390,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Удинезе
 DTSTART:20260208T140000Z
 DTEND:20260208T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f56c1hbg188f69e7naokiszro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -3405,7 +3405,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Интернационале
 DTSTART:20260208T170000Z
 DTEND:20260208T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-rjr6px2dfdiphj8d90yub6c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -3420,7 +3420,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Лацио
 DTSTART:20260208T194500Z
 DTEND:20260208T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f4ryog8rqhu4s379tam0pv5ec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -3434,7 +3434,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Кремонезе
 DTSTART:20260209T173000Z
 DTEND:20260209T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f36etfb7jk4lomrlsmse80qhg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -3448,7 +3448,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Кальяри
 DTSTART:20260209T194500Z
 DTEND:20260209T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d7rozixb3dhmow4gpbhydjo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3462,7 +3462,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Милан
 DTSTART:20260213T194500Z
 DTEND:20260213T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-4e81wpsnuls0zkw4th3x3wus@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -3477,7 +3477,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Фиорентина
 DTSTART:20260214T140000Z
 DTEND:20260214T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-20kkmyjkdbijpxsku6v9ad5g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3492,7 +3492,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Аталанта
 DTSTART:20260214T170000Z
 DTEND:20260214T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-37dn875ajhz86yyro06httzo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3506,7 +3506,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS ФК «Ювентус»
 DTSTART:20260214T194500Z
 DTEND:20260214T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-2t3ss1xq1uvs0v6mqsbk8aac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3520,7 +3520,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Сассуоло
 DTSTART:20260215T113000Z
 DTEND:20260215T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-575yfou42m4rpnw9fiv8i9sk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -3534,7 +3534,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Хеллас Верона
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-3zvz7jtks1b36idc3qvcp9uc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -3548,7 +3548,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Дженоа
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-2esqb01tsyp51smieiu1bnro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -3562,7 +3562,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Болонья
 DTSTART:20260215T170000Z
 DTEND:20260215T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-4spec9ggp4vq333o0yd88u1g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -3577,7 +3577,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Рома
 DTSTART:20260215T194500Z
 DTEND:20260215T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-3lnkua64b5kypkhgjy6kkc2c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -3592,7 +3592,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Лечче
 DTSTART:20260216T194500Z
 DTEND:20260216T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1kjtznun3k2gkms1o5kwvmz8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -3606,7 +3606,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Комо
 DTSTART:20260218T194500Z
 DTEND:20260218T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f5krbayxqjwxxs92trk632vbo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3620,7 +3620,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Хеллас Верона
 DTSTART:20260220T194500Z
 DTEND:20260220T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-9bj4tm26yozynqtq2du8wlqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -3635,7 +3635,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Комо
 DTSTART:20260221T140000Z
 DTEND:20260221T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-7pq3nd78kt9kjugym6e9muqc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -3649,7 +3649,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Интернационале
 DTSTART:20260221T170000Z
 DTEND:20260221T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-84auhudhy69hhn88ssk3r578@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -3664,7 +3664,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Лацио
 DTSTART:20260221T194500Z
 DTEND:20260221T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-6el28kt4wix2t8iwoh4vkkyc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -3678,7 +3678,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Торино
 DTSTART:20260222T113000Z
 DTEND:20260222T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-7bf4wiumx7xdelasktgf1slw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -3693,7 +3693,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Наполи
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-5lm578z7pw97780blu941x5g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -3707,7 +3707,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Парма
 DTSTART:20260222T170000Z
 DTEND:20260222T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-8iokjh6fgt42m820ro58io0k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3721,7 +3721,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Кремонезе
 DTSTART:20260222T194500Z
 DTEND:20260222T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-8x5ck6g9yj1vd43br6onqf4k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3735,7 +3735,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Пиза
 DTSTART:20260223T173000Z
 DTEND:20260223T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-6t5gf31u786bqivt64dv3384@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -3750,7 +3750,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Удинезе
 DTSTART:20260223T194500Z
 DTEND:20260223T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-604wmu79nfq21kem6wlqpxxw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -3764,7 +3764,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Кальяри
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-bdvvpz48cp9w0lbkjdd56nmc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -3778,7 +3778,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Лечче
 DTSTART:20260228T140000Z
 DTEND:20260228T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-9q6fu735vnsucy5miabdk9hw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3793,7 +3793,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Наполи
 DTSTART:20260228T170000Z
 DTEND:20260228T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dyojuj300pwut6ul2xt4h0r8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -3808,7 +3808,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Дженоа
 DTSTART:20260228T194500Z
 DTEND:20260228T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-aq7zgsvmbroypvcgivmp4xzo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -3822,7 +3822,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Милан
 DTSTART:20260301T113000Z
 DTEND:20260301T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-a7tuveijvpz33j2ungbb5p90@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -3836,7 +3836,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Аталанта
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cph2hiwqroatsk49tp9lcmj8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -3851,7 +3851,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Лацио
 DTSTART:20260301T170000Z
 DTEND:20260301T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-d5pt6kna4c869xy8s7llm0pg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -3866,7 +3866,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS ФК «Ювентус»
 DTSTART:20260301T194500Z
 DTEND:20260301T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-cb0zsjthgo4ug5fke27lah3o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -3880,7 +3880,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Болонья
 DTSTART:20260302T173000Z
 DTEND:20260302T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-btdw5nixu80jqgu17y4qmgb8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -3895,7 +3895,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Фиорентина
 DTSTART:20260302T194500Z
 DTEND:20260302T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-dk2tu4rtvmi943hn0hy8mbys@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -3909,7 +3909,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Торино
 DTSTART:20260306T194500Z
 DTEND:20260306T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-i0vew24dsk4vfoxr3x0p8rh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -3924,7 +3924,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Комо
 DTSTART:20260307T140000Z
 DTEND:20260307T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-f6be7zpfzas42zfhqdpu50yc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -3938,7 +3938,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Удинезе
 DTSTART:20260307T170000Z
 DTEND:20260307T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ed49pchfdks5zf47lq26cf84@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -3952,7 +3952,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Пиза
 DTSTART:20260307T194500Z
 DTEND:20260307T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ge43njbo3ilpf10bpjw6uzo4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -3966,7 +3966,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Кремонезе
 DTSTART:20260308T113000Z
 DTEND:20260308T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-h79yjvlodruaaas0ro64o3ys@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -3981,7 +3981,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Хеллас Верона
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-eror5uhe7r0j5gqqxbxm17h0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -3995,7 +3995,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Парма
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-fky4snxtqfviavccrzrolp1w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4010,7 +4010,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Рома
 DTSTART:20260308T170000Z
 DTEND:20260308T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-fzjidmki8zw5129ek2cw16ac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4025,7 +4025,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Интернационале
 DTSTART:20260308T194500Z
 DTEND:20260308T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-hm36kj36q637eyd0gmsia13o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4039,7 +4039,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Сассуоло
 DTSTART:20260309T194500Z
 DTEND:20260309T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-gsljes6y6ccnrm2sfii6lwk4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -4053,7 +4053,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Парма
 DTSTART:20260313T194500Z
 DTEND:20260313T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-lbj87rsbmaa1b9d1oilvj8r8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -4068,7 +4068,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Аталанта
 DTSTART:20260314T140000Z
 DTEND:20260314T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-jab8t0vl8vtuwbriaub7ckk4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4082,7 +4082,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Лечче
 DTSTART:20260314T170000Z
 DTEND:20260314T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-k3kyemvff2sg6hsdast631uc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -4097,7 +4097,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS ФК «Ювентус»
 DTSTART:20260314T194500Z
 DTEND:20260314T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-lpyrpuu4kpapaccwxl7iwvmc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -4111,7 +4111,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Дженоа
 DTSTART:20260315T113000Z
 DTEND:20260315T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-m4iui9mige7it9uaa8vpjxn8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -4126,7 +4126,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Болонья
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-kwxxdta13j5h3qr7ema9f7ro@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -4141,7 +4141,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Кальяри
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ki794byd0j3awobhie3mj5sk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -4156,7 +4156,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Рома
 DTSTART:20260315T170000Z
 DTEND:20260315T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ihcqbxzrpvq7npb65zhnwa38@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4171,7 +4171,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Милан
 DTSTART:20260315T194500Z
 DTEND:20260315T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-joutig10ir544yicn3b9ifx0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -4185,7 +4185,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Фиорентина
 DTSTART:20260316T194500Z
 DTEND:20260316T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ivqibzmifihjekafqbmyo178@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -4199,7 +4199,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Наполи
 DTSTART:20260320T173000Z
 DTEND:20260320T193000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-nbzv28n95d9kvq955jt5kiz8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -4213,7 +4213,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Удинезе
 DTSTART:20260320T194500Z
 DTEND:20260320T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-olfseyjy3g2nhpgwq6xnbndg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4228,7 +4228,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Кремонезе
 DTSTART:20260321T140000Z
 DTEND:20260321T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-psm3jqhx8gi7qcbean0x1iqc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -4242,7 +4242,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Торино
 DTSTART:20260321T170000Z
 DTEND:20260321T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-pebva0i38kg7gdl9trqo7578@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4256,7 +4256,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Сассуоло
 DTSTART:20260321T194500Z
 DTEND:20260321T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-ozxd45mht6z40uyjye0kktg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -4270,7 +4270,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Пиза
 DTSTART:20260322T113000Z
 DTEND:20260322T133000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-nsj5praxu0adwtq1eyhttixg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4285,7 +4285,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Хеллас Верона
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-mj3bplbtymyn235up234w93o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -4299,7 +4299,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Лацио
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-mxk28qlh6zzkndih290geyhg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -4313,7 +4313,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Лечче
 DTSTART:20260322T170000Z
 DTEND:20260322T190000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-q6zdo1nm0rrkh9tn8s3l6vis@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -4327,7 +4327,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Интернационале
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-o6xjj7sgpd78ec9y4o77fztg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4342,7 +4342,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Кальяри
 DTSTART:20260404T130000Z
 DTEND:20260404T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-tfoo35e6mvmhfnryoh0dn85w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -4357,7 +4357,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Фиорентина
 DTSTART:20260404T160000Z
 DTEND:20260404T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-u8juednow76iraa56wjiulg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -4372,7 +4372,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Парма
 DTSTART:20260404T184500Z
 DTEND:20260404T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-rshw4ezhypjmwddcxoh9vkes@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -4386,7 +4386,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Болонья
 DTSTART:20260405T130000Z
 DTEND:20260405T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-qldc2yg8qvgpookafhb301ec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -4400,7 +4400,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Торино
 DTSTART:20260405T160000Z
 DTEND:20260405T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-t1gsmyfyaufvj6xgw933og0k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -4415,7 +4415,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Рома
 DTSTART:20260405T184500Z
 DTEND:20260405T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-qzr4j7v0ic3d0lnvgrdlx2xg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4429,7 +4429,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Комо
 DTSTART:20260406T103000Z
 DTEND:20260406T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-tu2s1rvt1erwoqqbk1haj09g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -4443,7 +4443,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Аталанта
 DTSTART:20260406T130000Z
 DTEND:20260406T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-s6w2fbl61fofgunqoxoib9ck@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -4458,7 +4458,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Дженоа
 DTSTART:20260406T160000Z
 DTEND:20260406T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-re64kdulxtne6yvaa7hs1vkk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium\
@@ -4472,7 +4472,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Милан
 DTSTART:20260406T184500Z
 DTEND:20260406T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-sl9epaqkp8y44fkzmqwubms4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -4487,7 +4487,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Пиза
 DTSTART:20260410T184500Z
 DTEND:20260410T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-xuk4c2tkbjldesp82onbo1sk@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico\
@@ -4501,7 +4501,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Хеллас Верона
 DTSTART:20260411T130000Z
 DTEND:20260411T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-yan66fvrvxp3dkkz3ju4055g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -4516,7 +4516,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Кремонезе
 DTSTART:20260411T130000Z
 DTEND:20260411T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-vg5aklozj6dgt6a67jemcopg@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus\nР
@@ -4530,7 +4530,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Удинезе
 DTSTART:20260411T160000Z
 DTEND:20260411T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-x1s0pb3nf2h47rtuymnpeo0k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4544,7 +4544,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS ФК «Ювентус»
 DTSTART:20260411T184500Z
 DTEND:20260411T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-un3t6z92xgcma369nqbgpous@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -4558,11 +4558,11 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Сассуоло
 DTSTART:20260412T103000Z
 DTEND:20260412T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-wna0y5ja9n6hce0ih97dk36c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
- Луиджи Феррарис\nРезультат: 1 - 0
+ Луиджи Феррарис\nРезультат: 1 - 1
 GEO:44.416467;8.952527
 LOCATION:Стадион Луиджи Феррарис
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Луидж
@@ -4573,7 +4573,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Наполи
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-xg55dqtttt1i6r7b92lzgrh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -4587,7 +4587,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Лечче
 DTSTART:20260412T160000Z
 DTEND:20260412T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-v1k9wzz1dta9n9imvaqjxf6c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -4601,7 +4601,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Интернационале
 DTSTART:20260412T184500Z
 DTEND:20260412T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-vuil7whjv5pva6quhgu5cv84@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4616,7 +4616,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Лацио
 DTSTART:20260413T184500Z
 DTEND:20260413T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-w8szsndsknydqz5fjj1k9ams@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4631,7 +4631,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Комо
 DTSTART:20260417T163000Z
 DTEND:20260417T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-11hvepm33ym92otcgxxrnj8r8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -4646,7 +4646,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Кальяри
 DTSTART:20260417T184500Z
 DTEND:20260417T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-z3g9n8q46abi2xsbgs2c5w5w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4660,7 +4660,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Парма
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-11wmdv9mupz47ouy3tovmpqtw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -4674,7 +4674,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Лацио
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-10amluuny91r89wcb128ft9uc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -4689,7 +4689,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Аталанта
 DTSTART:20260418T184500Z
 DTEND:20260418T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-113fxybh61eeylv7ncz3bf3f8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico
@@ -4702,7 +4702,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Торино
 DTSTART:20260419T103000Z
 DTEND:20260419T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-yowks8zh3p4jxlbuoxyhr0us@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -4716,7 +4716,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Милан
 DTSTART:20260419T130000Z
 DTEND:20260419T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-12az7leboubsglgo0ryhrxr10@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -4731,7 +4731,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Дженоа
 DTSTART:20260419T160000Z
 DTEND:20260419T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-10p02pjryye8cajuop2sdy42c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -4746,7 +4746,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Болонья
 DTSTART:20260419T184500Z
 DTEND:20260419T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-zhukpwrs0g1sobh6idueivis@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium
@@ -4759,7 +4759,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Фиорентина
 DTSTART:20260420T184500Z
 DTEND:20260420T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-zw98chsznt1xdy1cdq20gbh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -4774,7 +4774,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Кремонезе
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1576pjjsr7mcnv5p5fnbs8bv8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -4789,7 +4789,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Пиза
 DTSTART:20260425T130000Z
 DTEND:20260425T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-15loq6a72majvehyhin9g5mok@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -4803,7 +4803,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Рома
 DTSTART:20260425T160000Z
 DTEND:20260425T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-12qz70wi0b0coly48zdhls93o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -4817,7 +4817,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Лечче
 DTSTART:20260425T184500Z
 DTEND:20260425T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-16ecwq7zy70pn3zjoss91lyc4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -4832,7 +4832,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Сассуоло
 DTSTART:20260426T103000Z
 DTEND:20260426T123000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-13lq9qzrpfyj6nkj8zxocwd1w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4847,7 +4847,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Комо
 DTSTART:20260426T130000Z
 DTEND:20260426T150000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1401o1xiw8hijcz6w9zzcpst0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -4862,7 +4862,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Интернационале
 DTSTART:20260426T160000Z
 DTEND:20260426T180000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1602c2k3bat8a8wisw032q49g@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -4877,7 +4877,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS ФК «Ювентус»
 DTSTART:20260426T184500Z
 DTEND:20260426T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-14sp91ug5y0pjvkyl5mf5pu6s@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4891,7 +4891,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Аталанта
 DTSTART:20260427T163000Z
 DTEND:20260427T183000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-135q4hqvn4i7d60rouldzex3o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus
@@ -4904,7 +4904,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Удинезе
 DTSTART:20260427T184500Z
 DTEND:20260427T204500Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-14eagebob7amo7toz34ypin10@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico
@@ -4917,7 +4917,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Милан
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1a1bt0aqwizlaznra1gs2lj4k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -4932,7 +4932,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Парма
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-18ecm157hjfw0toe8zwky15w4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -4946,7 +4946,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Хеллас Верона
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-18uf8n5c2u2c1o0hfpn5y4x04@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium
@@ -4959,7 +4959,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Кальяри
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1774je45x71hlqa2zwnp1ng2c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -4973,7 +4973,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Лацио
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1800klupn4itbmreau5ofcutw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -4987,7 +4987,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Наполи
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-17lmrepgi92vherqakompkb2s@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -5002,7 +5002,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Дженоа
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-16st24hrdt03jyqyb22uejuac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -5016,7 +5016,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Торино
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1afjrc6t4039d6osjpah32z9w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -5030,7 +5030,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Лечче
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-198o7cwvp34fdlmlraotjlez8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -5045,7 +5045,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Фиорентина
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-19n09ee8bgr7vwqakb773y0ic@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico
@@ -5058,7 +5058,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Рома
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1dn74pjxuw8h50tg2lnkyjifo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -5072,7 +5072,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Комо
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1ehnaa7pz2vqgs4vcak5c7eok@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
@@ -5087,7 +5087,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Болонья
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1d8em3ehs8e7rfo1sbevmsqac@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -5102,7 +5102,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS Сассуоло
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1e38gvt3r86ce8b1azvpp4pas@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -5117,7 +5117,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Аталанта
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1cu0p0po6qkpjqcrrver9bi8k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -5131,7 +5131,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Интернационале
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1c16z8sfcig3obhqc1enrs00k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico
@@ -5144,7 +5144,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS ФК «Ювентус»
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1cfmwpcxj2zdssuzx1mj5nn6c@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -5159,7 +5159,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Дженоа
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1bmsofq1dxf9nwf8rkq89vevo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -5174,7 +5174,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Пиза
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1b8kjyzu1m6z3o8jqjli6wvmc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -5188,7 +5188,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Удинезе
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1au7hbbfgz3457h9k1bv5gmc4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus
@@ -5201,7 +5201,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Хеллас Верона
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1gidovq7hm5k779uzn0g4k104@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -5215,7 +5215,7 @@ BEGIN:VEVENT
 SUMMARY:Удинезе VS Кремонезе
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1iknaggv0yd9l6khq8maxk00k@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Bluenergy Stadiu
@@ -5229,7 +5229,7 @@ BEGIN:VEVENT
 SUMMARY:Кальяри VS Торино
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1fainz3780yrnmdbbjyc7cdg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Unipol Domus
@@ -5242,7 +5242,7 @@ BEGIN:VEVENT
 SUMMARY:Дженоа VS Милан
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1g3sxndqzrlhnkcx66644w1zo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -5257,7 +5257,7 @@ BEGIN:VEVENT
 SUMMARY:Комо VS Парма
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1fp64xokh0rihbfxsn2xgq9ec@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -5272,7 +5272,7 @@ BEGIN:VEVENT
 SUMMARY:Пиза VS Наполи
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1hbn9i3wwdt46jmrp4cfhggt0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Arena Garibaldi 
@@ -5287,7 +5287,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Фиорентина
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1gwzn2kpi7f4sxwrm770fphxw@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Allianz Stadium
@@ -5300,7 +5300,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Болонья
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1ew0e91oy598rmadcd763ps7o@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: New Balance Aren
@@ -5314,7 +5314,7 @@ BEGIN:VEVENT
 SUMMARY:Сассуоло VS Лечче
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1i4vbddsnmqmht6b1kxeqadqs@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: MAPEI Stadium - 
@@ -5329,7 +5329,7 @@ BEGIN:VEVENT
 SUMMARY:Рома VS Лацио
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1hq8rf1klj6a0yqv8dycurvh0@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico
@@ -5342,7 +5342,7 @@ BEGIN:VEVENT
 SUMMARY:Лацио VS Пиза
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1kano1peqbw5ho0zlex7mdw5w@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico
@@ -5355,7 +5355,7 @@ BEGIN:VEVENT
 SUMMARY:Милан VS Кальяри
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1l5y0lgdhuhigyrh0e4lb0x04@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giuseppe 
@@ -5369,7 +5369,7 @@ BEGIN:VEVENT
 SUMMARY:Фиорентина VS Аталанта
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1jw6q6ep14zm0xwub580jbcb8@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Стадион 
@@ -5384,7 +5384,7 @@ BEGIN:VEVENT
 SUMMARY:Кремонезе VS Комо
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1jfycik4pgddfaj8rnpqp1iqc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Giovanni 
@@ -5398,7 +5398,7 @@ BEGIN:VEVENT
 SUMMARY:Торино VS ФК «Ювентус»
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1mirtl64axmc9us45pzzojevo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Olimpico 
@@ -5413,7 +5413,7 @@ BEGIN:VEVENT
 SUMMARY:Парма VS Сассуоло
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1m0tb8uc3apsaakqsjlz6stg4@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ennio Tar
@@ -5427,7 +5427,7 @@ BEGIN:VEVENT
 SUMMARY:Болонья VS Интернационале
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1iz38m02tzgh8x5a9yg2ztgyc@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Renato Da
@@ -5441,7 +5441,7 @@ BEGIN:VEVENT
 SUMMARY:Лечче VS Дженоа
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1kphzdmxua4z9u5fpl8ajx8us@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Ettore Gi
@@ -5456,7 +5456,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Удинезе
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1lknqdz9vmb3hnqu144zkkefo@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Diego Arm
@@ -5471,7 +5471,7 @@ BEGIN:VEVENT
 SUMMARY:Хеллас Верона VS Рома
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260412T111059Z
+DTSTAMP:20260412T120223Z
 UID:fifa-1mxc5q2bama20rol537kb8844@fifa.com
 DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
  й период соревнований\nСтадион: Stadio Marcanton
