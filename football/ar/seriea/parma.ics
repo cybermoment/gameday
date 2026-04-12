@@ -1,0 +1,580 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإيطالي - سيري آ - بار
+ ما //
+X-WR-CALNAME:الدوري الإيطالي - سيري آ - بارما
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS بارما
+DTSTART:20250824T184500Z
+DTEND:20250824T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ck0djtpx1mzn7xyncs3eifv9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 2 - 0
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS أتالانتا
+DTSTART:20250830T163000Z
+DTEND:20250830T183000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cp4xpnjmoxua4xp2os0o54kk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 1 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كالياري VS بارما
+DTSTART:20250913T130000Z
+DTEND:20250913T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cqrnaavxgeypn5c4h3nvbayvo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
+ لنتيجة: 2 - 0
+GEO:39.199802;9.137473
+LOCATION:سردينيا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سردينيا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="سردينيا أرينا":geo:39.199802,9.13
+ 7473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريمونيزي VS بارما
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cuoyvh94watus9uvz0po9sc9g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
+ ني\nالنتيجة: 0 - 0
+GEO:45.140164;10.034831
+LOCATION:ملعب جيوفاني زيني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جيوفاني 
+ زيني";X-APPLE-RADIUS=70;X-TITLE="ملعب جيوفاني زيني":geo
+ :45.140164,10.034831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS تورينو
+DTSTART:20250929T163000Z
+DTEND:20250929T183000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d0p9a2knjp3jb4mdfk6zz2rdg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 2 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS ليتشي
+DTSTART:20251004T130000Z
+DTEND:20251004T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d54tgboprbgicv3i71jygpz4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جنوى VS بارما
+DTSTART:20251019T130000Z
+DTEND:20251019T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d7yrxii7ad8bixosyqiukk5qs@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميونالي
+  لويجي فيراريس، جينوفا\nالنتيجة: 0 - 0
+GEO:44.416467;8.952527
+LOCATION:استاد كوميونالي لويجي فيراريس، جين
+ وفا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميونا
+ لي لويجي فيراريس، جينوفا";X-APPLE-RADIUS=70;X-TITLE="
+ استاد كوميونالي لويجي فيراريس، جينوفا":ge
+ o:44.416467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS كومو
+DTSTART:20251025T130000Z
+DTEND:20251025T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dcexpeqv5l6k0hh0dq6prdwr8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 0
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS بارما
+DTSTART:20251029T173000Z
+DTEND:20251029T193000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-di2cpubntuatd5o4uesn6b9ck@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 2 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS بولونيا
+DTSTART:20251102T170000Z
+DTEND:20251102T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dkg96ikwaxincjz0osgjhgqac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 1 - 3
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS نادي ميلان
+DTSTART:20251108T194500Z
+DTEND:20251108T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dpamiled595lvr7mgypx0j28k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 2 - 2
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هيلاس VS بارما
+DTSTART:20251123T113000Z
+DTEND:20251123T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-du5o1hifd5wf9cgqx1k5qj9qs@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مارك أنطو
+ نيو بنتيغودي\nالنتيجة: 1 - 2
+GEO:45.435324;10.968585
+LOCATION:استاد مارك أنطونيو بنتيغودي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مارك أن
+ طونيو بنتيغودي";X-APPLE-RADIUS=70;X-TITLE="استاد مار
+ ك أنطونيو بنتيغودي":geo:45.435324,10.968585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS أودينيزي
+DTSTART:20251129T140000Z
+DTEND:20251129T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dxf1sr570o15ypiab9xekb47o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 2
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيزا VS بارما
+DTSTART:20251208T140000Z
+DTEND:20251208T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e0nmvoyc7233dc8207kp6702c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
+  - ملعب روميو أنكونيتاني\nالنتيجة: 0 - 1
+GEO:43.725293;10.40019
+LOCATION:أرينا غاريبالدي - ملعب روميو أنكوني
+ تاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أرينا غاريبال
+ دي - ملعب روميو أنكونيتاني";X-APPLE-RADIUS=70;X-TITLE
+ ="أرينا غاريبالدي - ملعب روميو أنكونيتاني
+ ":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS لاتسيو
+DTSTART:20251213T170000Z
+DTEND:20251213T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e54xho1vjc5wpg0ck8yumyjo4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS فيورنتينا
+DTSTART:20251227T113000Z
+DTEND:20251227T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ecwjc630j0uezvzvfou83faj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 1 - 0
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ساسوولو VS بارما
+DTSTART:20260103T140000Z
+DTEND:20260103T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ei5v3fz0l6xr7nh933s8db76c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
+ ريكولوري\nالنتيجة: 1 - 1
+GEO:44.714637;10.649711
+LOCATION:استاد ديل سيتا تريكولوري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ديل سيت
+ ا تريكولوري";X-APPLE-RADIUS=70;X-TITLE="استاد ديل سيت
+ ا تريكولوري":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS إنتر ميلان
+DTSTART:20260107T194500Z
+DTEND:20260107T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eld4erfmnbst0a3xa3q9lwwlw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 2
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليتشي VS بارما
+DTSTART:20260111T113000Z
+DTEND:20260111T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-epet2s8f9nzgwui77ttese8es@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
+ ل مير\nالنتيجة: 1 - 2
+GEO:40.365103;18.208852
+LOCATION:استاد مجمع فيا دل مير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مجمع في
+ ا دل مير";X-APPLE-RADIUS=70;X-TITLE="استاد مجمع فيا دل
+  مير":geo:40.365103,18.208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS بارما
+DTSTART:20260114T173000Z
+DTEND:20260114T193000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e9n7n8yfsr12gjtx9g7mq426s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان باولو\
+ nالنتيجة: 0 - 0
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS جنوى
+DTSTART:20260118T113000Z
+DTEND:20260118T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-etgr2t5n144nao4q1gjde7nro@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 0
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS بارما
+DTSTART:20260125T140000Z
+DTEND:20260125T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ev2qqd49urkz78tpy89ik2yac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 4 - 0
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS نادي يوفنتوس
+DTSTART:20260201T194500Z
+DTEND:20260201T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-f1ixg21n70uh4ry0pt8aay68k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 1 - 4
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS بارما
+DTSTART:20260208T113000Z
+DTEND:20260208T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-f3kr5n5cib5fjzh4wkyfc23h0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 1
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS هيلاس
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-3zvz7jtks1b36idc3qvcp9uc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 2 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي ميلان VS بارما
+DTSTART:20260222T170000Z
+DTEND:20260222T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-8iokjh6fgt42m820ro58io0k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 0 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS كالياري
+DTSTART:20260227T194500Z
+DTEND:20260227T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-bdvvpz48cp9w0lbkjdd56nmc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 1 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيورنتينا VS بارما
+DTSTART:20260308T140000Z
+DTEND:20260308T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-fky4snxtqfviavccrzrolp1w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
+ رانكي، فيرنزي\nالنتيجة: 0 - 0
+GEO:43.780788;11.282712
+LOCATION:استاد أرتيميو فرانكي، فيرنزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أرتيميو
+  فرانكي، فيرنزي";X-APPLE-RADIUS=70;X-TITLE="استاد أرت
+ يميو فرانكي، فيرنزي":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS بارما
+DTSTART:20260313T194500Z
+DTEND:20260313T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-lbj87rsbmaa1b9d1oilvj8r8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 4 - 1
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS كريمونيزي
+DTSTART:20260321T140000Z
+DTEND:20260321T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-psm3jqhx8gi7qcbean0x1iqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 2
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لاتسيو VS بارما
+DTSTART:20260404T184500Z
+DTEND:20260404T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-rshw4ezhypjmwddcxoh9vkes@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS نابولي
+DTSTART:20260412T130000Z
+DTEND:20260412T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-xg55dqtttt1i6r7b92lzgrh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أودينيزي VS بارما
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-11wmdv9mupz47ouy3tovmpqtw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد فريولي
+GEO:46.081644;13.200063
+LOCATION:استاد فريولي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فريولي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فريولي":geo:46.081644,13.20006
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS بيزا
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-15loq6a72majvehyhin9g5mok@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بارما
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-18ecm157hjfw0toe8zwky15w4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS روما
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1dn74pjxuw8h50tg2lnkyjifo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كومو VS بارما
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1fp64xokh0rihbfxsn2xgq9ec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
+ يجاليا
+GEO:45.813857;9.072376
+LOCATION:ملعب جوزيبي سينيجاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جوزيبي س
+ ينيجاليا";X-APPLE-RADIUS=70;X-TITLE="ملعب جوزيبي سين
+ يجاليا":geo:45.813857,9.072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS ساسوولو
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1m0tb8uc3apsaakqsjlz6stg4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+END:VCALENDAR

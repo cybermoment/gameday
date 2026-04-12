@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// LaLiga - FC Barcelona //
+X-WR-CALNAME:LaLiga - FC Barcelona
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Mallorca VS FC Barcelona
+DTSTART:20250816T173000Z
+DTEND:20250816T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 0 - 3
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Levante VS FC Barcelona
+DTSTART:20250823T193000Z
+DTEND:20250823T213000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-5pp18hcr9ery2hv17q7q6eqc@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Ciudad de Valencia\nResultado: 2 - 3
+GEO:39.494686;-0.36382
+LOCATION:Estadio Ciudad de Valencia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Valenci
+ a";X-APPLE-RADIUS=70;X-TITLE="Estadio Ciudad de Valencia":geo:39.494686,-0
+ .36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS FC Barcelona
+DTSTART:20250831T193000Z
+DTEND:20250831T213000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-a4rapcrtfjbf1vihoi65rm6s@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de Vallecas\nResultado: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Valencia
+DTSTART:20250914T190000Z
+DTEND:20250914T210000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-b88u5e429cnb6ng0i5t4f9jo@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Johan Cruyff\nResultado: 6 - 0
+GEO:41.37422;2.050604
+LOCATION:Estadi Johan Cruyff
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Johan Cruyff";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadi Johan Cruyff":geo:41.37422,2.050604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Getafe
+DTSTART:20250921T190000Z
+DTEND:20250921T210000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-ekk0usjk6blgzpziu4ho01zo@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Johan Cruyff\nResultado: 3 - 0
+GEO:41.37422;2.050604
+LOCATION:Estadi Johan Cruyff
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Johan Cruyff";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadi Johan Cruyff":geo:41.37422,2.050604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Oviedo VS FC Barcelona
+DTSTART:20250925T193000Z
+DTEND:20250925T213000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-kkl8x55qltpl4g1v5260df6c@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Municipal Carlos Tartiere\nResultado: 1 - 3
+GEO:43.360762;-5.870261
+LOCATION:Estadio Municipal Carlos Tartiere
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal Carlos 
+ Tartiere";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal Carlos Tartiere":ge
+ o:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Real Sociedad
+DTSTART:20250928T163000Z
+DTEND:20250928T183000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-mh9g8wbjyoe3ub3ouu0nnsb8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Olímpic Lluís Companys\nResultado: 2 - 1
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sevilla VS FC Barcelona
+DTSTART:20251005T141500Z
+DTEND:20251005T161500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-rbyhgw1kyp0ghg2qpvznvvv8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Ramón Sánchez Pizjuán\nResultado: 4 - 1
+GEO:37.384046;-5.970592
+LOCATION:Estadio Ramón Sánchez Pizjuán
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez P
+ izjuán";X-APPLE-RADIUS=70;X-TITLE="Estadio Ramón Sánchez Pizjuán":geo:
+ 37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Girona
+DTSTART:20251018T141500Z
+DTEND:20251018T161500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-txn45zihl3cp2bv3lj5rmot0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Olímpic Lluís Companys\nResultado: 2 - 1
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS FC Barcelona
+DTSTART:20251026T151500Z
+DTEND:20251026T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-ytxz0i1eppxxqupm27ktuln8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Bernabéu\nResultado: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Elche
+DTSTART:20251102T173000Z
+DTEND:20251102T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-113wccwt50kebz0thqf0fxkpg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Olímpic Lluís Companys\nResultado: 3 - 1
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celta de Vigo VS FC Barcelona
+DTSTART:20251109T200000Z
+DTEND:20251109T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-16t0fdut4ky4b4es7i0trovtg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Abanca-Balaídos\nResultado: 2 - 4
+GEO:42.211852;-8.739721
+LOCATION:Estadio Abanca-Balaídos
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Abanca-Balaídos"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadio Abanca-Balaídos":geo:42.211852,-8.739
+ 721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Athletic Club
+DTSTART:20251122T151500Z
+DTEND:20251122T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1a7radhhole7vfnciarzauq6s@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 4 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Deportivo Alavés
+DTSTART:20251129T151500Z
+DTEND:20251129T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1dk2hnl09qux7z4fqn1qxq238@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 3 - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Atlético de Madrid
+DTSTART:20251202T200000Z
+DTEND:20251202T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1v9qqviahmnia4ewmzd4aejv8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 3 - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis VS FC Barcelona
+DTSTART:20251206T173000Z
+DTEND:20251206T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1gkqfp2d7qi9h6k34k3mo8zkk@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o La Cartuja de Sevilla\nResultado: 3 - 5
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Osasuna
+DTSTART:20251213T173000Z
+DTEND:20251213T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1myp00g7w796yt6ts8ojdkys4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 2 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS FC Barcelona
+DTSTART:20251221T151500Z
+DTEND:20251221T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1oi5jmg0ldrmljyz46todfbpw@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de la Cerámica\nResultado: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espanyol VS FC Barcelona
+DTSTART:20260103T200000Z
+DTEND:20260103T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1rvgcgz2ftmamcay54gz2qtjo@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: RCDE S
+ tadium\nResultado: 0 - 2
+GEO:41.34786;2.075622
+LOCATION:RCDE Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RCDE Stadium";X-APPLE-RAD
+ IUS=70;X-TITLE="RCDE Stadium":geo:41.34786,2.075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad VS FC Barcelona
+DTSTART:20260118T200000Z
+DTEND:20260118T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-20boml0nnzxlvqvyy0ylfxdlg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Municipal de Anoeta\nResultado: 2 - 1
+GEO:43.301376;-1.973602
+LOCATION:Estadio Municipal de Anoeta
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal de Anoe
+ ta";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal de Anoeta":geo:43.301376,
+ -1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Real Oviedo
+DTSTART:20260125T151500Z
+DTEND:20260125T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-257ci0bd6g6l3uk1fn5a0ob2s@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 3 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elche VS FC Barcelona
+DTSTART:20260131T200000Z
+DTEND:20260131T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-26p4gv6nxij3gqaoea17rxct0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Manuel Martínez Valero\nResultado: 1 - 3
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Mallorca
+DTSTART:20260207T151500Z
+DTEND:20260207T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 3 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girona VS FC Barcelona
+DTSTART:20260216T200000Z
+DTEND:20260216T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2elfffvt87h2apmhh2c0et3pw@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Municipal de Montilivi\nResultado: 2 - 1
+GEO:41.961195;2.828495
+LOCATION:Estadi Municipal de Montilivi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Municipal de Monti
+ livi";X-APPLE-RADIUS=70;X-TITLE="Estadi Municipal de Montilivi":geo:41.961
+ 195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Levante
+DTSTART:20260222T151500Z
+DTEND:20260222T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2k9uw8chd5ol6b9rrw5ftnc44@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 3 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Villarreal
+DTSTART:20260228T151500Z
+DTEND:20260228T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2mxi4zs0db40fjabi1d36b9ck@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 4 - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club VS FC Barcelona
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2q9tc31q3pa181h1jnjxvfqc4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de San Mamés\nResultado: 0 - 1
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Sevilla
+DTSTART:20260315T151500Z
+DTEND:20260315T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2v65xqf9xnj8r2gxj9akbtqfo@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 5 - 2
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Rayo Vallecano
+DTSTART:20260322T130000Z
+DTEND:20260322T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2y7mqtoumr3710vgfit7046j8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 1 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS FC Barcelona
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-31zxsexwgw81km23uib95otuc@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Riyadh
+  Air Metropolitano\nResultado: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Espanyol
+DTSTART:20260411T163000Z
+DTEND:20260411T183000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-35cufmoxi0kf40kxn49gj71g4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 4 - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Celta de Vigo
+DTSTART:20260422T193000Z
+DTEND:20260422T213000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3cmwlyivmqd5wesvf6o13mtjo@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS FC Barcelona
+DTSTART:20260425T141500Z
+DTEND:20260425T161500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3apuzcf26kfvpej8uc98l2n10@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Coliseum
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osasuna VS FC Barcelona
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3j0vwkubszbtkr21f7upb4il0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o El Sadar
+GEO:42.796677;-1.637141
+LOCATION:Estadio El Sadar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Sadar";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio El Sadar":geo:42.796677,-1.637141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Real Madrid C.F.
+DTSTART:20260510T190000Z
+DTEND:20260510T210000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3kigmlbqhunbi6gixcr7cz6z8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Alavés VS FC Barcelona
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3n65mnr76iym0yv9wmk1ug6c4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de Mendizorroza
+GEO:42.837076;-2.688247
+LOCATION:Estadio de Mendizorroza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mendizorroza";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de Mendizorroza":geo:42.837076,-2.68824
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Real Betis
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3rpa9gg887sphjnou8h1uv6s4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia VS FC Barcelona
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3xq4alyjtlltd6j11gckoxvkk@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de Mestalla
+GEO:39.474602;-0.358257
+LOCATION:Estadio de Mestalla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mestalla";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Mestalla":geo:39.474602,-0.358257
+END:VEVENT
+END:VCALENDAR

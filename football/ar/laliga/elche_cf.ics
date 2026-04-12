@@ -1,0 +1,575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - إل
+ تشي //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - إلتشي
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال بيتيس
+DTSTART:20250818T190000Z
+DTEND:20250818T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2t5f41usmgztitxkybrycidw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS إلتشي
+DTSTART:20250823T173000Z
+DTEND:20250823T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-49e80e647ljijc5bz8tqc2l0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ليفانتي
+DTSTART:20250829T173000Z
+DTEND:20250829T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-8auqwdd7rhk8k4erd29m5c0k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS إلتشي
+DTSTART:20250912T190000Z
+DTEND:20250912T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-du8jha9qxukb7ki17m3y3aj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 2 - 2
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال أوفيدو
+DTSTART:20250921T163000Z
+DTEND:20250921T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-faxb5rfdawpnwaoof1j1o3ro@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS إلتشي
+DTSTART:20250925T173000Z
+DTEND:20250925T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-lcqefumn96v640d0yzsv7xuc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار\nال
+ نتيجة: 1 - 1
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS سيلتا فيغو
+DTSTART:20250928T141500Z
+DTEND:20250928T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-opadvx9ieaoaai2n08r4sqok@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS إلتشي
+DTSTART:20251005T120000Z
+DTEND:20251005T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-pftv5ujrolgrr85ijlnj728k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا\nالنتيجة: 3 - 1
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS أتليتيكو بلباو
+DTSTART:20251019T120000Z
+DTEND:20251019T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-vgz6kc0y9dz9ecnnqulzb578@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 0 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS إلتشي
+DTSTART:20251025T141500Z
+DTEND:20251025T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-zkqu9lm76sa6ypjcluvnr578@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 1 - 0
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS إلتشي
+DTSTART:20251102T173000Z
+DTEND:20251102T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-113wccwt50kebz0thqf0fxkpg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 3 - 1
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال سوسيداد
+DTSTART:20251107T200000Z
+DTEND:20251107T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-15au35re7u5b9ru4hoko7f3f8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال مدريد
+DTSTART:20251123T200000Z
+DTEND:20251123T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-18ojlro5jtdeu8nv72repur6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 2
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS إلتشي
+DTSTART:20251128T200000Z
+DTEND:20251128T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1eq00zu9dngz36evkyw20uw44@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 1 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS جيرونا
+DTSTART:20251207T130000Z
+DTEND:20251207T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1fu4ltpxdb9j94v6s2kbx1puc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 3 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS إلتشي
+DTSTART:20251213T151500Z
+DTEND:20251213T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 3 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS رايو فاييكانو
+DTSTART:20251221T173000Z
+DTEND:20251221T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1qdreckuiubqc7yotymp8jggk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 4 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS فياريال
+DTSTART:20260103T173000Z
+DTEND:20260103T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1uit2aujexe8xc2izg1a2uyvo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 3
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS إلتشي
+DTSTART:20260110T200000Z
+DTEND:20260110T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1wdy4ggbun88lgjv5mhlw53pw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا\
+ nالنتيجة: 1 - 1
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS إشبيلية
+DTSTART:20260119T200000Z
+DTEND:20260119T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-21t9p2uvl57vfs1xsytfooxzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 2
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS إلتشي
+DTSTART:20260123T200000Z
+DTEND:20260123T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-22jwwfu5djp7vwtjkvcujieqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا\nالنتيجة: 3 - 2
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS برشلونة
+DTSTART:20260131T200000Z
+DTEND:20260131T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-26p4gv6nxij3gqaoea17rxct0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 3
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS إلتشي
+DTSTART:20260207T200000Z
+DTEND:20260207T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2agwdhyd4f3pb3wugya4art3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو\nالنتيجة: 3 - 1
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS أوساسونا
+DTSTART:20260213T200000Z
+DTEND:20260213T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2fpgp04qfqn3zanmznei2zmdw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 0 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS إلتشي
+DTSTART:20260220T200000Z
+DTEND:20260220T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2jiyipev8f7wvnf4rp16n8n4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه\
+ nالنتيجة: 2 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS إسبانيول
+DTSTART:20260301T130000Z
+DTEND:20260301T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2no6er6enaks2abnft8fknndg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 2
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS إلتشي
+DTSTART:20260308T130000Z
+DTEND:20260308T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2sjqtzqw7toxdc5xpqu843vh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 1
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS إلتشي
+DTSTART:20260314T200000Z
+DTEND:20260314T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2sx9kf2syjyyqwaxz74i46n10@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 4 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال مايوركا
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS إلتشي
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-30u02n6fw3bxc2lk51wv1cowk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
+ يجة: 1 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS فالنسيا
+DTSTART:20260411T141500Z
+DTEND:20260411T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-363nbiu36arb8us8vuxlizqc4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 0
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS أتلتيكو مدريد
+DTSTART:20260422T170000Z
+DTEND:20260422T190000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3ehzlcos9xo56ol70wttwmu50@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS إلتشي
+DTSTART:20260426T141500Z
+DTEND:20260426T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3bihehy0y8mtxizg74rkkuh3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS إلتشي
+DTSTART:20260503T120000Z
+DTEND:20260503T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3h5n4m7klbnl9dx9yx9w5zk7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ديبورتيفو ألافيس
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3logguenlwy065aa7gb1hf3tg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS إلتشي
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3njoj8cm40koxt8u94a1h3yfo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS خيتافي
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3s2q5sph3bm3auk1b8odb493o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS إلتشي
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3y3gz2ufpcbu5vkgph7jyg74k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+END:VCALENDAR

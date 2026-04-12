@@ -1,0 +1,108 @@
+{
+  "competition_name": "الدوري الإسباني - لا ليجا",
+  "competition_id": "2000000037",
+  "season_id": "80zg2v1cuqcfhphn56u4qpyqc",
+  "lang": "ar",
+  "teams": [
+    {
+      "id": "2000019642",
+      "name": "جيرونا",
+      "filename": "girona_fc"
+    },
+    {
+      "id": "2000006891",
+      "name": "رايو فاييكانو",
+      "filename": "rayo_vallecano"
+    },
+    {
+      "id": "1882482",
+      "name": "فياريال",
+      "filename": "villarreal"
+    },
+    {
+      "id": "clo928vcczjp0mczavs5o7p5k",
+      "name": "ريال أوفيدو",
+      "filename": "real_oviedo"
+    },
+    {
+      "id": "400074602",
+      "name": "ريال مايوركا",
+      "filename": "rcd_mallorca"
+    },
+    {
+      "id": "1903416",
+      "name": "برشلونة",
+      "filename": "barcelona"
+    },
+    {
+      "id": "356",
+      "name": "ديبورتيفو ألافيس",
+      "filename": "deportivo_alav_s"
+    },
+    {
+      "id": "1883309",
+      "name": "ليفانتي",
+      "filename": "levante_ud"
+    },
+    {
+      "id": "32840",
+      "name": "فالنسيا",
+      "filename": "valencia_cf"
+    },
+    {
+      "id": "31069",
+      "name": "ريال سوسيداد",
+      "filename": "real_sociedad"
+    },
+    {
+      "id": "2000006874",
+      "name": "سيلتا فيغو",
+      "filename": "rc_celta"
+    },
+    {
+      "id": "1884966",
+      "name": "خيتافي",
+      "filename": "getafe_cf"
+    },
+    {
+      "id": "31071",
+      "name": "أتليتيكو بلباو",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "358",
+      "name": "إشبيلية",
+      "filename": "sevilla"
+    },
+    {
+      "id": "44229",
+      "name": "إسبانيول",
+      "filename": "rcd_espanyol"
+    },
+    {
+      "id": "1914808",
+      "name": "أتلتيكو مدريد",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "400139932",
+      "name": "إلتشي",
+      "filename": "elche_cf"
+    },
+    {
+      "id": "32838",
+      "name": "ريال بيتيس",
+      "filename": "real_betis"
+    },
+    {
+      "id": "30504",
+      "name": "ريال مدريد",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "400074600",
+      "name": "أوساسونا",
+      "filename": "ca_osasuna"
+    }
+  ]
+}

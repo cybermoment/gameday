@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإيطالي - سيري آ - إنت
+ ر ميلان //
+X-WR-CALNAME:الدوري الإيطالي - سيري آ - إنتر ميل
+ ان
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS تورينو
+DTSTART:20250825T184500Z
+DTEND:20250825T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cjir7ivrn1ol4vwld9wfrfcwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 5 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS أودينيزي
+DTSTART:20250831T184500Z
+DTEND:20250831T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cnk8qz4vy7manfhepmw2luln8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS إنتر ميلان
+DTSTART:20250913T160000Z
+DTEND:20250913T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-crxnwayoksm2qllunbop37w9g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 4 - 3
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS ساسوولو
+DTSTART:20250921T184500Z
+DTEND:20250921T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cvinn2fcsyfjax1uwdda87eok@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 2 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كالياري VS إنتر ميلان
+DTSTART:20250927T184500Z
+DTEND:20250927T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cy9s1cccxhtx6nkhlj4u1te6s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
+ لنتيجة: 0 - 2
+GEO:39.199802;9.137473
+LOCATION:سردينيا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سردينيا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="سردينيا أرينا":geo:39.199802,9.13
+ 7473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS كريمونيزي
+DTSTART:20251004T160000Z
+DTEND:20251004T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d3iq0zn8rncwijul121qytqms@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 4 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS إنتر ميلان
+DTSTART:20251018T184500Z
+DTEND:20251018T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d9k63wuz61kyno1kx76agjx1w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 0 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS إنتر ميلان
+DTSTART:20251025T160000Z
+DTEND:20251025T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dc0ileeq572dt6lk7j3q6n1n8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان باولو\
+ nالنتيجة: 3 - 1
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS فيورنتينا
+DTSTART:20251029T194500Z
+DTEND:20251029T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dggjx0pqzs2sz8zcgo7spx990@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هيلاس VS إنتر ميلان
+DTSTART:20251102T113000Z
+DTEND:20251102T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dm3jxfctxpdynsz4ifnil87pw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مارك أنطو
+ نيو بنتيغودي\nالنتيجة: 1 - 2
+GEO:45.435324;10.968585
+LOCATION:استاد مارك أنطونيو بنتيغودي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مارك أن
+ طونيو بنتيغودي";X-APPLE-RADIUS=70;X-TITLE="استاد مار
+ ك أنطونيو بنتيغودي":geo:45.435324,10.968585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS لاتسيو
+DTSTART:20251109T194500Z
+DTEND:20251109T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-do3jie3bxgeab77cfb661pj4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 2 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS نادي ميلان
+DTSTART:20251123T194500Z
+DTEND:20251123T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-drqv6y09c9wfm5hvdtz6g3evo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 0 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيزا VS إنتر ميلان
+DTSTART:20251130T140000Z
+DTEND:20251130T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dxtjfc6x21jgycgji2syawxzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
+  - ملعب روميو أنكونيتاني\nالنتيجة: 0 - 2
+GEO:43.725293;10.40019
+LOCATION:أرينا غاريبالدي - ملعب روميو أنكوني
+ تاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أرينا غاريبال
+ دي - ملعب روميو أنكونيتاني";X-APPLE-RADIUS=70;X-TITLE
+ ="أرينا غاريبالدي - ملعب روميو أنكونيتاني
+ ":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS كومو
+DTSTART:20251206T170000Z
+DTEND:20251206T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dzgg2dchs0eaxjke2ljsr0l5g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 4 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جنوى VS إنتر ميلان
+DTSTART:20251214T170000Z
+DTEND:20251214T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e3x5gndisdsp938zd7nmozod0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميونالي
+  لويجي فيراريس، جينوفا\nالنتيجة: 1 - 2
+GEO:44.416467;8.952527
+LOCATION:استاد كوميونالي لويجي فيراريس، جين
+ وفا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميونا
+ لي لويجي فيراريس، جينوفا";X-APPLE-RADIUS=70;X-TITLE="
+ استاد كوميونالي لويجي فيراريس، جينوفا":ge
+ o:44.416467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS إنتر ميلان
+DTSTART:20251228T194500Z
+DTEND:20251228T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eaurpcmvj7o6h5p7z7gycng9g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 0 - 1
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بولونيا
+DTSTART:20260104T194500Z
+DTEND:20260104T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-egx77xc7jmgsxnl1wh2m6ddzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS إنتر ميلان
+DTSTART:20260107T194500Z
+DTEND:20260107T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eld4erfmnbst0a3xa3q9lwwlw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 0 - 2
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS نابولي
+DTSTART:20260111T194500Z
+DTEND:20260111T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eom4wiyoq5er0g124axh5o4k4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 2 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS ليتشي
+DTSTART:20260114T194500Z
+DTEND:20260114T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e8fftcbn38afvjdakkxpxme50@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أودينيزي VS إنتر ميلان
+DTSTART:20260117T140000Z
+DTEND:20260117T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-euobme2805323p6yr1kknnvh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد فريولي\nال
+ نتيجة: 0 - 1
+GEO:46.081644;13.200063
+LOCATION:استاد فريولي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فريولي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فريولي":geo:46.081644,13.20006
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بيزا
+DTSTART:20260123T194500Z
+DTEND:20260123T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ewod71xdhguxn8t3flreq7qxg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 6 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريمونيزي VS إنتر ميلان
+DTSTART:20260201T170000Z
+DTEND:20260201T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-f0bbqrg3b3tex4m38iihdgyz8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
+ ني\nالنتيجة: 0 - 2
+GEO:45.140164;10.034831
+LOCATION:ملعب جيوفاني زيني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جيوفاني 
+ زيني";X-APPLE-RADIUS=70;X-TITLE="ملعب جيوفاني زيني":geo
+ :45.140164,10.034831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ساسوولو VS إنتر ميلان
+DTSTART:20260208T170000Z
+DTEND:20260208T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-rjr6px2dfdiphj8d90yub6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
+ ريكولوري\nالنتيجة: 0 - 5
+GEO:44.714637;10.649711
+LOCATION:استاد ديل سيتا تريكولوري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ديل سيت
+ ا تريكولوري";X-APPLE-RADIUS=70;X-TITLE="استاد ديل سيت
+ ا تريكولوري":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS نادي يوفنتوس
+DTSTART:20260214T194500Z
+DTEND:20260214T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-2t3ss1xq1uvs0v6mqsbk8aac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليتشي VS إنتر ميلان
+DTSTART:20260221T170000Z
+DTEND:20260221T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-84auhudhy69hhn88ssk3r578@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
+ ل مير\nالنتيجة: 0 - 2
+GEO:40.365103;18.208852
+LOCATION:استاد مجمع فيا دل مير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مجمع في
+ ا دل مير";X-APPLE-RADIUS=70;X-TITLE="استاد مجمع فيا دل
+  مير":geo:40.365103,18.208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS جنوى
+DTSTART:20260228T194500Z
+DTEND:20260228T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-aq7zgsvmbroypvcgivmp4xzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 2 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي ميلان VS إنتر ميلان
+DTSTART:20260308T194500Z
+DTEND:20260308T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-hm36kj36q637eyd0gmsia13o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS أتالانتا
+DTSTART:20260314T140000Z
+DTEND:20260314T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-jab8t0vl8vtuwbriaub7ckk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيورنتينا VS إنتر ميلان
+DTSTART:20260322T194500Z
+DTEND:20260322T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-o6xjj7sgpd78ec9y4o77fztg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
+ رانكي، فيرنزي\nالنتيجة: 1 - 1
+GEO:43.780788;11.282712
+LOCATION:استاد أرتيميو فرانكي، فيرنزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أرتيميو
+  فرانكي، فيرنزي";X-APPLE-RADIUS=70;X-TITLE="استاد أرت
+ يميو فرانكي، فيرنزي":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS روما
+DTSTART:20260405T184500Z
+DTEND:20260405T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-qzr4j7v0ic3d0lnvgrdlx2xg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 5 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كومو VS إنتر ميلان
+DTSTART:20260412T184500Z
+DTEND:20260412T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-vuil7whjv5pva6quhgu5cv84@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
+ يجاليا
+GEO:45.813857;9.072376
+LOCATION:ملعب جوزيبي سينيجاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جوزيبي س
+ ينيجاليا";X-APPLE-RADIUS=70;X-TITLE="ملعب جوزيبي سين
+ يجاليا":geo:45.813857,9.072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS كالياري
+DTSTART:20260417T184500Z
+DTEND:20260417T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-z3g9n8q46abi2xsbgs2c5w5w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS إنتر ميلان
+DTSTART:20260426T160000Z
+DTEND:20260426T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1602c2k3bat8a8wisw032q49g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بارما
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-18ecm157hjfw0toe8zwky15w4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لاتسيو VS إنتر ميلان
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1c16z8sfcig3obhqc1enrs00k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS هيلاس
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1gidovq7hm5k779uzn0g4k104@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS إنتر ميلان
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1iz38m02tzgh8x5a9yg2ztgyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+END:VCALENDAR

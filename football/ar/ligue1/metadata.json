@@ -1,0 +1,98 @@
+{
+  "competition_name": "الدوري الفرنسي - ليج 1",
+  "competition_id": "2000000018",
+  "season_id": "dbxs75cag7zyip5re0ppsanmc",
+  "lang": "ar",
+  "teams": [
+    {
+      "id": "44184",
+      "name": "ستاد رين",
+      "filename": "rennes"
+    },
+    {
+      "id": "33192",
+      "name": "مارسيليا",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "400129932",
+      "name": "لينس",
+      "filename": "lens"
+    },
+    {
+      "id": "26230",
+      "name": "ليون",
+      "filename": "olympique_lyonnais"
+    },
+    {
+      "id": "30983",
+      "name": "موناكو",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "1955644",
+      "name": "لو هافر",
+      "filename": "le_havre"
+    },
+    {
+      "id": "44203",
+      "name": "نيس",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "33352",
+      "name": "تولوز",
+      "filename": "toulouse_fc"
+    },
+    {
+      "id": "400079771",
+      "name": "بريست",
+      "filename": "stade_brestois"
+    },
+    {
+      "id": "33350",
+      "name": "ليل",
+      "filename": "lille"
+    },
+    {
+      "id": "31032",
+      "name": "ميتز",
+      "filename": "fc_metz"
+    },
+    {
+      "id": "44239",
+      "name": "ستراسبورغ",
+      "filename": "rc_strasbourg_alsace"
+    },
+    {
+      "id": "2000019156",
+      "name": "آنجيه",
+      "filename": "angers_sco"
+    },
+    {
+      "id": "8v00fx2zwhiwm05tqqkt122p5",
+      "name": "باريس",
+      "filename": "paris_fc"
+    },
+    {
+      "id": "9bxav814mkuhueiyivyive82d",
+      "name": "أوكسير",
+      "filename": "auxerre"
+    },
+    {
+      "id": "400129931",
+      "name": "لوريان",
+      "filename": "fc_lorient"
+    },
+    {
+      "id": "2000000574",
+      "name": "نانت",
+      "filename": "fc_nantes"
+    },
+    {
+      "id": "1956449",
+      "name": "باريس سان جيرمان",
+      "filename": "paris_saint_germain"
+    }
+  ]
+}

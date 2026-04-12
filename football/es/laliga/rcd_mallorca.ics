@@ -1,0 +1,530 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// LaLiga - Mallorca //
+X-WR-CALNAME:LaLiga - Mallorca
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Mallorca VS FC Barcelona
+DTSTART:20250816T173000Z
+DTEND:20250816T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 0 - 3
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Celta de Vigo
+DTSTART:20250823T150000Z
+DTEND:20250823T170000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-62wqjuo2ykej3fzagx0scs9g@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS Mallorca
+DTSTART:20250830T193000Z
+DTEND:20250830T213000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-77rmbjidsouxav300f54behg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Bernabéu\nResultado: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espanyol VS Mallorca
+DTSTART:20250915T190000Z
+DTEND:20250915T210000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-c0ed2ycw3cur2spz99c0r2ms@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: RCDE S
+ tadium\nResultado: 3 - 2
+GEO:41.34786;2.075622
+LOCATION:RCDE Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RCDE Stadium";X-APPLE-RAD
+ IUS=70;X-TITLE="RCDE Stadium":geo:41.34786,2.075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Atlético de Madrid
+DTSTART:20250921T141500Z
+DTEND:20250921T161500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-gg5bnkuq3inqnecavarjo3dg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad VS Mallorca
+DTSTART:20250924T193000Z
+DTEND:20250924T213000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-hxr2ojynmpps6ni1gbdsa1hw@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Municipal de Anoeta\nResultado: 1 - 0
+GEO:43.301376;-1.973602
+LOCATION:Estadio Municipal de Anoeta
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal de Anoe
+ ta";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal de Anoeta":geo:43.301376,
+ -1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Deportivo Alavés
+DTSTART:20250927T163000Z
+DTEND:20250927T183000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-nyhzbo7wncd07zhc7pysjris@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 0
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club VS Mallorca
+DTSTART:20251004T163000Z
+DTEND:20251004T183000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-pt81qdbd7pkbnnkpq246rtw4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de San Mamés\nResultado: 2 - 1
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sevilla VS Mallorca
+DTSTART:20251018T120000Z
+DTEND:20251018T140000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-wlegmdabr8ruispvl8gtzv9w@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Ramón Sánchez Pizjuán\nResultado: 1 - 3
+GEO:37.384046;-5.970592
+LOCATION:Estadio Ramón Sánchez Pizjuán
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez P
+ izjuán";X-APPLE-RADIUS=70;X-TITLE="Estadio Ramón Sánchez Pizjuán":geo:
+ 37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Levante
+DTSTART:20251026T130000Z
+DTEND:20251026T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-zzqopgn9iz38xxwmgsl6ccus@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis VS Mallorca
+DTSTART:20251102T200000Z
+DTEND:20251102T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o La Cartuja de Sevilla\nResultado: 3 - 0
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Getafe
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 0
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Mallorca
+DTSTART:20251122T200000Z
+DTEND:20251122T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1bbwtdnimi7tbl6aatezlnwno@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de la Cerámica\nResultado: 2 - 1
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Osasuna
+DTSTART:20251129T130000Z
+DTEND:20251129T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1cg5aiu7phyw89gyr0m9hme50@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 2 - 2
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Oviedo VS Mallorca
+DTSTART:20251205T200000Z
+DTEND:20251205T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1i2f9ycdq0mof2nmr7jievlsk@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Municipal Carlos Tartiere\nResultado: 0 - 0
+GEO:43.360762;-5.870261
+LOCATION:Estadio Municipal Carlos Tartiere
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal Carlos 
+ Tartiere";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal Carlos Tartiere":ge
+ o:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Elche
+DTSTART:20251213T151500Z
+DTEND:20251213T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 3 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia VS Mallorca
+DTSTART:20251219T200000Z
+DTEND:20251219T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1p93rklxg8b0b4dymsqjlcbh0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de Mestalla\nResultado: 1 - 1
+GEO:39.474602;-0.358257
+LOCATION:Estadio de Mestalla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mestalla";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Mestalla":geo:39.474602,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Girona
+DTSTART:20260104T173000Z
+DTEND:20260104T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1szis91vby48oriy7er25lams@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 2
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Mallorca
+DTSTART:20260111T130000Z
+DTEND:20260111T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1x4ja8gant6mmc4sm9odbjcpg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de Vallecas\nResultado: 2 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Athletic Club
+DTSTART:20260117T151500Z
+DTEND:20260117T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-1zyd1rcyvotux5kjh936dehp0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 3 - 2
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Mallorca
+DTSTART:20260125T130000Z
+DTEND:20260125T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-24tv2ajrcwbqaq46kxd54mgpg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Riyadh
+  Air Metropolitano\nResultado: 3 - 0
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Sevilla
+DTSTART:20260202T200000Z
+DTEND:20260202T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-28z661pl07w40fr1in36f97o4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 4 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Mallorca
+DTSTART:20260207T151500Z
+DTEND:20260207T171500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Spotif
+ y Camp Nou\nResultado: 3 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Real Betis
+DTSTART:20260215T200000Z
+DTEND:20260215T220000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 1 - 2
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celta de Vigo VS Mallorca
+DTSTART:20260222T173000Z
+DTEND:20260222T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2l0hlraqbbo3sgfhtv0iaa49g@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Abanca-Balaídos\nResultado: 2 - 0
+GEO:42.211852;-8.739721
+LOCATION:Estadio Abanca-Balaídos
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Abanca-Balaídos"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadio Abanca-Balaídos":geo:42.211852,-8.739
+ 721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Real Sociedad
+DTSTART:20260228T173000Z
+DTEND:20260228T193000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2o1qezfdq50juhi4b82nyesk4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 0 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osasuna VS Mallorca
+DTSTART:20260307T130000Z
+DTEND:20260307T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2pivvji4pf47xn5ziqca3ttlg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o El Sadar\nResultado: 2 - 2
+GEO:42.796677;-1.637141
+LOCATION:Estadio El Sadar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Sadar";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio El Sadar":geo:42.796677,-1.637141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Espanyol
+DTSTART:20260315T130000Z
+DTEND:20260315T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2taxjp7kgsyqb2x6zjjbiwys4@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 2 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elche VS Mallorca
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Manuel Martínez Valero\nResultado: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Real Madrid C.F.
+DTSTART:20260404T141500Z
+DTEND:20260404T161500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-334grr0hqs8zr92mx518hdjpw@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix\nResultado: 2 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Rayo Vallecano
+DTSTART:20260412T141500Z
+DTEND:20260412T161500Z
+DTSTAMP:20260412T070911Z
+UID:fifa-36img9yditg3x8kvo810l3ims@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Valencia
+DTSTART:20260421T170000Z
+DTEND:20260421T190000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3ddiuilkmzwc7z89f5cjy1pn8@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Alavés VS Mallorca
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-38dsrz394cwn8gbxbm6ahnllg@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o de Mendizorroza
+GEO:42.837076;-2.688247
+LOCATION:Estadio de Mendizorroza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mendizorroza";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de Mendizorroza":geo:42.837076,-2.68824
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girona VS Mallorca
+DTSTART:20260501T190000Z
+DTEND:20260501T210000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3i9z3nd0s3lxkt3l5hpy8wil0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Municipal de Montilivi
+GEO:41.961195;2.828495
+LOCATION:Estadi Municipal de Montilivi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Municipal de Monti
+ livi";X-APPLE-RADIUS=70;X-TITLE="Estadi Municipal de Montilivi":geo:41.961
+ 195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Villarreal
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3lazt464v4k6hjwcq9ljf0ums@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Mallorca
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Coliseum
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Levante VS Mallorca
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3sg7p1fgas9oyig0lv5gdmvis@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+ o Ciudad de Valencia
+GEO:39.494686;-0.36382
+LOCATION:Estadio Ciudad de Valencia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Valenci
+ a";X-APPLE-RADIUS=70;X-TITLE="Estadio Ciudad de Valencia":geo:39.494686,-0
+ .36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mallorca VS Real Oviedo
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070911Z
+UID:fifa-3wljbdagmhpi6h7viwogz9ul0@fifa.com
+DESCRIPTION:Competición: LaLiga\nFase: Temporada Regular\nEstadio: Estadi
+  Mallorca Son Moix
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+END:VCALENDAR

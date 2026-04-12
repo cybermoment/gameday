@@ -1,0 +1,553 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإنجليزي الممتاز - لي
+ دز يونايتد //
+X-WR-CALNAME:الدوري الإنجليزي الممتاز - ليدز ي
+ ونايتد
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS إيفرتون
+DTSTART:20250818T190000Z
+DTEND:20250818T210000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-13ylro8dy443m52qxwrxm9zis@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 1 - 0
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS ليدز يونايتد
+DTSTART:20250823T163000Z
+DTEND:20250823T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-14qo3uypv7lmce0ewcvxe89w4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 5 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS نيوكاسل
+DTSTART:20250830T163000Z
+DTEND:20250830T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-19g4i3bmkco9zrycot41ut638@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 0 - 0
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فولهام VS ليدز يونايتد
+DTSTART:20250913T140000Z
+DTEND:20250913T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1ejplc4zz2mafz8ve5yaztgyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
+ كوتيدج\nالنتيجة: 1 - 0
+GEO:51.474898;-0.221647
+LOCATION:كرافين كوتيدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كرافين كوتيدج
+ ";X-APPLE-RADIUS=70;X-TITLE="كرافين كوتيدج":geo:51.474898,-0.2
+ 21647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ولفرهامبتون VS ليدز يونايتد
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1jp76d0gbs37k24r8pculfxuc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لمولينيه\nالنتيجة: 1 - 3
+GEO:52.590238;-2.130433
+LOCATION:استاد المولينيه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد المولين
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد المولينيه":geo:52.590
+ 238,-2.130433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS بورنموث
+DTSTART:20250927T140000Z
+DTEND:20250927T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1m2q53bt7g2w2nzxpt8zwvklw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 2 - 2
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS توتنهام
+DTSTART:20251004T113000Z
+DTEND:20251004T133000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1qh7qazdiffxkrafk41ewncb8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 1 - 2
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيرنلي VS ليدز يونايتد
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1sgfyezfw8l28mky35q9ab0no@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
+ ر\nالنتيجة: 2 - 0
+GEO:53.788984;-2.230225
+LOCATION:تورف مور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تورف مور";X-APPLE-
+ RADIUS=70;X-TITLE="تورف مور":geo:53.788984,-2.230225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS وست هام
+DTSTART:20251024T190000Z
+DTEND:20251024T210000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1ymmbmwqt706tquiw6k5n649g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 2 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برايتون VS ليدز يونايتد
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-207fshyi62c88cf6836drk55g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب فا
+ لمر\nالنتيجة: 3 - 0
+GEO:50.86158;-0.083642
+LOCATION:ملعب فالمر
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فالمر";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب فالمر":geo:50.86158,-0.083642
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نوتنغهام فورست VS ليدز يونايتد
+DTSTART:20251109T140000Z
+DTEND:20251109T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-26l3xxay10p3mr94jigklk0t0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ذا سيتي
+  جراوند\nالنتيجة: 3 - 1
+GEO:52.939913;-1.132894
+LOCATION:ذا سيتي جراوند
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ذا سيتي جراون
+ د";X-APPLE-RADIUS=70;X-TITLE="ذا سيتي جراوند":geo:52.939913,-
+ 1.132894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS أستون فيلا
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2a6yd5amo1do5nul3ia6yhg5w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 1 - 2
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS ليدز يونايتد
+DTSTART:20251129T150000Z
+DTEND:20251129T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2e7k8n5g5qy61sq7e9nzw6djo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإتحاد\nالنتيجة: 3 - 2
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS تشيلسي
+DTSTART:20251203T201500Z
+DTEND:20251203T221500Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2i90v94i0xjbp0sem4bn698no@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 3 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS ليفربول
+DTSTART:20251206T173000Z
+DTEND:20251206T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2m8ovduzz3fvy0pu82to85p1w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 3 - 3
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برينتفورد VS ليدز يونايتد
+DTSTART:20251214T163000Z
+DTEND:20251214T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2oo4yru8uymi9bjbi0aq2ttsk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب بر
+ ينتفورد كوميونيتي\nالنتيجة: 1 - 1
+GEO:51.490729;-0.288884
+LOCATION:ملعب برينتفورد كوميونيتي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب برينتفور
+ د كوميونيتي";X-APPLE-RADIUS=70;X-TITLE="ملعب برينتفو
+ رد كوميونيتي":geo:51.490729,-0.288884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS كريستال بالاس
+DTSTART:20251220T200000Z
+DTEND:20251220T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2ueejizhur6zh8io313s28mj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 4 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سندرلاند VS ليدز يونايتد
+DTSTART:20251228T140000Z
+DTEND:20251228T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2znj52xnfa1uxidhp2c3thd78@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ستاديو
+ م أوف لايت\nالنتيجة: 1 - 1
+GEO:54.914422;-1.388177
+LOCATION:ستاديوم أوف لايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاديوم أوف ل
+ ايت";X-APPLE-RADIUS=70;X-TITLE="ستاديوم أوف لايت":geo:54.
+ 914422,-1.388177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS ليدز يونايتد
+DTSTART:20260101T173000Z
+DTEND:20260101T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-32fdg42hguqxx71l16b9qahp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
+ nالنتيجة: 0 - 0
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS نادي مانشستر يونايتد
+DTSTART:20260104T123000Z
+DTEND:20260104T143000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-36sm5uwycnu4y21bqg6fdnc44@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 1 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS ليدز يونايتد
+DTSTART:20260107T201500Z
+DTEND:20260107T221500Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3c0qyvaoqkjrr55urxhrc7w2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: سينت جي
+ مس بارك\nالنتيجة: 4 - 3
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS فولهام
+DTSTART:20260117T150000Z
+DTEND:20260117T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3e02p7upavgzcp7hlm9ie1xjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 1 - 0
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إيفرتون VS ليدز يونايتد
+DTSTART:20260126T200000Z
+DTEND:20260126T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3itbneix35u519v2wie4e72fo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب هي
+ ل ديكينسون\nالنتيجة: 1 - 1
+GEO:53.424981;-3.002691
+LOCATION:ملعب هيل ديكينسون
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب هيل ديكي
+ نسون";X-APPLE-RADIUS=70;X-TITLE="ملعب هيل ديكينسون":geo
+ :53.424981,-3.002691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS أرسنال
+DTSTART:20260131T150000Z
+DTEND:20260131T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3m29fhxvog8hxn10pfyhgs0lw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 0 - 4
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS نوتنغهام فورست
+DTSTART:20260206T200000Z
+DTEND:20260206T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3qw16j6k296sa9iw7ghei67mc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 3 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS ليدز يونايتد
+DTSTART:20260210T193000Z
+DTEND:20260210T213000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3toem7hmu4hjjz4oam9n8tf6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ستامفو
+ رد بريدج\nالنتيجة: 2 - 2
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أستون فيلا VS ليدز يونايتد
+DTSTART:20260221T150000Z
+DTEND:20260221T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3wwu6c90x5cn2qaf3glpifml0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: فيلا با
+ رك\nالنتيجة: 1 - 1
+GEO:52.509091;-1.884842
+LOCATION:فيلا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فيلا بارك";X-APPL
+ E-RADIUS=70;X-TITLE="فيلا بارك":geo:52.509091,-1.884842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS مانشستر سيتي
+DTSTART:20260228T173000Z
+DTEND:20260228T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-42yc011p2ll2efprhqeeq03ys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 0 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS سندرلاند
+DTSTART:20260303T193000Z
+DTEND:20260303T213000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-46zi9n9cnuqzisuu8kkhi7gno@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 0 - 1
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريستال بالاس VS ليدز يونايتد
+DTSTART:20260315T140000Z
+DTEND:20260315T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4amfwj51me61h8rkeh6lfa784@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: سيلهور
+ ست بارك\nالنتيجة: 0 - 0
+GEO:51.398279;-0.085503
+LOCATION:سيلهورست بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيلهورست بارك
+ ";X-APPLE-RADIUS=70;X-TITLE="سيلهورست بارك":geo:51.398279,-0.0
+ 85503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS برينتفورد
+DTSTART:20260321T200000Z
+DTEND:20260321T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4ezyab1abkqxrr5gv5mn6os2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 0 - 0
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي مانشستر يونايتد VS ليدز يونايتد
+DTSTART:20260413T190000Z
+DTEND:20260413T210000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4jkq3hfgw6nq6tesl83wpy80k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: أولد تر
+ افورد
+GEO:53.463094;-2.291374
+LOCATION:أولد ترافورد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أولد ترافورد";
+ X-APPLE-RADIUS=70;X-TITLE="أولد ترافورد":geo:53.463094,-2.29137
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS ولفرهامبتون
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4n7iu32c7wdgcmphskixm3r4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بورنموث VS ليدز يونايتد
+DTSTART:20260422T190000Z
+DTEND:20260422T210000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4pi8q807b9bc5r55gvpy5omqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: دين كور
+ ت
+GEO:50.735241;-1.83831
+LOCATION:دين كورت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دين كورت";X-APPLE-
+ RADIUS=70;X-TITLE="دين كورت":geo:50.735241,-1.83831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS بيرنلي
+DTSTART:20260501T190000Z
+DTEND:20260501T210000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4w69cq7gxy6jlk8hwflij7cic@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS ليدز يونايتد
+DTSTART:20260511T190000Z
+DTEND:20260511T210000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-5146m7fbdoj5d8sab8d7gsob8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب تو
+ تنهام هوتسبير
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS برايتون
+DTSTART:20260517T140000Z
+DTEND:20260517T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-54bugf6p0agtkiauhljp3buhg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:وست هام VS ليدز يونايتد
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-59t89i9irkl7koxyl46cva4us@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب لن
+ دن
+GEO:51.538688;-0.016501
+LOCATION:ملعب لندن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لندن";X-APPL
+ E-RADIUS=70;X-TITLE="ملعب لندن":geo:51.538688,-0.016501
+END:VEVENT
+END:VCALENDAR

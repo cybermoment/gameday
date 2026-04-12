@@ -1,0 +1,98 @@
+{
+  "competition_name": "리그 1",
+  "competition_id": "2000000018",
+  "season_id": "dbxs75cag7zyip5re0ppsanmc",
+  "lang": "ko",
+  "teams": [
+    {
+      "id": "44184",
+      "name": "렌",
+      "filename": "rennes"
+    },
+    {
+      "id": "33192",
+      "name": "올림피크 마르세유",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "400129932",
+      "name": "랑스",
+      "filename": "lens"
+    },
+    {
+      "id": "26230",
+      "name": "올랭피크 리옹",
+      "filename": "olympique_lyonnais"
+    },
+    {
+      "id": "30983",
+      "name": "모나코",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "1955644",
+      "name": "르 아브르",
+      "filename": "le_havre"
+    },
+    {
+      "id": "44203",
+      "name": "니스",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "33352",
+      "name": "툴루즈",
+      "filename": "toulouse_fc"
+    },
+    {
+      "id": "400079771",
+      "name": "브레스트",
+      "filename": "stade_brestois"
+    },
+    {
+      "id": "33350",
+      "name": "릴",
+      "filename": "lille"
+    },
+    {
+      "id": "31032",
+      "name": "메스",
+      "filename": "fc_metz"
+    },
+    {
+      "id": "44239",
+      "name": "스트라스부르",
+      "filename": "rc_strasbourg_alsace"
+    },
+    {
+      "id": "2000019156",
+      "name": "앙제",
+      "filename": "angers_sco"
+    },
+    {
+      "id": "8v00fx2zwhiwm05tqqkt122p5",
+      "name": "파리 FC",
+      "filename": "paris_fc"
+    },
+    {
+      "id": "9bxav814mkuhueiyivyive82d",
+      "name": "오세르",
+      "filename": "auxerre"
+    },
+    {
+      "id": "400129931",
+      "name": "로리앙",
+      "filename": "fc_lorient"
+    },
+    {
+      "id": "2000000574",
+      "name": "낭트",
+      "filename": "fc_nantes"
+    },
+    {
+      "id": "1956449",
+      "name": "파리 생제르맹",
+      "filename": "paris_saint_germain"
+    }
+  ]
+}

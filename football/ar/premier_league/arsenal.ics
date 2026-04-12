@@ -1,0 +1,570 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإنجليزي الممتاز - أر
+ سنال //
+X-WR-CALNAME:الدوري الإنجليزي الممتاز - أرسنال
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:نادي مانشستر يونايتد VS أرسنال
+DTSTART:20250817T153000Z
+DTEND:20250817T173000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-13h7obu9sa1vfh3a0esob4jdg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: أولد تر
+ افورد\nالنتيجة: 0 - 1
+GEO:53.463094;-2.291374
+LOCATION:أولد ترافورد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أولد ترافورد";
+ X-APPLE-RADIUS=70;X-TITLE="أولد ترافورد":geo:53.463094,-2.29137
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS ليدز يونايتد
+DTSTART:20250823T163000Z
+DTEND:20250823T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-14qo3uypv7lmce0ewcvxe89w4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 5 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS أرسنال
+DTSTART:20250831T153000Z
+DTEND:20250831T173000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-19ty1jsiu05lygxc15uw4exp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
+ nالنتيجة: 1 - 0
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS نوتنغهام فورست
+DTSTART:20250913T113000Z
+DTEND:20250913T133000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1ck3f5txde110a1im9lxy0ys4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 3 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS مانشستر سيتي
+DTSTART:20250921T153000Z
+DTEND:20250921T173000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1gil6wudqtyaauvngcgucwbh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 1 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS أرسنال
+DTSTART:20250928T153000Z
+DTEND:20250928T173000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1mv5kukvh2gold9lzbfle86qc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: سينت جي
+ مس بارك\nالنتيجة: 1 - 2
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS وست هام
+DTSTART:20251004T140000Z
+DTEND:20251004T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1oi3hkt91umhnxou8rk970ums@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فولهام VS أرسنال
+DTSTART:20251018T163000Z
+DTEND:20251018T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1taq9euew4fs51eqk666nc2dw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
+ كوتيدج\nالنتيجة: 0 - 1
+GEO:51.474898;-0.221647
+LOCATION:كرافين كوتيدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كرافين كوتيدج
+ ";X-APPLE-RADIUS=70;X-TITLE="كرافين كوتيدج":geo:51.474898,-0.2
+ 21647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS كريستال بالاس
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-1wlvabjugecgxexpyqugbo7bo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 1 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيرنلي VS أرسنال
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-20lqgnidk2bwum92qqbsimxp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
+ ر\nالنتيجة: 0 - 2
+GEO:53.788984;-2.230225
+LOCATION:تورف مور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تورف مور";X-APPLE-
+ RADIUS=70;X-TITLE="تورف مور":geo:53.788984,-2.230225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سندرلاند VS أرسنال
+DTSTART:20251108T173000Z
+DTEND:20251108T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-26zfrrhdp3qw2inh0oyvmdzbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ستاديو
+ م أوف لايت\nالنتيجة: 2 - 2
+GEO:54.914422;-1.388177
+LOCATION:ستاديوم أوف لايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاديوم أوف ل
+ ايت";X-APPLE-RADIUS=70;X-TITLE="ستاديوم أوف لايت":geo:54.
+ 914422,-1.388177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS توتنهام
+DTSTART:20251123T163000Z
+DTEND:20251123T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-28m9dl3dg3b2kv50yxgrt2sk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 4 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS أرسنال
+DTSTART:20251130T163000Z
+DTEND:20251130T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2cz22hrl9l7pesg0j8977wrh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ستامفو
+ رد بريدج\nالنتيجة: 1 - 1
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS برينتفورد
+DTSTART:20251203T193000Z
+DTEND:20251203T213000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2gktdb7h1jkkld873ss0s0kyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أستون فيلا VS أرسنال
+DTSTART:20251206T123000Z
+DTEND:20251206T143000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2knvskhww99qrbj71gbu13578@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: فيلا با
+ رك\nالنتيجة: 2 - 1
+GEO:52.509091;-1.884842
+LOCATION:فيلا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فيلا بارك";X-APPL
+ E-RADIUS=70;X-TITLE="فيلا بارك":geo:52.509091,-1.884842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS ولفرهامبتون
+DTSTART:20251213T200000Z
+DTEND:20251213T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2o9v97aqrj9rmg20rell04xec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إيفرتون VS أرسنال
+DTSTART:20251220T200000Z
+DTEND:20251220T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2tm0x6wlasz3xmigxsq5f6c5w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب هي
+ ل ديكينسون\nالنتيجة: 0 - 1
+GEO:53.424981;-3.002691
+LOCATION:ملعب هيل ديكينسون
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب هيل ديكي
+ نسون";X-APPLE-RADIUS=70;X-TITLE="ملعب هيل ديكينسون":geo
+ :53.424981,-3.002691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS برايتون
+DTSTART:20251227T150000Z
+DTEND:20251227T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-2wehv0cptselv086q8jud4hec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS أستون فيلا
+DTSTART:20251230T201500Z
+DTEND:20251230T221500Z
+DTSTAMP:20260412T070852Z
+UID:fifa-30fwl59qqa9t2ospcpwuytdzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 4 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بورنموث VS أرسنال
+DTSTART:20260103T173000Z
+DTEND:20260103T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-34oxxtv9gbzl6xcda8ldgnz84@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: دين كور
+ ت\nالنتيجة: 2 - 3
+GEO:50.735241;-1.83831
+LOCATION:دين كورت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دين كورت";X-APPLE-
+ RADIUS=70;X-TITLE="دين كورت":geo:50.735241,-1.83831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS ليفربول
+DTSTART:20260108T200000Z
+DTEND:20260108T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-396bo5t5fzkfqcmcj0rlhtez8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 0 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نوتنغهام فورست VS أرسنال
+DTSTART:20260117T173000Z
+DTEND:20260117T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3f8kheyscdow1tquwqldlvi1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ذا سيتي
+  جراوند\nالنتيجة: 0 - 0
+GEO:52.939913;-1.132894
+LOCATION:ذا سيتي جراوند
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ذا سيتي جراون
+ د";X-APPLE-RADIUS=70;X-TITLE="ذا سيتي جراوند":geo:52.939913,-
+ 1.132894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS نادي مانشستر يونايتد
+DTSTART:20260125T163000Z
+DTEND:20260125T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3h7uw06wrdggi4gvmvcm40xlg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 3
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليدز يونايتد VS أرسنال
+DTSTART:20260131T150000Z
+DTEND:20260131T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3m29fhxvog8hxn10pfyhgs0lw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
+ ود\nالنتيجة: 0 - 4
+GEO:53.777834;-1.572279
+LOCATION:إيلان رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إيلان رود";X-APPL
+ E-RADIUS=70;X-TITLE="إيلان رود":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS سندرلاند
+DTSTART:20260207T150000Z
+DTEND:20260207T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3paqoync1x6ffgogsb85v15p0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 3 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برينتفورد VS أرسنال
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-3ta3lmi2yhygyqebvoqytbf2s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب بر
+ ينتفورد كوميونيتي\nالنتيجة: 1 - 1
+GEO:51.490729;-0.288884
+LOCATION:ملعب برينتفورد كوميونيتي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب برينتفور
+ د كوميونيتي";X-APPLE-RADIUS=70;X-TITLE="ملعب برينتفو
+ رد كوميونيتي":geo:51.490729,-0.288884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ولفرهامبتون VS أرسنال
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4go4bjgjd216pca6xkuxtolxw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لمولينيه\nالنتيجة: 2 - 2
+GEO:52.590238;-2.130433
+LOCATION:استاد المولينيه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد المولين
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد المولينيه":geo:52.590
+ 238,-2.130433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS أرسنال
+DTSTART:20260222T163000Z
+DTEND:20260222T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-405a2do557or1ct3j3l0vo6j8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب تو
+ تنهام هوتسبير\nالنتيجة: 1 - 4
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS تشيلسي
+DTSTART:20260301T163000Z
+DTEND:20260301T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-41cldzbwls4xo9gxeu50cu2vo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برايتون VS أرسنال
+DTSTART:20260304T193000Z
+DTEND:20260304T213000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-45skrbpsdh3x4g4jsq6rb56ac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب فا
+ لمر\nالنتيجة: 0 - 1
+GEO:50.86158;-0.083642
+LOCATION:ملعب فالمر
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فالمر";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب فالمر":geo:50.86158,-0.083642
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS إيفرتون
+DTSTART:20260314T173000Z
+DTEND:20260314T193000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-48z7dzv6kdvzis2mn5v5th250@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS بورنموث
+DTSTART:20260411T113000Z
+DTEND:20260411T133000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4h2ew9waug2vsce1xchjf9zbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات\nالنتيجة: 1 - 2
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS أرسنال
+DTSTART:20260419T153000Z
+DTEND:20260419T173000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4nwnb9i8nivpfmdru07fywsgk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإتحاد
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS نيوكاسل
+DTSTART:20260425T163000Z
+DTEND:20260425T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4pwek6ufip2m51lyelp0r5las@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS فولهام
+DTSTART:20260502T163000Z
+DTEND:20260502T183000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-4u45d36alhjxa1qxmvmzja80k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:وست هام VS أرسنال
+DTSTART:20260510T153000Z
+DTEND:20260510T173000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-51i8bgm45ruiglvkbgnyb6ihg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب لن
+ دن
+GEO:51.538688;-0.016501
+LOCATION:ملعب لندن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لندن";X-APPL
+ E-RADIUS=70;X-TITLE="ملعب لندن":geo:51.538688,-0.016501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS بيرنلي
+DTSTART:20260517T140000Z
+DTEND:20260517T160000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-52bponwfjilfsdlm8gj7f6k2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
+ لإمارات
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريستال بالاس VS أرسنال
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+DTSTAMP:20260412T070852Z
+UID:fifa-56sqj49wua0241sbk71k9rdhw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
+ ز\nالمرحلة: الموسم الحالي\nالملعب: سيلهور
+ ست بارك
+GEO:51.398279;-0.085503
+LOCATION:سيلهورست بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيلهورست بارك
+ ";X-APPLE-RADIUS=70;X-TITLE="سيلهورست بارك":geo:51.398279,-0.0
+ 85503
+END:VEVENT
+END:VCALENDAR

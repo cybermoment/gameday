@@ -1,0 +1,577 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// プレミアリーグ - マンチェスター・ユ
+ ナイテッド //
+X-WR-CALNAME:プレミアリーグ - マンチェスター・ユナイテ
+ ッド
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS アーセナル
+DTSTART:20250817T153000Z
+DTEND:20250817T173000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-13h7obu9sa1vfh3a0esob4jdg@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 0 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:フラム VS マンチェスター・ユナイテッド
+DTSTART:20250824T153000Z
+DTEND:20250824T173000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-16ogxo1bxdi6eza02h0s9i5n8@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: クレイヴン・コテージ\n結果: 1 -
+  1
+GEO:51.474898;-0.221647
+LOCATION:クレイヴン・コテージ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="クレイヴン・コテ
+ ージ";X-APPLE-RADIUS=70;X-TITLE="クレイヴン・コテージ":geo:51.
+ 474898,-0.221647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS バーンリー
+DTSTART:20250830T140000Z
+DTEND:20250830T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1a8ama8onzq0bjz027h2kv1n8@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 3 
+ - 2
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・シティ VS マンチェスター・ユ
+ ナイテッド
+DTSTART:20250914T153000Z
+DTEND:20250914T173000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1exxqpardhibndjt24yvj2l1w@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: エティハド スタジアム\n結果: 3 
+ - 0
+GEO:53.483152;-2.200409
+LOCATION:エティハド スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エティハド スタジ
+ アム";X-APPLE-RADIUS=70;X-TITLE="エティハド スタジアム":geo:53
+ .483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS チェルシー FC
+DTSTART:20250920T163000Z
+DTEND:20250920T183000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1iirowal16yj6lndgm8gbx5p0@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 2 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ブレントフォード VS マンチェスター・ユナイテ
+ ッド
+DTSTART:20250927T113000Z
+DTEND:20250927T133000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1khr3704psti8rqgjsvafpa1g@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: Gtech Community Stadium\n結果: 3 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS サンダーラン
+ ド
+DTSTART:20251004T140000Z
+DTEND:20251004T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1qvclot8fak9knempsk7tqeqc@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 2 
+ - 0
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:リバプール VS マンチェスター・ユナイテッド
+DTSTART:20251019T153000Z
+DTEND:20251019T173000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1tozdgn4jg7t4h8wrdqtlwgt0@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: アンフィールド\n結果: 1 - 2
+GEO:53.430828;-2.960853
+LOCATION:アンフィールド
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="アンフィールド";X-
+ APPLE-RADIUS=70;X-TITLE="アンフィールド":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ブライトン&ホ
+ ーヴ・アルビオン
+DTSTART:20251025T163000Z
+DTEND:20251025T183000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-1z0pvc6kf8t3einy25wvna42c@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 4 
+ - 2
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ノッティンガム・フォレスト VS マンチェスター
+ ・ユナイテッド
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-22l2npjyvz69z79ahof2wafpw@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: The City Ground\n結果: 2 - 2
+GEO:52.939913;-1.132894
+LOCATION:The City Ground
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="The City Ground";X-APPLE-
+ RADIUS=70;X-TITLE="The City Ground":geo:52.939913,-1.132894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:トッテナム VS マンチェスター・ユナイテッド
+DTSTART:20251108T123000Z
+DTEND:20251108T143000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-27dsai0y163f2lmufao3yg3ys@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 2
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS エヴァートン
+DTSTART:20251124T200000Z
+DTEND:20251124T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2azh9qqutb89iadfek7774ufo@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 0 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:クリスタル・パレス VS マンチェスター・ユナイ
+ テッド
+DTSTART:20251130T120000Z
+DTEND:20251130T140000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2ddgt0wgk8212ask4bgjokqac@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
+ - 2
+GEO:51.398279;-0.085503
+LOCATION:シェルハースト パーク
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="シェルハースト パ
+ ーク";X-APPLE-RADIUS=70;X-TITLE="シェルハースト パーク":geo:51
+ .398279,-0.085503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ウェストハム
+ ・ユナイテッド
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2j3cj5hutmxhlj7ggvbwzi0ic@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 1 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ウォルヴァーハンプトン・ワンダラーズ VS マン
+ チェスター・ユナイテッド
+DTSTART:20251208T200000Z
+DTEND:20251208T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2ntyu72wz8vu95ocn09cwlmok@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: モリニュー・スタジアム\n結果: 
+ 1 - 4
+GEO:52.590238;-2.130433
+LOCATION:モリニュー・スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="モリニュー・スタ
+ ジアム";X-APPLE-RADIUS=70;X-TITLE="モリニュー・スタジアム":g
+ eo:52.590238,-2.130433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ボーンマス
+DTSTART:20251215T200000Z
+DTEND:20251215T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2qnbwtbl7eh08dh64ii9icqac@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 4 
+ - 4
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:アストンヴィラ VS マンチェスター・ユナイテッ
+ ド
+DTSTART:20251221T163000Z
+DTEND:20251221T183000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2sqsn3aeeuy6wzu7i0d7xxbmc@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: ヴィラ・パーク\n結果: 2 - 1
+GEO:52.509091;-1.884842
+LOCATION:ヴィラ・パーク
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ヴィラ・パーク";X-
+ APPLE-RADIUS=70;X-TITLE="ヴィラ・パーク":geo:52.509091,-1.884842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ニューカッス
+ ル・ユナイテッド
+DTSTART:20251226T200000Z
+DTEND:20251226T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-2yuulrtp37mbqe9rok936lslw@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 1 
+ - 0
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ウォルヴァー
+ ハンプトン・ワンダラーズ
+DTSTART:20251230T201500Z
+DTEND:20251230T221500Z
+DTSTAMP:20260412T070854Z
+UID:fifa-32tmyy818d2gsssvn24xizwno@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 1 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:リーズ・ユナイテッド VS マンチェスター・ユナ
+ イテッド
+DTSTART:20260104T123000Z
+DTEND:20260104T143000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-36sm5uwycnu4y21bqg6fdnc44@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: Elland Road\n結果: 1 - 1
+GEO:53.777834;-1.572279
+LOCATION:Elland Road
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Elland Road";X-APPLE-RADI
+ US=70;X-TITLE="Elland Road":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:バーンリー VS マンチェスター・ユナイテッド
+DTSTART:20260107T201500Z
+DTEND:20260107T221500Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3a1d79a5mxnvo53se2vrxwphw@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: ターフ モア\n結果: 2 - 2
+GEO:53.788984;-2.230225
+LOCATION:ターフ モア
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ターフ モア";X-APPLE
+ -RADIUS=70;X-TITLE="ターフ モア":geo:53.788984,-2.230225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS マンチェスタ
+ ー・シティ
+DTSTART:20260117T123000Z
+DTEND:20260117T143000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3euckq6g15mkb2d6jes5yi68k@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 2 
+ - 0
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:アーセナル VS マンチェスター・ユナイテッド
+DTSTART:20260125T163000Z
+DTEND:20260125T183000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3h7uw06wrdggi4gvmvcm40xlg@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: エミレーツ スタジアム\n結果: 2 
+ - 3
+GEO:51.555075;-0.108458
+LOCATION:エミレーツ スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エミレーツ スタジ
+ アム";X-APPLE-RADIUS=70;X-TITLE="エミレーツ スタジアム":geo:51
+ .555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS フラム
+DTSTART:20260201T140000Z
+DTEND:20260201T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3mupduyj99i9jq4xrg9rneoes@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 3 
+ - 2
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS トッテナム
+DTSTART:20260207T123000Z
+DTEND:20260207T143000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3rou9cxtiqeutcjm1moskftas@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 2 
+ - 0
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ウェストハム・ユナイテッド VS マンチェスター
+ ・ユナイテッド
+DTSTART:20260210T201500Z
+DTEND:20260210T221500Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3wie337w5hnugj3j5iul98tuc@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: ロンドン スタジアム\n結果: 1 - 1
+GEO:51.538688;-0.016501
+LOCATION:ロンドン スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ロンドン スタジア
+ ム";X-APPLE-RADIUS=70;X-TITLE="ロンドン スタジアム":geo:51.53868
+ 8,-0.016501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:エヴァートン VS マンチェスター・ユナイテッド
+DTSTART:20260223T200000Z
+DTEND:20260223T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-3yi90ty9u2zmemr5xrloq8ems@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: Hill Dickinson Stadium\n結果: 0 - 1
+GEO:53.424981;-3.002691
+LOCATION:Hill Dickinson Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hill Dickinson Stadium";X
+ -APPLE-RADIUS=70;X-TITLE="Hill Dickinson Stadium":geo:53.424981,-3.002691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS クリスタル・
+ パレス
+DTSTART:20260301T140000Z
+DTEND:20260301T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-43r4me2bcvm1m5xb1vy8wosgk@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 2 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ニューカッスル・ユナイテッド VS マンチェスタ
+ ー・ユナイテッド
+DTSTART:20260304T201500Z
+DTEND:20260304T221500Z
+DTSTAMP:20260412T070854Z
+UID:fifa-47s90k4t3qdmtb1d8u2pby0ic@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: セント ジェームズ パーク\n結果
+ : 2 - 1
+GEO:54.97554;-1.621621
+LOCATION:セント ジェームズ パーク
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="セント ジェームズ
+  パーク";X-APPLE-RADIUS=70;X-TITLE="セント ジェームズ パーク
+ ":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS アストンヴィ
+ ラ
+DTSTART:20260315T140000Z
+DTEND:20260315T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-4bf3mhuw9l182g3jx7ava0cno@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード\n結果: 3 
+ - 1
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ボーンマス VS マンチェスター・ユナイテッド
+DTSTART:20260320T200000Z
+DTEND:20260320T220000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-4d0d8tamzjazpq7onnnj7fgus@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: バイタリティ スタジアム\n結果:
+  2 - 2
+GEO:50.735241;-1.83831
+LOCATION:バイタリティ スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="バイタリティ スタ
+ ジアム";X-APPLE-RADIUS=70;X-TITLE="バイタリティ スタジアム":
+ geo:50.735241,-1.83831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS リーズ・ユナ
+ イテッド
+DTSTART:20260413T190000Z
+DTEND:20260413T210000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-4jkq3hfgw6nq6tesl83wpy80k@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:チェルシー FC VS マンチェスター・ユナイテッド
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-4m0hv0y707imwzwo2dileo2s4@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: スタンフォード ブリッジ
+GEO:51.481712;-0.190975
+LOCATION:スタンフォード ブリッジ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタンフォード ブ
+ リッジ";X-APPLE-RADIUS=70;X-TITLE="スタンフォード ブリッジ":
+ geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ブレントフォ
+ ード
+DTSTART:20260427T190000Z
+DTEND:20260427T210000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-4s4lfi1tj69ftoawrdig1erys@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS リバプール
+DTSTART:20260503T143000Z
+DTEND:20260503T163000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-4wkjiv475wzfcfplo9208ek9g@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:サンダーランド VS マンチェスター・ユナイテッ
+ ド
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-50o32ylys1nykzuao8kko9ams@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: スタジアム・オブ・ライト
+GEO:54.914422;-1.388177
+LOCATION:スタジアム・オブ・ライト
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタジアム・オブ
+ ・ライト";X-APPLE-RADIUS=70;X-TITLE="スタジアム・オブ・ライ
+ ト":geo:54.914422,-1.388177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:マンチェスター・ユナイテッド VS ノッティンガ
+ ム・フォレスト
+DTSTART:20260517T140000Z
+DTEND:20260517T160000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-54q3ow5nko3mj15xltmseln2s@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: オールド トラフォード
+GEO:53.463094;-2.291374
+LOCATION:オールド トラフォード
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="オールド トラフォ
+ ード";X-APPLE-RADIUS=70;X-TITLE="オールド トラフォード":geo:53
+ .463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ブライトン&ホーヴ・アルビオン VS マンチェスタ
+ ー・ユナイテッド
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+DTSTAMP:20260412T070854Z
+UID:fifa-55xwipdr13y9h2ga7yv15n8yc@fifa.com
+DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
+ シーズン\nスタジアム: AMEXスタジアム
+GEO:50.86158;-0.083642
+LOCATION:AMEXスタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AMEXスタジアム";X-AP
+ PLE-RADIUS=70;X-TITLE="AMEXスタジアム":geo:50.86158,-0.083642
+END:VEVENT
+END:VCALENDAR

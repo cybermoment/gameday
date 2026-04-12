@@ -1,0 +1,576 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - ري
+ ال مايوركا //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - ريال ما
+ يوركا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS برشلونة
+DTSTART:20250816T173000Z
+DTEND:20250816T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 0 - 3
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS سيلتا فيغو
+DTSTART:20250823T150000Z
+DTEND:20250823T170000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-62wqjuo2ykej3fzagx0scs9g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS ريال مايوركا
+DTSTART:20250830T193000Z
+DTEND:20250830T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-77rmbjidsouxav300f54behg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS ريال مايوركا
+DTSTART:20250915T190000Z
+DTEND:20250915T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-c0ed2ycw3cur2spz99c0r2ms@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 3 - 2
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS أتلتيكو مدريد
+DTSTART:20250921T141500Z
+DTEND:20250921T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-gg5bnkuq3inqnecavarjo3dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS ريال مايوركا
+DTSTART:20250924T193000Z
+DTEND:20250924T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-hxr2ojynmpps6ni1gbdsa1hw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو\nالنتيجة: 1 - 0
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ديبورتيفو ألافيس
+DTSTART:20250927T163000Z
+DTEND:20250927T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-nyhzbo7wncd07zhc7pysjris@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 0
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS ريال مايوركا
+DTSTART:20251004T163000Z
+DTEND:20251004T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-pt81qdbd7pkbnnkpq246rtw4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه\
+ nالنتيجة: 2 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS ريال مايوركا
+DTSTART:20251018T120000Z
+DTEND:20251018T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-wlegmdabr8ruispvl8gtzv9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 1 - 3
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ليفانتي
+DTSTART:20251026T130000Z
+DTEND:20251026T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-zzqopgn9iz38xxwmgsl6ccus@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ريال مايوركا
+DTSTART:20251102T200000Z
+DTEND:20251102T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 3 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS خيتافي
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 0
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS ريال مايوركا
+DTSTART:20251122T200000Z
+DTEND:20251122T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1bbwtdnimi7tbl6aatezlnwno@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 1
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS أوساسونا
+DTSTART:20251129T130000Z
+DTEND:20251129T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1cg5aiu7phyw89gyr0m9hme50@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 2 - 2
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS ريال مايوركا
+DTSTART:20251205T200000Z
+DTEND:20251205T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1i2f9ycdq0mof2nmr7jievlsk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد\nالنتيجة: 0 - 0
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS إلتشي
+DTSTART:20251213T151500Z
+DTEND:20251213T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 3 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS ريال مايوركا
+DTSTART:20251219T200000Z
+DTEND:20251219T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1p93rklxg8b0b4dymsqjlcbh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا\
+ nالنتيجة: 1 - 1
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS جيرونا
+DTSTART:20260104T173000Z
+DTEND:20260104T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1szis91vby48oriy7er25lams@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 2
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS ريال مايوركا
+DTSTART:20260111T130000Z
+DTEND:20260111T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1x4ja8gant6mmc4sm9odbjcpg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
+ يجة: 2 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS أتليتيكو بلباو
+DTSTART:20260117T151500Z
+DTEND:20260117T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1zyd1rcyvotux5kjh936dehp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 3 - 2
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال مايوركا
+DTSTART:20260125T130000Z
+DTEND:20260125T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-24tv2ajrcwbqaq46kxd54mgpg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS إشبيلية
+DTSTART:20260202T200000Z
+DTEND:20260202T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-28z661pl07w40fr1in36f97o4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 4 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال مايوركا
+DTSTART:20260207T151500Z
+DTEND:20260207T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ريال بيتيس
+DTSTART:20260215T200000Z
+DTEND:20260215T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 2
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال مايوركا
+DTSTART:20260222T173000Z
+DTEND:20260222T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2l0hlraqbbo3sgfhtv0iaa49g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 2 - 0
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ريال سوسيداد
+DTSTART:20260228T173000Z
+DTEND:20260228T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2o1qezfdq50juhi4b82nyesk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 0 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS ريال مايوركا
+DTSTART:20260307T130000Z
+DTEND:20260307T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2pivvji4pf47xn5ziqca3ttlg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار\nال
+ نتيجة: 2 - 2
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS إسبانيول
+DTSTART:20260315T130000Z
+DTEND:20260315T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2taxjp7kgsyqb2x6zjjbiwys4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 2 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال مايوركا
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ريال مدريد
+DTSTART:20260404T141500Z
+DTEND:20260404T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-334grr0hqs8zr92mx518hdjpw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 2 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS رايو فاييكانو
+DTSTART:20260412T141500Z
+DTEND:20260412T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-36img9yditg3x8kvo810l3ims@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS فالنسيا
+DTSTART:20260421T170000Z
+DTEND:20260421T190000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3ddiuilkmzwc7z89f5cjy1pn8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS ريال مايوركا
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-38dsrz394cwn8gbxbm6ahnllg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS ريال مايوركا
+DTSTART:20260501T190000Z
+DTEND:20260501T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3i9z3nd0s3lxkt3l5hpy8wil0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS فياريال
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3lazt464v4k6hjwcq9ljf0ums@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال مايوركا
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS ريال مايوركا
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3sg7p1fgas9oyig0lv5gdmvis@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ريال أوفيدو
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3wljbdagmhpi6h7viwogz9ul0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+END:VCALENDAR

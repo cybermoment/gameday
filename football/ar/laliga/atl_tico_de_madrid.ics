@@ -1,0 +1,575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - أت
+ لتيكو مدريد //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - أتلتيك
+ و مدريد
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS أتلتيكو مدريد
+DTSTART:20250817T193000Z
+DTEND:20250817T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1wwdsnnj2m9ewz1d1mgt7y8k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 2 - 1
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS إلتشي
+DTSTART:20250823T173000Z
+DTEND:20250823T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-49e80e647ljijc5bz8tqc2l0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS أتلتيكو مدريد
+DTSTART:20250830T150000Z
+DTEND:20250830T170000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-7kvwnpl7nq950703yan4bspg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا\nالنتيجة: 1 - 1
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS فياريال
+DTSTART:20250913T190000Z
+DTEND:20250913T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-av0qyy8sbq3jo28muv6smb6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 2 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS أتلتيكو مدريد
+DTSTART:20250921T141500Z
+DTEND:20250921T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-gg5bnkuq3inqnecavarjo3dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS رايو فاييكانو
+DTSTART:20250924T193000Z
+DTEND:20250924T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ioo3djrnoe5kcc2n7mypzbis@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال مدريد
+DTSTART:20250927T141500Z
+DTEND:20250927T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-m3rr5kwhsu6s770ey69xad5g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 5 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS أتلتيكو مدريد
+DTSTART:20251005T190000Z
+DTEND:20251005T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-qys0flp8cpyb6p1fsjh7d1xw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS أوساسونا
+DTSTART:20251018T190000Z
+DTEND:20251018T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-tk5mkd96dh3cu38pb2k286qc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS أتلتيكو مدريد
+DTSTART:20251027T200000Z
+DTEND:20251027T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ygjm4bbtl6jbrz9gsd661vys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 0 - 2
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS إشبيلية
+DTSTART:20251101T151500Z
+DTEND:20251101T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-10qg7chtpoj0knqnvx2oduot0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ليفانتي
+DTSTART:20251108T173000Z
+DTEND:20251108T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-14xa2ysiarbslbwcla4hhzqj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS أتلتيكو مدريد
+DTSTART:20251123T173000Z
+DTEND:20251123T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1al4jq2l4mkefxzf7iqmiledw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال أوفيدو
+DTSTART:20251129T200000Z
+DTEND:20251129T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1f3hreqlw5s8sg03041v1ecyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 2 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أتلتيكو مدريد
+DTSTART:20251202T200000Z
+DTEND:20251202T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1v9qqviahmnia4ewmzd4aejv8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS أتلتيكو مدريد
+DTSTART:20251206T200000Z
+DTEND:20251206T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1j6l9nsawkrpvmlpb5fprga38@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه\
+ nالنتيجة: 1 - 0
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS فالنسيا
+DTSTART:20251213T130000Z
+DTEND:20251213T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1mlai6ycmblrejdaxysomfw2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 2 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS أتلتيكو مدريد
+DTSTART:20251221T130000Z
+DTEND:20251221T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1o35rsofsxiepozlbmke0wduc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي\nالنتيجة: 0 - 3
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS أتلتيكو مدريد
+DTSTART:20260104T200000Z
+DTEND:20260104T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1rhyonqt5a171xvtvluwo5p1w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو\nالنتيجة: 1 - 1
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ديبورتيفو ألافيس
+DTSTART:20260118T151500Z
+DTEND:20260118T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1zkz16jzrxddg9c05edk2znys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال مايوركا
+DTSTART:20260125T130000Z
+DTEND:20260125T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-24tv2ajrcwbqaq46kxd54mgpg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS أتلتيكو مدريد
+DTSTART:20260131T173000Z
+DTEND:20260131T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-26bsh372a4004fxjzg381qgb8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا\nالنتيجة: 0 - 0
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال بيتيس
+DTSTART:20260208T173000Z
+DTEND:20260208T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2d48hhckok4yi8bluy55trf2s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 0 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS أتلتيكو مدريد
+DTSTART:20260215T151500Z
+DTEND:20260215T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2e85uzw4i0hdq9tlf0m02mo7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية دي ب
+ وتارك\nالنتيجة: 3 - 0
+GEO:40.340472;-3.760688
+LOCATION:استاد بلدية دي بوتارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية د
+ ي بوتارك";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية دي ب
+ وتارك":geo:40.340472,-3.760688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS إسبانيول
+DTSTART:20260221T200000Z
+DTEND:20260221T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2jwf7cpzm72lrajndbtk03das@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 4 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS أتلتيكو مدريد
+DTSTART:20260228T200000Z
+DTEND:20260228T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2ldv2nafpzvwhdympdp0rff9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد\nالنتيجة: 0 - 1
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال سوسيداد
+DTSTART:20260307T173000Z
+DTEND:20260307T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2qn6lwhn5o37o0hl1unj5hl3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS خيتافي
+DTSTART:20260314T151500Z
+DTEND:20260314T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2usu4a3m9ufgguju2iqilurys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS أتلتيكو مدريد
+DTSTART:20260322T200000Z
+DTEND:20260322T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2wpgnr91h1yid0zf4zu0y5afo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 3 - 2
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS برشلونة
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-31zxsexwgw81km23uib95otuc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS أتلتيكو مدريد
+DTSTART:20260411T190000Z
+DTEND:20260411T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3799288svdt7jtyvzloemtt04@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 2 - 1
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS أتلتيكو مدريد
+DTSTART:20260422T170000Z
+DTEND:20260422T190000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3ehzlcos9xo56ol70wttwmu50@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS أتليتيكو بلباو
+DTSTART:20260425T190000Z
+DTEND:20260425T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3achbi56yevn41ahu7amhx638@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS أتلتيكو مدريد
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3indehxonm3sorl5dn4ojvj84@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS سيلتا فيغو
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3k57p4cr98z0cknr4b39kaivo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS أتلتيكو مدريد
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3pfak8vavaxumsfvxz2yo48wk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS جيرونا
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3rbvenobhbiyu2oz1067g87x0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS أتلتيكو مدريد
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3xcjz4isjg101zf0d40lxkglw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+END:VCALENDAR

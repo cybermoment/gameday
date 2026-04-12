@@ -1,0 +1,468 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue 1 - Nantes //
+X-WR-CALNAME:Ligue 1 - Nantes
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Nantes VS Paris Saint-Germain
+DTSTART:20250817T184500Z
+DTEND:20250817T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-76t6m3q3ye3kb7rtlansiyivo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 0 - 1
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strasburgo VS Nantes
+DTSTART:20250824T151500Z
+DTEND:20250824T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-79oyk2qmf1t5auscpyaavyrdg@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Meinau\nRisultato: 1 - 0
+GEO:48.560069;7.755157
+LOCATION:Stade de la Meinau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Meinau";X-APP
+ LE-RADIUS=70;X-TITLE="Stade de la Meinau":geo:48.560069,7.755157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Auxerre
+DTSTART:20250830T170000Z
+DTEND:20250830T190000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7bk8twwdbyyipms1jnzmt3ims@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 1 - 0
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nizza VS Nantes
+DTSTART:20250913T150000Z
+DTEND:20250913T170000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7esrafqg6iv027c36tpc9rjtg@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Allian
+ z Riviera\nRisultato: 1 - 0
+GEO:43.705119;7.192622
+LOCATION:Allianz Riviera
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Riviera";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Riviera":geo:43.705119,7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Rennes
+DTSTART:20250920T150000Z
+DTEND:20250920T170000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7hdh3tbg2wvlim6o9dwmf47is@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 2 - 2
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tolosa VS Nantes
+DTSTART:20250927T170000Z
+DTEND:20250927T190000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7letvduy3f5mnqk12p0lr5qtw@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stadiu
+ m de Toulouse\nRisultato: 2 - 2
+GEO:43.58329;1.434038
+LOCATION:Stadium de Toulouse
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium de Toulouse";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadium de Toulouse":geo:43.58329,1.434038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brest VS Nantes
+DTSTART:20251004T170000Z
+DTEND:20251004T190000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7pwcv40os2bpgrh3td8elxhxw@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Francis-Le Blé\nRisultato: 0 - 0
+GEO:48.402882;-4.461458
+LOCATION:Stade Francis-Le Blé
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Francis-Le Blé";X-
+ APPLE-RADIUS=70;X-TITLE="Stade Francis-Le Blé":geo:48.402882,-4.461458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Lilla
+DTSTART:20251019T184500Z
+DTEND:20251019T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7tlbjk7fi973p87e8pgizgtuc@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 0 - 2
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris FC VS Nantes
+DTSTART:20251024T184500Z
+DTEND:20251024T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7woilg11mdjafmd9g8zm53aqc@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Jean Bouin\nRisultato: 1 - 2
+GEO:48.843148;2.252916
+LOCATION:Stade Jean Bouin
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Jean Bouin";X-APPLE
+ -RADIUS=70;X-TITLE="Stade Jean Bouin":geo:48.843148,2.252916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Monaco
+DTSTART:20251029T200500Z
+DTEND:20251029T220500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7yiltbyr9682m9yuukm40yvx0@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 3 - 5
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Metz
+DTSTART:20251102T161500Z
+DTEND:20251102T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-83jr3gvavdtyibbwtnq8tz5zo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 0 - 2
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Havre VS Nantes
+DTSTART:20251108T180000Z
+DTEND:20251108T200000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-866rrtjqlkc7awxv3d655drmc@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Océane\nRisultato: 1 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Lorient
+DTSTART:20251123T161500Z
+DTEND:20251123T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-88r8mh63ovrqr79aikgzroefo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 1 - 1
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympique Lione VS Nantes
+DTSTART:20251130T194500Z
+DTEND:20251130T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8bdlfuv6dy0cge9pyz9ix5v6c@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Groupa
+ ma Stadium\nRisultato: 3 - 0
+GEO:45.76531;4.982064
+LOCATION:Groupama Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Groupama Stadium":geo:45.76531,4.982064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Lens
+DTSTART:20251206T160000Z
+DTEND:20251206T180000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8fuei7twwjrpuze3dokkx45jo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 1 - 2
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angers VS Nantes
+DTSTART:20251212T194500Z
+DTEND:20251212T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8i3rzhdimvv1bucfosy8fcro4@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Raymond Kopa\nRisultato: 4 - 1
+GEO:47.460413;-0.530777
+LOCATION:Stade Raymond Kopa
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Raymond Kopa";X-APP
+ LE-RADIUS=70;X-TITLE="Stade Raymond Kopa":geo:47.460413,-0.530777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympique Marsiglia VS Nantes
+DTSTART:20260104T140000Z
+DTEND:20260104T160000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8ogihgvj5esnu8jg10aosihp0@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
+  Vélodrome\nRisultato: 0 - 2
+GEO:43.26987;5.395854
+LOCATION:Orange Vélodrome
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Orange Vélodrome";X-APPL
+ E-RADIUS=70;X-TITLE="Orange Vélodrome":geo:43.26987,5.395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Paris FC
+DTSTART:20260118T161500Z
+DTEND:20260118T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8qpsv11q63px0nfhh91sgdafo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 1 - 2
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Nizza
+DTSTART:20260125T140000Z
+DTEND:20260125T160000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8uzuadv07g5b03zozks825444@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 1 - 4
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lorient VS Nantes
+DTSTART:20260131T180000Z
+DTEND:20260131T200000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8x7jthn7rqsphvbwsxswzsglw@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ du Moustoir - Yves Allainmat\nRisultato: 2 - 1
+GEO:47.748821;-3.369021
+LOCATION:Stade du Moustoir - Yves Allainmat
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade du Moustoir - Yves 
+ Allainmat";X-APPLE-RADIUS=70;X-TITLE="Stade du Moustoir - Yves Allainmat":
+ geo:47.748821,-3.369021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Olympique Lione
+DTSTART:20260207T200500Z
+DTEND:20260207T220500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9105nbvblxjaby19wl6ijotg4@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 0 - 1
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco VS Nantes
+DTSTART:20260213T200500Z
+DTEND:20260213T220500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-94qrj6vriaepju8lbpa91kdg4@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Louis-II\nRisultato: 3 - 1
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Le Havre
+DTSTART:20260222T161500Z
+DTEND:20260222T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-97ss3ca8wx72vsspzijyu20pg@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 2 - 0
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lilla VS Nantes
+DTSTART:20260301T161500Z
+DTEND:20260301T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9b5nkrzt8ku0bp3x883tgxmvo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Decath
+ lon Arena - Stade Pierre-Mauroy\nRisultato: 1 - 0
+GEO:50.611965;3.130484
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Decathlon Arena - Stade P
+ ierre-Mauroy";X-APPLE-RADIUS=70;X-TITLE="Decathlon Arena - Stade Pierre-Ma
+ uroy":geo:50.611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Angers
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9f9kuids3rgqlqx1zhsvfbwus@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 0 - 1
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Strasburgo
+DTSTART:20260322T194500Z
+DTEND:20260322T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9kq8x7m65ajep26bou4lcqpzo@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau\nRisultato: 2 - 3
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metz VS Nantes
+DTSTART:20260405T151500Z
+DTEND:20260405T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9o4n55lkslbeyjajky43umsyc@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Saint-Symphorien\nRisultato: 0 - 0
+GEO:49.109789;6.159449
+LOCATION:Stade Saint-Symphorien
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Saint-Symphorien";X
+ -APPLE-RADIUS=70;X-TITLE="Stade Saint-Symphorien":geo:49.109789,6.159449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Nantes
+DTSTART:20260411T170000Z
+DTEND:20260411T190000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9t2ybu6n2todh9f2qi3uyg4r8@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de l'Abbé Deschamps\nRisultato: 0 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Brest
+DTSTART:20260419T151500Z
+DTEND:20260419T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9w7ua9b67wzm28myjm68l50d0@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Nantes
+DTSTART:20260422T170000Z
+DTEND:20260422T190000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9g07ss9mgnigw1hfa4ne4i1w4@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Parco 
+ dei Principi
+GEO:48.841433;2.253049
+LOCATION:Parco dei Principi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parco dei Principi";X-APP
+ LE-RADIUS=70;X-TITLE="Parco dei Principi":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rennes VS Nantes
+DTSTART:20260426T151500Z
+DTEND:20260426T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9xc14cp3sitr6wfs4bh7vgtuc@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Roazho
+ n Park
+GEO:48.107467;-1.712884
+LOCATION:Roazhon Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roazhon Park";X-APPLE-RAD
+ IUS=70;X-TITLE="Roazhon Park":geo:48.107467,-1.712884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Olympique Marsiglia
+DTSTART:20260501T184500Z
+DTEND:20260501T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-a14pqud01q3gdpn5sb78dzims@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens VS Nantes
+DTSTART:20260509T190000Z
+DTEND:20260509T210000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-a565uhc7y4eouqda5vp1nejo4@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ Bollaert-Delelis
+GEO:50.432867;2.814941
+LOCATION:Stade Bollaert-Delelis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Bollaert-Delelis";X
+ -APPLE-RADIUS=70;X-TITLE="Stade Bollaert-Delelis":geo:50.432867,2.814941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Tolosa
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-a7f4eaz5l7ly8go0q797dt7v8@fifa.com
+DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
+ de la Beaujoire - Louis Fonteneau
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+END:VCALENDAR

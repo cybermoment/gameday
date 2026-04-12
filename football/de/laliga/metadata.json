@@ -1,0 +1,108 @@
+{
+  "competition_name": "Primera Division",
+  "competition_id": "2000000037",
+  "season_id": "80zg2v1cuqcfhphn56u4qpyqc",
+  "lang": "de",
+  "teams": [
+    {
+      "id": "2000019642",
+      "name": "Girona",
+      "filename": "girona_fc"
+    },
+    {
+      "id": "2000006891",
+      "name": "Rayo Vallecano Madrid",
+      "filename": "rayo_vallecano"
+    },
+    {
+      "id": "1882482",
+      "name": "FC Villarreal",
+      "filename": "villarreal"
+    },
+    {
+      "id": "clo928vcczjp0mczavs5o7p5k",
+      "name": "Real Oviedo",
+      "filename": "real_oviedo"
+    },
+    {
+      "id": "400074602",
+      "name": "RCD Mallorca",
+      "filename": "rcd_mallorca"
+    },
+    {
+      "id": "1903416",
+      "name": "Barcelona",
+      "filename": "barcelona"
+    },
+    {
+      "id": "356",
+      "name": "Alavés",
+      "filename": "deportivo_alav_s"
+    },
+    {
+      "id": "1883309",
+      "name": "UD Levante",
+      "filename": "levante_ud"
+    },
+    {
+      "id": "32840",
+      "name": "FC Valencia",
+      "filename": "valencia_cf"
+    },
+    {
+      "id": "31069",
+      "name": "Real Sociedad",
+      "filename": "real_sociedad"
+    },
+    {
+      "id": "2000006874",
+      "name": "Celta de Vigo",
+      "filename": "rc_celta"
+    },
+    {
+      "id": "1884966",
+      "name": "FC Getafe",
+      "filename": "getafe_cf"
+    },
+    {
+      "id": "31071",
+      "name": "Athletic Bilbao",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "358",
+      "name": "FC Sevilla",
+      "filename": "sevilla"
+    },
+    {
+      "id": "44229",
+      "name": "Espanyol Barcelona",
+      "filename": "rcd_espanyol"
+    },
+    {
+      "id": "1914808",
+      "name": "Atlético de Madrid",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "400139932",
+      "name": "FC Elche",
+      "filename": "elche_cf"
+    },
+    {
+      "id": "32838",
+      "name": "Betis Sevilla",
+      "filename": "real_betis"
+    },
+    {
+      "id": "30504",
+      "name": "Real Madrid C.F.",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "400074600",
+      "name": "CA Osasuna",
+      "filename": "ca_osasuna"
+    }
+  ]
+}

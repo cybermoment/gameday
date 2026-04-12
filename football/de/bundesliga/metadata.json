@@ -1,0 +1,98 @@
+{
+  "competition_name": "Bundesliga",
+  "competition_id": "2000000019",
+  "season_id": "2bchmrj23l9u42d68ntcekob8",
+  "lang": "de",
+  "teams": [
+    {
+      "id": "1914810",
+      "name": "FC Bayern München",
+      "filename": "fc_bayern_m_nchen"
+    },
+    {
+      "id": "2000019394",
+      "name": "RB Leipzig",
+      "filename": "rb_leipzig"
+    },
+    {
+      "id": "3xcg7xikgrn2x8oa65sopb2is",
+      "name": "1. FC Heidenheim 1846",
+      "filename": "heidenheim"
+    },
+    {
+      "id": "44144",
+      "name": "VfL Wolfsburg",
+      "filename": "wolfsburg"
+    },
+    {
+      "id": "31023",
+      "name": "Eintracht Frankfurt",
+      "filename": "eintracht_frankfurt"
+    },
+    {
+      "id": "30995",
+      "name": "SV Werder Bremen",
+      "filename": "werder_bremen"
+    },
+    {
+      "id": "400081595",
+      "name": "1. FC Union Berlin",
+      "filename": "union_berlin"
+    },
+    {
+      "id": "31053",
+      "name": "VfB Stuttgart",
+      "filename": "vfb_stuttgart"
+    },
+    {
+      "id": "31055",
+      "name": "Bayer 04 Leverkusen",
+      "filename": "bayer_leverkusen"
+    },
+    {
+      "id": "2000000593",
+      "name": "TSG Hoffenheim",
+      "filename": "tsg_1899_hoffenheim"
+    },
+    {
+      "id": "1882249",
+      "name": "SC Freiburg",
+      "filename": "sc_freiburg"
+    },
+    {
+      "id": "2000012821",
+      "name": "FC Augsburg",
+      "filename": "fc_augsburg"
+    },
+    {
+      "id": "1955632",
+      "name": "FC St. Pauli",
+      "filename": "st_pauli"
+    },
+    {
+      "id": "1914854",
+      "name": "Borussia Dortmund",
+      "filename": "borussia_dortmund"
+    },
+    {
+      "id": "2000002605",
+      "name": "1. FSV Mainz 05",
+      "filename": "1_fsv_mainz_05"
+    },
+    {
+      "id": "2000000591",
+      "name": "1. FC Köln",
+      "filename": "1_fc_k_ln"
+    },
+    {
+      "id": "33198",
+      "name": "Borussia M'gladbach",
+      "filename": "borussia_m_gladbach"
+    },
+    {
+      "id": "1914828",
+      "name": "Hamburger SV",
+      "filename": "hamburger_sv"
+    }
+  ]
+}

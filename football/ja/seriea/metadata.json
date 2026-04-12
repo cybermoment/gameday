@@ -1,0 +1,108 @@
+{
+  "competition_name": "セリエA",
+  "competition_id": "2000000026",
+  "season_id": "emdmtfr1v8rey2qru3xzfwges",
+  "lang": "ja",
+  "teams": [
+    {
+      "id": "2000006977",
+      "name": "サッスオーロ",
+      "filename": "sassuolo"
+    },
+    {
+      "id": "2147481899",
+      "name": "ナポリ",
+      "filename": "napoli"
+    },
+    {
+      "id": "1887644",
+      "name": "ジェノア",
+      "filename": "genoa"
+    },
+    {
+      "id": "400086390",
+      "name": "レッチェ",
+      "filename": "lecce"
+    },
+    {
+      "id": "31083",
+      "name": "ローマ",
+      "filename": "as_roma"
+    },
+    {
+      "id": "33387",
+      "name": "ボローニャ",
+      "filename": "bologna"
+    },
+    {
+      "id": "1907169",
+      "name": "ミラン",
+      "filename": "milan"
+    },
+    {
+      "id": "af91jdcs6x0bqkmdb78rokod2",
+      "name": "クレモネーゼ",
+      "filename": "cremonese"
+    },
+    {
+      "id": "6uzfw7ahyxg4wrrfxo5u7qt0n",
+      "name": "コモ",
+      "filename": "como"
+    },
+    {
+      "id": "1890313",
+      "name": "ラツィオ",
+      "filename": "lazio"
+    },
+    {
+      "id": "451",
+      "name": "カリアリ",
+      "filename": "cagliari"
+    },
+    {
+      "id": "44331",
+      "name": "フィオレンティーナ",
+      "filename": "fiorentina"
+    },
+    {
+      "id": "1914806",
+      "name": "ユベントス FC",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "34551",
+      "name": "パルマ",
+      "filename": "parma"
+    },
+    {
+      "id": "2147482134",
+      "name": "アタランタ",
+      "filename": "atalanta"
+    },
+    {
+      "id": "bfztlrr6176xsdt2bmp0u1d2d",
+      "name": "ピサ",
+      "filename": "pisa"
+    },
+    {
+      "id": "32060",
+      "name": "ウディネーゼ",
+      "filename": "udinese"
+    },
+    {
+      "id": "30986",
+      "name": "エラス・ヴェローナ",
+      "filename": "hellas_verona"
+    },
+    {
+      "id": "1914619",
+      "name": "FC インテルナツィオナーレ・ミラノ",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "2147482132",
+      "name": "トリノ",
+      "filename": "torino"
+    }
+  ]
+}

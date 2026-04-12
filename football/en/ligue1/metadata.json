@@ -1,0 +1,98 @@
+{
+  "competition_name": "Ligue 1",
+  "competition_id": "2000000018",
+  "season_id": "dbxs75cag7zyip5re0ppsanmc",
+  "lang": "en",
+  "teams": [
+    {
+      "id": "44184",
+      "name": "Rennes",
+      "filename": "rennes"
+    },
+    {
+      "id": "33192",
+      "name": "Olympique Marseille",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "400129932",
+      "name": "Lens",
+      "filename": "lens"
+    },
+    {
+      "id": "26230",
+      "name": "Olympique Lyonnais",
+      "filename": "olympique_lyonnais"
+    },
+    {
+      "id": "30983",
+      "name": "AS Monaco",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "1955644",
+      "name": "Le Havre",
+      "filename": "le_havre"
+    },
+    {
+      "id": "44203",
+      "name": "OGC Nice",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "33352",
+      "name": "Toulouse FC",
+      "filename": "toulouse_fc"
+    },
+    {
+      "id": "400079771",
+      "name": "Stade Brestois",
+      "filename": "stade_brestois"
+    },
+    {
+      "id": "33350",
+      "name": "Lille",
+      "filename": "lille"
+    },
+    {
+      "id": "31032",
+      "name": "FC Metz",
+      "filename": "fc_metz"
+    },
+    {
+      "id": "44239",
+      "name": "RC Strasbourg Alsace",
+      "filename": "rc_strasbourg_alsace"
+    },
+    {
+      "id": "2000019156",
+      "name": "Angers SCO",
+      "filename": "angers_sco"
+    },
+    {
+      "id": "8v00fx2zwhiwm05tqqkt122p5",
+      "name": "Paris FC",
+      "filename": "paris_fc"
+    },
+    {
+      "id": "9bxav814mkuhueiyivyive82d",
+      "name": "Auxerre",
+      "filename": "auxerre"
+    },
+    {
+      "id": "400129931",
+      "name": "FC Lorient",
+      "filename": "fc_lorient"
+    },
+    {
+      "id": "2000000574",
+      "name": "FC Nantes",
+      "filename": "fc_nantes"
+    },
+    {
+      "id": "1956449",
+      "name": "Paris Saint-Germain",
+      "filename": "paris_saint_germain"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига 1 - Гавр //
+X-WR-CALNAME:Лига 1 - Гавр
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Монако VS Гавр
+DTSTART:20250816T170000Z
+DTEND:20250816T190000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-76d9cbhb0m7r4hvrr0ma22fpw@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Louis-II\nР
+ езультат: 3 - 1
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Ланс
+DTSTART:20250824T151500Z
+DTEND:20250824T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-77vwwullt2rkwqbrcq2q71j4k@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 1 - 2
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Ницца
+DTSTART:20250831T151500Z
+DTEND:20250831T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7cmwxdyiko746tibe3mgxdjpw@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 3 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Страсбур VS Гавр
+DTSTART:20250914T151500Z
+DTEND:20250914T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7fxlfaq79j9fhu0z0tywm036c@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade de la Meinau\
+ nРезультат: 1 - 0
+GEO:48.560069;7.755157
+LOCATION:Stade de la Meinau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Meinau";X-APP
+ LE-RADIUS=70;X-TITLE="Stade de la Meinau":geo:48.560069,7.755157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Лорьян
+DTSTART:20250921T151500Z
+DTEND:20250921T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7iu1zdyf1l318hz7bq2zau42c@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 1 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Метц VS Гавр
+DTSTART:20250928T151500Z
+DTEND:20250928T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7lt407efe035jm3gv41dg8vmc@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Стадион Ст
+ аде Сент-Симфорен\nРезультат: 0 - 0
+GEO:49.109789;6.159449
+LOCATION:Стадион Стаде Сент-Симфорен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Стаде
+  Сент-Симфорен";X-APPLE-RADIUS=70;X-TITLE="Стадион Ст
+ аде Сент-Симфорен":geo:49.109789,6.159449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Ренн
+DTSTART:20251005T151500Z
+DTEND:20251005T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7oqwklcldhxccx21yl22e8v84@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 2 - 2
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпик Марсель VS Гавр
+DTSTART:20251018T190500Z
+DTEND:20251018T210500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7r005fpphen9xjmizqrub6904@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Оранж Вело
+ дром\nРезультат: 6 - 2
+GEO:43.26987;5.395854
+LOCATION:Оранж Велодром
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Оранж Велодро
+ м";X-APPLE-RADIUS=70;X-TITLE="Оранж Велодром":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Осер VS Гавр
+DTSTART:20251026T161500Z
+DTEND:20251026T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7vxtdk1qltv5nokw7qo9kk9p0@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade de l'Abbé De
+ schamps\nРезультат: 0 - 1
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Брест
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-7znx52cirafzl9sfcd5fcpd04@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 1 - 0
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тулуза VS Гавр
+DTSTART:20251102T161500Z
+DTEND:20251102T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-81nmz4z6jep92lon7gofss650@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stadium de Toulouse
+ \nРезультат: 0 - 0
+GEO:43.58329;1.434038
+LOCATION:Stadium de Toulouse
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium de Toulouse";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadium de Toulouse":geo:43.58329,1.434038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Нант
+DTSTART:20251108T180000Z
+DTEND:20251108T200000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-866rrtjqlkc7awxv3d655drmc@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 1 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Гавр
+DTSTART:20251122T200500Z
+DTEND:20251122T220500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8b07eq7uasgxv9sfkgi6nocus@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Парк де Пр
+ енс\nРезультат: 3 - 0
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Лилль
+DTSTART:20251130T161500Z
+DTEND:20251130T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8chiraxydxwe3x80yl1bozkes@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 0 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Париж ФК
+DTSTART:20251207T161500Z
+DTEND:20251207T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8f3tnmo8i4bko7srxs5ssqkgk@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 0 - 0
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпик Лион VS Гавр
+DTSTART:20251214T140000Z
+DTEND:20251214T160000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8jmkgul01k740xn7bqnhkbr4k@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Парк Олимп
+ ик Лионне\nРезультат: 1 - 0
+GEO:45.76531;4.982064
+LOCATION:Парк Олимпик Лионне
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк Олимпик 
+ Лионне";X-APPLE-RADIUS=70;X-TITLE="Парк Олимпик Лион
+ не":geo:45.76531,4.982064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Анжер
+DTSTART:20260104T161500Z
+DTEND:20260104T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8mxqz36quo3qb4bt6wgwbmz2s@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 2 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ренн VS Гавр
+DTSTART:20260118T161500Z
+DTEND:20260118T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8otqi9r77wlz4ohmerij4fqxg@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Roazhon Park\nРе
+ зультат: 1 - 1
+GEO:48.107467;-1.712884
+LOCATION:Roazhon Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roazhon Park";X-APPLE-RAD
+ IUS=70;X-TITLE="Roazhon Park":geo:48.107467,-1.712884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Монако
+DTSTART:20260124T180000Z
+DTEND:20260124T200000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8um36ha8ckilyfkjzwnzikhzo@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 0 - 0
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ланс VS Гавр
+DTSTART:20260130T194500Z
+DTEND:20260130T214500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-8y0f1bhw42hpzh9ch8vrmyp78@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Bollaert-Dele
+ lis\nРезультат: 1 - 0
+GEO:50.432867;2.814941
+LOCATION:Stade Bollaert-Delelis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Bollaert-Delelis";X
+ -APPLE-RADIUS=70;X-TITLE="Stade Bollaert-Delelis":geo:50.432867,2.814941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Страсбур
+DTSTART:20260208T161500Z
+DTEND:20260208T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-909n78etc7zwg4afsvra5kro4@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 2 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Тулуза
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-93mssjxmeg7m6j5qdzug0gpp0@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 2 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Нант VS Гавр
+DTSTART:20260222T161500Z
+DTEND:20260222T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-97ss3ca8wx72vsspzijyu20pg@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Стадион Бо
+ жуа́р - Луи́ Фонтено́\nРезультат: 2 - 0
+GEO:47.256023;-1.524716
+LOCATION:Стадион Божуа́р - Луи́ Фонтено́
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Божуа
+ ́р - Луи́ Фонтено́";X-APPLE-RADIUS=70;X-TITLE="Стадио
+ н Божуа́р - Луи́ Фонтено́":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Paris Saint-Germain
+DTSTART:20260228T200500Z
+DTEND:20260228T220500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-99a58crfa6os7lt9la3gclh5g@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 0 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Брест VS Гавр
+DTSTART:20260308T161500Z
+DTEND:20260308T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9d1i6ix9sinez5um1ic7284d0@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Francis-Le Bl
+ é\nРезультат: 2 - 0
+GEO:48.402882;-4.461458
+LOCATION:Stade Francis-Le Blé
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Francis-Le Blé";X-
+ APPLE-RADIUS=70;X-TITLE="Stade Francis-Le Blé":geo:48.402882,-4.461458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Олимпик Лион
+DTSTART:20260315T161500Z
+DTEND:20260315T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9gqu1uh88maw6ttz22uwpjwus@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 0 - 0
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Париж ФК VS Гавр
+DTSTART:20260322T161500Z
+DTEND:20260322T181500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9lgnd4nfwyy4hxu2uxmfnid5g@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Jean Bouin\n
+ Результат: 3 - 2
+GEO:48.843148;2.252916
+LOCATION:Stade Jean Bouin
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Jean Bouin";X-APPLE
+ -RADIUS=70;X-TITLE="Stade Jean Bouin":geo:48.843148,2.252916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Осер
+DTSTART:20260405T151500Z
+DTEND:20260405T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9oi06kws1i8wrxbdkl4pnf5sk@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane\nРе
+ зультат: 1 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ницца VS Гавр
+DTSTART:20260412T151500Z
+DTEND:20260412T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9rizhdu5w8k70m2jml4nf4d1w@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Альянц Рив
+ ьера
+GEO:43.705119;7.192622
+LOCATION:Альянц Ривьера
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Альянц Ривьер
+ а";X-APPLE-RADIUS=70;X-TITLE="Альянц Ривьера":geo:43.705119,
+ 7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Анжер VS Гавр
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9vf4hv3la1d428v3j7ejd6qs4@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Raymond Kopa
+GEO:47.460413;-0.530777
+LOCATION:Stade Raymond Kopa
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Raymond Kopa";X-APP
+ LE-RADIUS=70;X-TITLE="Stade Raymond Kopa":geo:47.460413,-0.530777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Метц
+DTSTART:20260426T151500Z
+DTEND:20260426T171500Z
+DTSTAMP:20260412T071033Z
+UID:fifa-9y2s6ykrv8q191sxyzu8g8dg4@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лилль VS Гавр
+DTSTART:20260503T130000Z
+DTEND:20260503T150000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-a1uynt862yubvos469tnn6c5w@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Decathlon Arena - S
+ tade Pierre-Mauroy
+GEO:50.611965;3.130484
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Decathlon Arena - Stade P
+ ierre-Mauroy";X-APPLE-RADIUS=70;X-TITLE="Decathlon Arena - Stade Pierre-Ma
+ uroy":geo:50.611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гавр VS Олимпик Марсель
+DTSTART:20260509T190000Z
+DTEND:20260509T210000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-a4fu2e9ue09trjzjs5ob8w8b8@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade Océane
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лорьян VS Гавр
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+DTSTAMP:20260412T071033Z
+UID:fifa-a7sjjaj7qeh5a8bh61cdw8vmc@fifa.com
+DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
+ период соревнований\nСтадион: Stade du Moustoir -
+  Yves Allainmat
+GEO:47.748821;-3.369021
+LOCATION:Stade du Moustoir - Yves Allainmat
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade du Moustoir - Yves 
+ Allainmat";X-APPLE-RADIUS=70;X-TITLE="Stade du Moustoir - Yves Allainmat":
+ geo:47.748821,-3.369021
+END:VEVENT
+END:VCALENDAR

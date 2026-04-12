@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Premier League - Arsenal //
+X-WR-CALNAME:Premier League - Arsenal
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Manchester United VS Arsenal
+DTSTART:20250817T153000Z
+DTEND:20250817T173000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-13h7obu9sa1vfh3a0esob4jdg@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Old Trafford\nRisultato: 0 - 1
+GEO:53.463094;-2.291374
+LOCATION:Old Trafford
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Old Trafford";X-APPLE-RAD
+ IUS=70;X-TITLE="Old Trafford":geo:53.463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Leeds United
+DTSTART:20250823T163000Z
+DTEND:20250823T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-14qo3uypv7lmce0ewcvxe89w4@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 5 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool VS Arsenal
+DTSTART:20250831T153000Z
+DTEND:20250831T173000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-19ty1jsiu05lygxc15uw4exp0@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Anfield\nRisultato: 1 - 0
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Nottingham Forest
+DTSTART:20250913T113000Z
+DTEND:20250913T133000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-1ck3f5txde110a1im9lxy0ys4@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 3 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Manchester City
+DTSTART:20250921T153000Z
+DTEND:20250921T173000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-1gil6wudqtyaauvngcgucwbh0@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 1 - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle VS Arsenal
+DTSTART:20250928T153000Z
+DTEND:20250928T173000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-1mv5kukvh2gold9lzbfle86qc@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  St. James' Park\nRisultato: 1 - 2
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS West Ham United
+DTSTART:20251004T140000Z
+DTEND:20251004T160000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-1oi3hkt91umhnxou8rk970ums@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham VS Arsenal
+DTSTART:20251018T163000Z
+DTEND:20251018T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-1taq9euew4fs51eqk666nc2dw@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Craven Cottage\nRisultato: 0 - 1
+GEO:51.474898;-0.221647
+LOCATION:Craven Cottage
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Craven Cottage";X-APPLE-R
+ ADIUS=70;X-TITLE="Craven Cottage":geo:51.474898,-0.221647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Crystal Palace
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-1wlvabjugecgxexpyqugbo7bo@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 1 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley VS Arsenal
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-20lqgnidk2bwum92qqbsimxp0@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Turf Moor\nRisultato: 0 - 2
+GEO:53.788984;-2.230225
+LOCATION:Turf Moor
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turf Moor";X-APPLE-RADIUS
+ =70;X-TITLE="Turf Moor":geo:53.788984,-2.230225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland VS Arsenal
+DTSTART:20251108T173000Z
+DTEND:20251108T193000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-26zfrrhdp3qw2inh0oyvmdzbo@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Stadium of Light\nRisultato: 2 - 2
+GEO:54.914422;-1.388177
+LOCATION:Stadium of Light
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium of Light";X-APPLE
+ -RADIUS=70;X-TITLE="Stadium of Light":geo:54.914422,-1.388177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Tottenham Hotspur
+DTSTART:20251123T163000Z
+DTEND:20251123T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-28m9dl3dg3b2kv50yxgrt2sk4@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 4 - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea FC VS Arsenal
+DTSTART:20251130T163000Z
+DTEND:20251130T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-2cz22hrl9l7pesg0j8977wrh0@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Stamford Bridge\nRisultato: 1 - 1
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Brentford
+DTSTART:20251203T193000Z
+DTEND:20251203T213000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-2gktdb7h1jkkld873ss0s0kyc@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa VS Arsenal
+DTSTART:20251206T123000Z
+DTEND:20251206T143000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-2knvskhww99qrbj71gbu13578@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Villa Park\nRisultato: 2 - 1
+GEO:52.509091;-1.884842
+LOCATION:Villa Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Villa Park";X-APPLE-RADIU
+ S=70;X-TITLE="Villa Park":geo:52.509091,-1.884842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Wolverhampton Wanderers
+DTSTART:20251213T200000Z
+DTEND:20251213T220000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-2o9v97aqrj9rmg20rell04xec@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton VS Arsenal
+DTSTART:20251220T200000Z
+DTEND:20251220T220000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-2tm0x6wlasz3xmigxsq5f6c5w@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Hill Dickinson Stadium\nRisultato: 0 - 1
+GEO:53.424981;-3.002691
+LOCATION:Hill Dickinson Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hill Dickinson Stadium";X
+ -APPLE-RADIUS=70;X-TITLE="Hill Dickinson Stadium":geo:53.424981,-3.002691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Brighton & Hove Albion
+DTSTART:20251227T150000Z
+DTEND:20251227T170000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-2wehv0cptselv086q8jud4hec@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Aston Villa
+DTSTART:20251230T201500Z
+DTEND:20251230T221500Z
+DTSTAMP:20260412T070851Z
+UID:fifa-30fwl59qqa9t2ospcpwuytdzo@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 4 - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth VS Arsenal
+DTSTART:20260103T173000Z
+DTEND:20260103T193000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-34oxxtv9gbzl6xcda8ldgnz84@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Vitality Stadium\nRisultato: 2 - 3
+GEO:50.735241;-1.83831
+LOCATION:Vitality Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vitality Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Vitality Stadium":geo:50.735241,-1.83831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Liverpool
+DTSTART:20260108T200000Z
+DTEND:20260108T220000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-396bo5t5fzkfqcmcj0rlhtez8@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 0 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest VS Arsenal
+DTSTART:20260117T173000Z
+DTEND:20260117T193000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-3f8kheyscdow1tquwqldlvi1g@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  The City Ground\nRisultato: 0 - 0
+GEO:52.939913;-1.132894
+LOCATION:The City Ground
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="The City Ground";X-APPLE-
+ RADIUS=70;X-TITLE="The City Ground":geo:52.939913,-1.132894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Manchester United
+DTSTART:20260125T163000Z
+DTEND:20260125T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-3h7uw06wrdggi4gvmvcm40xlg@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 3
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds United VS Arsenal
+DTSTART:20260131T150000Z
+DTEND:20260131T170000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-3m29fhxvog8hxn10pfyhgs0lw@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Elland Road\nRisultato: 0 - 4
+GEO:53.777834;-1.572279
+LOCATION:Elland Road
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Elland Road";X-APPLE-RADI
+ US=70;X-TITLE="Elland Road":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Sunderland
+DTSTART:20260207T150000Z
+DTEND:20260207T170000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-3paqoync1x6ffgogsb85v15p0@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 3 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Arsenal
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-3ta3lmi2yhygyqebvoqytbf2s@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Gtech Community Stadium\nRisultato: 1 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton Wanderers VS Arsenal
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-4go4bjgjd216pca6xkuxtolxw@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Molineux Stadium\nRisultato: 2 - 2
+GEO:52.590238;-2.130433
+LOCATION:Molineux Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Molineux Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Molineux Stadium":geo:52.590238,-2.130433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham Hotspur VS Arsenal
+DTSTART:20260222T163000Z
+DTEND:20260222T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-405a2do557or1ct3j3l0vo6j8@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Tottenham Hotspur Stadium\nRisultato: 1 - 4
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Chelsea FC
+DTSTART:20260301T163000Z
+DTEND:20260301T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-41cldzbwls4xo9gxeu50cu2vo@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton & Hove Albion VS Arsenal
+DTSTART:20260304T193000Z
+DTEND:20260304T213000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-45skrbpsdh3x4g4jsq6rb56ac@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  American Express Stadium\nRisultato: 0 - 1
+GEO:50.86158;-0.083642
+LOCATION:American Express Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="American Express Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="American Express Stadium":geo:50.86158,-0.0836
+ 42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Everton
+DTSTART:20260314T173000Z
+DTEND:20260314T193000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-48z7dzv6kdvzis2mn5v5th250@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Bournemouth
+DTSTART:20260411T113000Z
+DTEND:20260411T133000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-4h2ew9waug2vsce1xchjf9zbo@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium\nRisultato: 1 - 2
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Arsenal
+DTSTART:20260419T153000Z
+DTEND:20260419T173000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-4nwnb9i8nivpfmdru07fywsgk@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Etihad Stadium
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Newcastle
+DTSTART:20260425T163000Z
+DTEND:20260425T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-4pwek6ufip2m51lyelp0r5las@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Fulham
+DTSTART:20260502T163000Z
+DTEND:20260502T183000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-4u45d36alhjxa1qxmvmzja80k@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham United VS Arsenal
+DTSTART:20260510T153000Z
+DTEND:20260510T173000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-51i8bgm45ruiglvkbgnyb6ihg@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  London Stadium
+GEO:51.538688;-0.016501
+LOCATION:London Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="London Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="London Stadium":geo:51.538688,-0.016501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Burnley
+DTSTART:20260517T140000Z
+DTEND:20260517T160000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-52bponwfjilfsdlm8gj7f6k2c@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Emirates Stadium
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace VS Arsenal
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+DTSTAMP:20260412T070851Z
+UID:fifa-56sqj49wua0241sbk71k9rdhw@fifa.com
+DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
+  Selhurst Park
+GEO:51.398279;-0.085503
+LOCATION:Selhurst Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Selhurst Park";X-APPLE-RA
+ DIUS=70;X-TITLE="Selhurst Park":geo:51.398279,-0.085503
+END:VEVENT
+END:VCALENDAR

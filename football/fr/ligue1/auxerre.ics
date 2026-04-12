@@ -1,0 +1,468 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue 1 - Auxerre //
+X-WR-CALNAME:Ligue 1 - Auxerre
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Lorient
+DTSTART:20250817T151500Z
+DTEND:20250817T171500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-74h5os2atpg4gkrdbrss9gefo@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 1 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nice VS Auxerre
+DTSTART:20250823T170000Z
+DTEND:20250823T190000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-78ltzch15j0kgdvqr7fww0nbo@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Allia
+ nz Riviera\nRésultat: 3 - 1
+GEO:43.705119;7.192622
+LOCATION:Allianz Riviera
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Riviera";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Riviera":geo:43.705119,7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes VS Auxerre
+DTSTART:20250830T170000Z
+DTEND:20250830T190000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7bk8twwdbyyipms1jnzmt3ims@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de la Beaujoire - Louis Fonteneau\nRésultat: 1 - 0
+GEO:47.256023;-1.524716
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire - L
+ ouis Fonteneau";X-APPLE-RADIUS=70;X-TITLE="Stade de la Beaujoire - Louis F
+ onteneau":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Monaco
+DTSTART:20250913T190500Z
+DTEND:20250913T210500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7efmhwisdsjjgbfwh06ou8nbo@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 1 - 2
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Toulouse
+DTSTART:20250921T151500Z
+DTEND:20250921T171500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7iglc3pzsvxdcv3y06926j6l0@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 1 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Auxerre
+DTSTART:20250927T190500Z
+DTEND:20250927T210500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7na0v7epd0x1r94af3u4dso44@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Parc 
+ des Princes\nRésultat: 2 - 0
+GEO:48.841433;2.253049
+LOCATION:Parc des Princes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes";X-APPLE
+ -RADIUS=70;X-TITLE="Parc des Princes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Lens
+DTSTART:20251004T190500Z
+DTEND:20251004T210500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7q9habd412g1giclzyhxwqm1g@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 1 - 2
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rennes VS Auxerre
+DTSTART:20251019T151500Z
+DTEND:20251019T171500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7tyy0bjxwgzgrr2s7lnn698no@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Roazh
+ on Park\nRésultat: 2 - 2
+GEO:48.107467;-1.712884
+LOCATION:Roazhon Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roazhon Park";X-APPLE-RAD
+ IUS=70;X-TITLE="Roazhon Park":geo:48.107467,-1.712884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Le Havre
+DTSTART:20251026T161500Z
+DTEND:20251026T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7vxtdk1qltv5nokw7qo9kk9p0@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 1
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strasbourg VS Auxerre
+DTSTART:20251029T200500Z
+DTEND:20251029T220500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-7yvumhtfkzi2mp08th02rzhg4@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de la Meinau\nRésultat: 3 - 0
+GEO:48.560069;7.755157
+LOCATION:Stade de la Meinau
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Meinau";X-APP
+ LE-RADIUS=70;X-TITLE="Stade de la Meinau":geo:48.560069,7.755157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Marseille
+DTSTART:20251101T200500Z
+DTEND:20251101T220500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-84cd9y0ujv779suuvt17xv7ro@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 1
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angers VS Auxerre
+DTSTART:20251109T161500Z
+DTEND:20251109T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-85tfgt0ebqh6zi9jd3xfvqhhw@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Raymond Kopa\nRésultat: 2 - 0
+GEO:47.460413;-0.530777
+LOCATION:Stade Raymond Kopa
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Raymond Kopa";X-APP
+ LE-RADIUS=70;X-TITLE="Stade Raymond Kopa":geo:47.460413,-0.530777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Lyon
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8a9wa7pzfck1g5z5t33z06784@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris FC VS Auxerre
+DTSTART:20251129T180000Z
+DTEND:20251129T200000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8bqrt5xzfyok5v7dblphpd4pg@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Jean Bouin\nRésultat: 1 - 1
+GEO:48.843148;2.252916
+LOCATION:Stade Jean Bouin
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Jean Bouin";X-APPLE
+ -RADIUS=70;X-TITLE="Stade Jean Bouin":geo:48.843148,2.252916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Metz
+DTSTART:20251207T161500Z
+DTEND:20251207T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8fh296rt2px5vbp5y7457qxas@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 3 - 1
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Lille
+DTSTART:20251214T161500Z
+DTEND:20251214T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8ivxronb80ztyzfv5pr850sno@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 3 - 4
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brest VS Auxerre
+DTSTART:20260104T161500Z
+DTEND:20260104T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8nq11nvlv3kcy4qidv1yii2ac@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Francis-Le Blé\nRésultat: 2 - 0
+GEO:48.402882;-4.461458
+LOCATION:Stade Francis-Le Blé
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Francis-Le Blé";X-
+ APPLE-RADIUS=70;X-TITLE="Stade Francis-Le Blé":geo:48.402882,-4.461458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens VS Auxerre
+DTSTART:20260117T160000Z
+DTEND:20260117T180000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8pysxkqzqxm5buurzebf08e8k@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Bollaert-Delelis\nRésultat: 1 - 0
+GEO:50.432867;2.814941
+LOCATION:Stade Bollaert-Delelis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Bollaert-Delelis";X
+ -APPLE-RADIUS=70;X-TITLE="Stade Bollaert-Delelis":geo:50.432867,2.814941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Paris Saint-Germain
+DTSTART:20260123T190000Z
+DTEND:20260123T210000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8sr1cnoxz6t9nr359umloabro@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 1
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toulouse VS Auxerre
+DTSTART:20260201T161500Z
+DTEND:20260201T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-8wub8phw726z2s7c0xd95xfkk@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stadi
+ um de Toulouse\nRésultat: 0 - 0
+GEO:43.58329;1.434038
+LOCATION:Stadium de Toulouse
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium de Toulouse";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadium de Toulouse":geo:43.58329,1.434038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Paris FC
+DTSTART:20260208T161500Z
+DTEND:20260208T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-90mzl6cpsvr2ctujlp4he6fis@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metz VS Auxerre
+DTSTART:20260215T161500Z
+DTEND:20260215T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9404tejjdtw065b44zk6aj5sk@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Saint-Symphorien\nRésultat: 1 - 3
+GEO:49.109789;6.159449
+LOCATION:Stade Saint-Symphorien
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Saint-Symphorien";X
+ -APPLE-RADIUS=70;X-TITLE="Stade Saint-Symphorien":geo:49.109789,6.159449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Rennes
+DTSTART:20260222T140000Z
+DTEND:20260222T160000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-98wrlx9pesn8r95d5wm0qfims@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 3
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lorient VS Auxerre
+DTSTART:20260301T161500Z
+DTEND:20260301T181500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9af53o9hfgs4hfirkjmlljndg@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  du Moustoir - Yves Allainmat\nRésultat: 2 - 2
+GEO:47.748821;-3.369021
+LOCATION:Stade du Moustoir - Yves Allainmat
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade du Moustoir - Yves 
+ Allainmat";X-APPLE-RADIUS=70;X-TITLE="Stade du Moustoir - Yves Allainmat":
+ geo:47.748821,-3.369021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Strasbourg
+DTSTART:20260307T180000Z
+DTEND:20260307T200000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9ewdmzregj6oqyc4h5wd30fmc@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille VS Auxerre
+DTSTART:20260313T194500Z
+DTEND:20260313T214500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9j3m943ydaqhzkip4dm8x36s4@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Orang
+ e Vélodrome\nRésultat: 1 - 0
+GEO:43.26987;5.395854
+LOCATION:Orange Vélodrome
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Orange Vélodrome";X-APPL
+ E-RADIUS=70;X-TITLE="Orange Vélodrome":geo:43.26987,5.395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Brest
+DTSTART:20260321T180000Z
+DTEND:20260321T200000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9jziwyg6cgsvoirapcks32dxw@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 3 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Havre VS Auxerre
+DTSTART:20260405T151500Z
+DTEND:20260405T171500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9oi06kws1i8wrxbdkl4pnf5sk@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Océane\nRésultat: 1 - 1
+GEO:49.498869;0.169709
+LOCATION:Stade Océane
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Océane";X-APPLE-RA
+ DIUS=70;X-TITLE="Stade Océane":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Nantes
+DTSTART:20260411T170000Z
+DTEND:20260411T190000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9t2ybu6n2todh9f2qi3uyg4r8@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps\nRésultat: 0 - 0
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco VS Auxerre
+DTSTART:20260419T130000Z
+DTEND:20260419T150000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9vsnlak9lmoalib3eyd64z9ck@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  Louis-II
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lyon VS Auxerre
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-9z6uqobyhlmmv7r1ntaszb5zo@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Group
+ ama Stadium
+GEO:45.76531;4.982064
+LOCATION:Groupama Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Groupama Stadium":geo:45.76531,4.982064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Angers
+DTSTART:20260503T151500Z
+DTEND:20260503T171500Z
+DTSTAMP:20260412T071030Z
+UID:fifa-a3bwsw6j5a69te8hyh8e2ytxw@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre VS Nice
+DTSTART:20260509T190000Z
+DTEND:20260509T210000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-a5jgajvb594m84xr48f4aqo0k@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
+  de l'Abbé Deschamps
+GEO:47.786835;3.588517
+LOCATION:Stade de l'Abbé Deschamps
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de l'Abbé Deschamp
+ s";X-APPLE-RADIUS=70;X-TITLE="Stade de l'Abbé Deschamps":geo:47.786835,3.
+ 588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille VS Auxerre
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+DTSTAMP:20260412T071030Z
+UID:fifa-a8jcx98nbda7y3qmm4aigetqs@fifa.com
+DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Decat
+ hlon Arena - Stade Pierre-Mauroy
+GEO:50.611965;3.130484
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Decathlon Arena - Stade P
+ ierre-Mauroy";X-APPLE-RADIUS=70;X-TITLE="Decathlon Arena - Stade Pierre-Ma
+ uroy":geo:50.611965,3.130484
+END:VEVENT
+END:VCALENDAR

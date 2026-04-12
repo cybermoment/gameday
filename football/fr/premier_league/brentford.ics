@@ -1,0 +1,521 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Premier League - Brentford //
+X-WR-CALNAME:Premier League - Brentford
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest VS Brentford
+DTSTART:20250817T130000Z
+DTEND:20250817T150000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-110stnyllsj1u0mhdabeuvyfo@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : The City Ground\nRésultat: 3 - 1
+GEO:52.939913;-1.132894
+LOCATION:The City Ground
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="The City Ground";X-APPLE-
+ RADIUS=70;X-TITLE="The City Ground":geo:52.939913,-1.132894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Aston Villa
+DTSTART:20250823T140000Z
+DTEND:20250823T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-154ru5ptp2kfs14iguma92kno@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 1 - 0
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland VS Brentford
+DTSTART:20250830T140000Z
+DTEND:20250830T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1b0aavyqhw9g2ebi1cua6uiac@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Stadium of Light\nRésultat: 2 - 1
+GEO:54.914422;-1.388177
+LOCATION:Stadium of Light
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium of Light";X-APPLE
+ -RADIUS=70;X-TITLE="Stadium of Light":geo:54.914422,-1.388177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Chelsea FC
+DTSTART:20250913T190000Z
+DTEND:20250913T210000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1cy3zxa3qlhra05l8tmcnmgwk@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 2 - 2
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham VS Brentford
+DTSTART:20250920T190000Z
+DTEND:20250920T210000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1hotdoe44db3avxd1j91hxw5w@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Craven Cottage\nRésultat: 3 - 1
+GEO:51.474898;-0.221647
+LOCATION:Craven Cottage
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Craven Cottage";X-APPLE-R
+ ADIUS=70;X-TITLE="Craven Cottage":geo:51.474898,-0.221647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Manchester United
+DTSTART:20250927T113000Z
+DTEND:20250927T133000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1khr3704psti8rqgjsvafpa1g@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 3 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Manchester City
+DTSTART:20251005T153000Z
+DTEND:20251005T173000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1paikangkucvx6etwyog8bxg4@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 0 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham VS Brentford
+DTSTART:20251020T190000Z
+DTEND:20251020T210000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1vrxomf1ihb6xrivhrvs4nd3o@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : London Stadium\nRésultat: 0 - 2
+GEO:51.538688;-0.016501
+LOCATION:London Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="London Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="London Stadium":geo:51.538688,-0.016501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Liverpool
+DTSTART:20251025T190000Z
+DTEND:20251025T210000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-1xebw5ifrjl5exfgvwogidmok@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 3 - 2
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace VS Brentford
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-21035eerys56hl1oi5yw20wes@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Selhurst Park\nRésultat: 2 - 0
+GEO:51.398279;-0.085503
+LOCATION:Selhurst Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Selhurst Park";X-APPLE-RA
+ DIUS=70;X-TITLE="Selhurst Park":geo:51.398279,-0.085503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Newcastle
+DTSTART:20251109T140000Z
+DTEND:20251109T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-24m5mde1dqsnrirt0mxg8gr9w@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 3 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton VS Brentford
+DTSTART:20251122T150000Z
+DTEND:20251122T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-290hyavp000xtwoqfwwrpnj84@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : American Express Stadium\nRésultat: 2 - 1
+GEO:50.86158;-0.083642
+LOCATION:American Express Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="American Express Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="American Express Stadium":geo:50.86158,-0.0836
+ 42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Burnley
+DTSTART:20251129T150000Z
+DTEND:20251129T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-2ckrxonh0xhlk5zh2hd42xk44@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 3 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Brentford
+DTSTART:20251203T193000Z
+DTEND:20251203T213000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-2gktdb7h1jkkld873ss0s0kyc@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Emirates Stadium\nRésultat: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham VS Brentford
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-2nfh5mrn0tysgea5b9nvvrpqs@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Tottenham Hotspur Stadium\nRésultat: 2 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Leeds
+DTSTART:20251214T163000Z
+DTEND:20251214T183000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-2oo4yru8uymi9bjbi0aq2ttsk@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 1 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton VS Brentford
+DTSTART:20251220T150000Z
+DTEND:20251220T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-2w06t64qae19l0yny98uq21hw@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Molineux Stadium\nRésultat: 0 - 2
+GEO:52.590238;-2.130433
+LOCATION:Molineux Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Molineux Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Molineux Stadium":geo:52.590238,-2.130433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Bournemouth
+DTSTART:20251227T150000Z
+DTEND:20251227T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-2wsp462b52gxk2tjm26x7vehg@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 4 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Tottenham
+DTSTART:20260101T200000Z
+DTEND:20260101T220000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-30u45n5nmbx3jivwb5yg3y2vo@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 0 - 0
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton VS Brentford
+DTSTART:20260104T150000Z
+DTEND:20260104T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-35zvgdgoufjbcg1zsgcev26tw@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Hill Dickinson Stadium\nRésultat: 2 - 4
+GEO:53.424981;-3.002691
+LOCATION:Hill Dickinson Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hill Dickinson Stadium";X
+ -APPLE-RADIUS=70;X-TITLE="Hill Dickinson Stadium":geo:53.424981,-3.002691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Sunderland
+DTSTART:20260107T193000Z
+DTEND:20260107T213000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-39miak5jrvirotdvy8525nxg4@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 3 - 0
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea FC VS Brentford
+DTSTART:20260117T150000Z
+DTEND:20260117T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-3dlnunu8dl6de213ygwkac6j8@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Stamford Bridge\nRésultat: 2 - 0
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Nottingham Forest
+DTSTART:20260125T140000Z
+DTEND:20260125T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-3hm43jg83vt9ppz1555taod1w@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 0 - 2
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa VS Brentford
+DTSTART:20260201T140000Z
+DTEND:20260201T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-3kv7dtapynhbnlfenn593qrro@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Villa Park\nRésultat: 0 - 1
+GEO:52.509091;-1.884842
+LOCATION:Villa Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Villa Park";X-APPLE-RADIU
+ S=70;X-TITLE="Villa Park":geo:52.509091,-1.884842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle VS Brentford
+DTSTART:20260207T173000Z
+DTEND:20260207T193000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-3s39ztipo4s0wdvo7c3u3vkt0@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : St. James' Park\nRésultat: 2 - 3
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Arsenal
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-3ta3lmi2yhygyqebvoqytbf2s@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 1 - 1
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Brighton
+DTSTART:20260221T150000Z
+DTEND:20260221T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-3xb9emuqqhgacprgggpb0mpec@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 0 - 2
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley VS Brentford
+DTSTART:20260228T150000Z
+DTEND:20260228T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-425ir4df7xnr0yefcph23r3mc@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Turf Moor\nRésultat: 3 - 4
+GEO:53.788984;-2.230225
+LOCATION:Turf Moor
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turf Moor";X-APPLE-RADIUS
+ =70;X-TITLE="Turf Moor":geo:53.788984,-2.230225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth VS Brentford
+DTSTART:20260303T193000Z
+DTEND:20260303T213000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4502gmnydtfejbtkeik323ztg@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Vitality Stadium\nRésultat: 0 - 0
+GEO:50.735241;-1.83831
+LOCATION:Vitality Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vitality Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Vitality Stadium":geo:50.735241,-1.83831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Wolverhampton
+DTSTART:20260316T200000Z
+DTEND:20260316T220000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-49dg9z1yukcltg3c2wv8dq1as@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 2 - 2
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds VS Brentford
+DTSTART:20260321T200000Z
+DTEND:20260321T220000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4ezyab1abkqxrr5gv5mn6os2c@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Elland Road\nRésultat: 0 - 0
+GEO:53.777834;-1.572279
+LOCATION:Elland Road
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Elland Road";X-APPLE-RADI
+ US=70;X-TITLE="Elland Road":geo:53.777834,-1.572279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Everton
+DTSTART:20260411T140000Z
+DTEND:20260411T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4hhbdo474aqj544kw5b4xhl3o@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium\nRésultat: 2 - 2
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Fulham
+DTSTART:20260418T113000Z
+DTEND:20260418T133000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4lm557n5sh5s5bv94m63lgj6c@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United VS Brentford
+DTSTART:20260427T190000Z
+DTEND:20260427T210000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4s4lfi1tj69ftoawrdig1erys@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Old Trafford
+GEO:53.463094;-2.291374
+LOCATION:Old Trafford
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Old Trafford";X-APPLE-RAD
+ IUS=70;X-TITLE="Old Trafford":geo:53.463094,-2.291374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS West Ham
+DTSTART:20260502T140000Z
+DTEND:20260502T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4uxlhy8tqj36ztvez70j932tw@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Brentford
+DTSTART:20260509T163000Z
+DTEND:20260509T183000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-4zvbzemavxseozb5xmct44tg4@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Etihad Stadium
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford VS Crystal Palace
+DTSTART:20260517T140000Z
+DTEND:20260517T160000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-534tol61uap1u42acft5cep04@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Gtech Community Stadium
+GEO:51.490729;-0.288884
+LOCATION:Gtech Community Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gtech Community Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Gtech Community Stadium":geo:51.490729,-0.28888
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool VS Brentford
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+DTSTAMP:20260412T070843Z
+UID:fifa-57mwrh5wr8gy7obpu0kjmstg4@fifa.com
+DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
+ : Anfield
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+END:VCALENDAR

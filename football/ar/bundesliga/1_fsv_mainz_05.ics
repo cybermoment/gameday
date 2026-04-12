@@ -1,0 +1,495 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الألماني - بوندسليجا - 
+ ماينتس //
+X-WR-CALNAME:الدوري الألماني - بوندسليجا - ماين
+ تس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ماينتس VS كولن
+DTSTART:20250824T133000Z
+DTEND:20250824T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-cu011cv61zc09nnf1ti8z36dw@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 0 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فولفسبورج VS ماينتس
+DTSTART:20250831T133000Z
+DTEND:20250831T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-cxuujvkku9vf1uynns2ust8us@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
+ النتيجة: 1 - 1
+GEO:52.43282;10.80353
+LOCATION:فوكسفاجن أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فوكسفاجن أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="فوكسفاجن أرينا":geo:52.43282,1
+ 0.80353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS لايبزيج
+DTSTART:20250913T133000Z
+DTEND:20250913T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-d0z5ezb2vs51yzblzmwzb1b84@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 0 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوجسبورج VS ماينتس
+DTSTART:20250920T133000Z
+DTEND:20250920T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-d5n34b7rzrhq0gv720bvle2ok@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
+ لنتيجة: 1 - 4
+GEO:48.323101;10.885949
+LOCATION:إس جي إل أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إس جي إل أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="إس جي إل أرينا":geo:48.323101,10.8
+ 85949
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS نادي بوروسيا دورتموند
+DTSTART:20250927T133000Z
+DTEND:20250927T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-d7kwmfj2kqzufe8d3v7w4hno4@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 0 - 2
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هامبورج VS ماينتس
+DTSTART:20251005T153000Z
+DTEND:20251005T173000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dea7nch24w5mkjq786umw8oic@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
+ تيجة: 4 - 0
+GEO:53.587134;9.89858
+LOCATION:إسمتش أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إسمتش أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="إسمتش أرينا":geo:53.587134,9.89858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS باير ليفركوزن
+DTSTART:20251018T133000Z
+DTEND:20251018T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dg7pwauvil1221pczw9mxacd0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 3 - 4
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شتوتجارت VS ماينتس
+DTSTART:20251026T163000Z
+DTEND:20251026T183000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
+ ز أرينا\nالنتيجة: 2 - 1
+GEO:48.792284;9.232024
+LOCATION:استاد مرسيدس بنز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مرسيدس 
+ بنز أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد مرسيدس بن
+ ز أرينا":geo:48.792284,9.232024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS فيردر بريمن
+DTSTART:20251101T143000Z
+DTEND:20251101T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dnwxghd3j1pqk5thh3jxu5dlg@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 1 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آينرتخت فرانكفورت VS ماينتس
+DTSTART:20251109T183000Z
+DTEND:20251109T203000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-drhvn5pnlf4o1iw3w7us0se1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميرزبان
+ ك\nالنتيجة: 1 - 0
+GEO:50.068577;8.645448
+LOCATION:استاد كوميرزبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميرزب
+ انك";X-APPLE-RADIUS=70;X-TITLE="استاد كوميرزبانك":geo:50
+ .068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS هوفنهايم
+DTSTART:20251121T193000Z
+DTEND:20251121T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dvhvv2vrq6ittqcap7qh7ieqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 1 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فرايبورج VS ماينتس
+DTSTART:20251130T183000Z
+DTEND:20251130T203000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
+ ك\nالنتيجة: 4 - 0
+GEO:48.021945;7.830065
+LOCATION:ملعب أوروبا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب أوروبا ب
+ ارك";X-APPLE-RADIUS=70;X-TITLE="ملعب أوروبا بارك":geo:48.
+ 021945,7.830065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS بوروسيا مونشنجلادباخ
+DTSTART:20251205T193000Z
+DTEND:20251205T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-e27feyftlktx85ujh9cov8ahg@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 0 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS ماينتس
+DTSTART:20251214T163000Z
+DTEND:20251214T183000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-e5djt090tj51tdtlbwkxkje38@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
+ نتيجة: 2 - 2
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS سانت باولي
+DTSTART:20251221T143000Z
+DTEND:20251221T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-e9cdd7a7r1bs45h5pugf0yn84@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 0 - 0
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:يونيون برلين VS ماينتس
+DTSTART:20260110T143000Z
+DTEND:20260110T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-eewmtntk967s32llxfrnmxdsk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد آن دير آلت
+ ن فورستيري\nالنتيجة: 2 - 2
+GEO:52.457395;13.568126
+LOCATION:استاد آن دير آلتن فورستيري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد آن دير آ
+ لتن فورستيري";X-APPLE-RADIUS=70;X-TITLE="استاد آن دير
+  آلتن فورستيري":geo:52.457395,13.568126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS هايدينهايم
+DTSTART:20260113T193000Z
+DTEND:20260113T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-egh6bjq6zc9xlkxw4fozshjpw@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 2 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS ماينتس
+DTSTART:20260117T143000Z
+DTEND:20260117T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-emesrc98t387qvdp3v2flz8d0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 2 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS فولفسبورج
+DTSTART:20260124T143000Z
+DTEND:20260124T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-eot5qteqrve14yv3diwwp1h5g@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 3 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لايبزيج VS ماينتس
+DTSTART:20260131T143000Z
+DTEND:20260131T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-erk6terb8zyabi551pisqtnh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
+ نا\nالنتيجة: 1 - 2
+GEO:51.345776;12.348289
+LOCATION:ملعب ريد بول أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريد بول أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريد بول أرينا":ge
+ o:51.345776,12.348289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS أوجسبورج
+DTSTART:20260207T143000Z
+DTEND:20260207T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-ev57itsj39n72qf50tfqwumms@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 2 - 0
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS ماينتس
+DTSTART:20260213T193000Z
+DTEND:20260213T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-eypkzcn7uvbt0uixyixwa7m6s@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 4 - 0
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS هامبورج
+DTSTART:20260220T194000Z
+DTEND:20260220T214000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-f28hzs4i28wfhjzc2g99da7mc@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 1 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS ماينتس
+DTSTART:20260228T143000Z
+DTEND:20260228T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-f50rfh9i8rkm9lvaqebpifswk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
+ النتيجة: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS شتوتجارت
+DTSTART:20260307T143000Z
+DTEND:20260307T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 2 - 2
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيردر بريمن VS ماينتس
+DTSTART:20260315T143000Z
+DTEND:20260315T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-85awldjeh348ic7lb2w5o8ic@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ويسرستادن
+ \nالنتيجة: 0 - 2
+GEO:53.066428;8.837546
+LOCATION:استاد ويسرستادن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ويسرستا
+ دن";X-APPLE-RADIUS=70;X-TITLE="استاد ويسرستادن":geo:53.066
+ 428,8.837546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS آينرتخت فرانكفورت
+DTSTART:20260322T143000Z
+DTEND:20260322T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-avzo5ktl8b1vckxemqjascus@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 2 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هوفنهايم VS ماينتس
+DTSTART:20260404T133000Z
+DTEND:20260404T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-ggixvkizh5mys4yi21umzc44@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
+ النتيجة: 1 - 2
+GEO:49.238005;8.887741
+LOCATION:بري زيرو أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بري زيرو أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="بري زيرو أرينا":geo:49.238005,8
+ .887741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS فرايبورج
+DTSTART:20260412T173000Z
+DTEND:20260412T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بوروسيا مونشنجلادباخ VS ماينتس
+DTSTART:20260419T173000Z
+DTEND:20260419T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-n0pifg6rklbeuban7j8tsr9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
+ ارك
+GEO:51.174648;6.38532
+LOCATION:استاد بوروسيا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بوروسيا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="استاد بوروسيا بارك":
+ geo:51.174648,6.38532
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS بايرن ميونيخ
+DTSTART:20260425T133000Z
+DTEND:20260425T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-p3gv18y11i6zm4hawkwhvdas@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سانت باولي VS ماينتس
+DTSTART:20260503T133000Z
+DTEND:20260503T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-uzzly9hzyjl74d9z6bborbbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
+ ن
+GEO:53.554578;9.96769
+LOCATION:ميلرنتور شتاديون
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ميلرنتور شتاد
+ يون";X-APPLE-RADIUS=70;X-TITLE="ميلرنتور شتاديون":geo:53
+ .554578,9.96769
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ماينتس VS يونيون برلين
+DTSTART:20260510T173000Z
+DTEND:20260510T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-w6dqlvvx3s5uhwkyvwtyxst0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هايدينهايم VS ماينتس
+DTSTART:20260516T133000Z
+DTEND:20260516T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-12iayvq5mixkb4k0slwofc8pg@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: فويت أرينا
+GEO:48.668497;10.139308
+LOCATION:فويت أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فويت أرينا";X-AP
+ PLE-RADIUS=70;X-TITLE="فويت أرينا":geo:48.668497,10.139308
+END:VEVENT
+END:VCALENDAR

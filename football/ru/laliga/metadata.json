@@ -1,0 +1,108 @@
+{
+  "competition_name": "Примера-Дивизион",
+  "competition_id": "2000000037",
+  "season_id": "80zg2v1cuqcfhphn56u4qpyqc",
+  "lang": "ru",
+  "teams": [
+    {
+      "id": "2000019642",
+      "name": "Хирона",
+      "filename": "girona_fc"
+    },
+    {
+      "id": "2000006891",
+      "name": "Райо Вальекано",
+      "filename": "rayo_vallecano"
+    },
+    {
+      "id": "1882482",
+      "name": "Вильярреал",
+      "filename": "villarreal"
+    },
+    {
+      "id": "clo928vcczjp0mczavs5o7p5k",
+      "name": "Реал Овьедо",
+      "filename": "real_oviedo"
+    },
+    {
+      "id": "400074602",
+      "name": "Мальорка",
+      "filename": "rcd_mallorca"
+    },
+    {
+      "id": "1903416",
+      "name": "Барселона",
+      "filename": "barcelona"
+    },
+    {
+      "id": "356",
+      "name": "Алавес",
+      "filename": "deportivo_alav_s"
+    },
+    {
+      "id": "1883309",
+      "name": "Леванте",
+      "filename": "levante_ud"
+    },
+    {
+      "id": "32840",
+      "name": "Валенсия",
+      "filename": "valencia_cf"
+    },
+    {
+      "id": "31069",
+      "name": "Реал Сосьедад",
+      "filename": "real_sociedad"
+    },
+    {
+      "id": "2000006874",
+      "name": "Сельта",
+      "filename": "rc_celta"
+    },
+    {
+      "id": "1884966",
+      "name": "Хетафе",
+      "filename": "getafe_cf"
+    },
+    {
+      "id": "31071",
+      "name": "Атлетик",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "358",
+      "name": "Севилья",
+      "filename": "sevilla"
+    },
+    {
+      "id": "44229",
+      "name": "Эспаньол",
+      "filename": "rcd_espanyol"
+    },
+    {
+      "id": "1914808",
+      "name": "Атлетико Мадрид",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "400139932",
+      "name": "Эльче",
+      "filename": "elche_cf"
+    },
+    {
+      "id": "32838",
+      "name": "Бетис",
+      "filename": "real_betis"
+    },
+    {
+      "id": "30504",
+      "name": "Реал Мадрид",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "400074600",
+      "name": "Осасуна",
+      "filename": "ca_osasuna"
+    }
+  ]
+}

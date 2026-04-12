@@ -1,0 +1,98 @@
+{
+  "competition_name": "リーグ アン",
+  "competition_id": "2000000018",
+  "season_id": "dbxs75cag7zyip5re0ppsanmc",
+  "lang": "ja",
+  "teams": [
+    {
+      "id": "44184",
+      "name": "レンヌ",
+      "filename": "rennes"
+    },
+    {
+      "id": "33192",
+      "name": "マルセイユ",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "400129932",
+      "name": "ランス",
+      "filename": "lens"
+    },
+    {
+      "id": "26230",
+      "name": "リヨン",
+      "filename": "olympique_lyonnais"
+    },
+    {
+      "id": "30983",
+      "name": "モナコ",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "1955644",
+      "name": "ル・アーヴル",
+      "filename": "le_havre"
+    },
+    {
+      "id": "44203",
+      "name": "ニース",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "33352",
+      "name": "トゥールーズ",
+      "filename": "toulouse_fc"
+    },
+    {
+      "id": "400079771",
+      "name": "ブレスト",
+      "filename": "stade_brestois"
+    },
+    {
+      "id": "33350",
+      "name": "リール",
+      "filename": "lille"
+    },
+    {
+      "id": "31032",
+      "name": "メス",
+      "filename": "fc_metz"
+    },
+    {
+      "id": "44239",
+      "name": "ストラスブール",
+      "filename": "rc_strasbourg_alsace"
+    },
+    {
+      "id": "2000019156",
+      "name": "アンジェ",
+      "filename": "angers_sco"
+    },
+    {
+      "id": "8v00fx2zwhiwm05tqqkt122p5",
+      "name": "パリ",
+      "filename": "paris_fc"
+    },
+    {
+      "id": "9bxav814mkuhueiyivyive82d",
+      "name": "オセール",
+      "filename": "auxerre"
+    },
+    {
+      "id": "400129931",
+      "name": "ロリアン",
+      "filename": "fc_lorient"
+    },
+    {
+      "id": "2000000574",
+      "name": "ナント",
+      "filename": "fc_nantes"
+    },
+    {
+      "id": "1956449",
+      "name": "パリ・サンジェルマン",
+      "filename": "paris_saint_germain"
+    }
+  ]
+}

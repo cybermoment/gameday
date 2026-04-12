@@ -1,0 +1,88 @@
+{
+  "competition_name": "中超",
+  "competition_id": "2000000087",
+  "season_id": "e6818x4pwankpph8awr91m1hw",
+  "lang": "zh",
+  "teams": [
+    {
+      "id": "400241414",
+      "name": "成都蓉城",
+      "filename": "chengdurongcheng"
+    },
+    {
+      "id": "a1a0zo3jliehxemg6qpa3lrva",
+      "name": "深圳新鹏城",
+      "filename": "shenzhenxinpengcheng"
+    },
+    {
+      "id": "276",
+      "name": "天津津门虎",
+      "filename": "tianjinjinmenhu"
+    },
+    {
+      "id": "cjnb1ayk5mruxqpud9qmy4t1w",
+      "name": "重庆铜梁龙",
+      "filename": "chongqingtonglianglong"
+    },
+    {
+      "id": "1884139",
+      "name": "山东泰山",
+      "filename": "shandongtaishan"
+    },
+    {
+      "id": "7u46yssnarhr1uyxsmv4q5x3q",
+      "name": "辽宁铁人",
+      "filename": "liaoningtieren"
+    },
+    {
+      "id": "1884140",
+      "name": "上海申花",
+      "filename": "shanghaishenhua"
+    },
+    {
+      "id": "dicpumaiand6vk7vqbn4tqdxw",
+      "name": "大连英博",
+      "filename": "dalianyingbo"
+    },
+    {
+      "id": "2000018544",
+      "name": "上海海港",
+      "filename": "shanghaihaigang"
+    },
+    {
+      "id": "2147481975",
+      "name": "河南",
+      "filename": "henan"
+    },
+    {
+      "id": "3n4jrcw6w965v1qvp0azx5kwk",
+      "name": "云南玉昆",
+      "filename": "yunnanyukun"
+    },
+    {
+      "id": "a3rgv4o76uowd2gxzx9pgf02d",
+      "name": "青岛海牛",
+      "filename": "qingdaohainiu"
+    },
+    {
+      "id": "400241417",
+      "name": "浙江",
+      "filename": "zhejiang"
+    },
+    {
+      "id": "2ff3aaqtf2g91wbcz4w80kkr8",
+      "name": "青岛西海岸",
+      "filename": "qingdaoxihaian"
+    },
+    {
+      "id": "400241416",
+      "name": "武汉三镇",
+      "filename": "wuhansanzhen"
+    },
+    {
+      "id": "1894053",
+      "name": "北京国安",
+      "filename": "beijingguoan"
+    }
+  ]
+}

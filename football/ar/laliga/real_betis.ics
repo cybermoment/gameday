@@ -1,0 +1,574 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - ري
+ ال بيتيس //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - ريال بي
+ تيس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:إلتشي VS ريال بيتيس
+DTSTART:20250818T190000Z
+DTEND:20250818T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2t5f41usmgztitxkybrycidw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ديبورتيفو ألافيس
+DTSTART:20250822T193000Z
+DTEND:20250822T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-5chzep0qs16scjx4m95i8owk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 1 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال بيتيس
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-kxz64yu7ddap0d1agwdxugwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS أتليتيكو بلباو
+DTSTART:20250831T170000Z
+DTEND:20250831T190000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-9rnhp2t23qi248bbos0taxp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 1 - 2
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS ريال بيتيس
+DTSTART:20250914T141500Z
+DTEND:20250914T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-dh2jy2sqqln0u67dgau8p53o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا\nالنتيجة: 2 - 2
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ريال سوسيداد
+DTSTART:20250919T190000Z
+DTEND:20250919T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-exqzwxpls360bd9qf89ggff8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 3 - 1
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS أوساسونا
+DTSTART:20250928T190000Z
+DTEND:20250928T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-mulhl7s94em1faqw5y2499uc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 2 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS ريال بيتيس
+DTSTART:20251005T163000Z
+DTEND:20251005T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-rp9h3yrxylg9bwywpccje8lw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 1 - 2
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS ريال بيتيس
+DTSTART:20251018T163000Z
+DTEND:20251018T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-vue1zih02z58m1ihnz9pod90@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 2
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS أتلتيكو مدريد
+DTSTART:20251027T200000Z
+DTEND:20251027T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ygjm4bbtl6jbrz9gsd661vys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 0 - 2
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ريال مايوركا
+DTSTART:20251102T200000Z
+DTEND:20251102T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 3 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS ريال بيتيس
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-176p8ms7mmtnsyiwqb87aavx0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا\
+ nالنتيجة: 1 - 1
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS جيرونا
+DTSTART:20251123T151500Z
+DTEND:20251123T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-18b3vyjp3y356x49ce7z1qdxw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 1 - 1
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS ريال بيتيس
+DTSTART:20251130T151500Z
+DTEND:20251130T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1eaz7mdny12eiuyeysnycnw2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 0 - 2
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS برشلونة
+DTSTART:20251206T173000Z
+DTEND:20251206T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1gkqfp2d7qi9h6k34k3mo8zkk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 3 - 5
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS ريال بيتيس
+DTSTART:20251215T200000Z
+DTEND:20251215T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1kcl2n7fay0ptltdwj2k47tp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
+ يجة: 0 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS خيتافي
+DTSTART:20251221T200000Z
+DTEND:20251221T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1q09wu5t41r3rdtsv757pyf4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 4 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS ريال بيتيس
+DTSTART:20260104T151500Z
+DTEND:20260104T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1s8ry79zt6zhqqa2eoakvm904@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 5 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS ريال بيتيس
+DTSTART:20260110T130000Z
+DTEND:20260110T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1vn4i7o4gvzy4wej9uoz5qz9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد\nالنتيجة: 1 - 1
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS فياريال
+DTSTART:20260117T200000Z
+DTEND:20260117T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-212c0txlhb4ljff92d2cu5edw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 2 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS ريال بيتيس
+DTSTART:20260125T200000Z
+DTEND:20260125T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-24ggs30od6yf2dz3uyz8zjlec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا\nالنتيجة: 2 - 1
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS فالنسيا
+DTSTART:20260201T151500Z
+DTEND:20260201T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-28lvz9j35a3we5r2jy9lff7dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 2 - 1
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS ريال بيتيس
+DTSTART:20260208T173000Z
+DTEND:20260208T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2d48hhckok4yi8bluy55trf2s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 0 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS ريال بيتيس
+DTSTART:20260215T200000Z
+DTEND:20260215T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 2
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS رايو فاييكانو
+DTSTART:20260221T151500Z
+DTEND:20260221T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2kn874mea28rs8m0s333xmp78@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 1 - 1
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS إشبيلية
+DTSTART:20260301T173000Z
+DTEND:20260301T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2napzcxsfy1ju0ixutyi6z8yc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 2 - 2
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال بيتيس
+DTSTART:20260308T151500Z
+DTEND:20260308T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2s67ol8ci5kpjktfuw80c58gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS سيلتا فيغو
+DTSTART:20260315T173000Z
+DTEND:20260315T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2vji7tw0khxdvfeo52geb0jkk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 1 - 1
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS ريال بيتيس
+DTSTART:20260322T173000Z
+DTEND:20260322T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2xuajcyluofrmnt1siit15jbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه\
+ nالنتيجة: 2 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS إسبانيول
+DTSTART:20260404T163000Z
+DTEND:20260404T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-32dgfvl5v0zo942n2e2zihfdg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 0 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS ريال بيتيس
+DTSTART:20260412T120000Z
+DTEND:20260412T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-37mlon39zla9t9jjetz0zei38@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS ريال بيتيس
+DTSTART:20260421T193000Z
+DTEND:20260421T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3eve0z8ko67bbailw6nhbl3x0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ريال مدريد
+DTSTART:20260424T190000Z
+DTEND:20260424T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-38r38grppqfwcb99s9ikyv6s4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ريال أوفيدو
+DTSTART:20260503T163000Z
+DTEND:20260503T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3gs6lllokoo9wk19co9k4yyac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS ريال بيتيس
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3m24sjc20wo15f6mmkw3qeqz8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS إلتشي
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3njoj8cm40koxt8u94a1h3yfo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال بيتيس
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3rpa9gg887sphjnou8h1uv6s4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS ليفانتي
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3v3zljn1yog1g4knq4uoaledw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+END:VCALENDAR

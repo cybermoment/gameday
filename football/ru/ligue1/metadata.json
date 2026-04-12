@@ -1,0 +1,98 @@
+{
+  "competition_name": "Лига 1",
+  "competition_id": "2000000018",
+  "season_id": "dbxs75cag7zyip5re0ppsanmc",
+  "lang": "ru",
+  "teams": [
+    {
+      "id": "44184",
+      "name": "Ренн",
+      "filename": "rennes"
+    },
+    {
+      "id": "33192",
+      "name": "Олимпик Марсель",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "400129932",
+      "name": "Ланс",
+      "filename": "lens"
+    },
+    {
+      "id": "26230",
+      "name": "Олимпик Лион",
+      "filename": "olympique_lyonnais"
+    },
+    {
+      "id": "30983",
+      "name": "Монако",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "1955644",
+      "name": "Гавр",
+      "filename": "le_havre"
+    },
+    {
+      "id": "44203",
+      "name": "Ницца",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "33352",
+      "name": "Тулуза",
+      "filename": "toulouse_fc"
+    },
+    {
+      "id": "400079771",
+      "name": "Брест",
+      "filename": "stade_brestois"
+    },
+    {
+      "id": "33350",
+      "name": "Лилль",
+      "filename": "lille"
+    },
+    {
+      "id": "31032",
+      "name": "Метц",
+      "filename": "fc_metz"
+    },
+    {
+      "id": "44239",
+      "name": "Страсбур",
+      "filename": "rc_strasbourg_alsace"
+    },
+    {
+      "id": "2000019156",
+      "name": "Анжер",
+      "filename": "angers_sco"
+    },
+    {
+      "id": "8v00fx2zwhiwm05tqqkt122p5",
+      "name": "Париж ФК",
+      "filename": "paris_fc"
+    },
+    {
+      "id": "9bxav814mkuhueiyivyive82d",
+      "name": "Осер",
+      "filename": "auxerre"
+    },
+    {
+      "id": "400129931",
+      "name": "Лорьян",
+      "filename": "fc_lorient"
+    },
+    {
+      "id": "2000000574",
+      "name": "Нант",
+      "filename": "fc_nantes"
+    },
+    {
+      "id": "1956449",
+      "name": "Paris Saint-Germain",
+      "filename": "paris_saint_germain"
+    }
+  ]
+}

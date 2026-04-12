@@ -1,0 +1,108 @@
+{
+  "competition_name": "Serie A",
+  "competition_id": "2000000026",
+  "season_id": "emdmtfr1v8rey2qru3xzfwges",
+  "lang": "es",
+  "teams": [
+    {
+      "id": "2000006977",
+      "name": "Sassuolo",
+      "filename": "sassuolo"
+    },
+    {
+      "id": "2147481899",
+      "name": "Nápoles",
+      "filename": "napoli"
+    },
+    {
+      "id": "1887644",
+      "name": "Génova",
+      "filename": "genoa"
+    },
+    {
+      "id": "400086390",
+      "name": "Lecce",
+      "filename": "lecce"
+    },
+    {
+      "id": "31083",
+      "name": "Roma",
+      "filename": "as_roma"
+    },
+    {
+      "id": "33387",
+      "name": "Bolonia",
+      "filename": "bologna"
+    },
+    {
+      "id": "1907169",
+      "name": "AC Milan",
+      "filename": "milan"
+    },
+    {
+      "id": "af91jdcs6x0bqkmdb78rokod2",
+      "name": "Cremonese",
+      "filename": "cremonese"
+    },
+    {
+      "id": "6uzfw7ahyxg4wrrfxo5u7qt0n",
+      "name": "Como",
+      "filename": "como"
+    },
+    {
+      "id": "1890313",
+      "name": "Lazio",
+      "filename": "lazio"
+    },
+    {
+      "id": "451",
+      "name": "Cagliari",
+      "filename": "cagliari"
+    },
+    {
+      "id": "44331",
+      "name": "Fiorentina",
+      "filename": "fiorentina"
+    },
+    {
+      "id": "1914806",
+      "name": "Juventus FC",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "34551",
+      "name": "Parma",
+      "filename": "parma"
+    },
+    {
+      "id": "2147482134",
+      "name": "Atalanta",
+      "filename": "atalanta"
+    },
+    {
+      "id": "bfztlrr6176xsdt2bmp0u1d2d",
+      "name": "Pisa",
+      "filename": "pisa"
+    },
+    {
+      "id": "32060",
+      "name": "Udinese",
+      "filename": "udinese"
+    },
+    {
+      "id": "30986",
+      "name": "Hellas Verona",
+      "filename": "hellas_verona"
+    },
+    {
+      "id": "1914619",
+      "name": "FC Internazionale Milano",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "2147482132",
+      "name": "Torino",
+      "filename": "torino"
+    }
+  ]
+}

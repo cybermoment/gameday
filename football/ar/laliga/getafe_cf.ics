@@ -1,0 +1,575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - خي
+ تافي //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - خيتافي
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS خيتافي
+DTSTART:20250817T150000Z
+DTEND:20250817T170000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-z0rmb36p9jp9acw2he9dgk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 0 - 2
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS خيتافي
+DTSTART:20250825T193000Z
+DTEND:20250825T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3677z72kaa3hckjtmi5qnb4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 1 - 2
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS خيتافي
+DTSTART:20250829T193000Z
+DTEND:20250829T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-6uofyrgo5n51e1rbx8n8eeqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا\
+ nالنتيجة: 3 - 0
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال أوفيدو
+DTSTART:20250913T120000Z
+DTEND:20250913T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-cdmj53c561vyvy44s5q32p04@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS خيتافي
+DTSTART:20250921T190000Z
+DTEND:20250921T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ekk0usjk6blgzpziu4ho01zo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadi Johan Cruyff\nالنت
+ يجة: 3 - 0
+GEO:41.37422;2.050604
+LOCATION:Estadi Johan Cruyff
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Johan Cruyff";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadi Johan Cruyff":geo:41.37422,2.050604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ديبورتيفو ألافيس
+DTSTART:20250924T170000Z
+DTEND:20250924T190000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-k7c27bcujfnarux79y4ike1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 1 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ليفانتي
+DTSTART:20250927T120000Z
+DTEND:20250927T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-n7tx1yzdm3jcvtma21rf6al0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 1 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS خيتافي
+DTSTART:20251003T190000Z
+DTEND:20251003T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-s2odkp4oybdaqou9lx1fd6ok@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار\nال
+ نتيجة: 2 - 1
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال مدريد
+DTSTART:20251019T190000Z
+DTEND:20251019T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-uoe12e3coa1i9fov19pdukus@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS خيتافي
+DTSTART:20251025T163000Z
+DTEND:20251025T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-10d1132abu0fa9xolj05top3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه\
+ nالنتيجة: 0 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS جيرونا
+DTSTART:20251031T200000Z
+DTEND:20251031T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-11uxeay5z2isuekqd9fq0usyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 2 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS خيتافي
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 0
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS أتلتيكو مدريد
+DTSTART:20251123T173000Z
+DTEND:20251123T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1al4jq2l4mkefxzf7iqmiledw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS إلتشي
+DTSTART:20251128T200000Z
+DTEND:20251128T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1eq00zu9dngz36evkyw20uw44@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 1 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS خيتافي
+DTSTART:20251206T130000Z
+DTEND:20251206T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1hbkc2pl94wmoej46f3izy4gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 0
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS إسبانيول
+DTSTART:20251213T200000Z
+DTEND:20251213T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1l3ezfcz5pfa7eixz6hnfmj9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS خيتافي
+DTSTART:20251221T200000Z
+DTEND:20251221T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1q09wu5t41r3rdtsv757pyf4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 4 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS خيتافي
+DTSTART:20260102T200000Z
+DTEND:20260102T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1sm9e25y9tbcyvop5fmwgz8k4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
+ يجة: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال سوسيداد
+DTSTART:20260109T200000Z
+DTEND:20260109T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1xweeu166hhelv9hh9l8lnpjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 1 - 2
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS فالنسيا
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1yshj5s9yj440ar0xld31xxqs@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS خيتافي
+DTSTART:20260126T200000Z
+DTEND:20260126T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-23c7lgceh27fdelyfo5a4ygwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي\nالنتيجة: 1 - 1
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS سيلتا فيغو
+DTSTART:20260201T173000Z
+DTEND:20260201T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-272epdgf25skn7iaizs21mzh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS خيتافي
+DTSTART:20260208T130000Z
+DTEND:20260208T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2cbrliiyprq7a205rp3w1qz9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا\nالنتيجة: 0 - 2
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS فياريال
+DTSTART:20260214T151500Z
+DTEND:20260214T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2g2ynxffaiw8no1j61y45vvh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 2 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS إشبيلية
+DTSTART:20260222T130000Z
+DTEND:20260222T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2hktnqo0d8lx8h65s2ac67ac4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS خيتافي
+DTSTART:20260302T200000Z
+DTEND:20260302T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2m4sef2l4im49rda90k3p41lg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 0 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال بيتيس
+DTSTART:20260308T151500Z
+DTEND:20260308T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2s67ol8ci5kpjktfuw80c58gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS خيتافي
+DTSTART:20260314T151500Z
+DTEND:20260314T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2usu4a3m9ufgguju2iqilurys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 0
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS خيتافي
+DTSTART:20260321T151500Z
+DTEND:20260321T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2yypobxbbgweakpwxt4090v10@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 1 - 2
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS أتليتيكو بلباو
+DTSTART:20260405T120000Z
+DTEND:20260405T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-33vcbxcbnojlxdm39q4elkutw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS خيتافي
+DTSTART:20260413T190000Z
+DTEND:20260413T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-348p051ww3c5h5f7yu6puqplg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS خيتافي
+DTSTART:20260422T180000Z
+DTEND:20260422T200000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3bvyrbl5qq7s93s7yat969q1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS برشلونة
+DTSTART:20260425T141500Z
+DTEND:20260425T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3apuzcf26kfvpej8uc98l2n10@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS رايو فاييكانو
+DTSTART:20260503T141500Z
+DTEND:20260503T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3hwithiznhjl7ecaoxv7hemfo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS خيتافي
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3msszbu4fc0okhk1cy6k7f09g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS ريال مايوركا
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS خيتافي
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3s2q5sph3bm3auk1b8odb493o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS أوساسونا
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3w881304b6s154go90fihrjtg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+END:VCALENDAR

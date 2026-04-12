@@ -1,0 +1,570 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - سي
+ لتا فيغو //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - سيلتا ف
+ يغو
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS خيتافي
+DTSTART:20250817T150000Z
+DTEND:20250817T170000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-z0rmb36p9jp9acw2he9dgk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 0 - 2
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS سيلتا فيغو
+DTSTART:20250823T150000Z
+DTEND:20250823T170000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-62wqjuo2ykej3fzagx0scs9g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 1 - 1
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال بيتيس
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-kxz64yu7ddap0d1agwdxugwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS فياريال
+DTSTART:20250831T150000Z
+DTEND:20250831T170000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-7xugcr8ngdrh3re1qvzjxnv8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS جيرونا
+DTSTART:20250914T120000Z
+DTEND:20250914T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-bn4f12euztq92l1rq86faj2s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS سيلتا فيغو
+DTSTART:20250921T120000Z
+DTEND:20250921T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-gtd7x0ncbf0phimiwpbxso44@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
+ يجة: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS سيلتا فيغو
+DTSTART:20250928T141500Z
+DTEND:20250928T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-opadvx9ieaoaai2n08r4sqok@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS أتلتيكو مدريد
+DTSTART:20251005T190000Z
+DTEND:20251005T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-qys0flp8cpyb6p1fsjh7d1xw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال سوسيداد
+DTSTART:20251019T141500Z
+DTEND:20251019T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ub49wftchgk7szozxswbslck@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS سيلتا فيغو
+DTSTART:20251026T173000Z
+DTEND:20251026T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-z7hbnyt9xc1j8x9pacy6jmdw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار\nال
+ نتيجة: 2 - 3
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS سيلتا فيغو
+DTSTART:20251102T130000Z
+DTEND:20251102T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-12zi2fz6nuyhye00alaymbms4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا\nالنتيجة: 1 - 2
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS برشلونة
+DTSTART:20251109T200000Z
+DTEND:20251109T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-16t0fdut4ky4b4es7i0trovtg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 2 - 4
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS سيلتا فيغو
+DTSTART:20251122T130000Z
+DTEND:20251122T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1bpdzkqykdmb75z4uarby311w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا\nالنتيجة: 0 - 1
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS إسبانيول
+DTSTART:20251130T173000Z
+DTEND:20251130T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1fgucgxqx7rp34edgxippj6s4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 0 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS سيلتا فيغو
+DTSTART:20251207T200000Z
+DTEND:20251207T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1gy4rm1nw9jppuagj17r91l3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 0 - 2
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS أتليتيكو بلباو
+DTSTART:20251214T151500Z
+DTEND:20251214T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1jz2ik6i4oz41zqr2od8yiwb8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 2 - 0
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS سيلتا فيغو
+DTSTART:20251220T130000Z
+DTEND:20251220T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1ovhxl8n5vxmkrovkcg8q8ufo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد\nالنتيجة: 0 - 0
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS فالنسيا
+DTSTART:20260103T130000Z
+DTEND:20260103T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1u5e5gvy0cadt3stkrffvi8es@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 4 - 1
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS سيلتا فيغو
+DTSTART:20260112T200000Z
+DTEND:20260112T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1w0ngrj3bf0ruv81ra4w2muj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 0 - 1
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS رايو فاييكانو
+DTSTART:20260118T173000Z
+DTEND:20260118T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-21fk37khnhcggf2uk9kxgl638@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 3 - 0
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS سيلتا فيغو
+DTSTART:20260125T173000Z
+DTEND:20260125T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-25yd18qv80e97mjmlmv5vc4r8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو\nالنتيجة: 3 - 1
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS سيلتا فيغو
+DTSTART:20260201T173000Z
+DTEND:20260201T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-272epdgf25skn7iaizs21mzh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز\nالنتيجة: 0 - 0
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS أوساسونا
+DTSTART:20260206T200000Z
+DTEND:20260206T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2a3fi3txct0dmxzfexhl3to2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 2
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS سيلتا فيغو
+DTSTART:20260214T130000Z
+DTEND:20260214T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2fc1kvignx7oybca1wqs2gsgk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 2 - 2
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال مايوركا
+DTSTART:20260222T173000Z
+DTEND:20260222T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2l0hlraqbbo3sgfhtv0iaa49g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 2 - 0
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS سيلتا فيغو
+DTSTART:20260301T200000Z
+DTEND:20260301T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2lrcyrg6x6b1wz9q1xeyggkyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي\nالنتيجة: 1 - 2
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال مدريد
+DTSTART:20260306T200000Z
+DTEND:20260306T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2r0l3iazgy14lquy2273uny1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 1 - 2
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS سيلتا فيغو
+DTSTART:20260315T173000Z
+DTEND:20260315T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2vji7tw0khxdvfeo52geb0jkk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 1 - 1
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ديبورتيفو ألافيس
+DTSTART:20260322T151500Z
+DTEND:20260322T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3036nph9xhmltiks40aso8lck@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 3 - 4
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS سيلتا فيغو
+DTSTART:20260405T141500Z
+DTEND:20260405T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-30gnuehy43on5orc9n3sh8pw4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا\
+ nالنتيجة: 2 - 3
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ريال أوفيدو
+DTSTART:20260412T163000Z
+DTEND:20260412T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-35q4pov6mhtlujc68n1nz7bpw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS سيلتا فيغو
+DTSTART:20260422T193000Z
+DTEND:20260422T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3cmwlyivmqd5wesvf6o13mtjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS سيلتا فيغو
+DTSTART:20260426T190000Z
+DTEND:20260426T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3b3hklhztdbiyiwxo9qwh80lw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS إلتشي
+DTSTART:20260503T120000Z
+DTEND:20260503T140000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3h5n4m7klbnl9dx9yx9w5zk7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS سيلتا فيغو
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3k57p4cr98z0cknr4b39kaivo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS ليفانتي
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3nxmo9ajqnht9425i3n9szevo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS سيلتا فيغو
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3qyh2orw2524xs3k60h0cxxxw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS إشبيلية
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3vhe91racce86uhq0b3mw29sk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+END:VCALENDAR

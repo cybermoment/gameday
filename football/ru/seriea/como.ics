@@ -1,0 +1,565 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Серия А - Комо //
+X-WR-CALNAME:Серия А - Комо
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Комо VS Лацио
+DTSTART:20250824T163000Z
+DTEND:20250824T183000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-cijyabwrwwuazjxynj4k53yfo@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 2 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Болонья VS Комо
+DTSTART:20250830T163000Z
+DTEND:20250830T183000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-cmdro0qfo163kml8ooz371rtg@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Renato Da
+ ll'Ara\nРезультат: 1 - 0
+GEO:44.49229;11.309957
+LOCATION:Stadio Renato Dall'Ara
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Renato Dall'Ara";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Renato Dall'Ara":geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Дженоа
+DTSTART:20250915T184500Z
+DTEND:20250915T204500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-cr5ncddam0hu23i7vmkh4syl0@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 1 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фиорентина VS Комо
+DTSTART:20250921T160000Z
+DTEND:20250921T180000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-cv30lveqsxxb7uod3lhwqnbx0@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Стадион 
+ Артемио Франки\nРезультат: 1 - 2
+GEO:43.780788;11.282712
+LOCATION:Стадион Артемио Франки
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Артем
+ ио Франки";X-APPLE-RADIUS=70;X-TITLE="Стадион Артеми
+ о Франки":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Кремонезе
+DTSTART:20250927T130000Z
+DTEND:20250927T150000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-cyny4dfagllz9a2qd6jfoptlg@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 1 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Комо
+DTSTART:20251004T184500Z
+DTEND:20251004T204500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-d2bnjrz33iomo2sqb6uuutxqs@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: New Balance Aren
+ a\nРезультат: 1 - 1
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS ФК «Ювентус»
+DTSTART:20251019T103000Z
+DTEND:20251019T123000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-d760hjpwhimi7tvktc4u66d5g@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 2 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Парма VS Комо
+DTSTART:20251025T130000Z
+DTEND:20251025T150000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dcexpeqv5l6k0hh0dq6prdwr8@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Ennio Tar
+ dini\nРезультат: 0 - 0
+GEO:44.794905;10.338387
+LOCATION:Stadio Ennio Tardini
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Ennio Tardini";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadio Ennio Tardini":geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Хеллас Верона
+DTSTART:20251029T173000Z
+DTEND:20251029T193000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dfm31uxt446l2jetgokqmpbtg@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 3 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Комо
+DTSTART:20251101T170000Z
+DTEND:20251101T190000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dk1y2p3cuhqk9g9jrvfmk6784@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Diego Arm
+ ando Maradona\nРезультат: 0 - 0
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Кальяри
+DTSTART:20251108T140000Z
+DTEND:20251108T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dnarz7g34ocl241c9fgxzp3pw@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 0 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Торино VS Комо
+DTSTART:20251124T173000Z
+DTEND:20251124T193000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dtct334p03m4xw2l4fxzg6adw@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Olimpico 
+ Grande Torino\nРезультат: 1 - 5
+GEO:45.041752;7.650016
+LOCATION:Stadio Olimpico Grande Torino
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Olimpico Grande To
+ rino";X-APPLE-RADIUS=70;X-TITLE="Stadio Olimpico Grande Torino":geo:45.041
+ 752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Сассуоло
+DTSTART:20251128T194500Z
+DTEND:20251128T214500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dvd1bi000q9cija2e8ob7xgr8@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 2 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интернационале VS Комо
+DTSTART:20251206T170000Z
+DTEND:20251206T190000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-dzgg2dchs0eaxjke2ljsr0l5g@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Meazza\nРезультат: 4 - 0
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Рома VS Комо
+DTSTART:20251215T194500Z
+DTEND:20251215T214500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-e5jd42wfy8nyeucs0jyxf4o44@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Olimpico\
+ nРезультат: 1 - 0
+GEO:41.933948;12.454757
+LOCATION:Stadio Olimpico
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Olimpico";X-APPLE-
+ RADIUS=70;X-TITLE="Stadio Olimpico":geo:41.933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лечче VS Комо
+DTSTART:20251227T140000Z
+DTEND:20251227T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-ec3snqm0rvvrhq6gcckxajspg@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Ettore Gi
+ ardiniero - Via del Mare\nРезультат: 0 - 3
+GEO:40.365103;18.208852
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Ettore Giardiniero
+  - Via del Mare";X-APPLE-RADIUS=70;X-TITLE="Stadio Ettore Giardiniero - Vi
+ a del Mare":geo:40.365103,18.208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Удинезе
+DTSTART:20260103T113000Z
+DTEND:20260103T133000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-efpid2dbk8x3yyjuo2b5pdkic@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 1 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пиза VS Комо
+DTSTART:20260106T140000Z
+DTEND:20260106T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-elrgn9wyfbxmib5v33945uk2c@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Arena Garibaldi 
+ - Stadio Romeo Anconetani\nРезультат: 0 - 3
+GEO:43.725293;10.40019
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Garibaldi - Stadio 
+ Romeo Anconetani";X-APPLE-RADIUS=70;X-TITLE="Arena Garibaldi - Stadio Rome
+ o Anconetani":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Болонья
+DTSTART:20260110T140000Z
+DTEND:20260110T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-enesrmm9se7vwmx31gxh4sis4@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 1 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Милан
+DTSTART:20260115T194500Z
+DTEND:20260115T214500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-e787yms68yqfq6to6wp7q8ydw@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 1 - 3
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лацио VS Комо
+DTSTART:20260119T194500Z
+DTEND:20260119T214500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-es9m1d8tdtthb69t2zer74ufo@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Olimpico\
+ nРезультат: 0 - 3
+GEO:41.933948;12.454757
+LOCATION:Stadio Olimpico
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Olimpico";X-APPLE-
+ RADIUS=70;X-TITLE="Stadio Olimpico":geo:41.933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Торино
+DTSTART:20260124T140000Z
+DTEND:20260124T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-evgz6zohzg7rg9lnkyu5r0avo@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 6 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Аталанта
+DTSTART:20260201T140000Z
+DTEND:20260201T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-ezwup2ixvxyoqk1dekva57f9w@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 0 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Фиорентина
+DTSTART:20260214T140000Z
+DTEND:20260214T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-20kkmyjkdbijpxsku6v9ad5g@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 1 - 2
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Милан VS Комо
+DTSTART:20260218T194500Z
+DTEND:20260218T214500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-f5krbayxqjwxxs92trk632vbo@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Meazza\nРезультат: 1 - 1
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК «Ювентус» VS Комо
+DTSTART:20260221T140000Z
+DTEND:20260221T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-7pq3nd78kt9kjugym6e9muqc@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Allianz Stadium\
+ nРезультат: 0 - 2
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Лечче
+DTSTART:20260228T140000Z
+DTEND:20260228T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-9q6fu735vnsucy5miabdk9hw@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 3 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кальяри VS Комо
+DTSTART:20260307T140000Z
+DTEND:20260307T160000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-f6be7zpfzas42zfhqdpu50yc@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Unipol Domus\nР
+ езультат: 1 - 2
+GEO:39.199802;9.137473
+LOCATION:Unipol Domus
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Unipol Domus";X-APPLE-RAD
+ IUS=70;X-TITLE="Unipol Domus":geo:39.199802,9.137473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Рома
+DTSTART:20260315T170000Z
+DTEND:20260315T190000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-ihcqbxzrpvq7npb65zhnwa38@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 2 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Пиза
+DTSTART:20260322T113000Z
+DTEND:20260322T133000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-nsj5praxu0adwtq1eyhttixg@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia\nРезультат: 5 - 0
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Удинезе VS Комо
+DTSTART:20260406T103000Z
+DTEND:20260406T123000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-tu2s1rvt1erwoqqbk1haj09g@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Bluenergy Stadiu
+ m\nРезультат: 0 - 0
+GEO:46.081644;13.200063
+LOCATION:Bluenergy Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bluenergy Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Bluenergy Stadium":geo:46.081644,13.200063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Интернационале
+DTSTART:20260412T184500Z
+DTEND:20260412T204500Z
+DTSTAMP:20260412T071011Z
+UID:fifa-vuil7whjv5pva6quhgu5cv84@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сассуоло VS Комо
+DTSTART:20260417T163000Z
+DTEND:20260417T183000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-11hvepm33ym92otcgxxrnj8r8@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: MAPEI Stadium - 
+ Città del Tricolore
+GEO:44.714637;10.649711
+LOCATION:MAPEI Stadium - Città del Tricolore
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MAPEI Stadium - Città de
+ l Tricolore";X-APPLE-RADIUS=70;X-TITLE="MAPEI Stadium - Città del Tricolo
+ re":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дженоа VS Комо
+DTSTART:20260426T130000Z
+DTEND:20260426T150000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-1401o1xiw8hijcz6w9zzcpst0@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Стадион 
+ Луиджи Феррарис
+GEO:44.416467;8.952527
+LOCATION:Стадион Луиджи Феррарис
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Луидж
+ и Феррарис";X-APPLE-RADIUS=70;X-TITLE="Стадион Луидж
+ и Феррарис":geo:44.416467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Наполи
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-17lmrepgi92vherqakompkb2s@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хеллас Верона VS Комо
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-1ehnaa7pz2vqgs4vcak5c7eok@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Marcanton
+ io Bentegodi
+GEO:45.435324;10.968585
+LOCATION:Stadio Marcantonio Bentegodi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Marcantonio Benteg
+ odi";X-APPLE-RADIUS=70;X-TITLE="Stadio Marcantonio Bentegodi":geo:45.43532
+ 4,10.968585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Комо VS Парма
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-1fp64xokh0rihbfxsn2xgq9ec@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giuseppe 
+ Sinigaglia
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кремонезе VS Комо
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T071011Z
+UID:fifa-1jfycik4pgddfaj8rnpqp1iqc@fifa.com
+DESCRIPTION:Турнир: Серия А\nСтадия: Регулярны
+ й период соревнований\nСтадион: Stadio Giovanni 
+ Zini
+GEO:45.140164;10.034831
+LOCATION:Stadio Giovanni Zini
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Zini";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadio Giovanni Zini":geo:45.140164,10.034831
+END:VEVENT
+END:VCALENDAR

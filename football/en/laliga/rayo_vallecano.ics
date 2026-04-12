@@ -1,0 +1,513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Primera División - Rayo Vallecano //
+X-WR-CALNAME:Primera División - Rayo Vallecano
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Girona FC VS Rayo Vallecano
+DTSTART:20250815T170000Z
+DTEND:20250815T190000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1f9e25njwyjk6ruheatqgglw@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadi Municipal de Montilivi\nResult: 1 - 3
+GEO:41.961195;2.828495
+LOCATION:Estadi Municipal de Montilivi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Municipal de Monti
+ livi";X-APPLE-RADIUS=70;X-TITLE="Estadi Municipal de Montilivi":geo:41.961
+ 195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club VS Rayo Vallecano
+DTSTART:20250825T173000Z
+DTEND:20250825T193000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3wb1lwo6vq5hm78d7jllzd3o@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de San Mamés\nResult: 1 - 0
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Barcelona
+DTSTART:20250831T193000Z
+DTEND:20250831T213000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-a4rapcrtfjbf1vihoi65rm6s@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CA Osasuna VS Rayo Vallecano
+DTSTART:20250914T163000Z
+DTEND:20250914T183000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-cqquj1075tqrewhxjjliqrys@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio El Sadar\nResult: 2 - 0
+GEO:42.796677;-1.637141
+LOCATION:Estadio El Sadar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Sadar";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio El Sadar":geo:42.796677,-1.637141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS RC Celta
+DTSTART:20250921T120000Z
+DTEND:20250921T140000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-gtd7x0ncbf0phimiwpbxso44@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Rayo Vallecano
+DTSTART:20250924T193000Z
+DTEND:20250924T213000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-ioo3djrnoe5kcc2n7mypzbis@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Riyadh Air Metropolitano\nResult: 3 - 2
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Sevilla
+DTSTART:20250928T120000Z
+DTEND:20250928T140000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-nl5iakd17ewjayh3ah21iolw@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 0 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad VS Rayo Vallecano
+DTSTART:20251005T163000Z
+DTEND:20251005T183000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-stfu1ncpwokjdp38odv9rb4k@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Municipal de Anoeta\nResult: 0 - 1
+GEO:43.301376;-1.973602
+LOCATION:Estadio Municipal de Anoeta
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal de Anoe
+ ta";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal de Anoeta":geo:43.301376,
+ -1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Levante UD VS Rayo Vallecano
+DTSTART:20251019T163000Z
+DTEND:20251019T183000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-v3lhpsc6pb8pl9l3mu0evqj8@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Ciudad de Valencia\nResult: 0 - 3
+GEO:39.494686;-0.36382
+LOCATION:Estadio Ciudad de Valencia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Valenci
+ a";X-APPLE-RADIUS=70;X-TITLE="Estadio Ciudad de Valencia":geo:39.494686,-0
+ .36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Deportivo Alavés
+DTSTART:20251026T200000Z
+DTEND:20251026T220000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-y38fh1awgi9yuxppo1n61ous@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Rayo Vallecano
+DTSTART:20251101T130000Z
+DTEND:20251101T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-13qwzalezgy8gxih0ube0ap78@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de la Cerámica\nResult: 4 - 0
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Real Madrid C.F.
+DTSTART:20251109T151500Z
+DTEND:20251109T171500Z
+DTSTAMP:20260412T070903Z
+UID:fifa-16234pc0mx6bpyeqhj4i81p90@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 0 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Oviedo VS Rayo Vallecano
+DTSTART:20251123T130000Z
+DTEND:20251123T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-19ubgm1lxlw64hrajkv1cc5ck@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Municipal Carlos Tartiere\nResult: 0 - 0
+GEO:43.360762;-5.870261
+LOCATION:Estadio Municipal Carlos Tartiere
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal Carlos 
+ Tartiere";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal Carlos Tartiere":ge
+ o:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Valencia CF
+DTSTART:20251201T200000Z
+DTEND:20251201T220000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1ctejm87t066zop4ert2zb4es@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RCD Espanyol VS Rayo Vallecano
+DTSTART:20251207T173000Z
+DTEND:20251207T193000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1g7ev92a4xzvmnte18e1h7thw@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : RCDE Stadium\nResult: 1 - 0
+GEO:41.34786;2.075622
+LOCATION:RCDE Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RCDE Stadium";X-APPLE-RAD
+ IUS=70;X-TITLE="RCDE Stadium":geo:41.34786,2.075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Real Betis
+DTSTART:20251215T200000Z
+DTEND:20251215T220000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1kcl2n7fay0ptltdwj2k47tp0@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 0 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elche CF VS Rayo Vallecano
+DTSTART:20251221T173000Z
+DTEND:20251221T193000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1qdreckuiubqc7yotymp8jggk@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Manuel Martínez Valero\nResult: 4 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Getafe CF
+DTSTART:20260102T200000Z
+DTEND:20260102T220000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1sm9e25y9tbcyvop5fmwgz8k4@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS RCD Mallorca
+DTSTART:20260111T130000Z
+DTEND:20260111T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-1x4ja8gant6mmc4sm9odbjcpg@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 2 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC Celta VS Rayo Vallecano
+DTSTART:20260118T173000Z
+DTEND:20260118T193000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-21fk37khnhcggf2uk9kxgl638@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Abanca-Balaídos\nResult: 3 - 0
+GEO:42.211852;-8.739721
+LOCATION:Estadio Abanca-Balaídos
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Abanca-Balaídos"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadio Abanca-Balaídos":geo:42.211852,-8.739
+ 721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS CA Osasuna
+DTSTART:20260124T130000Z
+DTEND:20260124T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-23ph16hry56w3gdhgy3s5pafo@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 3
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS Rayo Vallecano
+DTSTART:20260201T130000Z
+DTEND:20260201T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-27t0dyh53751craqajb3o62hg@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Bernabéu\nResult: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Atlético de Madrid
+DTSTART:20260215T151500Z
+DTEND:20260215T171500Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2e85uzw4i0hdq9tlf0m02mo7o@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Ontime Butarque\nResult: 3 - 0
+GEO:40.340472;-3.760688
+LOCATION:Estadio Ontime Butarque
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ontime Butarque";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio Ontime Butarque":geo:40.340472,-3.76068
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis VS Rayo Vallecano
+DTSTART:20260221T151500Z
+DTEND:20260221T171500Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2kn874mea28rs8m0s333xmp78@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio La Cartuja de Sevilla\nResult: 1 - 1
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Athletic Club
+DTSTART:20260228T130000Z
+DTEND:20260228T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2osbe65qugeqj4btj6y4t4pas@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Real Oviedo
+DTSTART:20260304T180000Z
+DTEND:20260304T200000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2byg0dchhk26dnihjtq1wa0pg@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 3 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sevilla VS Rayo Vallecano
+DTSTART:20260308T173000Z
+DTEND:20260308T193000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2pwdpb63byqohajaokb5793pw@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Ramón Sánchez Pizjuán\nResult: 1 - 1
+GEO:37.384046;-5.970592
+LOCATION:Estadio Ramón Sánchez Pizjuán
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez P
+ izjuán";X-APPLE-RADIUS=70;X-TITLE="Estadio Ramón Sánchez Pizjuán":geo:
+ 37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Levante UD
+DTSTART:20260316T200000Z
+DTEND:20260316T220000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2toal4qg8ohxn3hh50m9lrac4@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona VS Rayo Vallecano
+DTSTART:20260322T130000Z
+DTEND:20260322T150000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-2y7mqtoumr3710vgfit7046j8@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Spotify Camp Nou\nResult: 1 - 0
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Elche CF
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-30u02n6fw3bxc2lk51wv1cowk@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas\nResult: 1 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RCD Mallorca VS Rayo Vallecano
+DTSTART:20260412T141500Z
+DTEND:20260412T161500Z
+DTSTAMP:20260412T070903Z
+UID:fifa-36img9yditg3x8kvo810l3ims@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadi Mallorca Son Moix
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS RCD Espanyol
+DTSTART:20260423T180000Z
+DTEND:20260423T200000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3f8qbmbzrg2o195netsozsmxg@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Real Sociedad
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-39yze5lq7b1227m0ry1qpjfh0@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe CF VS Rayo Vallecano
+DTSTART:20260503T141500Z
+DTEND:20260503T161500Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3hwithiznhjl7ecaoxv7hemfo@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio Coliseum
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Girona FC
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3je81f1r98u8rqsk99bzjwyl0@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia CF VS Rayo Vallecano
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3psr2605g4d19sdukq2711gd0@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Mestalla
+GEO:39.474602;-0.358257
+LOCATION:Estadio de Mestalla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mestalla";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Mestalla":geo:39.474602,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Villarreal
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3stn5qtfq9b7w461hrsz1y0wk@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Vallecas
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Alavés VS Rayo Vallecano
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070903Z
+UID:fifa-3up18t49bq8thej74h5lgf0us@fifa.com
+DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
+ : Estadio de Mendizorroza
+GEO:42.837076;-2.688247
+LOCATION:Estadio de Mendizorroza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mendizorroza";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de Mendizorroza":geo:42.837076,-2.68824
+ 7
+END:VEVENT
+END:VCALENDAR

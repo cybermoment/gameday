@@ -1,0 +1,508 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الفرنسي - ليج 1 - ليل //
+X-WR-CALNAME:الدوري الفرنسي - ليج 1 - ليل
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:بريست VS ليل
+DTSTART:20250817T130000Z
+DTEND:20250817T150000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-74zpn9q4fwxv9jgn3a7ijslck@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد فرنسيس لو ب
+ ليه\nالنتيجة: 3 - 3
+GEO:48.402882;-4.461458
+LOCATION:استاد فرنسيس لو بليه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فرنسيس 
+ لو بليه";X-APPLE-RADIUS=70;X-TITLE="استاد فرنسيس لو ب
+ ليه":geo:48.402882,-4.461458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS موناكو
+DTSTART:20250824T184500Z
+DTEND:20250824T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-77j13otir5d57ue444m10kqac@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 0
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لوريان VS ليل
+DTSTART:20250830T150000Z
+DTEND:20250830T170000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7czutwaxk9tqhjmf8ttgrixp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد يفيس ألانما
+  - لو موستوار\nالنتيجة: 1 - 7
+GEO:47.748821;-3.369021
+LOCATION:استاد يفيس ألانما - لو موستوار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد يفيس أل
+ انما - لو موستوار";X-APPLE-RADIUS=70;X-TITLE="استاد يف
+ يس ألانما - لو موستوار":geo:47.748821,-3.369021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS تولوز
+DTSTART:20250914T130000Z
+DTEND:20250914T150000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7gajlkhpq82gxrxhu19og0qhg@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 2 - 1
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لينس VS ليل
+DTSTART:20250920T190500Z
+DTEND:20250920T210500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7h0i7e61tfj9c8pebjoyccx04@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: ستاد بولاير دوليل
+ ي\nالنتيجة: 3 - 0
+GEO:50.432867;2.814941
+LOCATION:ستاد بولاير دوليلي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد بولاير د
+ وليلي";X-APPLE-RADIUS=70;X-TITLE="ستاد بولاير دوليلي"
+ :geo:50.432867,2.814941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS ليون
+DTSTART:20250928T151500Z
+DTEND:20250928T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7mwwqwnv8mcxrkauh686zdxjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 0 - 1
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS باريس سان جيرمان
+DTSTART:20251005T184500Z
+DTEND:20251005T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7qmk3hlyd0dcnxnh6p1unaxas@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 1
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نانت VS ليل
+DTSTART:20251019T184500Z
+DTEND:20251019T204500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7tlbjk7fi973p87e8pgizgtuc@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: ملعب دي لابيجيور -
+  لويس فونتينيو\nالنتيجة: 0 - 2
+GEO:47.256023;-1.524716
+LOCATION:ملعب دي لابيجيور - لويس فونتينيو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب دي لابيج
+ يور - لويس فونتينيو";X-APPLE-RADIUS=70;X-TITLE="ملعب د
+ ي لابيجيور - لويس فونتينيو":geo:47.256023,-1.524716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS ميتز
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-7wb6zzjgh7wp418sn45p6q87o@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 6 - 1
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيس VS ليل
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-80wh2fbewlez7ttmv63yowlqs@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: أليانز ريفييرا\nا
+ لنتيجة: 2 - 0
+GEO:43.705119;7.192622
+LOCATION:أليانز ريفييرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز ريفيير
+ ا";X-APPLE-RADIUS=70;X-TITLE="أليانز ريفييرا":geo:43.705119,
+ 7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS آنجيه
+DTSTART:20251102T161500Z
+DTEND:20251102T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-820yilruplpojta9jznqwt82c@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 0
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ستراسبورغ VS ليل
+DTSTART:20251109T161500Z
+DTEND:20251109T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-87nkivfh38imdea2mlokcvu38@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
+ لنتيجة: 2 - 0
+GEO:48.560069;7.755157
+LOCATION:ستاد دي لا مينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد دي لا مين
+ و";X-APPLE-RADIUS=70;X-TITLE="ستاد دي لا مينو":geo:48.560069,
+ 7.755157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS باريس
+DTSTART:20251123T194500Z
+DTEND:20251123T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-89wmzpjtz2u1jq65kkfz1hyj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 4 - 2
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لو هافر VS ليل
+DTSTART:20251130T161500Z
+DTEND:20251130T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8chiraxydxwe3x80yl1bozkes@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد اوسيان\nالن
+ تيجة: 0 - 1
+GEO:49.498869;0.169709
+LOCATION:استاد اوسيان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد اوسيان";
+ X-APPLE-RADIUS=70;X-TITLE="استاد اوسيان":geo:49.498869,0.169709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS مارسيليا
+DTSTART:20251205T200000Z
+DTEND:20251205T220000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8eql64qcpxsivzywyfr3p3s44@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 0
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوكسير VS ليل
+DTSTART:20251214T161500Z
+DTEND:20251214T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8ivxronb80ztyzfv5pr850sno@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد دي لابي ديش
+ امبس\nالنتيجة: 3 - 4
+GEO:47.786835;3.588517
+LOCATION:استاد دي لابي ديشامبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لابي 
+ ديشامبس";X-APPLE-RADIUS=70;X-TITLE="استاد دي لابي ديش
+ امبس":geo:47.786835,3.588517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS ستاد رين
+DTSTART:20260103T200500Z
+DTEND:20260103T220500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8mkls8wflm36ps9v71yuoe61g@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 0 - 2
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS ليل
+DTSTART:20260116T200000Z
+DTEND:20260116T220000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8rga2f9w2h9eqamd4c0ieybro@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: بارك دي برينس\nالن
+ تيجة: 3 - 0
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS ستراسبورغ
+DTSTART:20260125T194500Z
+DTEND:20260125T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8sbt68kf1vu4u298a2b8a08pg@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 4
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليون VS ليل
+DTSTART:20260201T140000Z
+DTEND:20260201T160000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-8w416tbdarkpzgnefbpldyvpw@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
+ : 1 - 0
+GEO:45.76531;4.982064
+LOCATION:Groupama Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Groupama Stadium":geo:45.76531,4.982064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ميتز VS ليل
+DTSTART:20260206T194500Z
+DTEND:20260206T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9241nze9bak869q57rjeaq3h0@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد سانت سيمفور
+ يان\nالنتيجة: 0 - 0
+GEO:49.109789;6.159449
+LOCATION:استاد سانت سيمفوريان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانت سي
+ مفوريان";X-APPLE-RADIUS=70;X-TITLE="استاد سانت سيمفو
+ ريان":geo:49.109789,6.159449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS بريست
+DTSTART:20260214T180000Z
+DTEND:20260214T200000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-939i2u1dqhrqht2dk192oanmc@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 1
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آنجيه VS ليل
+DTSTART:20260222T161500Z
+DTEND:20260222T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-98ji44fvlaloy2apebw4yl6hg@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد جان بوين\nال
+ نتيجة: 0 - 1
+GEO:47.460413;-0.530777
+LOCATION:استاد جان بوين
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جان بوي
+ ن";X-APPLE-RADIUS=70;X-TITLE="استاد جان بوين":geo:47.460413,-
+ 0.530777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS نانت
+DTSTART:20260301T161500Z
+DTEND:20260301T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9b5nkrzt8ku0bp3x883tgxmvo@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 0
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS لوريان
+DTSTART:20260308T161500Z
+DTEND:20260308T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9eixig78n4sav3qfoboz38qac@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 1 - 1
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ستاد رين VS ليل
+DTSTART:20260315T194500Z
+DTEND:20260315T214500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9hwe5k0b5yv8dfdsquahq8zys@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: روزهون بارك\nالنت
+ يجة: 1 - 2
+GEO:48.107467;-1.712884
+LOCATION:روزهون بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="روزهون بارك";X-
+ APPLE-RADIUS=70;X-TITLE="روزهون بارك":geo:48.107467,-1.712884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مارسيليا VS ليل
+DTSTART:20260322T161500Z
+DTEND:20260322T181500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9mlx4iqslyu1521yjvzc0jvh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد فيلودروم\nا
+ لنتيجة: 1 - 2
+GEO:43.26987;5.395854
+LOCATION:استاد فيلودروم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيلودرو
+ م";X-APPLE-RADIUS=70;X-TITLE="استاد فيلودروم":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS لينس
+DTSTART:20260404T190500Z
+DTEND:20260404T210500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9p8eybm8kroprwrs3sd151nh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي\n
+ النتيجة: 3 - 0
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تولوز VS ليل
+DTSTART:20260412T151500Z
+DTEND:20260412T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9sni5hkp2nuxqrbbjmm9heo0k@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: الملعب البلدي تول
+ وز
+GEO:43.58329;1.434038
+LOCATION:الملعب البلدي تولوز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب البلدي
+  تولوز";X-APPLE-RADIUS=70;X-TITLE="الملعب البلدي تولو
+ ز":geo:43.58329,1.434038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS نيس
+DTSTART:20260418T190500Z
+DTEND:20260418T210500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9wl2aexkvn2nyfp79cawh45jo@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس VS ليل
+DTSTART:20260426T151500Z
+DTEND:20260426T171500Z
+DTSTAMP:20260412T071032Z
+UID:fifa-9yg1rb5k622djgynfoisbjdhw@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: ملعب جان بوين
+GEO:48.843148;2.252916
+LOCATION:ملعب جان بوين
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بوين"
+ ;X-APPLE-RADIUS=70;X-TITLE="ملعب جان بوين":geo:48.843148,2.2529
+ 16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS لو هافر
+DTSTART:20260503T130000Z
+DTEND:20260503T150000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-a1uynt862yubvos469tnn6c5w@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS ليل
+DTSTART:20260509T190000Z
+DTEND:20260509T210000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-a71zm3hyrcgh30hixbbbbacr8@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: ستاد لوي الثاني
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليل VS أوكسير
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+DTSTAMP:20260412T071032Z
+UID:fifa-a8jcx98nbda7y3qmm4aigetqs@fifa.com
+DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
+  الموسم الحالي\nالملعب: استاد بيير موروي
+GEO:50.611965;3.130484
+LOCATION:استاد بيير موروي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيير مو
+ روي";X-APPLE-RADIUS=70;X-TITLE="استاد بيير موروي":geo:50.
+ 611965,3.130484
+END:VEVENT
+END:VCALENDAR

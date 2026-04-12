@@ -1,0 +1,108 @@
+{
+  "competition_name": "Премьер-Лига",
+  "competition_id": "2000000000",
+  "season_id": "51r6ph2woavlbbpk8f29nynf8",
+  "lang": "ru",
+  "teams": [
+    {
+      "id": "1896634",
+      "name": "Ливерпуль",
+      "filename": "liverpool"
+    },
+    {
+      "id": "2000006909",
+      "name": "Борнмут",
+      "filename": "bournemouth"
+    },
+    {
+      "id": "400078460",
+      "name": "Астон Вилла",
+      "filename": "aston_villa"
+    },
+    {
+      "id": "44136",
+      "name": "Ньюкасл",
+      "filename": "newcastle_united"
+    },
+    {
+      "id": "1r3545b2dzan8yqa80gtmcjch",
+      "name": "Сандерленд",
+      "filename": "sunderland"
+    },
+    {
+      "id": "33741",
+      "name": "Вест Хэм Юнайтед",
+      "filename": "west_ham_united"
+    },
+    {
+      "id": "2000019603",
+      "name": "Брайтон",
+      "filename": "brighton_hove_albion"
+    },
+    {
+      "id": "44262",
+      "name": "Фулхэм",
+      "filename": "fulham"
+    },
+    {
+      "id": "23437",
+      "name": "Тоттенхэм",
+      "filename": "tottenham_hotspur"
+    },
+    {
+      "id": "1882935",
+      "name": "Бернли",
+      "filename": "burnley"
+    },
+    {
+      "id": "29110",
+      "name": "Вулверхэмптон",
+      "filename": "wolverhampton_wanderers"
+    },
+    {
+      "id": "1956198",
+      "name": "Manchester City",
+      "filename": "manchester_city"
+    },
+    {
+      "id": "1935290",
+      "name": "Челси",
+      "filename": "chelsea_fc"
+    },
+    {
+      "id": "1882937",
+      "name": "Кристал Пэлас",
+      "filename": "crystal_palace"
+    },
+    {
+      "id": "1qtaiy11gswx327s0vkibf70n",
+      "name": "Ноттингем Форест",
+      "filename": "nottingham_forest"
+    },
+    {
+      "id": "400190337",
+      "name": "Брентфорд",
+      "filename": "brentford"
+    },
+    {
+      "id": "33161",
+      "name": "Манчестер Юнайтед",
+      "filename": "manchester_united"
+    },
+    {
+      "id": "32847",
+      "name": "Арсенал",
+      "filename": "arsenal"
+    },
+    {
+      "id": "400138227",
+      "name": "Лидс Юнайтед",
+      "filename": "leeds_united"
+    },
+    {
+      "id": "32848",
+      "name": "Эвертон",
+      "filename": "everton"
+    }
+  ]
+}

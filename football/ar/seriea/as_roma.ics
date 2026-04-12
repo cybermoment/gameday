@@ -1,0 +1,581 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإيطالي - سيري آ - روم
+ ا //
+X-WR-CALNAME:الدوري الإيطالي - سيري آ - روما
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:روما VS بولونيا
+DTSTART:20250823T184500Z
+DTEND:20250823T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cl0nfg88xxoznw3qe89ejvbbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيزا VS روما
+DTSTART:20250830T184500Z
+DTEND:20250830T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cpjqg4esn6oq24obqmfbj63h0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
+  - ملعب روميو أنكونيتاني\nالنتيجة: 0 - 1
+GEO:43.725293;10.40019
+LOCATION:أرينا غاريبالدي - ملعب روميو أنكوني
+ تاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أرينا غاريبال
+ دي - ملعب روميو أنكونيتاني";X-APPLE-RADIUS=70;X-TITLE
+ ="أرينا غاريبالدي - ملعب روميو أنكونيتاني
+ ":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS تورينو
+DTSTART:20250914T103000Z
+DTEND:20250914T123000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ct4pr9n90ljgamkcw2r4qdl3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 0 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لاتسيو VS روما
+DTSTART:20250921T103000Z
+DTEND:20250921T123000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cvwv2nuu43dmvycrt5mse7lec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 0 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS هيلاس
+DTSTART:20250928T130000Z
+DTEND:20250928T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d1iqbauqztqni51jxkp8wuuj8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 2 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيورنتينا VS روما
+DTSTART:20251005T130000Z
+DTEND:20251005T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d34dcq8pjqzraxcsk3qmbwums@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
+ رانكي، فيرنزي\nالنتيجة: 1 - 2
+GEO:43.780788;11.282712
+LOCATION:استاد أرتيميو فرانكي، فيرنزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أرتيميو
+  فرانكي، فيرنزي";X-APPLE-RADIUS=70;X-TITLE="استاد أرت
+ يميو فرانكي، فيرنزي":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS إنتر ميلان
+DTSTART:20251018T184500Z
+DTEND:20251018T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d9k63wuz61kyno1kx76agjx1w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 0 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ساسوولو VS روما
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dctctwsjvrck5r6q08o0intas@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
+ ريكولوري\nالنتيجة: 0 - 1
+GEO:44.714637;10.649711
+LOCATION:استاد ديل سيتا تريكولوري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ديل سيت
+ ا تريكولوري";X-APPLE-RADIUS=70;X-TITLE="استاد ديل سيت
+ ا تريكولوري":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS بارما
+DTSTART:20251029T173000Z
+DTEND:20251029T193000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-di2cpubntuatd5o4uesn6b9ck@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 2 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي ميلان VS روما
+DTSTART:20251102T194500Z
+DTEND:20251102T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-djnhnvs0hjjv7p1rlkt1eizh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS أودينيزي
+DTSTART:20251109T170000Z
+DTEND:20251109T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dq3n2rxv07cjted6iwajujthw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 2 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريمونيزي VS روما
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dqy2r61k7vty81i3wioak13x0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
+ ني\nالنتيجة: 1 - 3
+GEO:45.140164;10.034831
+LOCATION:ملعب جيوفاني زيني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جيوفاني 
+ زيني";X-APPLE-RADIUS=70;X-TITLE="ملعب جيوفاني زيني":geo
+ :45.140164,10.034831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS نابولي
+DTSTART:20251130T194500Z
+DTEND:20251130T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dy7z0c1nl7x403oo7s9ic1las@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 0 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كالياري VS روما
+DTSTART:20251207T140000Z
+DTEND:20251207T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dymba46s2x3m84cophpcnnlzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
+ لنتيجة: 1 - 0
+GEO:39.199802;9.137473
+LOCATION:سردينيا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سردينيا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="سردينيا أرينا":geo:39.199802,9.13
+ 7473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS كومو
+DTSTART:20251215T194500Z
+DTEND:20251215T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e5jd42wfy8nyeucs0jyxf4o44@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS روما
+DTSTART:20251220T194500Z
+DTEND:20251220T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e8tvzuht0l1djh5ni0e3irlzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 2 - 1
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS جنوى
+DTSTART:20251229T194500Z
+DTEND:20251229T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-edpgvib62l4nji0yx471zf09g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 3 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS روما
+DTSTART:20260103T194500Z
+DTEND:20260103T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eewp6c030caxh9ia0j8zl5gyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 1 - 0
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليتشي VS روما
+DTSTART:20260106T170000Z
+DTEND:20260106T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ek5ol2jqzzvwqaqamyq40idqs@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
+ ل مير\nالنتيجة: 0 - 2
+GEO:40.365103;18.208852
+LOCATION:استاد مجمع فيا دل مير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مجمع في
+ ا دل مير";X-APPLE-RADIUS=70;X-TITLE="استاد مجمع فيا دل
+  مير":geo:40.365103,18.208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS ساسوولو
+DTSTART:20260110T170000Z
+DTEND:20260110T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eptf02fop6zlcshf1m1sd75sk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 2 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS روما
+DTSTART:20260118T170000Z
+DTEND:20260118T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eu9yf1tlc5l8eln0irxgz3sic@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 0 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS نادي ميلان
+DTSTART:20260125T194500Z
+DTEND:20260125T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-exx5llxazla0chuxb9brq4h78@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أودينيزي VS روما
+DTSTART:20260202T194500Z
+DTEND:20260202T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-f2rxcygl24xsn5cnvp0upq3o4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد فريولي\nال
+ نتيجة: 1 - 0
+GEO:46.081644;13.200063
+LOCATION:استاد فريولي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فريولي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فريولي":geo:46.081644,13.20006
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS كالياري
+DTSTART:20260209T194500Z
+DTEND:20260209T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d7rozixb3dhmow4gpbhydjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 2 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS روما
+DTSTART:20260215T194500Z
+DTEND:20260215T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-3lnkua64b5kypkhgjy6kkc2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 2
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS كريمونيزي
+DTSTART:20260222T194500Z
+DTEND:20260222T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-8x5ck6g9yj1vd43br6onqf4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 3 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS نادي يوفنتوس
+DTSTART:20260301T194500Z
+DTEND:20260301T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cb0zsjthgo4ug5fke27lah3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 3 - 3
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جنوى VS روما
+DTSTART:20260308T170000Z
+DTEND:20260308T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-fzjidmki8zw5129ek2cw16ac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميونالي
+  لويجي فيراريس، جينوفا\nالنتيجة: 2 - 1
+GEO:44.416467;8.952527
+LOCATION:استاد كوميونالي لويجي فيراريس، جين
+ وفا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميونا
+ لي لويجي فيراريس، جينوفا";X-APPLE-RADIUS=70;X-TITLE="
+ استاد كوميونالي لويجي فيراريس، جينوفا":ge
+ o:44.416467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كومو VS روما
+DTSTART:20260315T170000Z
+DTEND:20260315T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ihcqbxzrpvq7npb65zhnwa38@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
+ يجاليا\nالنتيجة: 2 - 1
+GEO:45.813857;9.072376
+LOCATION:ملعب جوزيبي سينيجاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جوزيبي س
+ ينيجاليا";X-APPLE-RADIUS=70;X-TITLE="ملعب جوزيبي سين
+ يجاليا":geo:45.813857,9.072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS ليتشي
+DTSTART:20260322T170000Z
+DTEND:20260322T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-q6zdo1nm0rrkh9tn8s3l6vis@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS روما
+DTSTART:20260405T184500Z
+DTEND:20260405T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-qzr4j7v0ic3d0lnvgrdlx2xg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 5 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS بيزا
+DTSTART:20260410T184500Z
+DTEND:20260410T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-xuk4c2tkbjldesp82onbo1sk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 3 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS أتالانتا
+DTSTART:20260418T184500Z
+DTEND:20260418T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-113fxybh61eeylv7ncz3bf3f8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS روما
+DTSTART:20260425T160000Z
+DTEND:20260425T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-12qz70wi0b0coly48zdhls93o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS فيورنتينا
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-19n09ee8bgr7vwqakb773y0ic@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS روما
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1dn74pjxuw8h50tg2lnkyjifo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS لاتسيو
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1hq8rf1klj6a0yqv8dycurvh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هيلاس VS روما
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1mxc5q2bama20rol537kb8844@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مارك أنطو
+ نيو بنتيغودي
+GEO:45.435324;10.968585
+LOCATION:استاد مارك أنطونيو بنتيغودي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مارك أن
+ طونيو بنتيغودي";X-APPLE-RADIUS=70;X-TITLE="استاد مار
+ ك أنطونيو بنتيغودي":geo:45.435324,10.968585
+END:VEVENT
+END:VCALENDAR

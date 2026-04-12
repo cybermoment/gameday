@@ -1,0 +1,569 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Примера-Дивизион - Эльче //
+X-WR-CALNAME:Примера-Дивизион - Эльче
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Эльче VS Бетис
+DTSTART:20250818T190000Z
+DTEND:20250818T210000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2t5f41usmgztitxkybrycidw@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 1 - 1
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Эльче
+DTSTART:20250823T173000Z
+DTEND:20250823T193000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-49e80e647ljijc5bz8tqc2l0@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Riyadh Air Metropolitano\nРезультат: 1 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Леванте
+DTSTART:20250829T173000Z
+DTEND:20250829T193000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-8auqwdd7rhk8k4erd29m5c0k@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 2 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Севилья VS Эльче
+DTSTART:20250912T190000Z
+DTEND:20250912T210000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-du8jha9qxukb7ki17m3y3aj8@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Ramón Sánchez Pizjuán\nРезультат: 2 - 2
+GEO:37.384046;-5.970592
+LOCATION:Estadio Ramón Sánchez Pizjuán
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez P
+ izjuán";X-APPLE-RADIUS=70;X-TITLE="Estadio Ramón Sánchez Pizjuán":geo:
+ 37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Реал Овьедо
+DTSTART:20250921T163000Z
+DTEND:20250921T183000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-faxb5rfdawpnwaoof1j1o3ro@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 1 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Осасуна VS Эльче
+DTSTART:20250925T173000Z
+DTEND:20250925T193000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-lcqefumn96v640d0yzsv7xuc@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio El Sadar\nРезультат: 1 - 1
+GEO:42.796677;-1.637141
+LOCATION:Estadio El Sadar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Sadar";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio El Sadar":geo:42.796677,-1.637141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Сельта
+DTSTART:20250928T141500Z
+DTEND:20250928T161500Z
+DTSTAMP:20260412T070922Z
+UID:fifa-opadvx9ieaoaai2n08r4sqok@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алавес VS Эльче
+DTSTART:20251005T120000Z
+DTEND:20251005T140000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-pftv5ujrolgrr85ijlnj728k@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio de Mendizorroza\nРезультат: 3 - 1
+GEO:42.837076;-2.688247
+LOCATION:Estadio de Mendizorroza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mendizorroza";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de Mendizorroza":geo:42.837076,-2.68824
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Атлетик
+DTSTART:20251019T120000Z
+DTEND:20251019T140000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-vgz6kc0y9dz9ecnnqulzb578@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 0 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эспаньол VS Эльче
+DTSTART:20251025T141500Z
+DTEND:20251025T161500Z
+DTSTAMP:20260412T070922Z
+UID:fifa-zkqu9lm76sa6ypjcluvnr578@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : RCDE Stadium\nРезультат: 1 - 0
+GEO:41.34786;2.075622
+LOCATION:RCDE Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RCDE Stadium";X-APPLE-RAD
+ IUS=70;X-TITLE="RCDE Stadium":geo:41.34786,2.075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Эльче
+DTSTART:20251102T173000Z
+DTEND:20251102T193000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-113wccwt50kebz0thqf0fxkpg@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadi Olímpic Lluís Companys\nРезультат: 3 - 1
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Реал Сосьедад
+DTSTART:20251107T200000Z
+DTEND:20251107T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-15au35re7u5b9ru4hoko7f3f8@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 1 - 1
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Реал Мадрид
+DTSTART:20251123T200000Z
+DTEND:20251123T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-18ojlro5jtdeu8nv72repur6c@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 2 - 2
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хетафе VS Эльче
+DTSTART:20251128T200000Z
+DTEND:20251128T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-1eq00zu9dngz36evkyw20uw44@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Coliseum\nРезультат: 1 - 0
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Хирона
+DTSTART:20251207T130000Z
+DTEND:20251207T150000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-1fu4ltpxdb9j94v6s2kbx1puc@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 3 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мальорка VS Эльче
+DTSTART:20251213T151500Z
+DTEND:20251213T171500Z
+DTSTAMP:20260412T070922Z
+UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadi Mallorca Son Moix\nРезультат: 3 - 1
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Райо Вальекано
+DTSTART:20251221T173000Z
+DTEND:20251221T193000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-1qdreckuiubqc7yotymp8jggk@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 4 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Вильярреал
+DTSTART:20260103T173000Z
+DTEND:20260103T193000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-1uit2aujexe8xc2izg1a2uyvo@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 1 - 3
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Валенсия VS Эльче
+DTSTART:20260110T200000Z
+DTEND:20260110T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-1wdy4ggbun88lgjv5mhlw53pw@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio de Mestalla\nРезультат: 1 - 1
+GEO:39.474602;-0.358257
+LOCATION:Estadio de Mestalla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mestalla";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Mestalla":geo:39.474602,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Севилья
+DTSTART:20260119T200000Z
+DTEND:20260119T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-21t9p2uvl57vfs1xsytfooxzo@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 2 - 2
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Леванте VS Эльче
+DTSTART:20260123T200000Z
+DTEND:20260123T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-22jwwfu5djp7vwtjkvcujieqc@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Ciudad de Valencia\nРезультат: 3 - 2
+GEO:39.494686;-0.36382
+LOCATION:Estadio Ciudad de Valencia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Valenci
+ a";X-APPLE-RADIUS=70;X-TITLE="Estadio Ciudad de Valencia":geo:39.494686,-0
+ .36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Барселона
+DTSTART:20260131T200000Z
+DTEND:20260131T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-26p4gv6nxij3gqaoea17rxct0@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 1 - 3
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Сосьедад VS Эльче
+DTSTART:20260207T200000Z
+DTEND:20260207T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2agwdhyd4f3pb3wugya4art3o@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Municipal de Anoeta\nРезультат: 3 - 1
+GEO:43.301376;-1.973602
+LOCATION:Estadio Municipal de Anoeta
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal de Anoe
+ ta";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal de Anoeta":geo:43.301376,
+ -1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Осасуна
+DTSTART:20260213T200000Z
+DTEND:20260213T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2fpgp04qfqn3zanmznei2zmdw@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 0 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетик VS Эльче
+DTSTART:20260220T200000Z
+DTEND:20260220T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2jiyipev8f7wvnf4rp16n8n4k@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio de San Mamés\nРезультат: 2 - 1
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Эспаньол
+DTSTART:20260301T130000Z
+DTEND:20260301T150000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2no6er6enaks2abnft8fknndg@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 2 - 2
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Вильярреал VS Эльче
+DTSTART:20260308T130000Z
+DTEND:20260308T150000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2sjqtzqw7toxdc5xpqu843vh0@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio de la Cerámica\nРезультат: 2 - 1
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Эльче
+DTSTART:20260314T200000Z
+DTEND:20260314T220000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2sx9kf2syjyyqwaxz74i46n10@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Bernabéu\nРезультат: 4 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Мальорка
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 2 - 1
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Райо Вальекано VS Эльче
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-30u02n6fw3bxc2lk51wv1cowk@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio de Vallecas\nРезультат: 1 - 0
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Валенсия
+DTSTART:20260411T141500Z
+DTEND:20260411T161500Z
+DTSTAMP:20260412T070922Z
+UID:fifa-363nbiu36arb8us8vuxlizqc4@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero\nРезультат: 1 - 0
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Атлетико Мадрид
+DTSTART:20260422T170000Z
+DTEND:20260422T190000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3ehzlcos9xo56ol70wttwmu50@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Овьедо VS Эльче
+DTSTART:20260426T141500Z
+DTEND:20260426T161500Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3bihehy0y8mtxizg74rkkuh3o@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Municipal Carlos Tartiere
+GEO:43.360762;-5.870261
+LOCATION:Estadio Municipal Carlos Tartiere
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal Carlos 
+ Tartiere";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal Carlos Tartiere":ge
+ o:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сельта VS Эльче
+DTSTART:20260503T120000Z
+DTEND:20260503T140000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3h5n4m7klbnl9dx9yx9w5zk7o@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Abanca-Balaídos
+GEO:42.211852;-8.739721
+LOCATION:Estadio Abanca-Balaídos
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Abanca-Balaídos"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadio Abanca-Balaídos":geo:42.211852,-8.739
+ 721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Алавес
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3logguenlwy065aa7gb1hf3tg@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бетис VS Эльче
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3njoj8cm40koxt8u94a1h3yfo@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio La Cartuja de Sevilla
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эльче VS Хетафе
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3s2q5sph3bm3auk1b8odb493o@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadio Manuel Martínez Valero
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хирона VS Эльче
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070922Z
+UID:fifa-3y3gz2ufpcbu5vkgph7jyg74k@fifa.com
+DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
+ Регулярный период соревнований\nСтадион
+ : Estadi Municipal de Montilivi
+GEO:41.961195;2.828495
+LOCATION:Estadi Municipal de Montilivi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Municipal de Monti
+ livi";X-APPLE-RADIUS=70;X-TITLE="Estadi Municipal de Montilivi":geo:41.961
+ 195,2.828495
+END:VEVENT
+END:VCALENDAR

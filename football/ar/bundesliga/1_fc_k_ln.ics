@@ -1,0 +1,513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الألماني - بوندسليجا - 
+ كولن //
+X-WR-CALNAME:الدوري الألماني - بوندسليجا - كولن
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ماينتس VS كولن
+DTSTART:20250824T133000Z
+DTEND:20250824T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-cu011cv61zc09nnf1ti8z36dw@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
+ تيجة: 0 - 1
+GEO:49.984627;8.224125
+LOCATION:كوفاس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كوفاس أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="كوفاس أرينا":geo:49.984627,8.224125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS فرايبورج
+DTSTART:20250831T173000Z
+DTEND:20250831T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-cz0pjg0mj1a5m91lqszpb2bkk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 4 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فولفسبورج VS كولن
+DTSTART:20250913T133000Z
+DTEND:20250913T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-d1qwv0o28d8fyr95lwczwrcwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
+ النتيجة: 3 - 3
+GEO:52.43282;10.80353
+LOCATION:فوكسفاجن أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فوكسفاجن أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="فوكسفاجن أرينا":geo:52.43282,1
+ 0.80353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لايبزيج VS كولن
+DTSTART:20250920T163000Z
+DTEND:20250920T183000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-d4fo4fsi67dvqhh7vghr4i49g@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
+ نا\nالنتيجة: 3 - 1
+GEO:51.345776;12.348289
+LOCATION:ملعب ريد بول أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريد بول أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريد بول أرينا":ge
+ o:51.345776,12.348289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS شتوتجارت
+DTSTART:20250928T153000Z
+DTEND:20250928T173000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-da1gkw7g8uurvecg8icqqu80k@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 2
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هوفنهايم VS كولن
+DTSTART:20251003T183000Z
+DTEND:20251003T203000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-ddstksgk0wao75lfuriqqchlg@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
+ النتيجة: 0 - 1
+GEO:49.238005;8.887741
+LOCATION:بري زيرو أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بري زيرو أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="بري زيرو أرينا":geo:49.238005,8
+ .887741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS أوجسبورج
+DTSTART:20251018T133000Z
+DTEND:20251018T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-djaavhosnqvpta9j88ehuqvx0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS كولن
+DTSTART:20251025T163000Z
+DTEND:20251025T183000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dknvgto062tiwpf2rz16o8glw@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 1 - 0
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS هامبورج
+DTSTART:20251102T143000Z
+DTEND:20251102T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dqp1p15gmvcc5wti2o830d4wk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 4 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بوروسيا مونشنجلادباخ VS كولن
+DTSTART:20251108T173000Z
+DTEND:20251108T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dt56clcy2uuhivdfcwutkyr6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
+ ارك\nالنتيجة: 3 - 1
+GEO:51.174648;6.38532
+LOCATION:استاد بوروسيا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بوروسيا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="استاد بوروسيا بارك":
+ geo:51.174648,6.38532
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS آينرتخت فرانكفورت
+DTSTART:20251122T173000Z
+DTEND:20251122T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dxwi3zrorvj8nz4jo622sa710@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 3 - 4
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيردر بريمن VS كولن
+DTSTART:20251129T143000Z
+DTEND:20251129T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-dzuruvbg3buwiby9eqwiot05w@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ويسرستادن
+ \nالنتيجة: 1 - 1
+GEO:53.066428;8.837546
+LOCATION:استاد ويسرستادن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ويسرستا
+ دن";X-APPLE-RADIUS=70;X-TITLE="استاد ويسرستادن":geo:53.066
+ 428,8.837546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS سانت باولي
+DTSTART:20251206T143000Z
+DTEND:20251206T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-e4l7iypbteclzdreve2im2i38@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS كولن
+DTSTART:20251213T173000Z
+DTEND:20251213T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-e5ri4ff2rapze9kbh0479ad5g@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
+ النتيجة: 2 - 0
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS يونيون برلين
+DTSTART:20251220T143000Z
+DTEND:20251220T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-ebp5vble9nw89bcwkaaamem8k@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 0 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هايدينهايم VS كولن
+DTSTART:20260110T143000Z
+DTEND:20260110T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-efp0ntc3ixtl2j6yv7x6nymms@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
+ يجة: 2 - 2
+GEO:48.668497;10.139308
+LOCATION:فويت أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فويت أرينا";X-AP
+ PLE-RADIUS=70;X-TITLE="فويت أرينا":geo:48.668497,10.139308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS بايرن ميونيخ
+DTSTART:20260114T193000Z
+DTEND:20260114T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-eivec4bqig74ib0tselmeick4@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 3
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS ماينتس
+DTSTART:20260117T143000Z
+DTEND:20260117T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-emesrc98t387qvdp3v2flz8d0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 2 - 1
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فرايبورج VS كولن
+DTSTART:20260125T163000Z
+DTEND:20260125T183000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-eof2idjdw3bvltio6b49clpuc@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
+ ك\nالنتيجة: 2 - 1
+GEO:48.021945;7.830065
+LOCATION:ملعب أوروبا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب أوروبا ب
+ ارك";X-APPLE-RADIUS=70;X-TITLE="ملعب أوروبا بارك":geo:48.
+ 021945,7.830065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS فولفسبورج
+DTSTART:20260130T193000Z
+DTEND:20260130T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-etk78ufd093mvrse91d01tm38@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 0
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS لايبزيج
+DTSTART:20260208T143000Z
+DTEND:20260208T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-exhr046jamy90vfwil7rjt9uc@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 2
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شتوتجارت VS كولن
+DTSTART:20260214T173000Z
+DTEND:20260214T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-ezvw4rzkq2oh0hvwgw0dl7cwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
+ ز أرينا\nالنتيجة: 3 - 1
+GEO:48.792284;9.232024
+LOCATION:استاد مرسيدس بنز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مرسيدس 
+ بنز أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد مرسيدس بن
+ ز أرينا":geo:48.792284,9.232024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS هوفنهايم
+DTSTART:20260221T143000Z
+DTEND:20260221T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-f4mo3zia3yyfa0ao231ebwetw@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 2 - 2
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوجسبورج VS كولن
+DTSTART:20260227T193000Z
+DTEND:20260227T213000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-1rfpqkids2ynx0ql55z0jdas@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
+ لنتيجة: 2 - 0
+GEO:48.323101;10.885949
+LOCATION:إس جي إل أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إس جي إل أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="إس جي إل أرينا":geo:48.323101,10.8
+ 85949
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS نادي بوروسيا دورتموند
+DTSTART:20260307T173000Z
+DTEND:20260307T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-64rcfjpjgw65g6zd8iu42ot0@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 1 - 2
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هامبورج VS كولن
+DTSTART:20260314T173000Z
+DTEND:20260314T193000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-9ptt4q4yf243qpdy4rmaov84@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
+ تيجة: 1 - 1
+GEO:53.587134;9.89858
+LOCATION:إسمتش أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إسمتش أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="إسمتش أرينا":geo:53.587134,9.89858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS بوروسيا مونشنجلادباخ
+DTSTART:20260321T143000Z
+DTEND:20260321T163000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-db5upv91b433ua0dt4ikfok4@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي\nالنتيجة: 3 - 3
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آينرتخت فرانكفورت VS كولن
+DTSTART:20260405T153000Z
+DTEND:20260405T173000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-e3fldh0urwa9q8vmaxn3khsk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميرزبان
+ ك\nالنتيجة: 2 - 2
+GEO:50.068577;8.645448
+LOCATION:استاد كوميرزبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميرزب
+ انك";X-APPLE-RADIUS=70;X-TITLE="استاد كوميرزبانك":geo:50
+ .068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS فيردر بريمن
+DTSTART:20260412T133000Z
+DTEND:20260412T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-knqudityzu8iotqfyn7369sk@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سانت باولي VS كولن
+DTSTART:20260417T183000Z
+DTEND:20260417T203000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-nwf29q4zuasdvlj6zn0gyg44@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
+ ن
+GEO:53.554578;9.96769
+LOCATION:ميلرنتور شتاديون
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ميلرنتور شتاد
+ يون";X-APPLE-RADIUS=70;X-TITLE="ميلرنتور شتاديون":geo:53
+ .554578,9.96769
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS باير ليفركوزن
+DTSTART:20260425T133000Z
+DTEND:20260425T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-rfl9p8tt2voneb9dypb9b8r8@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:يونيون برلين VS كولن
+DTSTART:20260502T133000Z
+DTEND:20260502T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-uln5fqf6cbv7tz9cr0035t78@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد آن دير آلت
+ ن فورستيري
+GEO:52.457395;13.568126
+LOCATION:استاد آن دير آلتن فورستيري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد آن دير آ
+ لتن فورستيري";X-APPLE-RADIUS=70;X-TITLE="استاد آن دير
+  آلتن فورستيري":geo:52.457395,13.568126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كولن VS هايدينهايم
+DTSTART:20260510T153000Z
+DTEND:20260510T173000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-ykrhcbo6f8tq3zooctziy0pg@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد راين إنرج
+ ي
+GEO:50.933477;6.875199
+LOCATION:استاد راين إنرجي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد راين إن
+ رجي";X-APPLE-RADIUS=70;X-TITLE="استاد راين إنرجي":geo:50.
+ 933477,6.875199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS كولن
+DTSTART:20260516T133000Z
+DTEND:20260516T153000Z
+DTSTAMP:20260412T070944Z
+UID:fifa-zcvfqccagex8u60bvjhyq2ok@fifa.com
+DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
+ ة: الموسم الحالي\nالملعب: أليانز أرينا
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+END:VCALENDAR

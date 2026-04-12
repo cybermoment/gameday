@@ -1,0 +1,579 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإيطالي - سيري آ - بول
+ ونيا //
+X-WR-CALNAME:الدوري الإيطالي - سيري آ - بولونيا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:روما VS بولونيا
+DTSTART:20250823T184500Z
+DTEND:20250823T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cl0nfg88xxoznw3qe89ejvbbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 0
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS كومو
+DTSTART:20250830T163000Z
+DTEND:20250830T183000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cmdro0qfo163kml8ooz371rtg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 1 - 0
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي ميلان VS بولونيا
+DTSTART:20250914T184500Z
+DTEND:20250914T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-csbw81x78eyi6bravqqmf8ljo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS جنوى
+DTSTART:20250920T130000Z
+DTEND:20250920T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-cuawxsnj5e0jykj7h7xw9t7v8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 2 - 1
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليتشي VS بولونيا
+DTSTART:20250928T160000Z
+DTEND:20250928T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-czuo2pvhjnqvkbvqy4t5nwpw4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
+ ل مير\nالنتيجة: 2 - 2
+GEO:40.365103;18.208852
+LOCATION:استاد مجمع فيا دل مير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مجمع في
+ ا دل مير";X-APPLE-RADIUS=70;X-TITLE="استاد مجمع فيا دل
+  مير":geo:40.365103,18.208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS بيزا
+DTSTART:20251005T130000Z
+DTEND:20251005T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d2pyl0n9fu5dothwptleadzbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 4 - 0
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كالياري VS بولونيا
+DTSTART:20251019T130000Z
+DTEND:20251019T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-d6rs8i22079apm2uhqqg71edw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
+ لنتيجة: 0 - 2
+GEO:39.199802;9.137473
+LOCATION:سردينيا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سردينيا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="سردينيا أرينا":geo:39.199802,9.13
+ 7473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيورنتينا VS بولونيا
+DTSTART:20251026T170000Z
+DTEND:20251026T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-darobpsf8kt94ioyj305wq9ec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
+ رانكي، فيرنزي\nالنتيجة: 2 - 2
+GEO:43.780788;11.282712
+LOCATION:استاد أرتيميو فرانكي، فيرنزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أرتيميو
+  فرانكي، فيرنزي";X-APPLE-RADIUS=70;X-TITLE="استاد أرت
+ يميو فرانكي، فيرنزي":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS تورينو
+DTSTART:20251029T194500Z
+DTEND:20251029T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-det3s3pww7gsva0v1edvi37dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 0
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS بولونيا
+DTSTART:20251102T170000Z
+DTEND:20251102T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dkg96ikwaxincjz0osgjhgqac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 1 - 3
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS نابولي
+DTSTART:20251109T140000Z
+DTEND:20251109T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dmwg1gvcw4ie6d5l4q676ym1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 2 - 0
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أودينيزي VS بولونيا
+DTSTART:20251122T140000Z
+DTEND:20251122T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dtrclyu07br4uab21k5xhj578@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد فريولي\nال
+ نتيجة: 0 - 3
+GEO:46.081644;13.200063
+LOCATION:استاد فريولي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فريولي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فريولي":geo:46.081644,13.20006
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS كريمونيزي
+DTSTART:20251201T194500Z
+DTEND:20251201T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-duyr0a0pw22aug9rjvf5vwums@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 1 - 3
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لاتسيو VS بولونيا
+DTSTART:20251207T170000Z
+DTEND:20251207T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-dzus54uynnlkk8kunhzse0u1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 1 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS نادي يوفنتوس
+DTSTART:20251214T194500Z
+DTEND:20251214T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-e33vxyc8k04if8gzc5gi3tn9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 1
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS ساسوولو
+DTSTART:20251228T170000Z
+DTEND:20251228T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eb95ok4yqqkuy9i4cavv9ru38@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 1 - 1
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بولونيا
+DTSTART:20260104T194500Z
+DTEND:20260104T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-egx77xc7jmgsxnl1wh2m6ddzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS أتالانتا
+DTSTART:20260107T173000Z
+DTEND:20260107T193000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eiyerurkjcrtone02gvzc17v8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 2
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كومو VS بولونيا
+DTSTART:20260110T140000Z
+DTEND:20260110T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-enesrmm9se7vwmx31gxh4sis4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
+ يجاليا\nالنتيجة: 1 - 1
+GEO:45.813857;9.072376
+LOCATION:ملعب جوزيبي سينيجاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جوزيبي س
+ ينيجاليا";X-APPLE-RADIUS=70;X-TITLE="ملعب جوزيبي سين
+ يجاليا":geo:45.813857,9.072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هيلاس VS بولونيا
+DTSTART:20260115T173000Z
+DTEND:20260115T193000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eagc3y9t6oac8tqk8pl7bt89g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مارك أنطو
+ نيو بنتيغودي\nالنتيجة: 2 - 3
+GEO:45.435324;10.968585
+LOCATION:استاد مارك أنطونيو بنتيغودي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مارك أن
+ طونيو بنتيغودي";X-APPLE-RADIUS=70;X-TITLE="استاد مار
+ ك أنطونيو بنتيغودي":geo:45.435324,10.968585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS فيورنتينا
+DTSTART:20260118T140000Z
+DTEND:20260118T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-er0low3fcoze3d3bycpssyn84@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 1 - 2
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جنوى VS بولونيا
+DTSTART:20260125T140000Z
+DTEND:20260125T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ew9qgc4sgn8ttzyeoil66fxn8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميونالي
+  لويجي فيراريس، جينوفا\nالنتيجة: 3 - 2
+GEO:44.416467;8.952527
+LOCATION:استاد كوميونالي لويجي فيراريس، جين
+ وفا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميونا
+ لي لويجي فيراريس، جينوفا";X-APPLE-RADIUS=70;X-TITLE="
+ استاد كوميونالي لويجي فيراريس، جينوفا":ge
+ o:44.416467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS نادي ميلان
+DTSTART:20260203T194500Z
+DTEND:20260203T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-ez4c76g0he7o1bvd8iaitxjis@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 3
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS بارما
+DTSTART:20260208T113000Z
+DTEND:20260208T133000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-f3kr5n5cib5fjzh4wkyfc23h0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 1
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS بولونيا
+DTSTART:20260215T170000Z
+DTEND:20260215T190000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-4spec9ggp4vq333o0yd88u1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS أودينيزي
+DTSTART:20260223T194500Z
+DTEND:20260223T214500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-604wmu79nfq21kem6wlqpxxw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 1 - 0
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيزا VS بولونيا
+DTSTART:20260302T173000Z
+DTEND:20260302T193000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-btdw5nixu80jqgu17y4qmgb8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
+  - ملعب روميو أنكونيتاني\nالنتيجة: 0 - 1
+GEO:43.725293;10.40019
+LOCATION:أرينا غاريبالدي - ملعب روميو أنكوني
+ تاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أرينا غاريبال
+ دي - ملعب روميو أنكونيتاني";X-APPLE-RADIUS=70;X-TITLE
+ ="أرينا غاريبالدي - ملعب روميو أنكونيتاني
+ ":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS هيلاس
+DTSTART:20260308T140000Z
+DTEND:20260308T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-eror5uhe7r0j5gqqxbxm17h0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 1 - 2
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ساسوولو VS بولونيا
+DTSTART:20260315T140000Z
+DTEND:20260315T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-kwxxdta13j5h3qr7ema9f7ro@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
+ ريكولوري\nالنتيجة: 0 - 1
+GEO:44.714637;10.649711
+LOCATION:استاد ديل سيتا تريكولوري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ديل سيت
+ ا تريكولوري";X-APPLE-RADIUS=70;X-TITLE="استاد ديل سيت
+ ا تريكولوري":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS لاتسيو
+DTSTART:20260322T140000Z
+DTEND:20260322T160000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-mxk28qlh6zzkndih290geyhg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 2
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريمونيزي VS بولونيا
+DTSTART:20260405T130000Z
+DTEND:20260405T150000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-qldc2yg8qvgpookafhb301ec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
+ ني\nالنتيجة: 1 - 2
+GEO:45.140164;10.034831
+LOCATION:ملعب جيوفاني زيني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جيوفاني 
+ زيني";X-APPLE-RADIUS=70;X-TITLE="ملعب جيوفاني زيني":geo
+ :45.140164,10.034831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS ليتشي
+DTSTART:20260412T160000Z
+DTEND:20260412T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-v1k9wzz1dta9n9imvaqjxf6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS بولونيا
+DTSTART:20260419T184500Z
+DTEND:20260419T204500Z
+DTSTAMP:20260412T071010Z
+UID:fifa-zhukpwrs0g1sobh6idueivis@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: يوفنتوس أرينا
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS روما
+DTSTART:20260425T160000Z
+DTEND:20260425T180000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-12qz70wi0b0coly48zdhls93o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS كالياري
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1774je45x71hlqa2zwnp1ng2c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS بولونيا
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1d8em3ehs8e7rfo1sbevmsqac@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان باولو
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS بولونيا
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1ew0e91oy598rmadcd763ps7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أتليتي أز
+ وري إيطاليا
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS إنتر ميلان
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T071010Z
+UID:fifa-1iz38m02tzgh8x5a9yg2ztgyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإسباني - لا ليجا - بر
+ شلونة //
+X-WR-CALNAME:الدوري الإسباني - لا ليجا - برشلون
+ ة
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ريال مايوركا VS برشلونة
+DTSTART:20250816T173000Z
+DTEND:20250816T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إيبيروستا
+ ر\nالنتيجة: 0 - 3
+GEO:39.58994;2.630078
+LOCATION:استاد إيبيروستار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبيروس
+ تار";X-APPLE-RADIUS=70;X-TITLE="استاد إيبيروستار":geo:39
+ .58994,2.630078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفانتي VS برشلونة
+DTSTART:20250823T193000Z
+DTEND:20250823T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-5pp18hcr9ery2hv17q7q6eqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
+ فالنسيا\nالنتيجة: 2 - 3
+GEO:39.494686;-0.36382
+LOCATION:استاد سيوداد دي فالنسيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سيوداد 
+ دي فالنسيا";X-APPLE-RADIUS=70;X-TITLE="استاد سيوداد د
+ ي فالنسيا":geo:39.494686,-0.36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رايو فاييكانو VS برشلونة
+DTSTART:20250831T193000Z
+DTEND:20250831T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-a4rapcrtfjbf1vihoi65rm6s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
+ يجة: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS فالنسيا
+DTSTART:20250914T190000Z
+DTEND:20250914T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-b88u5e429cnb6ng0i5t4f9jo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadi Johan Cruyff\nالنت
+ يجة: 6 - 0
+GEO:41.37422;2.050604
+LOCATION:Estadi Johan Cruyff
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Johan Cruyff";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadi Johan Cruyff":geo:41.37422,2.050604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS خيتافي
+DTSTART:20250921T190000Z
+DTEND:20250921T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ekk0usjk6blgzpziu4ho01zo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: Estadi Johan Cruyff\nالنت
+ يجة: 3 - 0
+GEO:41.37422;2.050604
+LOCATION:Estadi Johan Cruyff
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Johan Cruyff";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadi Johan Cruyff":geo:41.37422,2.050604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال أوفيدو VS برشلونة
+DTSTART:20250925T193000Z
+DTEND:20250925T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-kkl8x55qltpl4g1v5260df6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
+ رتيير الجديد\nالنتيجة: 1 - 3
+GEO:43.360762;-5.870261
+LOCATION:إستاد كارلوس تارتيير الجديد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد كارلوس 
+ تارتيير الجديد";X-APPLE-RADIUS=70;X-TITLE="إستاد كار
+ لوس تارتيير الجديد":geo:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال سوسيداد
+DTSTART:20250928T163000Z
+DTEND:20250928T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-mh9g8wbjyoe3ub3ouu0nnsb8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 2 - 1
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إشبيلية VS برشلونة
+DTSTART:20251005T141500Z
+DTEND:20251005T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-rbyhgw1kyp0ghg2qpvznvvv8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد رامون سان
+ شيز بيزخوان\nالنتيجة: 4 - 1
+GEO:37.384046;-5.970592
+LOCATION:استاد رامون سانشيز بيزخوان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رامون س
+ انشيز بيزخوان";X-APPLE-RADIUS=70;X-TITLE="استاد رامو
+ ن سانشيز بيزخوان":geo:37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS جيرونا
+DTSTART:20251018T141500Z
+DTEND:20251018T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-txn45zihl3cp2bv3lj5rmot0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 2 - 1
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS برشلونة
+DTSTART:20251026T151500Z
+DTEND:20251026T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-ytxz0i1eppxxqupm27ktuln8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS إلتشي
+DTSTART:20251102T173000Z
+DTEND:20251102T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-113wccwt50kebz0thqf0fxkpg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 3 - 1
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيلتا فيغو VS برشلونة
+DTSTART:20251109T200000Z
+DTEND:20251109T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-16t0fdut4ky4b4es7i0trovtg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
+ لنتيجة: 2 - 4
+GEO:42.211852;-8.739721
+LOCATION:استاد بلايدوس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلايدوس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بلايدوس":geo:42.211852,-8.7
+ 39721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أتليتيكو بلباو
+DTSTART:20251122T151500Z
+DTEND:20251122T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1a7radhhole7vfnciarzauq6s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 4 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ديبورتيفو ألافيس
+DTSTART:20251129T151500Z
+DTEND:20251129T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1dk2hnl09qux7z4fqn1qxq238@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أتلتيكو مدريد
+DTSTART:20251202T200000Z
+DTEND:20251202T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1v9qqviahmnia4ewmzd4aejv8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS برشلونة
+DTSTART:20251206T173000Z
+DTEND:20251206T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1gkqfp2d7qi9h6k34k3mo8zkk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
+ أولمبي\nالنتيجة: 3 - 5
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أوساسونا
+DTSTART:20251213T173000Z
+DTEND:20251213T193000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1myp00g7w796yt6ts8ojdkys4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 2 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS برشلونة
+DTSTART:20251221T151500Z
+DTEND:20251221T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1oi5jmg0ldrmljyz46todfbpw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إسبانيول VS برشلونة
+DTSTART:20260103T200000Z
+DTEND:20260103T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-1rvgcgz2ftmamcay54gz2qtjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد باور ايت\n
+ النتيجة: 0 - 2
+GEO:41.34786;2.075622
+LOCATION:استاد باور ايت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد باور اي
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد باور ايت":geo:41.34786,2.
+ 075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال سوسيداد VS برشلونة
+DTSTART:20260118T200000Z
+DTEND:20260118T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-20boml0nnzxlvqvyy0ylfxdlg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد بلدية أنو
+ يتو\nالنتيجة: 2 - 1
+GEO:43.301376;-1.973602
+LOCATION:استاد بلدية أنويتو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بلدية أ
+ نويتو";X-APPLE-RADIUS=70;X-TITLE="استاد بلدية أنويتو"
+ :geo:43.301376,-1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال أوفيدو
+DTSTART:20260125T151500Z
+DTEND:20260125T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-257ci0bd6g6l3uk1fn5a0ob2s@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلتشي VS برشلونة
+DTSTART:20260131T200000Z
+DTEND:20260131T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-26p4gv6nxij3gqaoea17rxct0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد مانويل ما
+ رتينز فاليرو\nالنتيجة: 1 - 3
+GEO:38.267129;-0.6633
+LOCATION:إستاد مانويل مارتينز فاليرو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد مانويل 
+ مارتينز فاليرو";X-APPLE-RADIUS=70;X-TITLE="إستاد مان
+ ويل مارتينز فاليرو":geo:38.267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال مايوركا
+DTSTART:20260207T151500Z
+DTEND:20260207T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جيرونا VS برشلونة
+DTSTART:20260216T200000Z
+DTEND:20260216T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2elfffvt87h2apmhh2c0et3pw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
+ ونتيليفي\nالنتيجة: 2 - 1
+GEO:41.961195;2.828495
+LOCATION:إستاد بلدية دي مونتيليفي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد بلدية د
+ ي مونتيليفي";X-APPLE-RADIUS=70;X-TITLE="إستاد بلدية د
+ ي مونتيليفي":geo:41.961195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ليفانتي
+DTSTART:20260222T151500Z
+DTEND:20260222T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2k9uw8chd5ol6b9rrw5ftnc44@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 3 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS فياريال
+DTSTART:20260228T151500Z
+DTEND:20260228T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2mxi4zs0db40fjabi1d36b9ck@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 4 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS برشلونة
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2q9tc31q3pa181h1jnjxvfqc4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان ماميه\
+ nالنتيجة: 0 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS إشبيلية
+DTSTART:20260315T151500Z
+DTEND:20260315T171500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2v65xqf9xnj8r2gxj9akbtqfo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 5 - 2
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS رايو فاييكانو
+DTSTART:20260322T130000Z
+DTEND:20260322T150000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-2y7mqtoumr3710vgfit7046j8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 1 - 0
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS برشلونة
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-31zxsexwgw81km23uib95otuc@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS إسبانيول
+DTSTART:20260411T163000Z
+DTEND:20260411T183000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-35cufmoxi0kf40kxn49gj71g4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
+ : 4 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS سيلتا فيغو
+DTSTART:20260422T193000Z
+DTEND:20260422T213000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3cmwlyivmqd5wesvf6o13mtjo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:خيتافي VS برشلونة
+DTSTART:20260425T141500Z
+DTEND:20260425T161500Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3apuzcf26kfvpej8uc98l2n10@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
+ ريز
+GEO:40.325729;-3.714964
+LOCATION:مدرج ألفونسو بيريز
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مدرج ألفونسو 
+ بيريز";X-APPLE-RADIUS=70;X-TITLE="مدرج ألفونسو بيريز"
+ :geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوساسونا VS برشلونة
+DTSTART:20260503T000000Z
+DTEND:20260503T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3j0vwkubszbtkr21f7upb4il0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد السدار
+GEO:42.796677;-1.637141
+LOCATION:استاد السدار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد السدار";
+ X-APPLE-RADIUS=70;X-TITLE="استاد السدار":geo:42.796677,-1.63714
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال مدريد
+DTSTART:20260510T190000Z
+DTEND:20260510T210000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3kigmlbqhunbi6gixcr7cz6z8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديبورتيفو ألافيس VS برشلونة
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3n65mnr76iym0yv9wmk1ug6c4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: إستاد دي منديزو
+ روزا
+GEO:42.837076;-2.688247
+LOCATION:إستاد دي منديزوروزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إستاد دي مندي
+ زوروزا";X-APPLE-RADIUS=70;X-TITLE="إستاد دي منديزورو
+ زا":geo:42.837076,-2.688247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS ريال بيتيس
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3rpa9gg887sphjnou8h1uv6s4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: كامب نو
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فالنسيا VS برشلونة
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260412T070921Z
+UID:fifa-3xq4alyjtlltd6j11gckoxvkk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد دي مستالا
+GEO:39.474602;-0.358257
+LOCATION:استاد دي مستالا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي مستا
+ لا";X-APPLE-RADIUS=70;X-TITLE="استاد دي مستالا":geo:39.4746
+ 02,-0.358257
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,108 @@
+{
+  "competition_name": "ラ リーガ",
+  "competition_id": "2000000037",
+  "season_id": "80zg2v1cuqcfhphn56u4qpyqc",
+  "lang": "ja",
+  "teams": [
+    {
+      "id": "2000019642",
+      "name": "ジローナ",
+      "filename": "girona_fc"
+    },
+    {
+      "id": "2000006891",
+      "name": "ラージョ・バジェカーノ",
+      "filename": "rayo_vallecano"
+    },
+    {
+      "id": "1882482",
+      "name": "ビジャレアル",
+      "filename": "villarreal"
+    },
+    {
+      "id": "clo928vcczjp0mczavs5o7p5k",
+      "name": "レアル・オビエド",
+      "filename": "real_oviedo"
+    },
+    {
+      "id": "400074602",
+      "name": "マジョルカ",
+      "filename": "rcd_mallorca"
+    },
+    {
+      "id": "1903416",
+      "name": "バルセロナ",
+      "filename": "barcelona"
+    },
+    {
+      "id": "356",
+      "name": "アラべス",
+      "filename": "deportivo_alav_s"
+    },
+    {
+      "id": "1883309",
+      "name": "レバンテ",
+      "filename": "levante_ud"
+    },
+    {
+      "id": "32840",
+      "name": "バレンシア",
+      "filename": "valencia_cf"
+    },
+    {
+      "id": "31069",
+      "name": "レアル・ソシエダ",
+      "filename": "real_sociedad"
+    },
+    {
+      "id": "2000006874",
+      "name": "セルタ・デ・ビーゴ",
+      "filename": "rc_celta"
+    },
+    {
+      "id": "1884966",
+      "name": "ヘタフェ",
+      "filename": "getafe_cf"
+    },
+    {
+      "id": "31071",
+      "name": "アトレティック・クルブ",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "358",
+      "name": "セビージャ",
+      "filename": "sevilla"
+    },
+    {
+      "id": "44229",
+      "name": "エスパニョール",
+      "filename": "rcd_espanyol"
+    },
+    {
+      "id": "1914808",
+      "name": "アトレティコ・マドリード",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "400139932",
+      "name": "エルチェ",
+      "filename": "elche_cf"
+    },
+    {
+      "id": "32838",
+      "name": "ベティス",
+      "filename": "real_betis"
+    },
+    {
+      "id": "30504",
+      "name": "レアル・マドリード CF",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "400074600",
+      "name": "オサスナ",
+      "filename": "ca_osasuna"
+    }
+  ]
+}

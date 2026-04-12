@@ -1,0 +1,108 @@
+{
+  "competition_name": "意甲",
+  "competition_id": "2000000026",
+  "season_id": "emdmtfr1v8rey2qru3xzfwges",
+  "lang": "zh",
+  "teams": [
+    {
+      "id": "2000006977",
+      "name": "萨索洛",
+      "filename": "sassuolo"
+    },
+    {
+      "id": "2147481899",
+      "name": "那不勒斯",
+      "filename": "napoli"
+    },
+    {
+      "id": "1887644",
+      "name": "热那亚",
+      "filename": "genoa"
+    },
+    {
+      "id": "400086390",
+      "name": "莱切",
+      "filename": "lecce"
+    },
+    {
+      "id": "31083",
+      "name": "罗马",
+      "filename": "as_roma"
+    },
+    {
+      "id": "33387",
+      "name": "博洛尼亚",
+      "filename": "bologna"
+    },
+    {
+      "id": "1907169",
+      "name": "米兰",
+      "filename": "milan"
+    },
+    {
+      "id": "af91jdcs6x0bqkmdb78rokod2",
+      "name": "克雷莫纳",
+      "filename": "cremonese"
+    },
+    {
+      "id": "6uzfw7ahyxg4wrrfxo5u7qt0n",
+      "name": "科莫",
+      "filename": "como"
+    },
+    {
+      "id": "1890313",
+      "name": "拉齐奥",
+      "filename": "lazio"
+    },
+    {
+      "id": "451",
+      "name": "卡利亚里",
+      "filename": "cagliari"
+    },
+    {
+      "id": "44331",
+      "name": "佛罗伦萨",
+      "filename": "fiorentina"
+    },
+    {
+      "id": "1914806",
+      "name": "尤文图斯足球俱乐部",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "34551",
+      "name": "帕尔马",
+      "filename": "parma"
+    },
+    {
+      "id": "2147482134",
+      "name": "亚特兰大",
+      "filename": "atalanta"
+    },
+    {
+      "id": "bfztlrr6176xsdt2bmp0u1d2d",
+      "name": "比萨",
+      "filename": "pisa"
+    },
+    {
+      "id": "32060",
+      "name": "乌迪内斯",
+      "filename": "udinese"
+    },
+    {
+      "id": "30986",
+      "name": "维罗纳",
+      "filename": "hellas_verona"
+    },
+    {
+      "id": "1914619",
+      "name": "国际米兰",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "2147482132",
+      "name": "都灵",
+      "filename": "torino"
+    }
+  ]
+}
