@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Hoffenheim
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-cskvpz8uydrpfew2gjix7zm6s@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Bay
  Arena\nRisultato: 1 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Eintracht Francoforte
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-cymmi3js3t1gekdkk91c9xvdg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 1 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Union Berlino VS Hoffenheim
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-d24n15ohhbg0ffvn6s01bh5p0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Sta
  dion An der Alten Försterei\nRisultato: 2 - 4
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS FC Bayern München
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-d611w1d2vrzlxstz3krhm8xlg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 1 - 4
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Friburgo VS Hoffenheim
 DTSTART:20250928T133000Z
 DTEND:20250928T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-d76yzyflinjbjue96ve9zekgk@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Eur
  opa-Park Stadion\nRisultato: 1 - 1
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Colonia
 DTSTART:20251003T183000Z
 DTEND:20251003T203000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-ddstksgk0wao75lfuriqqchlg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 0 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Hoffenheim
 DTSTART:20251019T153000Z
 DTEND:20251019T173000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-die90o6ovr9ay6t0a3xjtetjo@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Mil
  lerntor-Stadion\nRisultato: 0 - 3
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Heidenheim 1846
 DTSTART:20251025T133000Z
 DTEND:20251025T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-dmnprd9scjwzs6jj5h98znms4@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 3 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburg VS Hoffenheim
 DTSTART:20251102T163000Z
 DTEND:20251102T183000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-dopho2encobtsnfkt514be0pg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Vol
  kswagen Arena\nRisultato: 2 - 3
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS RB Lipsia
 DTSTART:20251108T143000Z
 DTEND:20251108T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-dtxfvl2svhx6p6st0kkwzjok4@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 3 - 1
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Hoffenheim
 DTSTART:20251121T193000Z
 DTEND:20251121T213000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-dvhvv2vrq6ittqcap7qh7ieqc@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 1 - 1
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Augusta
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-e1151vffet4telyg2j9b55zx0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 3 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Hoffenheim
 DTSTART:20251207T163000Z
 DTEND:20251207T183000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-e1t5modysvw955h2nzxo5lous@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: SIG
  NAL IDUNA PARK\nRisultato: 2 - 0
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Amburgo
 DTSTART:20251213T143000Z
 DTEND:20251213T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-e8kacws1qrci5hcmjvv7d3eok@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 4 - 1
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Stoccarda VS Hoffenheim
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-ea4lmhpl5whsoh1piqqcssl5g@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MHP
  Arena\nRisultato: 0 - 0
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Borussia M'gladbach
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-eih94tu5gjls2jjozxfkdsxlg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 5 - 1
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Bayer Leverkusen
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-em0bgvrgebi5c9rzjr8rb0fmc@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 1 - 0
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Francoforte VS Hoffenheim
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-eo0xnwcrkagzrq25tejn5v6z8@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Deu
  tsche Bank Park\nRisultato: 1 - 3
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Brema VS Hoffenheim
 DTSTART:20260127T193000Z
 DTEND:20260127T213000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-ee44qec2quq4b3rlshopmbh90@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Wes
  erstadion\nRisultato: 0 - 2
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Union Berlino
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-et5zgeu6v608mkb29c8oxmoes@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 3 - 1
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Hoffenheim
 DTSTART:20260208T163000Z
 DTEND:20260208T183000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-eucw6ewikyekxbqa8vwonzdhw@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: All
  ianz Arena\nRisultato: 5 - 1
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Friburgo
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-f0nyu34ar99b8yxjac3jpyolw@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 3 - 0
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Colonia VS Hoffenheim
 DTSTART:20260221T143000Z
 DTEND:20260221T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-f4mo3zia3yyfa0ao231ebwetw@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Rhe
  inEnergieSTADION\nRisultato: 2 - 2
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS St. Pauli
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-262mxsfm5eii4wknvhd405xw@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 0 - 1
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim 1846 VS Hoffenheim
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-5qkzeq3zsf1r6ttbjh5l6e50@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Voi
  th-Arena\nRisultato: 2 - 4
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Wolfsburg
 DTSTART:20260314T143000Z
 DTEND:20260314T163000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-9bvn15vzszp543tczmnexv6c@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 1 - 1
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:RB Lipsia VS Hoffenheim
 DTSTART:20260320T193000Z
 DTEND:20260320T213000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-ba7avwl1nake8cdgxapqhlp0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Red
   Bull Arena\nRisultato: 5 - 0
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Magonza
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-ggixvkizh5mys4yi21umzc44@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 1 - 2
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Augusta VS Hoffenheim
 DTSTART:20260410T183000Z
 DTEND:20260410T203000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-jhafbn1vbdp30r644zu2flsk@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: WWK
   Arena\nRisultato: 2 - 2
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Borussia Dortmund
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-oav1ohsgn89qcpi3r93qscus@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Amburgo VS Hoffenheim
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-rtmuxrphhcgy945hywsqp9g4@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Vol
  ksparkstadion
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Stoccarda
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-vdyf5bricl9fqbe7uviz5btg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Werder Brema
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-y6qmgniqgf59lo9d7tc27eac@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS Hoffenheim
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260413T145659Z
+DTSTAMP:20260413T150507Z
 UID:fifa-11c3y9g4m1o5hf7rt3jzcb1uc@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: BOR
  USSIA-PARK
