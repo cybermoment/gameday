@@ -8,7 +8,7 @@
 
 ## 🌍 Seasons
 
-- [F1 2026](https://cybermoment.app/gameday/f1/en/f1/f1.ics)
+- [F1 2026](https://cybermoment.app/gameday/f1/en/f1/f1)
 
 ## 💡 How to use
 

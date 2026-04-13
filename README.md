@@ -4,7 +4,8 @@ GameDay provides ICS calendar feeds for sports schedules. Subscribe once and get
 
 ## Supported Sports
 - ⚽ Football (Soccer)
-- 🏀 NBA, 🏎️ F1, 🎾 Tennis (Coming Soon...)
+- 🏎️ Formula 1
+- 🏀 NBA, 🎾 Tennis (Coming Soon...)
 
 ## ⚽ Football (Soccer)
 
@@ -22,6 +23,11 @@ GameDay provides ICS calendar feeds for sports schedules. Subscribe once and get
 | **日本語** | [👉 カレンダーを表示](./football/ja/README.md) |
 | **한국어** | [👉 캘린더 보기](./football/ko/README.md) |
 
+## 🏎️ Formula 1
+
+| Language | Entry Link |
+| :--- | :--- |
+| **English** | [👉 View Calendars](./f1/en/README.md) |
 
 ## Features
 
@@ -30,27 +36,19 @@ GameDay provides ICS calendar feeds for sports schedules. Subscribe once and get
 - Auto-updating schedules
 - Multi-sport support
 
-
 ## How to Use
 
-1. Copy the ICS URL
-
-2. Add to your calendar app
-
+Add to your calendar app or copy the ICS URL
 
 ## Use Cases
 
 - Follow your favorite teams
-
 - Never miss a match or race
-
 - Sync sports events across devices
-
 
 ## Keywords
 
 sports calendar, ics calendar, football fixtures ics, nba calendar ics, f1 schedule calendar
-
 
 ## Support
 If this project helps you, please give it a Star.
