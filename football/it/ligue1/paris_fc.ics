@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Paris FC
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-75fp0z0nvmxwq7e93v82hludw@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Raymond Kopa\nRisultato: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Paris FC
 DTSTART:20250823T150000Z
 DTEND:20250823T170000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7760a973lifciy9atx6ougq38@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 5 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Metz
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7c9ygcprmgav5uii8a89w9o2c@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 3 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Paris FC
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7finhgei82ggqjmpqvozmy32s@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Francis-Le Blé\nRisultato: 1 - 2
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Strasburgo
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7hqfsp9wwps1370c6rgriitxw@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 2 - 3
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Nizza VS Paris FC
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7m62w9j9iun95smcx0a8hocgk@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Allian
  z Riviera\nRisultato: 1 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Lorient
 DTSTART:20251003T184500Z
 DTEND:20251003T204500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7p43li2bqzu2bl9eqqg9bq42c@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 2 - 0
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Paris FC
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7sh3gud0et7a4ivgb8jgwbj84@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Bollaert-Delelis\nRisultato: 2 - 1
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Nantes
 DTSTART:20251024T184500Z
 DTEND:20251024T204500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7woilg11mdjafmd9g8zm53aqc@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 1 - 2
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Olympique Lione
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-7zakpx3bdi9xngk6n0kzf0xsk@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 3 - 3
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Monaco VS Paris FC
 DTSTART:20251101T180000Z
 DTEND:20251101T200000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-83wy5m6fbrrtlug3hcpq4uyhg@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Louis-II\nRisultato: 0 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Rennes
 DTSTART:20251107T194500Z
 DTEND:20251107T214500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-86k0uxuzs6p0j7lhdat542g44@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 0 - 1
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Lilla VS Paris FC
 DTSTART:20251123T194500Z
 DTEND:20251123T214500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-89wmzpjtz2u1jq65kkfz1hyj8@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Decath
  lon Arena - Stade Pierre-Mauroy\nRisultato: 4 - 2
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Auxerre
 DTSTART:20251129T180000Z
 DTEND:20251129T200000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8bqrt5xzfyok5v7dblphpd4pg@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 1 - 1
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Paris FC
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8f3tnmo8i4bko7srxs5ssqkgk@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Océane\nRisultato: 0 - 0
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Tolosa
 DTSTART:20251213T200500Z
 DTEND:20251213T220500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8igyys1xqxqyk7lodsnndzpqs@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 0 - 3
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Paris FC
 DTSTART:20260104T194500Z
 DTEND:20260104T214500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8lu58inotaezy8amroo3xopw4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Parco 
  dei Principi\nRisultato: 2 - 1
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Paris FC
 DTSTART:20260118T161500Z
 DTEND:20260118T181500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8qpsv11q63px0nfhh91sgdafo@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  de la Beaujoire - Louis Fonteneau\nRisultato: 1 - 2
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Angers
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8then2i39m955xdxcgps2xqfo@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 0 - 0
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Olympique Marsiglia
 DTSTART:20260131T160000Z
 DTEND:20260131T180000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-8vqputshtlktgeucmqsqqstg4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 2 - 2
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Paris FC
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-90mzl6cpsvr2ctujlp4he6fis@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  de l'Abbé Deschamps\nRisultato: 0 - 0
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Lens
 DTSTART:20260214T200500Z
 DTEND:20260214T220500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9542olzreg98t5g7iy5689yc4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 0 - 5
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Tolosa VS Paris FC
 DTSTART:20260221T180000Z
 DTEND:20260221T200000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9862rku5wkvr7ztuaow2ckzro@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stadiu
  m de Toulouse\nRisultato: 1 - 1
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Nizza
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9biqqtofk8ivb1twgvwku0hec@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 1 - 0
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lione VS Paris FC
 DTSTART:20260308T194500Z
 DTEND:20260308T214500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9dsdi6019alc3ofkzhs6zusd0@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Groupa
  ma Stadium\nRisultato: 1 - 1
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Strasburgo VS Paris FC
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9h5ymyb7mkj2jvirmscchc55g@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  de la Meinau\nRisultato: 0 - 0
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Le Havre
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9lgnd4nfwyy4hxu2uxmfnid5g@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 3 - 2
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Paris FC
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9ov5e4suhwmige770nfot7or8@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  du Moustoir - Yves Allainmat\nRisultato: 1 - 1
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Monaco
 DTSTART:20260410T170000Z
 DTEND:20260410T190000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9sa8e6pqyd65jwfzybnm03i1g@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 4 - 1
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Paris FC
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9undrxf1ijzcnw6pqwcorrml0@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Saint-Symphorien
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Lilla
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-9yg1rb5k622djgynfoisbjdhw@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Brest
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-a2yvjth611uwq6dwxc6wuuy38@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Paris FC
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-a5yg8tcrxk9lzymoxratyivis@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Roazho
  n Park
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Paris Saint-Germain
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260413T201408Z
+DTSTAMP:20260413T212800Z
 UID:fifa-a99xwpczlz7leac2yu0zlj5zo@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin
