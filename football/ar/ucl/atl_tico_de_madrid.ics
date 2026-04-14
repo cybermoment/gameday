@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS أتلتيكو مدريد
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS آينرتخت فرانكفورت
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:أرسنال VS أتلتيكو مدريد
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS أونيون سانت جيلواز
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS إنتر ميلان
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:ايندهوفن VS أتلتيكو مدريد
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-5qqu3i9dgj6ummpnfzm05yf4k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS أتلتيكو مدريد
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS بودو جليمت
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS أتلتيكو مدريد
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب جان بر
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS كلوب بروج
 DTSTART:20260224T174500Z
 DTEND:20260224T194500Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب واندا 
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS توتنهام
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-25hk7u04fup5ze2892je0za50@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: ملعب واندا ميتروبول
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:توتنهام VS أتلتيكو مدريد
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-2a1ktq8ai1l1rh7uycbh0pk44@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: ملعب توتنهام هوتسبي
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS أتلتيكو مدريد
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060537Z
 UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: ربع النهائي\nالملعب: كامب نو\nالنتيجة: 
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS برشلونة
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260414T035126Z
+DTSTAMP:20260414T060538Z
 UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: ربع النهائي\nالملعب: ملعب واندا ميترو
