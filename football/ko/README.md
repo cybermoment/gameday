@@ -9,6 +9,7 @@
 ## 🌍 대회
 
 - [FIFA 월드컵™](https://cybermoment.app/gameday/football/ko/worldcup/worldcup)
+- [K리그 1](https://cybermoment.app/gameday/football/ko/kleague1/kleague1)
 - [프리미어리그](https://cybermoment.app/gameday/football/ko/premier_league/premier_league)
 - [프리메라리가](https://cybermoment.app/gameday/football/ko/laliga/laliga)
 - [분데스리가](https://cybermoment.app/gameday/football/ko/bundesliga/bundesliga)
@@ -18,6 +19,23 @@
 
 ## 🧩 팀
 
+<details>
+<summary>K리그 1 (12)</summary>
+
+- [인천유나이티드 FC](https://cybermoment.app/gameday/football/ko/kleague1/incheon_united)
+- [FC서울](https://cybermoment.app/gameday/football/ko/kleague1/fc_seoul)
+- [울산 HD](https://cybermoment.app/gameday/football/ko/kleague1/ulsan_hd)
+- [강원FC](https://cybermoment.app/gameday/football/ko/kleague1/gangwon_fc)
+- [김천상무프로축구단](https://cybermoment.app/gameday/football/ko/kleague1/sangju_sangmu)
+- [포항 스틸러스](https://cybermoment.app/gameday/football/ko/kleague1/pohang_steelers)
+- [전북 모터스](https://cybermoment.app/gameday/football/ko/kleague1/jeonbuk_motors)
+- [부천FC1995](https://cybermoment.app/gameday/football/ko/kleague1/bucheon_1995)
+- [제주유나이티드FC](https://cybermoment.app/gameday/football/ko/kleague1/jeju_united)
+- [광주FC](https://cybermoment.app/gameday/football/ko/kleague1/gwangju_fc)
+- [대전하나시티즌](https://cybermoment.app/gameday/football/ko/kleague1/daejeon_hana_citizen)
+- [FC안양](https://cybermoment.app/gameday/football/ko/kleague1/anyang)
+
+</details>
 <details>
 <summary>프리미어리그 (20)</summary>
 

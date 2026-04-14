@@ -1,0 +1,108 @@
+{
+  "competition_name": "J1リーグ",
+  "competition_id": "2000000085",
+  "season_id": "1nc719gu65fdw6qfatwy1csus",
+  "lang": "ja",
+  "teams": [
+    {
+      "id": "1918505",
+      "name": "ガンバ大阪",
+      "filename": "gamba_osaka"
+    },
+    {
+      "id": "44224",
+      "name": "セレッソ大阪",
+      "filename": "cerezo_osaka"
+    },
+    {
+      "id": "44219",
+      "name": "横浜F・マリノス",
+      "filename": "yokohama_f_marinos"
+    },
+    {
+      "id": "1886141",
+      "name": "アルビレックス新潟",
+      "filename": "albirex_niigata"
+    },
+    {
+      "id": "2147482127",
+      "name": "ヴィッセル神戸",
+      "filename": "vissel_kobe"
+    },
+    {
+      "id": "1914295",
+      "name": "浦和レッドダイヤモンズ",
+      "filename": "urawa_red_diamonds"
+    },
+    {
+      "id": "400160214",
+      "name": "アビスパ福岡",
+      "filename": "avispa_fukuoka"
+    },
+    {
+      "id": "1933784",
+      "name": "柏レイソル",
+      "filename": "kashiwa_reysol"
+    },
+    {
+      "id": "4rddupwnkxxcwou6iluymj29j",
+      "name": "ファジアーノ岡山",
+      "filename": "fagiano_okayama"
+    },
+    {
+      "id": "400220739",
+      "name": "京都サンガF.C.",
+      "filename": "kyoto_sanga"
+    },
+    {
+      "id": "400110809",
+      "name": "横浜FC",
+      "filename": "yokohama_fc"
+    },
+    {
+      "id": "476",
+      "name": "FC東京",
+      "filename": "fc_tokyo"
+    },
+    {
+      "id": "468",
+      "name": "川崎フロンターレ",
+      "filename": "kawasaki_frontale"
+    },
+    {
+      "id": "44227",
+      "name": "名古屋グランパス",
+      "filename": "nagoya_grampus"
+    },
+    {
+      "id": "1224",
+      "name": "湘南ベルマーレ",
+      "filename": "shonan_bellmare"
+    },
+    {
+      "id": "1945396",
+      "name": "鹿島アントラーズ",
+      "filename": "kashima_antlers"
+    },
+    {
+      "id": "6u7ltoz339il087ubf6rdtc2v",
+      "name": "東京ヴェルディ",
+      "filename": "tokyo_verdy"
+    },
+    {
+      "id": "44222",
+      "name": "清水エスパルス",
+      "filename": "shimizu_s_pulse"
+    },
+    {
+      "id": "c893rjzz7makmez86fze25a2e",
+      "name": "FC町田ゼルビア",
+      "filename": "machida_zelvia"
+    },
+    {
+      "id": "1937696",
+      "name": "サンフレッチェ広島",
+      "filename": "sanfrecce_hiroshima"
+    }
+  ]
+}

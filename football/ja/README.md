@@ -9,6 +9,7 @@
 ## 🌍 大会
 
 - [FIFA ワールドカップ™](https://cybermoment.app/gameday/football/ja/worldcup/worldcup)
+- [J1リーグ](https://cybermoment.app/gameday/football/ja/j1_league/j1_league)
 - [プレミアリーグ](https://cybermoment.app/gameday/football/ja/premier_league/premier_league)
 - [ラ リーガ](https://cybermoment.app/gameday/football/ja/laliga/laliga)
 - [ブンデスリーガ](https://cybermoment.app/gameday/football/ja/bundesliga/bundesliga)
@@ -18,6 +19,31 @@
 
 ## 🧩 チーム
 
+<details>
+<summary>J1リーグ (20)</summary>
+
+- [ガンバ大阪](https://cybermoment.app/gameday/football/ja/j1_league/gamba_osaka)
+- [セレッソ大阪](https://cybermoment.app/gameday/football/ja/j1_league/cerezo_osaka)
+- [横浜F・マリノス](https://cybermoment.app/gameday/football/ja/j1_league/yokohama_f_marinos)
+- [アルビレックス新潟](https://cybermoment.app/gameday/football/ja/j1_league/albirex_niigata)
+- [ヴィッセル神戸](https://cybermoment.app/gameday/football/ja/j1_league/vissel_kobe)
+- [浦和レッドダイヤモンズ](https://cybermoment.app/gameday/football/ja/j1_league/urawa_red_diamonds)
+- [アビスパ福岡](https://cybermoment.app/gameday/football/ja/j1_league/avispa_fukuoka)
+- [柏レイソル](https://cybermoment.app/gameday/football/ja/j1_league/kashiwa_reysol)
+- [ファジアーノ岡山](https://cybermoment.app/gameday/football/ja/j1_league/fagiano_okayama)
+- [京都サンガF.C.](https://cybermoment.app/gameday/football/ja/j1_league/kyoto_sanga)
+- [横浜FC](https://cybermoment.app/gameday/football/ja/j1_league/yokohama_fc)
+- [FC東京](https://cybermoment.app/gameday/football/ja/j1_league/fc_tokyo)
+- [川崎フロンターレ](https://cybermoment.app/gameday/football/ja/j1_league/kawasaki_frontale)
+- [名古屋グランパス](https://cybermoment.app/gameday/football/ja/j1_league/nagoya_grampus)
+- [湘南ベルマーレ](https://cybermoment.app/gameday/football/ja/j1_league/shonan_bellmare)
+- [鹿島アントラーズ](https://cybermoment.app/gameday/football/ja/j1_league/kashima_antlers)
+- [東京ヴェルディ](https://cybermoment.app/gameday/football/ja/j1_league/tokyo_verdy)
+- [清水エスパルス](https://cybermoment.app/gameday/football/ja/j1_league/shimizu_s_pulse)
+- [FC町田ゼルビア](https://cybermoment.app/gameday/football/ja/j1_league/machida_zelvia)
+- [サンフレッチェ広島](https://cybermoment.app/gameday/football/ja/j1_league/sanfrecce_hiroshima)
+
+</details>
 <details>
 <summary>プレミアリーグ (20)</summary>
 
