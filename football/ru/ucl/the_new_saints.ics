@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Зе Нью-С
+ ейнтс //
+X-WR-CALNAME:Лига чемпионов УЕФА - Зе Нью-Сейнт
+ с
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Зе Нью-Сейнтс VS Шкендия 79
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Park Hall
+  Stadium\nРезультат: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:Park Hall Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Park Hall Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Park Hall Stadium":geo:52.875884,-3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Шкендия 79 VS Зе Нью-Сейнтс
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Наци
+ оналная арена им Филипа II Македонского\n
+ Результат: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Националная арена им Филипа II Макед
+ онского
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Националная а
+ рена им Филипа II Македонского";X-APPLE-RADIUS=70;
+ X-TITLE="Националная арена им Филипа II Макед
+ онского":geo:42.005743,21.425598
+END:VEVENT
+END:VCALENDAR

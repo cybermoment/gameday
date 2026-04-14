@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - FC Copenhague //
+X-WR-CALNAME:Ligue des champions - FC Copenhague
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS KF Drita
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: Parken\nRésultat: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KF Drita VS FC Copenhague
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: Stadiumi Fadil Vokrri\nRésultat: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malmö FF VS FC Copenhague
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
+ ication\nStade: Eleda Stadion\nRésultat: 0 - 0
+GEO:55.583646;12.987815
+LOCATION:Eleda Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Eleda Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Eleda Stadion":geo:55.583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Malmö FF
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
+ ication\nStade: Parken\nRésultat: 5 - 0
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bâle VS FC Copenhague
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Barrages\nStade: St.
+  Jakob-Park\nRésultat: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:St. Jakob-Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. Jakob-Park";X-APPLE-R
+ ADIUS=70;X-TITLE="St. Jakob-Park":geo:47.541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Bâle
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Barrages\nStade: Par
+ ken\nRésultat: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Bayer Leverkusen
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Parken\nRésultat: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qarabağ VS FC Copenhague
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Tofiq Bəhramov adına Respublika stadionu\nRésultat: 2 - 0
+GEO:40.39734;49.8524
+LOCATION:Tofiq Bəhramov adına Respublika stadionu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tofiq Bəhramov adına Re
+ spublika stadionu";X-APPLE-RADIUS=70;X-TITLE="Tofiq Bəhramov adına Respu
+ blika stadionu":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Borussia Dortmund
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Parken\nRésultat: 2 - 4
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham VS FC Copenhague
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Tottenham Hotspur Stadium\nRésultat: 4 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Kaïrat
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Parken\nRésultat: 3 - 2
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS FC Copenhague
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Estadio de la Cerámica\nRésultat: 2 - 3
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Naples
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Parken\nRésultat: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelone VS FC Copenhague
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Spotify Camp Nou\nRésultat: 4 - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+END:VCALENDAR

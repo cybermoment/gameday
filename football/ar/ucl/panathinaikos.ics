@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - باناثينيك
+ وس //
+X-WR-CALNAME:دوري أبطال أوروبا - باناثينيكوس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:رينجرز VS باناثينيكوس
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد إي
+ بروكس\nالنتيجة: 2 - 0
+GEO:55.853211;-4.309283
+LOCATION:استاد إيبروكس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبروكس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد إيبروكس":geo:55.853211,-4.3
+ 09283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS رينجرز
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب سبي
+ روس الأولمبي\nالنتيجة: 1 - 1
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+END:VCALENDAR

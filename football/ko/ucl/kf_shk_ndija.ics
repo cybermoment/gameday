@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// 챔피언스리그 - 쉬켄디야 //
+X-WR-CALNAME:챔피언스리그 - 쉬켄디야
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:더 뉴 세인츠 VS 쉬켄디야
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:대회: 챔피언스리그\n단계: 1차 예선\n경기장: 
+ 파크 홀 스타디움\n결과: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:파크 홀 스타디움
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="파크 홀 스타디움";
+ X-APPLE-RADIUS=70;X-TITLE="파크 홀 스타디움":geo:52.875884,-3.02631
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:쉬켄디야 VS 더 뉴 세인츠
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:대회: 챔피언스리그\n단계: 1차 예선\n경기장: 
+ 나치오날나 아레나 필립 일 마케돈스키\n결과: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:나치오날나 아레나 필립 일 마케돈스키
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="나치오날나 아레나
+  필립 일 마케돈스키";X-APPLE-RADIUS=70;X-TITLE="나치오날나 
+ 아레나 필립 일 마케돈스키":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:쉬켄디야 VS 슈테아우아 부쿠레슈티
+DTSTART:20250722T180000Z
+DTEND:20250722T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
+DESCRIPTION:대회: 챔피언스리그\n단계: 2차 예선\n경기장: 
+ 나치오날나 아레나 필립 일 마케돈스키\n결과: 1 - 0
+GEO:42.005743;21.425598
+LOCATION:나치오날나 아레나 필립 일 마케돈스키
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="나치오날나 아레나
+  필립 일 마케돈스키";X-APPLE-RADIUS=70;X-TITLE="나치오날나 
+ 아레나 필립 일 마케돈스키":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:슈테아우아 부쿠레슈티 VS 쉬켄디야
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
+DESCRIPTION:대회: 챔피언스리그\n단계: 2차 예선\n경기장: 
+ 아레나 나치오날러\n결과: 1 - 2
+GEO:44.437208;26.152498
+LOCATION:아레나 나치오날러
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="아레나 나치오날러
+ ";X-APPLE-RADIUS=70;X-TITLE="아레나 나치오날러":geo:44.437208,26.1
+ 52498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:쉬켄디야 VS 카라바흐
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
+DESCRIPTION:대회: 챔피언스리그\n단계: 3rd Qualifying Round\n경
+ 기장: 나치오날나 아레나 필립 일 마케돈스키\n결과: 0 - 
+ 1
+GEO:42.005743;21.425598
+LOCATION:나치오날나 아레나 필립 일 마케돈스키
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="나치오날나 아레나
+  필립 일 마케돈스키";X-APPLE-RADIUS=70;X-TITLE="나치오날나 
+ 아레나 필립 일 마케돈스키":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:카라바흐 VS 쉬켄디야
+DTSTART:20250812T160000Z
+DTEND:20250812T180000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
+DESCRIPTION:대회: 챔피언스리그\n단계: 3rd Qualifying Round\n경
+ 기장: 토픽 베라모프 아디나 레스푸블리카 스타디오누 
+ \n결과: 5 - 1
+GEO:40.39734;49.8524
+LOCATION:토픽 베라모프 아디나 레스푸블리카 스타디오누
+  
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="토픽 베라모프 아
+ 디나 레스푸블리카 스타디오누 ";X-APPLE-RADIUS=70;X-TITLE="
+ 토픽 베라모프 아디나 레스푸블리카 스타디오누 ":geo:40
+ .39734,49.8524
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Linfield FC //
+X-WR-CALNAME:UEFA Champions League - Linfield FC
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Shelbourne VS Linfield FC
+DTSTART:20250709T184500Z
+DTEND:20250709T204500Z
+DTSTAMP:20260414T022439Z
+UID:fifa-4y2t7dyvstks4qz55i5wvjm6s@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: Tolka Park\nErgebnis: 1 - 0
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linfield FC VS Shelbourne
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022439Z
+UID:fifa-53najx34i2qn6vo61ibbqqyac@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: Clearer Twist National Stadium at Windsor Park\nErgebnis: 1 -
+  1
+GEO:54.582625;-5.955188
+LOCATION:Clearer Twist National Stadium at Windsor Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Clearer Twist National St
+ adium at Windsor Park";X-APPLE-RADIUS=70;X-TITLE="Clearer Twist National S
+ tadium at Windsor Park":geo:54.582625,-5.955188
+END:VEVENT
+END:VCALENDAR

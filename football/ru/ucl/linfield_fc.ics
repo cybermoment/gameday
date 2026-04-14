@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Линфилд
+  //
+X-WR-CALNAME:Лига чемпионов УЕФА - Линфилд
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Шелбурн VS Линфилд
+DTSTART:20250709T184500Z
+DTEND:20250709T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4y2t7dyvstks4qz55i5wvjm6s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Tolka Par
+ k\nРезультат: 1 - 0
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линфилд VS Шелбурн
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53najx34i2qn6vo61ibbqqyac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Виндзор Парк\nРезультат: 1 - 1
+GEO:54.582625;-5.955188
+LOCATION:Стадион Виндзор Парк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Виндз
+ ор Парк";X-APPLE-RADIUS=70;X-TITLE="Стадион Виндзор П
+ арк":geo:54.582625,-5.955188
+END:VEVENT
+END:VCALENDAR

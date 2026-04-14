@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - شيلبورن //
+X-WR-CALNAME:دوري أبطال أوروبا - شيلبورن
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:شيلبورن VS لينفيلد
+DTSTART:20250709T184500Z
+DTEND:20250709T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4y2t7dyvstks4qz55i5wvjm6s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Tolka Park\nالن
+ تيجة: 1 - 0
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لينفيلد VS شيلبورن
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53najx34i2qn6vo61ibbqqyac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: وندسور با
+ رك\nالنتيجة: 1 - 1
+GEO:54.582625;-5.955188
+LOCATION:وندسور بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="وندسور بارك";X-
+ APPLE-RADIUS=70;X-TITLE="وندسور بارك":geo:54.582625,-5.955188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شيلبورن VS كارباغ أغدام
+DTSTART:20250723T184500Z
+DTEND:20250723T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15au93rf3haritiab0g6dnj84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Tolka Park\nال
+ نتيجة: 0 - 3
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS شيلبورن
+DTSTART:20250730T160000Z
+DTEND:20250730T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1855o8trnuavzs9zq1ubf5us4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب توف
+ يق بهراموف\nالنتيجة: 1 - 0
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+END:VCALENDAR

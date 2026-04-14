@@ -1,0 +1,78 @@
+{
+  "competition_name": "Indian Super League",
+  "competition_id": "400171208",
+  "season_id": "d70h9cciplfhf01fn96gpcw0k",
+  "lang": "en",
+  "teams": [
+    {
+      "id": "2147481312",
+      "name": "Mohun Bagan",
+      "filename": "mohun_bagan"
+    },
+    {
+      "id": "400171328",
+      "name": "Kerala Blasters",
+      "filename": "kerala_blasters"
+    },
+    {
+      "id": "400168012",
+      "name": "Goa",
+      "filename": "goa"
+    },
+    {
+      "id": "dxnec9qy01sniauygt93zs4r8",
+      "name": "Inter Kashi",
+      "filename": "inter_kashi"
+    },
+    {
+      "id": "400171327",
+      "name": "Jamshedpur FC",
+      "filename": "jamshedpur_fc"
+    },
+    {
+      "id": "400156937",
+      "name": "Mohammedan SC",
+      "filename": "mohammedan_sc"
+    },
+    {
+      "id": "2000018720",
+      "name": "Bengaluru FC",
+      "filename": "bengaluru_fc"
+    },
+    {
+      "id": "ik3gtwishjv7mowbn9u42fbo",
+      "name": "Sporting Delhi",
+      "filename": "sporting_delhi"
+    },
+    {
+      "id": "2147481389",
+      "name": "Kingfisher East Bengal",
+      "filename": "kingfisher_east_bengal"
+    },
+    {
+      "id": "400171330",
+      "name": "NorthEast United",
+      "filename": "northeast_united"
+    },
+    {
+      "id": "400171329",
+      "name": "Mumbai City",
+      "filename": "mumbai_city"
+    },
+    {
+      "id": "400016127",
+      "name": "Chennaiyin FC",
+      "filename": "chennaiyin_fc"
+    },
+    {
+      "id": "2000019511",
+      "name": "Minerva Punjab",
+      "filename": "minerva_punjab"
+    },
+    {
+      "id": "400171331",
+      "name": "Odisha FC",
+      "filename": "odisha_fc"
+    }
+  ]
+}

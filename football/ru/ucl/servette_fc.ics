@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Серветт
+  //
+X-WR-CALNAME:Лига чемпионов УЕФА - Серветт
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Виктория Плзень VS Серветт
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5e2frjzta6hz8dzngz5upawwk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Doosan Aréna\nРезультат: 0 
+ - 1
+GEO:49.750074;13.385446
+LOCATION:Doosan Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Doosan Aréna";X-APPLE-RA
+ DIUS=70;X-TITLE="Doosan Aréna":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Серветт VS Виктория Плзень
+DTSTART:20250730T190000Z
+DTEND:20250730T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5fqhce7srss8hywz4ujj3nx1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stade de Genève\nРезультат:
+  1 - 3
+GEO:46.177841;6.127458
+LOCATION:Stade de Genève
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Genève";X-APPLE
+ -RADIUS=70;X-TITLE="Stade de Genève":geo:46.177841,6.127458
+END:VEVENT
+END:VCALENDAR

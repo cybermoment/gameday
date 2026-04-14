@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAチャンピオンズリーグ - SL ベンフィ
+ カ //
+X-WR-CALNAME:UEFAチャンピオンズリーグ - SL ベンフィカ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ニース VS SL ベンフィカ
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: アリアンツ リヴィエラ\n結果: 0 
+ - 2
+GEO:43.705119;7.192622
+LOCATION:アリアンツ リヴィエラ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="アリアンツ リヴィ
+ エラ";X-APPLE-RADIUS=70;X-TITLE="アリアンツ リヴィエラ":geo:43
+ .705119,7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS ニース
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: エスタディオ・ド・スポルト・
+ リスボン・エ・ベンフィカ(・ダ・ルス)\n結果: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:フェネルバフチェ VS SL ベンフィカ
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: プ
+ レーオフ\nスタジアム: シュクリュ・サラジオウル・ス
+ タジアム\n結果: 0 - 0
+GEO:40.987799;29.03686
+LOCATION:シュクリュ・サラジオウル・スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="シュクリュ・サラ
+ ジオウル・スタジアム";X-APPLE-RADIUS=70;X-TITLE="シュクリュ
+ ・サラジオウル・スタジアム":geo:40.987799,29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS フェネルバフチェ
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: プ
+ レーオフ\nスタジアム: エスタディオ・ド・スポルト・
+ リスボン・エ・ベンフィカ(・ダ・ルス)\n結果: 1 - 0
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS カラバフ
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: エスタディオ・ド・スポルト・リ
+ スボン・エ・ベンフィカ(・ダ・ルス)\n結果: 2 - 3
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:チェルシー FC VS SL ベンフィカ
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: スタンフォード ブリッジ\n結果: 1 -
+  0
+GEO:51.481712;-0.190975
+LOCATION:スタンフォード ブリッジ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタンフォード ブ
+ リッジ";X-APPLE-RADIUS=70;X-TITLE="スタンフォード ブリッジ":
+ geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ニューカッスル・ユナイテッド VS SL ベンフィカ
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-562r0ddozxsa83y9l1wfm74t0@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: セント ジェームズ パーク\n結果: 3 
+ - 0
+GEO:54.97554;-1.621621
+LOCATION:セント ジェームズ パーク
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="セント ジェームズ
+  パーク";X-APPLE-RADIUS=70;X-TITLE="セント ジェームズ パーク
+ ":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS レヴァークーゼン
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: エスタディオ・ド・スポルト・リ
+ スボン・エ・ベンフィカ(・ダ・ルス)\n結果: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:アヤックス VS SL ベンフィカ
+DTSTART:20251125T174500Z
+DTEND:20251125T194500Z
+DTSTAMP:20260414T022443Z
+UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: アムステルダム・アレナ\n結果: 0 - 
+ 2
+GEO:52.314303;4.941959
+LOCATION:アムステルダム・アレナ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="アムステルダム・
+ アレナ";X-APPLE-RADIUS=70;X-TITLE="アムステルダム・アレナ":g
+ eo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS ナポリ
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: エスタディオ・ド・スポルト・リ
+ スボン・エ・ベンフィカ(・ダ・ルス)\n結果: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ユベントス FC VS SL ベンフィカ
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: アリアンツ・スタジアム\n結果: 2 - 
+ 0
+GEO:45.109527;7.641302
+LOCATION:アリアンツ・スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="アリアンツ・スタ
+ ジアム";X-APPLE-RADIUS=70;X-TITLE="アリアンツ・スタジアム":g
+ eo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS レアル・マドリード CF
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
+ ue Stage\nスタジアム: エスタディオ・ド・スポルト・リ
+ スボン・エ・ベンフィカ(・ダ・ルス)\n結果: 4 - 2
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS レアル・マドリード CF
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Knoc
+ kout Round Play-offs\nスタジアム: エスタディオ・ド・スポ
+ ルト・リスボン・エ・ベンフィカ(・ダ・ルス)\n結果: 0 
+ - 1
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:レアル・マドリード CF VS SL ベンフィカ
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Knoc
+ kout Round Play-offs\nスタジアム: サンティアゴ・ベルナベ
+ ウ\n結果: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:サンティアゴ・ベルナベウ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="サンティアゴ・ベ
+ ルナベウ";X-APPLE-RADIUS=70;X-TITLE="サンティアゴ・ベルナベ
+ ウ":geo:40.453068,-3.688354
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,418 @@
+{
+  "competition_name": "UEFA Champions League",
+  "competition_id": "2000001032",
+  "season_id": "2mr0u0l78k2gdsm79q56tb2fo",
+  "lang": "en",
+  "teams": [
+    {
+      "id": "1885177",
+      "name": "KuPS",
+      "filename": "kups"
+    },
+    {
+      "id": "2000002596",
+      "name": "Milsami Orhei",
+      "filename": "milsami_orhei"
+    },
+    {
+      "id": "2000019195",
+      "name": "FC Saburtalo",
+      "filename": "fc_saburtalo"
+    },
+    {
+      "id": "31098",
+      "name": "Malmö FF",
+      "filename": "malm_ff"
+    },
+    {
+      "id": "e9x62jymlef5ugsrijq19ur8q",
+      "name": "Noah",
+      "filename": "noah"
+    },
+    {
+      "id": "2000000725",
+      "name": "Buducnost Podgorica",
+      "filename": "buducnost_podgorica"
+    },
+    {
+      "id": "1885459",
+      "name": "FC Levadia Tallinn",
+      "filename": "fc_levadia_tallinn"
+    },
+    {
+      "id": "2000019334",
+      "name": "Rigas Futbola skola",
+      "filename": "rigas_futbola_skola"
+    },
+    {
+      "id": "2000002626",
+      "name": "Olimpija Ljubljana",
+      "filename": "olimpija_ljubljana"
+    },
+    {
+      "id": "482",
+      "name": "FC Kairat",
+      "filename": "fc_kairat"
+    },
+    {
+      "id": "2000019538",
+      "name": "Drita",
+      "filename": "drita"
+    },
+    {
+      "id": "2147482830",
+      "name": "FC Differdange 03",
+      "filename": "fc_differdange_03"
+    },
+    {
+      "id": "2147482183",
+      "name": "The New Saints",
+      "filename": "the_new_saints"
+    },
+    {
+      "id": "1885492",
+      "name": "KF Shkëndija",
+      "filename": "kf_shk_ndija"
+    },
+    {
+      "id": "2000000467",
+      "name": "Víkingur",
+      "filename": "v_kingur"
+    },
+    {
+      "id": "2000019171",
+      "name": "Lincoln Red Imps FC",
+      "filename": "lincoln_red_imps_fc"
+    },
+    {
+      "id": "400197961",
+      "name": "Egnatia",
+      "filename": "egnatia"
+    },
+    {
+      "id": "446",
+      "name": "Breiðablik",
+      "filename": "brei_ablik"
+    },
+    {
+      "id": "2147481404",
+      "name": "Virtus",
+      "filename": "virtus"
+    },
+    {
+      "id": "1885396",
+      "name": "HSK Zrinjski",
+      "filename": "hsk_zrinjski"
+    },
+    {
+      "id": "1885554",
+      "name": "Zalgiris Vilnius",
+      "filename": "zalgiris_vilnius"
+    },
+    {
+      "id": "1885581",
+      "name": "Hamrun Spartans",
+      "filename": "hamrun_spartans"
+    },
+    {
+      "id": "2000012840",
+      "name": "Ludogorets",
+      "filename": "ludogorets"
+    },
+    {
+      "id": "1885380",
+      "name": "Dinamo Minsk",
+      "filename": "dinamo_minsk"
+    },
+    {
+      "id": "1914834",
+      "name": "FCSB",
+      "filename": "fcsb"
+    },
+    {
+      "id": "2000000058",
+      "name": "Inter d`Escaldes",
+      "filename": "inter_d_escaldes"
+    },
+    {
+      "id": "400108464",
+      "name": "Shelbourne",
+      "filename": "shelbourne"
+    },
+    {
+      "id": "1885604",
+      "name": "Linfield FC",
+      "filename": "linfield_fc"
+    },
+    {
+      "id": "1885747",
+      "name": "Crvena zvezda",
+      "filename": "crvena_zvezda"
+    },
+    {
+      "id": "1885533",
+      "name": "Ferencváros",
+      "filename": "ferencv_ros"
+    },
+    {
+      "id": "36735",
+      "name": "Dynamo Kyiv",
+      "filename": "dynamo_kyiv"
+    },
+    {
+      "id": "2147483300",
+      "name": "Viktoria Plzeň",
+      "filename": "viktoria_plze"
+    },
+    {
+      "id": "400068644",
+      "name": "Servette FC",
+      "filename": "servette_fc"
+    },
+    {
+      "id": "44323",
+      "name": "København",
+      "filename": "k_benhavn"
+    },
+    {
+      "id": "2000000641",
+      "name": "Pafos FC",
+      "filename": "pafos_fc"
+    },
+    {
+      "id": "1885529",
+      "name": "Maccabi Tel Aviv",
+      "filename": "maccabi_tel_aviv"
+    },
+    {
+      "id": "674",
+      "name": "Slovan Bratislava",
+      "filename": "slovan_bratislava"
+    },
+    {
+      "id": "1884654",
+      "name": "Lech Poznan",
+      "filename": "lech_poznan"
+    },
+    {
+      "id": "31067",
+      "name": "Rangers",
+      "filename": "rangers"
+    },
+    {
+      "id": "31033",
+      "name": "Panathinaikos",
+      "filename": "panathinaikos"
+    },
+    {
+      "id": "310",
+      "name": "HNK Rijeka",
+      "filename": "hnk_rijeka"
+    },
+    {
+      "id": "1885332",
+      "name": "SK Brann",
+      "filename": "sk_brann"
+    },
+    {
+      "id": "1956494",
+      "name": "FC Salzburg",
+      "filename": "fc_salzburg"
+    },
+    {
+      "id": "2147483549",
+      "name": "Qarabag FK",
+      "filename": "qarabag_fk"
+    },
+    {
+      "id": "30997",
+      "name": "Club Brugge",
+      "filename": "club_brugge"
+    },
+    {
+      "id": "44137",
+      "name": "Feyenoord",
+      "filename": "feyenoord"
+    },
+    {
+      "id": "33163",
+      "name": "Fenerbahçe",
+      "filename": "fenerbah_e"
+    },
+    {
+      "id": "44203",
+      "name": "OGC Nice",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "1914613",
+      "name": "SL Benfica",
+      "filename": "sl_benfica"
+    },
+    {
+      "id": "655",
+      "name": "FC Basel",
+      "filename": "fc_basel"
+    },
+    {
+      "id": "2000000083",
+      "name": "FK Bodø/Glimt",
+      "filename": "fk_bod_glimt"
+    },
+    {
+      "id": "31057",
+      "name": "Sturm Graz",
+      "filename": "sturm_graz"
+    },
+    {
+      "id": "1914704",
+      "name": "Celtic",
+      "filename": "celtic"
+    },
+    {
+      "id": "1914838",
+      "name": "PSV",
+      "filename": "psv"
+    },
+    {
+      "id": "2000019580",
+      "name": "Union",
+      "filename": "union"
+    },
+    {
+      "id": "31071",
+      "name": "Athletic Club",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "32847",
+      "name": "Arsenal",
+      "filename": "arsenal"
+    },
+    {
+      "id": "23437",
+      "name": "Tottenham Hotspur",
+      "filename": "tottenham_hotspur"
+    },
+    {
+      "id": "1882482",
+      "name": "Villarreal",
+      "filename": "villarreal"
+    },
+    {
+      "id": "1914806",
+      "name": "Juventus FC",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "1914854",
+      "name": "Borussia Dortmund",
+      "filename": "borussia_dortmund"
+    },
+    {
+      "id": "30504",
+      "name": "Real Madrid C.F.",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "33192",
+      "name": "Olympique Marseille",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "420",
+      "name": "Olympiakos Piraeus",
+      "filename": "olympiakos_piraeus"
+    },
+    {
+      "id": "323",
+      "name": "Slavia Praha",
+      "filename": "slavia_praha"
+    },
+    {
+      "id": "1896634",
+      "name": "Liverpool",
+      "filename": "liverpool"
+    },
+    {
+      "id": "1914808",
+      "name": "Atlético de Madrid",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "1914810",
+      "name": "FC Bayern München",
+      "filename": "fc_bayern_m_nchen"
+    },
+    {
+      "id": "1935290",
+      "name": "Chelsea FC",
+      "filename": "chelsea_fc"
+    },
+    {
+      "id": "31089",
+      "name": "Ajax",
+      "filename": "ajax"
+    },
+    {
+      "id": "1914619",
+      "name": "FC Internazionale Milano",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "1956449",
+      "name": "Paris Saint-Germain",
+      "filename": "paris_saint_germain"
+    },
+    {
+      "id": "2147482134",
+      "name": "Atalanta",
+      "filename": "atalanta"
+    },
+    {
+      "id": "30983",
+      "name": "AS Monaco",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "31055",
+      "name": "Bayer Leverkusen",
+      "filename": "bayer_leverkusen"
+    },
+    {
+      "id": "44136",
+      "name": "Newcastle United",
+      "filename": "newcastle_united"
+    },
+    {
+      "id": "1903416",
+      "name": "Barcelona",
+      "filename": "barcelona"
+    },
+    {
+      "id": "1956198",
+      "name": "Manchester City",
+      "filename": "manchester_city"
+    },
+    {
+      "id": "2147481899",
+      "name": "Napoli",
+      "filename": "napoli"
+    },
+    {
+      "id": "31023",
+      "name": "Eintracht Frankfurt",
+      "filename": "eintracht_frankfurt"
+    },
+    {
+      "id": "31018",
+      "name": "Galatasaray",
+      "filename": "galatasaray"
+    },
+    {
+      "id": "1939310",
+      "name": "Sporting CP",
+      "filename": "sporting_cp"
+    }
+  ]
+}

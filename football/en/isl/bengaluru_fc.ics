@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Indian Super League - Bengaluru FC //
+X-WR-CALNAME:Indian Super League - Bengaluru FC
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS Sporting Delhi
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8btokgt1z8iyyrx31q110yihg@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium\nResult: 2 - 0
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS NorthEast United
+DTSTART:20260222T113000Z
+DTEND:20260222T133000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8fvhimx10c4j7f3kjrfa2k9as@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium\nResult: 1 - 1
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS Minerva Punjab
+DTSTART:20260227T140000Z
+DTEND:20260227T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8k3hb2v83t0f9kv3yhb37byfo@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium\nResult: 0 - 2
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mohammedan SC VS Bengaluru FC
+DTSTART:20260307T113000Z
+DTEND:20260307T133000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8piwcnb779bm93cfkejgs5xqs@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Kishore Bharati Krirangan\nResult: 1 - 2
+GEO:22.494282;88.394546
+LOCATION:Kishore Bharati Krirangan
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kishore Bharati Krirangan
+ ";X-APPLE-RADIUS=70;X-TITLE="Kishore Bharati Krirangan":geo:22.494282,88.3
+ 94546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS Mohun Bagan
+DTSTART:20260314T140000Z
+DTEND:20260314T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8ureuv0ee1ypbypmj7advan10@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium\nResult: 0 - 0
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Kashi VS Bengaluru FC
+DTSTART:20260322T140000Z
+DTEND:20260322T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9558urfacm0je5ziziv2qrod0@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Kishore Bharati Krirangan\nResult: 1 - 3
+GEO:22.494282;88.394546
+LOCATION:Kishore Bharati Krirangan
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kishore Bharati Krirangan
+ ";X-APPLE-RADIUS=70;X-TITLE="Kishore Bharati Krirangan":geo:22.494282,88.3
+ 94546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goa VS Bengaluru FC
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-97x2tumb3dmcu81zptsxvmo0k@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Jawaharlal Nehru Stadium Goa\nResult: 0 - 2
+GEO:15.289329;73.962412
+LOCATION:Jawaharlal Nehru Stadium Goa
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jawaharlal Nehru Stadium 
+ Goa";X-APPLE-RADIUS=70;X-TITLE="Jawaharlal Nehru Stadium Goa":geo:15.28932
+ 9,73.962412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS Kerala Blasters
+DTSTART:20260411T140000Z
+DTEND:20260411T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9g7707vk43apep595evb4qdck@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium\nResult: 1 - 2
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingfisher East Bengal VS Bengaluru FC
+DTSTART:20260416T140000Z
+DTEND:20260416T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9im7ehasoyvdw9t3klrmmp5hw@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Vivekananda Yuba Bharati Krirangan Stadium
+GEO:22.569074;88.409037
+LOCATION:Vivekananda Yuba Bharati Krirangan Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vivekananda Yuba Bharati 
+ Krirangan Stadium";X-APPLE-RADIUS=70;X-TITLE="Vivekananda Yuba Bharati Kri
+ rangan Stadium":geo:22.569074,88.409037
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS Mumbai City
+DTSTART:20260425T113000Z
+DTEND:20260425T133000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9odh7pc443wozr629786veaz8@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Odisha FC VS Bengaluru FC
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9tq51juo6f2o09ubw7hyy14b8@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Kalinga Stadium
+GEO:20.287921;85.823876
+LOCATION:Kalinga Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kalinga Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Kalinga Stadium":geo:20.287921,85.823876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jamshedpur FC VS Bengaluru FC
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9vwu6uhyrbxlgc1fkj9tz88wk@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: JRD Tata Sports Complex Stadium
+GEO:22.805989;86.193473
+LOCATION:JRD Tata Sports Complex Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="JRD Tata Sports Complex S
+ tadium";X-APPLE-RADIUS=70;X-TITLE="JRD Tata Sports Complex Stadium":geo:22
+ .805989,86.193473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chennaiyin FC VS Bengaluru FC
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-bciokccdnvz58rc0t57dw7wus@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Jawaharlal Nehru Stadium
+GEO:13.085571;80.271639
+LOCATION:Jawaharlal Nehru Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jawaharlal Nehru Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="Jawaharlal Nehru Stadium":geo:13.085571,80.271
+ 639
+END:VEVENT
+END:VCALENDAR

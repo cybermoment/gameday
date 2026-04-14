@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAチャンピオンズリーグ - フェイエノ
+ ールト //
+X-WR-CALNAME:UEFAチャンピオンズリーグ - フェイエノールト
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:フェイエノールト VS フェネルバフチェ
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: スタディオン・フェイエノール
+ ト\n結果: 2 - 1
+GEO:51.893855;4.523191
+LOCATION:スタディオン・フェイエノールト
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタディオン・フ
+ ェイエノールト";X-APPLE-RADIUS=70;X-TITLE="スタディオン・フ
+ ェイエノールト":geo:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:フェネルバフチェ VS フェイエノールト
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: シュクリュ・サラジオウル・ス
+ タジアム\n結果: 5 - 2
+GEO:40.987799;29.03686
+LOCATION:シュクリュ・サラジオウル・スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="シュクリュ・サラ
+ ジオウル・スタジアム";X-APPLE-RADIUS=70;X-TITLE="シュクリュ
+ ・サラジオウル・スタジアム":geo:40.987799,29.03686
+END:VEVENT
+END:VCALENDAR

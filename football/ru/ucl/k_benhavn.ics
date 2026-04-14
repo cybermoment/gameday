@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Копенга
+ ген //
+X-WR-CALNAME:Лига чемпионов УЕФА - Копенгаген
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Drita
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Стадион Паркен\nРезу
+ льтат: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drita VS Копенгаген
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadiumi Fadil Vokrri\nРезульт
+ ат: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мальме ФФ VS Копенгаген
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Шведбанк\nРе
+ зультат: 0 - 0
+GEO:55.583646;12.987815
+LOCATION:Стадион Шведбанк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шведб
+ анк";X-APPLE-RADIUS=70;X-TITLE="Стадион Шведбанк":geo:55
+ .583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Мальме ФФ
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Паркен\nРезу
+ льтат: 5 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базель VS Копенгаген
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Санкт-Якоб П
+ арк\nРезультат: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:Стадион Санкт-Якоб Парк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Санкт
+ -Якоб Парк";X-APPLE-RADIUS=70;X-TITLE="Стадион Санкт-
+ Якоб Парк":geo:47.541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Базель
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Паркен\nРезу
+ льтат: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Байер Леверкузен
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Копенгаген
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Республиканский стад
+ ион Тофика Бахрамова\nРезультат: 2 - 0
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Боруссия Дортмунд
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 2 - 4
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тоттенхэм VS Копенгаген
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Tottenham Hotspur Stadium\nРезуль
+ тат: 4 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Кайрат
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 3 - 2
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Вильярреал VS Копенгаген
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de la Cerámica\nРезульт
+ ат: 2 - 3
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Наполи
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Копенгаген
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Spotify Camp Nou\nРезультат: 4 
+ - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+END:VCALENDAR

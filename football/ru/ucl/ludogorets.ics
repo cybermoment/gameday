@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - ФК Разг
+ рад 2000 //
+X-WR-CALNAME:Лига чемпионов УЕФА - ФК Разград 20
+ 00
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Динамо Минск
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-byxwrb3zraa87jwdky8998x04@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Huvepharm
+ a Arena\nРезультат: 1 - 0
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Динамо Минск VS ФК Разград 2000
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-c1usp3qcw3ovrey4e9ls3n0no@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Városi S
+ tadion\nРезультат: 2 - 2
+GEO:47.80213;20.567334
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.80213,20.567334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Риека VS ФК Разград 2000
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadion HNK Rijeka\nРезульта
+ т: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:Stadion HNK Rijeka
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HNK Rijeka";X-APP
+ LE-RADIUS=70;X-TITLE="Stadion HNK Rijeka":geo:45.347873,14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Риека
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Huvepharma Arena\nРезультат:
+  3 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Ференцварош
+DTSTART:20250806T173000Z
+DTEND:20250806T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Huvepharma Arena\nРезультат:
+  0 - 0
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ференцварош VS ФК Разград 2000
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Groupama Aréna\nРезультат: 
+ 3 - 0
+GEO:47.475514;19.095286
+LOCATION:Groupama Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Aréna";X-APPLE-
+ RADIUS=70;X-TITLE="Groupama Aréna":geo:47.475514,19.095286
+END:VEVENT
+END:VCALENDAR

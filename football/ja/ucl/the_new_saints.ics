@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAチャンピオンズリーグ - ザ・ニュー
+ ・セインツ //
+X-WR-CALNAME:UEFAチャンピオンズリーグ - ザ・ニュー・セイ
+ ンツ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ザ・ニュー・セインツ VS シュケンディヤ
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第1
+ ラウンド\nスタジアム: Park Hall Stadium\n結果: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:Park Hall Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Park Hall Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Park Hall Stadium":geo:52.875884,-3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:シュケンディヤ VS ザ・ニュー・セインツ
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第1
+ ラウンド\nスタジアム: ナシオナルナ・アレナ・フィリ
+ ップ2世マケドンスキ\n結果: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:ナシオナルナ・アレナ・フィリップ2世マケドン
+ スキ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ナシオナルナ・ア
+ レナ・フィリップ2世マケドンスキ";X-APPLE-RADIUS=70;X-TITLE=
+ "ナシオナルナ・アレナ・フィリップ2世マケドンスキ":g
+ eo:42.005743,21.425598
+END:VEVENT
+END:VCALENDAR

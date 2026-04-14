@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Олимпиа
+ кос Пирей //
+X-WR-CALNAME:Лига чемпионов УЕФА - Олимпиакос 
+ Пирей
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Pafos
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4thsy1pya5y11wggav6gql4wk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 0 - 0
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Олимпиакос Пирей
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-51pmokefm21mo1i26kyokvvo4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Emirates Stadium\nРезультат: 2 
+ - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Олимпиакос Пирей
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-547fv6pkd98zbsl3ha92ih0d0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadi Olímpic Lluís Companys\nРез
+ ультат: 6 - 1
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS ПСВ
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5cybtcdp5uzclqdyjmojazk0k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 1 - 1
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Реал Мадрид
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5nge0lsbrt22h9uycxvj2wiz8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 3 - 4
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Олимпиакос Пирей
+DTSTART:20251209T153000Z
+DTEND:20251209T173000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Астана Арена\n
+ Результат: 0 - 1
+GEO:51.108217;71.40256
+LOCATION:Стадион Астана Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Астан
+ а Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Астана Ар
+ ена":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Байер Леверкузен
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 2 - 0
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аякс VS Олимпиакос Пирей
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-629403zrbb8v8cq1g81v2lwk4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Амстердам Аре
+ нА\nРезультат: 1 - 2
+GEO:52.314303;4.941959
+LOCATION:Стадион Амстердам АренА
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Амсте
+ рдам АренА";X-APPLE-RADIUS=70;X-TITLE="Стадион Амсте
+ рдам АренА":geo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Байер Леверкузен
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Стадион им. Гео
+ ргиуса Караискакиса\nРезультат: 0 - 2
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS Олимпиакос Пирей
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: BayArena\nРезультат
+ : 0 - 0
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+END:VCALENDAR

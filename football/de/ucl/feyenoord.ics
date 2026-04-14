@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Feyenoord Rotterdam //
+X-WR-CALNAME:UEFA Champions League - Feyenoord Rotterdam
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Feyenoord Rotterdam VS Fenerbahce
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
+ de\nStadion: Stadion Feijenoord\nErgebnis: 2 - 1
+GEO:51.893855;4.523191
+LOCATION:Stadion Feijenoord
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Feijenoord";X-APP
+ LE-RADIUS=70;X-TITLE="Stadion Feijenoord":geo:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahce VS Feyenoord Rotterdam
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
+ de\nStadion: Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Komplek
+ si\nErgebnis: 5 - 2
+GEO:40.987799;29.03686
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Chobani Stadyumu Fenerbah
+ çe Şükrü Saracoğlu Spor Kompleksi";X-APPLE-RADIUS=70;X-TITLE="Chobani
+  Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi":geo:40.987799,29
+ .03686
+END:VEVENT
+END:VCALENDAR

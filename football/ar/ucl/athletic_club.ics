@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - أتليتيكو 
+ بلباو //
+X-WR-CALNAME:دوري أبطال أوروبا - أتليتيكو بلبا
+ و
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS أرسنال
+DTSTART:20250916T164500Z
+DTEND:20250916T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 0 - 2
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS أتليتيكو بل
+ باو
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 4 - 1
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS كارباغ أغدام
+DTSTART:20251022T164500Z
+DTEND:20251022T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 3 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS أتليتيكو بلباو
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5gj09fi5vmedayoh6kb4q08pg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
+ النتيجة: 2 - 0
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS أتليتيكو بلباو
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 0 - 0
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS باريس سان جيرمان
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 0 - 0
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS أتليتيكو بلباو
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 2 - 3
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS سبورتينغ لشبونة
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 2 - 3
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Fenerbahçe //
+X-WR-CALNAME:UEFA Champions League - Fenerbahçe
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Feyenoord VS Fenerbahçe
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
+ d\nStadium: Stadion Feijenoord\nResult: 2 - 1
+GEO:51.893855;4.523191
+LOCATION:Stadion Feijenoord
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Feijenoord";X-APP
+ LE-RADIUS=70;X-TITLE="Stadion Feijenoord":geo:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahçe VS Feyenoord
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
+ d\nStadium: Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleks
+ i\nResult: 5 - 2
+GEO:40.987799;29.03686
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Chobani Stadyumu Fenerbah
+ çe Şükrü Saracoğlu Spor Kompleksi";X-APPLE-RADIUS=70;X-TITLE="Chobani
+  Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi":geo:40.987799,29
+ .03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahçe VS SL Benfica
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
+  Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\nResult: 
+ 0 - 0
+GEO:40.987799;29.03686
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Chobani Stadyumu Fenerbah
+ çe Şükrü Saracoğlu Spor Kompleksi";X-APPLE-RADIUS=70;X-TITLE="Chobani
+  Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi":geo:40.987799,29
+ .03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL Benfica VS Fenerbahçe
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
+  Estádio do Sport Lisboa e Benfica (da Luz)\nResult: 1 - 0
+GEO:38.752648;-9.184699
+LOCATION:Estádio do Sport Lisboa e Benfica (da Luz)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Sport Lisboa 
+ e Benfica (da Luz)";X-APPLE-RADIUS=70;X-TITLE="Estádio do Sport Lisboa e 
+ Benfica (da Luz)":geo:38.752648,-9.184699
+END:VEVENT
+END:VCALENDAR

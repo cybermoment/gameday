@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Shkëndija Tetovo //
+X-WR-CALNAME:UEFA Champions League - Shkëndija Tetovo
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:The New Saints VS Shkëndija Tetovo
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: Park Hall Stadium\nErgebnis: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:Park Hall Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Park Hall Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Park Hall Stadium":geo:52.875884,-3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shkëndija Tetovo VS The New Saints
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: Toše Proeski Arena\nErgebnis: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Toše Proeski Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
+ PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shkëndija Tetovo VS FCSB Bukarest
+DTSTART:20250722T180000Z
+DTEND:20250722T200000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Toše Proeski Arena\nErgebnis: 1 - 0
+GEO:42.005743;21.425598
+LOCATION:Toše Proeski Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
+ PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCSB Bukarest VS Shkëndija Tetovo
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Arena Naţională\nErgebnis: 1 - 2
+GEO:44.437208;26.152498
+LOCATION:Arena Naţională
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Naţională";X-APPL
+ E-RADIUS=70;X-TITLE="Arena Naţională":geo:44.437208,26.152498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shkëndija Tetovo VS Qarabağ Ağdam
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
+ de\nStadion: Toše Proeski Arena\nErgebnis: 0 - 1
+GEO:42.005743;21.425598
+LOCATION:Toše Proeski Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
+ PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qarabağ Ağdam VS Shkëndija Tetovo
+DTSTART:20250812T160000Z
+DTEND:20250812T180000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
+ de\nStadion: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 5 - 1
+GEO:40.39734;49.8524
+LOCATION:Tofiq Bəhramov adına Respublika stadionu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tofiq Bəhramov adına Re
+ spublika stadionu";X-APPLE-RADIUS=70;X-TITLE="Tofiq Bəhramov adına Respu
+ blika stadionu":geo:40.39734,49.8524
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - كوبيون با
+ لوسورا //
+X-WR-CALNAME:دوري أبطال أوروبا - كوبيون بالوسو
+ را
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS ميلسامي
+DTSTART:20250708T150000Z
+DTEND:20250708T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: سافون سان
+ ومات أرينا\nالنتيجة: 1 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ميلسامي VS كوبيون بالوسورا
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: مجمع سبور
+ تيف رايونال\nالنتيجة: 0 - 0
+GEO:47.374451;28.819242
+LOCATION:مجمع سبورتيف رايونال
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مجمع سبورتيف 
+ رايونال";X-APPLE-RADIUS=70;X-TITLE="مجمع سبورتيف راي
+ ونال":geo:47.374451,28.819242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS قايرات ألماته
+DTSTART:20250722T150000Z
+DTEND:20250722T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: سافون سا
+ نومات أرينا\nالنتيجة: 2 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS كوبيون بالوسورا
+DTSTART:20250729T150000Z
+DTEND:20250729T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد أو
+ رتاليك\nالنتيجة: 3 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Будучно
+ ст //
+X-WR-CALNAME:Лига чемпионов УЕФА - Будучност
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Noah VS Будучност
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Kotaik St
+ adium\nРезультат: 1 - 0
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будучност VS Noah
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Под Горицом\nРезультат: 2 - 2
+GEO:42.444817;19.264269
+LOCATION:Стадион Под Горицом
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Под Г
+ орицом";X-APPLE-RADIUS=70;X-TITLE="Стадион Под Гориц
+ ом":geo:42.444817,19.264269
+END:VEVENT
+END:VCALENDAR

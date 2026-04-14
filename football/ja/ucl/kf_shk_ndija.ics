@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAチャンピオンズリーグ - シュケンデ
+ ィヤ //
+X-WR-CALNAME:UEFAチャンピオンズリーグ - シュケンディヤ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ザ・ニュー・セインツ VS シュケンディヤ
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第1
+ ラウンド\nスタジアム: Park Hall Stadium\n結果: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:Park Hall Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Park Hall Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Park Hall Stadium":geo:52.875884,-3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:シュケンディヤ VS ザ・ニュー・セインツ
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第1
+ ラウンド\nスタジアム: ナシオナルナ・アレナ・フィリ
+ ップ2世マケドンスキ\n結果: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:ナシオナルナ・アレナ・フィリップ2世マケドン
+ スキ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ナシオナルナ・ア
+ レナ・フィリップ2世マケドンスキ";X-APPLE-RADIUS=70;X-TITLE=
+ "ナシオナルナ・アレナ・フィリップ2世マケドンスキ":g
+ eo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:シュケンディヤ VS ステアウア・ブカレスト
+DTSTART:20250722T180000Z
+DTEND:20250722T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第2
+ ラウンド\nスタジアム: ナシオナルナ・アレナ・フィリ
+ ップ2世マケドンスキ\n結果: 1 - 0
+GEO:42.005743;21.425598
+LOCATION:ナシオナルナ・アレナ・フィリップ2世マケドン
+ スキ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ナシオナルナ・ア
+ レナ・フィリップ2世マケドンスキ";X-APPLE-RADIUS=70;X-TITLE=
+ "ナシオナルナ・アレナ・フィリップ2世マケドンスキ":g
+ eo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ステアウア・ブカレスト VS シュケンディヤ
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第2
+ ラウンド\nスタジアム: アレーナ・ナツィオナラ\n結果: 
+ 1 - 2
+GEO:44.437208;26.152498
+LOCATION:アレーナ・ナツィオナラ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="アレーナ・ナツィ
+ オナラ";X-APPLE-RADIUS=70;X-TITLE="アレーナ・ナツィオナラ":g
+ eo:44.437208,26.152498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:シュケンディヤ VS カラバフ
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: ナシオナルナ・アレナ・フィリ
+ ップ2世マケドンスキ\n結果: 0 - 1
+GEO:42.005743;21.425598
+LOCATION:ナシオナルナ・アレナ・フィリップ2世マケドン
+ スキ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ナシオナルナ・ア
+ レナ・フィリップ2世マケドンスキ";X-APPLE-RADIUS=70;X-TITLE=
+ "ナシオナルナ・アレナ・フィリップ2世マケドンスキ":g
+ eo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カラバフ VS シュケンディヤ
+DTSTART:20250812T160000Z
+DTEND:20250812T180000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: トフィク・バフラモフ・スタジ
+ アム\n結果: 5 - 1
+GEO:40.39734;49.8524
+LOCATION:トフィク・バフラモフ・スタジアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="トフィク・バフラ
+ モフ・スタジアム";X-APPLE-RADIUS=70;X-TITLE="トフィク・バフ
+ ラモフ・スタジアム":geo:40.39734,49.8524
+END:VEVENT
+END:VCALENDAR

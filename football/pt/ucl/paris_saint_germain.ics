@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga dos Campeões da UEFA - Paris Saint-Germain //
+X-WR-CALNAME:Liga dos Campeões da UEFA - Paris Saint-Germain
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Atalanta
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4vah0y57kbchzjav53h65uv4k@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Parque dos Príncipes\nResultado: 4 - 0
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona VS Paris Saint-Germain
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-535v16ejka2ckhekin6euxg5w@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estadi Olímpic Lluís Companys\nResultado: 1 - 2
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Paris Saint-Germain
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: BayArena\nResultado: 2 - 7
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS FC Bayern München
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Parque dos Príncipes\nResultado: 1 - 2
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Tottenham
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5ntaf1zmqcikn6d7tcxfhd7v8@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Parque dos Príncipes\nResultado: 5 - 3
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Bilbao VS Paris Saint-Germain
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estadio de San Mamés\nResultado: 0 - 0
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting VS Paris Saint-Germain
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estádio José Alvalade\nResultado: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Newcastle
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-674bu4uhq50y41dpeizevncic@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Parque dos Príncipes\nResultado: 1 - 1
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco VS Paris Saint-Germain
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Play-offs do 
+ Mata-mata\nEstádio: Stade Louis-II\nResultado: 2 - 3
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Monaco
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Play-offs do 
+ Mata-mata\nEstádio: Parque dos Príncipes\nResultado: 2 - 2
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Chelsea FC
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-2bhi66etavhwksr15mtds3jmc@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Oitavas de fi
+ nal\nEstádio: Parque dos Príncipes\nResultado: 5 - 2
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea FC VS Paris Saint-Germain
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-2nekushi1t6nmi7ecukkoza50@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Oitavas de fi
+ nal\nEstádio: Stamford Bridge\nResultado: 0 - 3
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Liverpool
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-7om4mss983m7d0dadr87xfuok@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Quartas de fi
+ nal\nEstádio: Parque dos Príncipes\nResultado: 2 - 0
+GEO:48.841433;2.253049
+LOCATION:Parque dos Príncipes
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parque dos Príncipes";X-
+ APPLE-RADIUS=70;X-TITLE="Parque dos Príncipes":geo:48.841433,2.253049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool VS Paris Saint-Germain
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-ek0bykzmr876s0vcbxdqua3h0@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Quartas de fi
+ nal\nEstádio: Anfield
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+END:VCALENDAR

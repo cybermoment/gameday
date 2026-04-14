@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Budućnost Podgorica //
+X-WR-CALNAME:UEFA Champions League - Budućnost Podgorica
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Noah VS Budućnost Podgorica
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 1° Turno Qualifica
+ zioni\nStadio: Kotaik Stadium\nRisultato: 1 - 0
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budućnost Podgorica VS FC Noah
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 1° Turno Qualifica
+ zioni\nStadio: Stadion Pod Goricom\nRisultato: 2 - 2
+GEO:42.444817;19.264269
+LOCATION:Stadion Pod Goricom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Pod Goricom";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadion Pod Goricom":geo:42.444817,19.264269
+END:VEVENT
+END:VCALENDAR

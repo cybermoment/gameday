@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Iberia 1999 //
+X-WR-CALNAME:Лига чемпионов УЕФА - Iberia 1999
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Iberia 1999 VS Мальме ФФ
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Mikheil M
+ eskhis sakhelobis Stadioni\nРезультат: 1 - 3
+GEO:41.709809;44.746183
+LOCATION:Mikheil Meskhis sakhelobis Stadioni
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mikheil Meskhis sakhelobi
+ s Stadioni";X-APPLE-RADIUS=70;X-TITLE="Mikheil Meskhis sakhelobis Stadioni
+ ":geo:41.709809,44.746183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мальме ФФ VS Iberia 1999
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Шведбанк\nРезультат: 3 - 1
+GEO:55.583646;12.987815
+LOCATION:Стадион Шведбанк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шведб
+ анк";X-APPLE-RADIUS=70;X-TITLE="Стадион Шведбанк":geo:55
+ .583646,12.987815
+END:VEVENT
+END:VCALENDAR

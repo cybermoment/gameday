@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - قايرات أل
+ ماته //
+X-WR-CALNAME:دوري أبطال أوروبا - قايرات ألماته
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:أولمبيا ليوبليانا VS قايرات ألماته
+DTSTART:20250708T170000Z
+DTEND:20250708T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-a9aiop7i6u9lkj6zor7b0kf84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد ستو
+ تسيس\nالنتيجة: 1 - 1
+GEO:46.080472;14.524183
+LOCATION:استاد ستوتسيس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ستوتسيس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد ستوتسيس":geo:46.080472,14.5
+ 24183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS أولمبيا ليوبليانا
+DTSTART:20250715T150000Z
+DTEND:20250715T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-abgirlxxnvpt0vh19dzb25nv8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد أور
+ تاليك\nالنتيجة: 2 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS قايرات ألماته
+DTSTART:20250722T150000Z
+DTEND:20250722T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: سافون سا
+ نومات أرينا\nالنتيجة: 2 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS كوبيون بالوسورا
+DTSTART:20250729T150000Z
+DTEND:20250729T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد أو
+ رتاليك\nالنتيجة: 3 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS سلوفان براتيسلافا
+DTSTART:20250806T150000Z
+DTEND:20250806T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد أو
+ رتاليك\nالنتيجة: 1 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS قايرات ألماته
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب تيه
+ يلني بول\nالنتيجة: 1 - 0
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي سلتيك VS قايرات ألماته
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: سلتيك 
+ بارك\nالنتيجة: 0 - 0
+GEO:55.849719;-4.20558
+LOCATION:سلتيك بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سلتيك بارك";X-AP
+ PLE-RADIUS=70;X-TITLE="سلتيك بارك":geo:55.849719,-4.20558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS نادي سلتيك
+DTSTART:20250826T164500Z
+DTEND:20250826T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ أورتاليك\nالنتيجة: 0 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS قايرات ألماته
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 4 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS ريال مدريد
+DTSTART:20250930T164500Z
+DTEND:20250930T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4y59n6hs1chc516v7tjoivswk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
+ النتيجة: 0 - 5
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS نادي بافوس
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
+ النتيجة: 0 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS قايرات ألماته
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5fofplo2ckg0386q0t12xen84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 2 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS قايرات ألماته
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 3 - 2
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS أولمبياكوس بيرايوس
+DTSTART:20251209T153000Z
+DTEND:20251209T173000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
+ نتيجة: 0 - 1
+GEO:51.108217;71.40256
+LOCATION:أستانا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أستانا أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أستانا أرينا":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS كلوب بروج
+DTSTART:20260120T153000Z
+DTEND:20260120T173000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
+ نتيجة: 1 - 4
+GEO:51.108217;71.40256
+LOCATION:أستانا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أستانا أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أستانا أرينا":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS قايرات ألماته
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 3 - 2
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+END:VCALENDAR

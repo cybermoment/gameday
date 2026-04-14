@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Differdange 03 //
+X-WR-CALNAME:UEFA Champions League - Differdange 03
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:KF Drita VS Differdange 03
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-17lgmf0v333oyc7ocwdkushlg@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 1° Turno Qualifica
+ zioni\nStadio: Stadiumi Fadil Vokrri\nRisultato: 1 - 0
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Differdange 03 VS KF Drita
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-19oizyt50o94u436hep5n8hlg@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 1° Turno Qualifica
+ zioni\nStadio: Stade Parc des Sports\nRisultato: 2 - 3
+GEO:49.513897;5.889788
+LOCATION:Stade Parc des Sports
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Parc des Sports";X-
+ APPLE-RADIUS=70;X-TITLE="Stade Parc des Sports":geo:49.513897,5.889788
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Niza //
+X-WR-CALNAME:UEFA Champions League - Niza
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Niza VS SL Benfica
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022437Z
+UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: 3ra Ronda de clasif
+ icación\nEstadio: Allianz Riviera\nResultado: 0 - 2
+GEO:43.705119;7.192622
+LOCATION:Allianz Riviera
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Riviera";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Riviera":geo:43.705119,7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL Benfica VS Niza
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022437Z
+UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: 3ra Ronda de clasif
+ icación\nEstadio: Estádio do Sport Lisboa e Benfica (da Luz)\nResultado:
+  2 - 0
+GEO:38.752648;-9.184699
+LOCATION:Estádio do Sport Lisboa e Benfica (da Luz)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Sport Lisboa 
+ e Benfica (da Luz)";X-APPLE-RADIUS=70;X-TITLE="Estádio do Sport Lisboa e 
+ Benfica (da Luz)":geo:38.752648,-9.184699
+END:VEVENT
+END:VCALENDAR

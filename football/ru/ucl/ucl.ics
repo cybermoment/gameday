@@ -1,0 +1,4077 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА //
+X-WR-CALNAME:Лига чемпионов УЕФА
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:КуПС VS Милсами Орхей
+DTSTART:20250708T150000Z
+DTEND:20250708T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Väre Are
+ ena\nРезультат: 1 - 0
+GEO:62.884633;27.671803
+LOCATION:Väre Areena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Väre Areena";X-APPLE-RAD
+ IUS=70;X-TITLE="Väre Areena":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iberia 1999 VS Мальме ФФ
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Mikheil M
+ eskhis sakhelobis Stadioni\nРезультат: 1 - 3
+GEO:41.709809;44.746183
+LOCATION:Mikheil Meskhis sakhelobis Stadioni
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mikheil Meskhis sakhelobi
+ s Stadioni";X-APPLE-RADIUS=70;X-TITLE="Mikheil Meskhis sakhelobis Stadioni
+ ":geo:41.709809,44.746183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noah VS Будучност
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Kotaik St
+ adium\nРезультат: 1 - 0
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Левадия VS Даугава Рига
+DTSTART:20250708T163000Z
+DTEND:20250708T183000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион А Ле Кок Арена\nРезультат: 0 - 1
+GEO:59.421303;24.732022
+LOCATION:Стадион А Ле Кок Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион А Ле К
+ ок Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион А Ле Кок 
+ Арена":geo:59.421303,24.732022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпия VS Кайрат
+DTSTART:20250708T170000Z
+DTEND:20250708T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-a9aiop7i6u9lkj6zor7b0kf84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Стожице\nРезультат: 1 - 1
+GEO:46.080472;14.524183
+LOCATION:Стадион Стожице
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Стожи
+ це";X-APPLE-RADIUS=70;X-TITLE="Стадион Стожице":geo:46.080
+ 472,14.524183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drita VS Дифферданж 03
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-17lgmf0v333oyc7ocwdkushlg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Stadiumi 
+ Fadil Vokrri\nРезультат: 1 - 0
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Зе Нью-Сейнтс VS Шкендия 79
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Park Hall
+  Stadium\nРезультат: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:Park Hall Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Park Hall Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Park Hall Stadium":geo:52.875884,-3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Викингур VS Lincoln Red Imps
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2axwif0kr7ld8vc988ji73q50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Við Djú
+ pumýrar\nРезультат: 2 - 3
+GEO:62.224654;-6.580154
+LOCATION:Við Djúpumýrar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Við Djúpumýrar";X-APPL
+ E-RADIUS=70;X-TITLE="Við Djúpumýrar":geo:62.224654,-6.580154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эгнация Рогожина VS Брейдаблик
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Arena Egn
+ atia\nРезультат: 1 - 0
+GEO:41.07666;19.661713
+LOCATION:Arena Egnatia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Egnatia";X-APPLE-RA
+ DIUS=70;X-TITLE="Arena Egnatia":geo:41.07666,19.661713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Виртус VS Зриньски
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8tul8117rp7ojznms19n6da1g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Олим
+ пийский стадион Серравалле\nРезультат: 0 
+ - 2
+GEO:43.971245;12.476971
+LOCATION:Олимпийский стадион Серравалле
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Олимпийский с
+ тадион Серравалле";X-APPLE-RADIUS=70;X-TITLE="Олимпи
+ йский стадион Серравалле":geo:43.971245,12.476971
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Жальгирис VS Хамрун Спартанс
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: FK Žalgi
+ ris namų stadionas\nРезультат: 2 - 0
+GEO:54.668542;25.294725
+LOCATION:FK Žalgiris namų stadionas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="FK Žalgiris namų stadio
+ nas";X-APPLE-RADIUS=70;X-TITLE="FK Žalgiris namų stadionas":geo:54.66854
+ 2,25.294725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Динамо Минск
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-byxwrb3zraa87jwdky8998x04@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Huvepharm
+ a Arena\nРезультат: 1 - 0
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стяуа Бухарест VS Интер Д Эскальдес
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63wi7u2dyddcx22dn3xlcxno4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Stadionul
+  Steaua\nРезультат: 3 - 1
+GEO:44.412846;26.040468
+LOCATION:Stadionul Steaua
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Steaua";X-APPLE
+ -RADIUS=70;X-TITLE="Stadionul Steaua":geo:44.412846,26.040468
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Шелбурн VS Линфилд
+DTSTART:20250709T184500Z
+DTEND:20250709T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4y2t7dyvstks4qz55i5wvjm6s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Tolka Par
+ k\nРезультат: 1 - 0
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Олимпия
+DTSTART:20250715T150000Z
+DTEND:20250715T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-abgirlxxnvpt0vh19dzb25nv8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Ortalyq s
+ tadıon\nРезультат: 2 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Red Imps VS Викингур
+DTSTART:20250715T153000Z
+DTEND:20250715T173000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2feve63v1vjilkwh0lazcrztg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Europa Po
+ int Stadium\nРезультат: 1 - 0
+GEO:36.110714;-5.347034
+LOCATION:Europa Point Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Europa Point Stadium";X-A
+ PPLE-RADIUS=70;X-TITLE="Europa Point Stadium":geo:36.110714,-5.347034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Даугава Рига VS Левадия
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: LNK Sport
+ a Parks (dabīgais)\nРезультат: 1 - 0
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Милсами Орхей VS КуПС
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Complexul
+  Sportiv Raional\nРезультат: 0 - 0
+GEO:47.374451;28.819242
+LOCATION:Complexul Sportiv Raional
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Complexul Sportiv Raional
+ ";X-APPLE-RADIUS=70;X-TITLE="Complexul Sportiv Raional":geo:47.374451,28.8
+ 19242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мальме ФФ VS Iberia 1999
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Шведбанк\nРезультат: 3 - 1
+GEO:55.583646;12.987815
+LOCATION:Стадион Шведбанк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шведб
+ анк";X-APPLE-RADIUS=70;X-TITLE="Стадион Шведбанк":geo:55
+ .583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хамрун Спартанс VS Жальгирис
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Наци
+ ональный стадион Такали\nРезультат: 2 - 0
+GEO:35.894817;14.415141
+LOCATION:Национальный стадион Такали
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Национальный 
+ стадион Такали";X-APPLE-RADIUS=70;X-TITLE="Националь
+ ный стадион Такали":geo:35.894817,14.415141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дифферданж 03 VS Drita
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-19oizyt50o94u436hep5n8hlg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Stade Par
+ c des Sports\nРезультат: 2 - 3
+GEO:49.513897;5.889788
+LOCATION:Stade Parc des Sports
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Parc des Sports";X-
+ APPLE-RADIUS=70;X-TITLE="Stade Parc des Sports":geo:49.513897,5.889788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Шкендия 79 VS Зе Нью-Сейнтс
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Наци
+ оналная арена им Филипа II Македонского\n
+ Результат: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Националная арена им Филипа II Макед
+ онского
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Националная а
+ рена им Филипа II Македонского";X-APPLE-RADIUS=70;
+ X-TITLE="Националная арена им Филипа II Макед
+ онского":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интер Д Эскальдес VS Стяуа Бухарест
+DTSTART:20250715T183000Z
+DTEND:20250715T203000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-680o3jgip3hhagbzecne30ob8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Estadi de
+  la FAF d'Encamp\nРезультат: 2 - 1
+GEO:42.533481;1.575929
+LOCATION:Estadi de la FAF d'Encamp
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi de la FAF d'Encamp
+ ";X-APPLE-RADIUS=70;X-TITLE="Estadi de la FAF d'Encamp":geo:42.533481,1.57
+ 5929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будучност VS Noah
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Под Горицом\nРезультат: 2 - 2
+GEO:42.444817;19.264269
+LOCATION:Стадион Под Горицом
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Под Г
+ орицом";X-APPLE-RADIUS=70;X-TITLE="Стадион Под Гориц
+ ом":geo:42.444817,19.264269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Брейдаблик VS Эгнация Рогожина
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Kópavogs
+ völlur\nРезультат: 5 - 0
+GEO:64.104104;-21.896889
+LOCATION:Kópavogsvöllur
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kópavogsvöllur";X-APPLE
+ -RADIUS=70;X-TITLE="Kópavogsvöllur":geo:64.104104,-21.896889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Зриньски VS Виртус
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8w7j987hlwpkdty1yzefylafo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Stadion B
+ ijeli Brijeg\nРезультат: 2 - 1
+GEO:43.345619;17.795261
+LOCATION:Stadion Bijeli Brijeg
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Динамо Минск VS ФК Разград 2000
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-c1usp3qcw3ovrey4e9ls3n0no@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Városi S
+ tadion\nРезультат: 2 - 2
+GEO:47.80213;20.567334
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.80213,20.567334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Линфилд VS Шелбурн
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53najx34i2qn6vo61ibbqqyac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион Виндзор Парк\nРезультат: 1 - 1
+GEO:54.582625;-5.955188
+LOCATION:Стадион Виндзор Парк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Виндз
+ ор Парк";X-APPLE-RADIUS=70;X-TITLE="Стадион Виндзор П
+ арк":geo:54.582625,-5.955188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КуПС VS Кайрат
+DTSTART:20250722T150000Z
+DTEND:20250722T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Väre Areena\nРезультат: 2 -
+  0
+GEO:62.884633;27.671803
+LOCATION:Väre Areena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Väre Areena";X-APPLE-RAD
+ IUS=70;X-TITLE="Väre Areena":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Red Imps VS Црвена Звезда
+DTSTART:20250722T160000Z
+DTEND:20250722T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-46xbmy1svtjsenauhcjtorz10@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Europa Point Stadium\nРезульт
+ ат: 0 - 1
+GEO:36.110714;-5.347034
+LOCATION:Europa Point Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Europa Point Stadium";X-A
+ PPLE-RADIUS=70;X-TITLE="Europa Point Stadium":geo:36.110714,-5.347034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noah VS Ференцварош
+DTSTART:20250722T160000Z
+DTEND:20250722T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Kotaik Stadium\nРезультат: 1
+  - 2
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хамрун Спартанс VS Динамо Киев
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: MFA Centenary Stadium\nРезульт
+ ат: 0 - 3
+GEO:35.896638;14.415425
+LOCATION:MFA Centenary Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MFA Centenary Stadium";X-
+ APPLE-RADIUS=70;X-TITLE="MFA Centenary Stadium":geo:35.896638,14.415425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Виктория Плзень VS Серветт
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5e2frjzta6hz8dzngz5upawwk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Doosan Aréna\nРезультат: 0 
+ - 1
+GEO:49.750074;13.385446
+LOCATION:Doosan Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Doosan Aréna";X-APPLE-RA
+ DIUS=70;X-TITLE="Doosan Aréna":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Даугава Рига VS Мальме ФФ
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: LNK Sporta Parks (dabīgais)\nРез
+ ультат: 1 - 4
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Drita
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Стадион Паркен\nРезу
+ льтат: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Маккаби Тель-Авив
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2llj9g9hkmh7pc5rq1wmhjaqc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Alphamega Stadium\nРезультат
+ : 1 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Шкендия 79 VS Стяуа Бухарест
+DTSTART:20250722T180000Z
+DTEND:20250722T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Националная арена и
+ м Филипа II Македонского\nРезультат: 1 - 0
+GEO:42.005743;21.425598
+LOCATION:Националная арена им Филипа II Макед
+ онского
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Националная а
+ рена им Филипа II Македонского";X-APPLE-RADIUS=70;
+ X-TITLE="Националная арена им Филипа II Макед
+ онского":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Слован Братислава VS Зриньски
+DTSTART:20250722T181500Z
+DTEND:20250722T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
+ тат: 4 - 0
+GEO:48.163495;17.136698
+LOCATION:Štadión Tehelné pole
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Štadión Tehelné pole";
+ X-APPLE-RADIUS=70;X-TITLE="Štadión Tehelné pole":geo:48.163495,17.13669
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лех Познань VS Брейдаблик
+DTSTART:20250722T183000Z
+DTEND:20250722T203000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Стадион Мьежски (гор
+ одской)\nРезультат: 7 - 1
+GEO:52.397679;16.858161
+LOCATION:Стадион Мьежски (городской)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мьежс
+ ки (городской)";X-APPLE-RADIUS=70;X-TITLE="Стадион Мь
+ ежски (городской)":geo:52.397679,16.858161
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Рейнджерс VS Панатинаикос
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Ibrox Stadium\nРезультат: 2 
+ - 0
+GEO:55.853211;-4.309283
+LOCATION:Ibrox Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ibrox Stadium";X-APPLE-RA
+ DIUS=70;X-TITLE="Ibrox Stadium":geo:55.853211,-4.309283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Риека VS ФК Разград 2000
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadion HNK Rijeka\nРезульта
+ т: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:Stadion HNK Rijeka
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HNK Rijeka";X-APP
+ LE-RADIUS=70;X-TITLE="Stadion HNK Rijeka":geo:45.347873,14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бранн VS FC Salzburg
+DTSTART:20250723T170000Z
+DTEND:20250723T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Brann Stadion\nРезультат: 1 
+ - 4
+GEO:60.366933;5.357417
+LOCATION:Brann Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Шелбурн VS Карабах
+DTSTART:20250723T184500Z
+DTEND:20250723T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15au93rf3haritiab0g6dnj84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Tolka Park\nРезультат: 0 - 3
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS КуПС
+DTSTART:20250729T150000Z
+DTEND:20250729T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:
+  3 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drita VS Копенгаген
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadiumi Fadil Vokrri\nРезульт
+ ат: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Динамо Киев VS Хамрун Спартанс
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Motor Lublin Arena\nРезульта
+ т: 3 - 0
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Зриньски VS Слован Братислава
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadion Bijeli Brijeg\nРезульт
+ ат: 2 - 2
+GEO:43.345619;17.795261
+LOCATION:Stadion Bijeli Brijeg
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Црвена Звезда VS Lincoln Red Imps
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-48t6pnn4up7tu28f6swem8duc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadion Rajko Mitić\nРезульт
+ ат: 5 - 1
+GEO:44.783191;20.464901
+LOCATION:Stadion Rajko Mitić
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Rajko Mitić";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadion Rajko Mitić":geo:44.783191,20.464901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Шелбурн
+DTSTART:20250730T160000Z
+DTEND:20250730T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1855o8trnuavzs9zq1ubf5us4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Республиканский ста
+ дион Тофика Бахрамова\nРезультат: 1 - 0
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мальме ФФ VS Даугава Рига
+DTSTART:20250730T170000Z
+DTEND:20250730T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Стадион Шведбанк\nРе
+ зультат: 1 - 0
+GEO:55.583646;12.987815
+LOCATION:Стадион Шведбанк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шведб
+ анк";X-APPLE-RADIUS=70;X-TITLE="Стадион Шведбанк":geo:55
+ .583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Риека
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Huvepharma Arena\nРезультат:
+  3 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стяуа Бухарест VS Шкендия 79
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Стадион Арена Нацио
+ нала\nРезультат: 1 - 2
+GEO:44.437208;26.152498
+LOCATION:Стадион Арена Национала
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Арена
+  Национала";X-APPLE-RADIUS=70;X-TITLE="Стадион Арена 
+ Национала":geo:44.437208,26.152498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Маккаби Тель-Авив VS Pafos
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2p8utvgjvhobdvwdphdw7w1ec@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: TSC Arena\nРезультат: 0 - 1
+GEO:45.815599;19.627252
+LOCATION:TSC Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="TSC Arena";X-APPLE-RADIUS
+ =70;X-TITLE="TSC Arena":geo:45.815599,19.627252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Панатинаикос VS Рейнджерс
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Olympiako Stadio Spyros Louis\nРез
+ ультат: 1 - 1
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ференцварош VS Noah
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-701azda2tmhto993kf731cowk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Groupama Aréna\nРезультат: 
+ 4 - 3
+GEO:47.475514;19.095286
+LOCATION:Groupama Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Aréna";X-APPLE-
+ RADIUS=70;X-TITLE="Groupama Aréna":geo:47.475514,19.095286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Брейдаблик VS Лех Познань
+DTSTART:20250730T183000Z
+DTEND:20250730T203000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Kópavogsvöllur\nРезультат:
+  0 - 1
+GEO:64.104104;-21.896889
+LOCATION:Kópavogsvöllur
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kópavogsvöllur";X-APPLE
+ -RADIUS=70;X-TITLE="Kópavogsvöllur":geo:64.104104,-21.896889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Salzburg VS Бранн
+DTSTART:20250730T184500Z
+DTEND:20250730T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Ред Булл Арена\nРезу
+ льтат: 1 - 1
+GEO:47.816294;12.998183
+LOCATION:Ред Булл Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ред Булл Арен
+ а";X-APPLE-RADIUS=70;X-TITLE="Ред Булл Арена":geo:47.816294,1
+ 2.998183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Серветт VS Виктория Плзень
+DTSTART:20250730T190000Z
+DTEND:20250730T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5fqhce7srss8hywz4ujj3nx1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stade de Genève\nРезультат:
+  1 - 3
+GEO:46.177841;6.127458
+LOCATION:Stade de Genève
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Genève";X-APPLE
+ -RADIUS=70;X-TITLE="Stade de Genève":geo:46.177841,6.127458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Мальме ФФ VS Копенгаген
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Шведбанк\nРе
+ зультат: 0 - 0
+GEO:55.583646;12.987815
+LOCATION:Стадион Шведбанк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шведб
+ анк";X-APPLE-RADIUS=70;X-TITLE="Стадион Шведбанк":geo:55
+ .583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Динамо Киев VS Pafos
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Motor Lublin Arena\nРезульта
+ т: 0 - 1
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Шкендия 79 VS Карабах
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Националная арена и
+ м Филипа II Македонского\nРезультат: 0 - 1
+GEO:42.005743;21.425598
+LOCATION:Националная арена им Филипа II Макед
+ онского
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Националная а
+ рена им Филипа II Македонского";X-APPLE-RADIUS=70;
+ X-TITLE="Националная арена им Филипа II Макед
+ онского":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Рейнджерс VS Виктория Плзень
+DTSTART:20250805T184500Z
+DTEND:20250805T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-65e2eplopyl0nal1t4z2dv310@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Ibrox Stadium\nРезультат: 3 
+ - 0
+GEO:55.853211;-4.309283
+LOCATION:Ibrox Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ibrox Stadium";X-APPLE-RA
+ DIUS=70;X-TITLE="Ibrox Stadium":geo:55.853211,-4.309283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Слован Братислава
+DTSTART:20250806T150000Z
+DTEND:20250806T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:
+  1 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Salzburg VS Клуб Брюгге
+DTSTART:20250806T170000Z
+DTEND:20250806T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Ред Булл Арена\nРезу
+ льтат: 0 - 1
+GEO:47.816294;12.998183
+LOCATION:Ред Булл Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ред Булл Арен
+ а";X-APPLE-RADIUS=70;X-TITLE="Ред Булл Арена":geo:47.816294,1
+ 2.998183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Ференцварош
+DTSTART:20250806T173000Z
+DTEND:20250806T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Huvepharma Arena\nРезультат:
+  0 - 0
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лех Познань VS Црвена Звезда
+DTSTART:20250806T183000Z
+DTEND:20250806T203000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-c3x6lvs9dk8pyp5fj76w195p0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Мьежски (гор
+ одской)\nРезультат: 1 - 3
+GEO:52.397679;16.858161
+LOCATION:Стадион Мьежски (городской)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мьежс
+ ки (городской)";X-APPLE-RADIUS=70;X-TITLE="Стадион Мь
+ ежски (городской)":geo:52.397679,16.858161
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фейеноорд VS Фенербахче
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Фейеноорд\nР
+ езультат: 2 - 1
+GEO:51.893855;4.523191
+LOCATION:Стадион Фейеноорд
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Фейен
+ оорд";X-APPLE-RADIUS=70;X-TITLE="Стадион Фейеноорд":ge
+ o:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ницца VS Бенфика
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Альянц Ривьера\nРезу
+ льтат: 0 - 2
+GEO:43.705119;7.192622
+LOCATION:Альянц Ривьера
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Альянц Ривьер
+ а";X-APPLE-RADIUS=70;X-TITLE="Альянц Ривьера":geo:43.705119,
+ 7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Шкендия 79
+DTSTART:20250812T160000Z
+DTEND:20250812T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Республиканский ста
+ дион Тофика Бахрамова\nРезультат: 5 - 1
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Мальме ФФ
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Паркен\nРезу
+ льтат: 5 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Виктория Плзень VS Рейнджерс
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-67ynklkwlxs648jughhfz9lw4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Doosan Aréna\nРезультат: 2 
+ - 1
+GEO:49.750074;13.385446
+LOCATION:Doosan Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Doosan Aréna";X-APPLE-RA
+ DIUS=70;X-TITLE="Doosan Aréna":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Динамо Киев
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Alphamega Stadium\nРезультат
+ : 2 - 0
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фенербахче VS Фейеноорд
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Шюкрю Сарад
+ жоглу\nРезультат: 5 - 2
+GEO:40.987799;29.03686
+LOCATION:Стадион Шюкрю Сараджоглу
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шюкрю
+  Сараджоглу";X-APPLE-RADIUS=70;X-TITLE="Стадион Шюкр
+ ю Сараджоглу":geo:40.987799,29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS FC Salzburg
+DTSTART:20250812T173000Z
+DTEND:20250812T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Jan Breydelstadion\nРезульта
+ т: 3 - 2
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ференцварош VS ФК Разград 2000
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Groupama Aréna\nРезультат: 
+ 3 - 0
+GEO:47.475514;19.095286
+LOCATION:Groupama Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Aréna";X-APPLE-
+ RADIUS=70;X-TITLE="Groupama Aréna":geo:47.475514,19.095286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Слован Братислава VS Кайрат
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
+ тат: 1 - 0
+GEO:48.163495;17.136698
+LOCATION:Štadión Tehelné pole
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Štadión Tehelné pole";
+ X-APPLE-RADIUS=70;X-TITLE="Štadión Tehelné pole":geo:48.163495,17.13669
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Ницца
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Эстадио до С
+ порт Лисбоа э Бенфика (Стадион света)\nРе
+ зультат: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Црвена Звезда VS Лех Познань
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-c4xoo7g1uefu6hj1vgsn3r95g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Stadion Rajko Mitić\nРезульт
+ ат: 1 - 1
+GEO:44.783191;20.464901
+LOCATION:Stadion Rajko Mitić
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Rajko Mitić";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadion Rajko Mitić":geo:44.783191,20.464901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Црвена Звезда VS Pafos
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eklbtanrg41db9bg2oj7fnevo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Stadion Rajko Mitić\nРезульт
+ ат: 1 - 2
+GEO:44.783191;20.464901
+LOCATION:Stadion Rajko Mitić
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Rajko Mitić";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadion Rajko Mitić":geo:44.783191,20.464901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Рейнджерс VS Клуб Брюгге
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-83509np6cybipasjyz6nbxpg4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Ibrox Stadium\nРезультат: 1 
+ - 3
+GEO:55.853211;-4.309283
+LOCATION:Ibrox Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ibrox Stadium";X-APPLE-RA
+ DIUS=70;X-TITLE="Ibrox Stadium":geo:55.853211,-4.309283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ференцварош VS Карабах
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Groupama Aréna\nРезультат: 
+ 1 - 3
+GEO:47.475514;19.095286
+LOCATION:Groupama Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Aréna";X-APPLE-
+ RADIUS=70;X-TITLE="Groupama Aréna":geo:47.475514,19.095286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базель VS Копенгаген
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Санкт-Якоб П
+ арк\nРезультат: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:Стадион Санкт-Якоб Парк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Санкт
+ -Якоб Парк";X-APPLE-RADIUS=70;X-TITLE="Стадион Санкт-
+ Якоб Парк":geo:47.541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS Штурм Грац
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9hb4z2iwh8sazow23a3nnw9g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Aspmyra Stadion\nРезультат: 
+ 5 - 0
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Селтик VS Кайрат
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Celtic Park\nРезультат: 0 - 
+ 0
+GEO:55.849719;-4.20558
+LOCATION:Celtic Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Celtic Park";X-APPLE-RADI
+ US=70;X-TITLE="Celtic Park":geo:55.849719,-4.20558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фенербахче VS Бенфика
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Шюкрю Сарад
+ жоглу\nРезультат: 0 - 0
+GEO:40.987799;29.03686
+LOCATION:Стадион Шюкрю Сараджоглу
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шюкрю
+  Сараджоглу";X-APPLE-RADIUS=70;X-TITLE="Стадион Шюкр
+ ю Сараджоглу":geo:40.987799,29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Селтик
+DTSTART:20250826T164500Z
+DTEND:20250826T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Ortalyq stadıon\nРезультат:
+  0 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Црвена Звезда
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-emypvbslto43ter68roe6cc2c@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Alphamega Stadium\nРезультат
+ : 1 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Штурм Грац VS Будё / Глимт
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-jrqj1tlsc31sq3x10bkqb4lw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: 28 Black Arena\nРезультат: 2
+  - 1
+GEO:46.609024;14.278193
+LOCATION:28 Black Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="28 Black Arena";X-APPLE-R
+ ADIUS=70;X-TITLE="28 Black Arena":geo:46.609024,14.278193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Ференцварош
+DTSTART:20250827T164500Z
+DTEND:20250827T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Республиканский ста
+ дион Тофика Бахрамова\nРезультат: 2 - 3
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Фенербахче
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Эстадио до С
+ порт Лисбоа э Бенфика (Стадион света)\nРе
+ зультат: 1 - 0
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS Рейнджерс
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-847pdw2q6zi71o572y4xmmjh0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Jan Breydelstadion\nРезульта
+ т: 6 - 0
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Базель
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Паркен\nРезу
+ льтат: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПСВ VS Юнион Сент-Жиллуаз
+DTSTART:20250916T164500Z
+DTEND:20250916T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4rq18t2s467wo5dbh8iwip1jo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Филипс\nРезул
+ ьтат: 1 - 3
+GEO:51.44163;5.467452
+LOCATION:Стадион Филипс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Филип
+ с";X-APPLE-RADIUS=70;X-TITLE="Стадион Филипс":geo:51.44163,5
+ .467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетик VS Арсенал
+DTSTART:20250916T164500Z
+DTEND:20250916T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
+ т: 0 - 2
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тоттенхэм VS Вильярреал
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4t4v7a4pnyn93vudidzzjb6s4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Tottenham Hotspur Stadium\nРезуль
+ тат: 1 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК «Ювентус» VS Боруссия Дортмунд
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4s2m5vmbv79astpbzzz1bh8us@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Stadium\nРезультат: 4 -
+  4
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Олимпик Марсель
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4sffoari6ugnp3roi1m3k7xn8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio Bernabéu\nРезультат: 2
+  - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Карабах
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)\nРез
+ ультат: 2 - 3
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Pafos
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4thsy1pya5y11wggav6gql4wk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 0 - 0
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Славия Прага VS Будё / Глимт
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4tvunt9ccx4cn40c8x2jlnwno@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Синот Тип Аре
+ на\nРезультат: 2 - 2
+GEO:50.067525;14.47114
+LOCATION:Стадион Синот Тип Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Синот
+  Тип Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Синот 
+ Тип Арена":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ливерпуль VS Атлетико Мадрид
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Anfield\nРезультат: 3 - 2
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бавария Мюнхен VS Челси
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ul6yr2fksq114k3r287afg9g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Arena\nРезультат: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аякс VS Интернационале
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4u8iqbh8m9es525qyf4tsrifo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Амстердам Аре
+ нА\nРезультат: 0 - 2
+GEO:52.314303;4.941959
+LOCATION:Стадион Амстердам АренА
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Амсте
+ рдам АренА";X-APPLE-RADIUS=70;X-TITLE="Стадион Амсте
+ рдам АренА":geo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Аталанта
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vah0y57kbchzjav53h65uv4k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Парк де Пренс\nРезульт
+ ат: 4 - 0
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS Монако
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
+ 4 - 1
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Байер Леверкузен
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ньюкасл VS Барселона
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4x2w9j51dk7kc90orh6vkm2hg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: St. James' Park\nРезультат: 1 -
+  2
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Наполи
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Etihad Stadium\nРезультат: 2 - 
+ 0
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Айнтрахт Франкфурт VS Галатасарай
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4wcjch9j9nzd1cfu19oioy9sk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Deutsche Bank Park\nРезультат: 
+ 5 - 1
+GEO:50.068577;8.645448
+LOCATION:Deutsche Bank Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
+ LE-RADIUS=70;X-TITLE="Deutsche Bank Park":geo:50.068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Спортинг Лиссабон VS Кайрат
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
+ ат: 4 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Реал Мадрид
+DTSTART:20250930T164500Z
+DTEND:20250930T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4y59n6hs1chc516v7tjoivswk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Ortalyq stadıon\nРезультат: 0 
+ - 5
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Клуб Брюгге
+DTSTART:20250930T164500Z
+DTEND:20250930T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4xs86vowvf2xcks0ln8eu9e6s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: New Balance Arena\nРезультат: 2
+  - 1
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Челси VS Бенфика
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stamford Bridge\nРезультат: 1 -
+  0
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Бавария Мюнхен
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Alphamega Stadium\nРезультат: 1
+  - 5
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS Тоттенхэм
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4zlje47s72rm7ucdu1xma8jdg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Aspmyra Stadion\nРезультат: 2 -
+  2
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интернационале VS Славия Прага
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4z8to3catex92f0ng2u3f7310@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Giuseppe Meazza\nРезульта
+ т: 3 - 0
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Айнтрахт Франкфур
+ т
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
+ ат: 5 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпик Марсель VS Аякс
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-50aybm4aduzr2y0na0l1tj2tw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Оранж Велодром\nРезул
+ ьтат: 4 - 0
+GEO:43.26987;5.395854
+LOCATION:Оранж Велодром
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Оранж Велодро
+ м";X-APPLE-RADIUS=70;X-TITLE="Оранж Велодром":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Галатасарай VS Ливерпуль
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4zy839pwz57fo6s7vmh7ntv6c@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Тюрк Телеком 
+ Арена\nРезультат: 1 - 0
+GEO:41.103391;28.991064
+LOCATION:Стадион Тюрк Телеком Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Тюрк 
+ Телеком Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Тю
+ рк Телеком Арена":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Юнион Сент-Жиллуаз VS Ньюкасл
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-51cxywc10d5578261crewjnkk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Lotto Park\nРезультат: 0 - 4
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Копенгаген
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Республиканский стад
+ ион Тофика Бахрамова\nРезультат: 2 - 0
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Монако VS Manchester City
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stade Louis-II\nРезультат: 2 - 
+ 2
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS ПСВ
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: BayArena\nРезультат: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Вильярреал VS ФК «Ювентус»
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53uv9nt6mmwd2snmpdhdrzbx0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de la Cerámica\nРезульт
+ ат: 2 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Олимпиакос Пирей
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-51pmokefm21mo1i26kyokvvo4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Emirates Stadium\nРезультат: 2 
+ - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Боруссия Дортмунд VS Атлетик
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: SIGNAL IDUNA PARK\nРезультат: 4
+  - 1
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Спортинг Лиссабон
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Paris Saint-Germain
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-535v16ejka2ckhekin6euxg5w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadi Olímpic Lluís Companys\nРез
+ ультат: 1 - 2
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Pafos
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Ortalyq stadıon\nРезультат: 0 
+ - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Олимпиакос Пирей
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-547fv6pkd98zbsl3ha92ih0d0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadi Olímpic Lluís Companys\nРез
+ ультат: 6 - 1
+GEO:41.364756;2.155573
+LOCATION:Estadi Olímpic Lluís Companys
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Olímpic Lluís Co
+ mpanys";X-APPLE-RADIUS=70;X-TITLE="Estadi Olímpic Lluís Companys":geo:41
+ .364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Вильярреал VS Manchester City
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de la Cerámica\nРезульт
+ ат: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Юнион Сент-Жиллуаз VS Интернационале
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-56sbokbrbftomg93nof38dvro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Lotto Park\nРезультат: 0 - 4
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Боруссия Дортмунд
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 2 - 4
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПСВ VS Наполи
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-56flul4umnrjdekx5ny22y7tg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Филипс\nРезул
+ ьтат: 6 - 2
+GEO:51.44163;5.467452
+LOCATION:Стадион Филипс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Филип
+ с";X-APPLE-RADIUS=70;X-TITLE="Стадион Филипс":geo:51.44163,5
+ .467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Атлетико Мадрид
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Emirates Stadium\nРезультат: 4 
+ - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS Paris Saint-Germain
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: BayArena\nРезультат: 2 - 7
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ньюкасл VS Бенфика
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-562r0ddozxsa83y9l1wfm74t0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: St. James' Park\nРезультат: 3 -
+  0
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетик VS Карабах
+DTSTART:20251022T164500Z
+DTEND:20251022T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
+ т: 3 - 1
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Галатасарай VS Будё / Глимт
+DTSTART:20251022T164500Z
+DTEND:20251022T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-57vuceh50t8ljktlsz99kwh04@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Тюрк Телеком 
+ Арена\nРезультат: 3 - 1
+GEO:41.103391;28.991064
+LOCATION:Стадион Тюрк Телеком Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Тюрк 
+ Телеком Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Тю
+ рк Телеком Арена":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS ФК «Ювентус»
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5a1g6r8o0nw2fuy68ka0ls0es@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio Bernabéu\nРезультат: 1
+  - 0
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Спортинг Лиссабон VS Олимпик Марсель
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
+ ат: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Славия Прага
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-58ls4qn0s2o0x3uzwo5lzs36c@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: New Balance Arena\nРезультат: 0
+  - 0
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Айнтрахт Франкфурт VS Ливерпуль
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-59bpikh36bw9pwdd7xuyp30gk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Deutsche Bank Park\nРезультат: 
+ 1 - 5
+GEO:50.068577;8.645448
+LOCATION:Deutsche Bank Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
+ LE-RADIUS=70;X-TITLE="Deutsche Bank Park":geo:50.068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Челси VS Аякс
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-58ypxe2wvxq7e89u8q0k0ep04@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stamford Bridge\nРезультат: 5 -
+  1
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Монако VS Тоттенхэм
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-588thaqsgswjlauvj2gp1orh0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stade Louis-II\nРезультат: 0 - 
+ 0
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бавария Мюнхен VS Клуб Брюгге
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Arena\nРезультат: 4 - 0
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Айнтрахт Франкфурт
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 0 - 0
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Славия Прага VS Арсенал
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ar7r75v5tj8t5k5c0lafex3o@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Синот Тип Аре
+ на\nРезультат: 0 - 3
+GEO:50.067525;14.47114
+LOCATION:Стадион Синот Тип Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Синот
+  Тип Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Синот 
+ Тип Арена":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS Монако
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Aspmyra Stadion\nРезультат: 0 -
+  1
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Юнион Сент-Жиллуа
+ з
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
+ ат: 3 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК «Ювентус» VS Спортинг Лиссабон
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5c6o9gkconkcdrpnsx0b5k4r8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Stadium\nРезультат: 1 -
+  1
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тоттенхэм VS Копенгаген
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Tottenham Hotspur Stadium\nРезуль
+ тат: 4 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Бавария Мюнхен
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Парк де Пренс\nРезульт
+ ат: 1 - 2
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ливерпуль VS Реал Мадрид
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5cldkwitxdgvsmr4erkx8zyms@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Anfield\nРезультат: 1 - 0
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS ПСВ
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5cybtcdp5uzclqdyjmojazk0k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 1 - 1
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Челси
+DTSTART:20251105T174500Z
+DTEND:20251105T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5eldqjhp1rtk3xd9olxavsvmc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Республиканский стад
+ ион Тофика Бахрамова\nРезультат: 2 - 2
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Вильярреал
+DTSTART:20251105T174500Z
+DTEND:20251105T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5e8c81yfj5wleflr99m651mok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Alphamega Stadium\nРезультат: 1
+  - 0
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ньюкасл VS Атлетик
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5gj09fi5vmedayoh6kb4q08pg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: St. James' Park\nРезультат: 2 -
+  0
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Боруссия Дортмунд
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Etihad Stadium\nРезультат: 4 - 
+ 1
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Байер Леверкузен
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)\nРез
+ ультат: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпик Марсель VS Аталанта
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5gvvzdmzgkymkhsskiiyiwdg4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Оранж Велодром\nРезул
+ ьтат: 0 - 1
+GEO:43.26987;5.395854
+LOCATION:Оранж Велодром
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Оранж Велодро
+ м";X-APPLE-RADIUS=70;X-TITLE="Оранж Велодром":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS Барселона
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5fbfmxmdror7xvtcq3a41pkpg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
+ 3 - 3
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интернационале VS Кайрат
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5fofplo2ckg0386q0t12xen84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Giuseppe Meazza\nРезульта
+ т: 2 - 1
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аякс VS Галатасарай
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5eyjs5dmee4khfup2nzycajo4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Амстердам Аре
+ нА\nРезультат: 0 - 3
+GEO:52.314303;4.941959
+LOCATION:Стадион Амстердам АренА
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Амсте
+ рдам АренА";X-APPLE-RADIUS=70;X-TITLE="Стадион Амсте
+ рдам АренА":geo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аякс VS Бенфика
+DTSTART:20251125T174500Z
+DTEND:20251125T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Амстердам Аре
+ нА\nРезультат: 0 - 2
+GEO:52.314303;4.941959
+LOCATION:Стадион Амстердам АренА
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Амсте
+ рдам АренА";X-APPLE-RADIUS=70;X-TITLE="Стадион Амсте
+ рдам АренА":geo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Галатасарай VS Юнион Сент-Жиллуаз
+DTSTART:20251125T174500Z
+DTEND:20251125T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5i0c80gxlounme20ekaqrx0yc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Тюрк Телеком 
+ Арена\nРезультат: 0 - 1
+GEO:41.103391;28.991064
+LOCATION:Стадион Тюрк Телеком Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Тюрк 
+ Телеком Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Тю
+ рк Телеком Арена":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS ФК «Ювентус»
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5j5rc4wpittutm2qulb97arro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Aspmyra Stadion\nРезультат: 2 -
+  3
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпик Марсель VS Ньюкасл
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5jvxlvcsjl7gv4i0tj10rqntg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Оранж Велодром\nРезул
+ ьтат: 2 - 1
+GEO:43.26987;5.395854
+LOCATION:Оранж Велодром
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Оранж Велодро
+ м";X-APPLE-RADIUS=70;X-TITLE="Оранж Велодром":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Челси VS Барселона
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5iss7tc562nnymg0uiewtt0r8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stamford Bridge\nРезультат: 3 -
+  0
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Боруссия Дортмунд VS Вильярреал
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ift1ypsxbwlm3fh0yqke8h04@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: SIGNAL IDUNA PARK\nРезультат: 4
+  - 0
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Карабах
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 2 - 0
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Байер Леверкузен
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Etihad Stadium\nРезультат: 0 - 
+ 2
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Славия Прага VS Атлетик
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Синот Тип Аре
+ на\nРезультат: 0 - 0
+GEO:50.067525;14.47114
+LOCATION:Стадион Синот Тип Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Синот
+  Тип Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Синот 
+ Тип Арена":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Монако
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Alphamega Stadium\nРезультат: 2
+  - 2
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Кайрат
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 3 - 2
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Спортинг Лиссабон VS Клуб Брюгге
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
+ ат: 3 - 0
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ливерпуль VS ПСВ
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5n3jb853xf57iw2n1sw8ioc9g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Anfield\nРезультат: 1 - 4
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Тоттенхэм
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ntaf1zmqcikn6d7tcxfhd7v8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Парк де Пренс\nРезульт
+ ат: 5 - 3
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Бавария Мюнхен
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Emirates Stadium\nРезультат: 3 
+ - 1
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Айнтрахт Франкфурт VS Аталанта
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5mkoywuiapszrete4cw6mtmok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Deutsche Bank Park\nРезультат: 
+ 0 - 3
+GEO:50.068577;8.645448
+LOCATION:Deutsche Bank Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
+ LE-RADIUS=70;X-TITLE="Deutsche Bank Park":geo:50.068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Реал Мадрид
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5nge0lsbrt22h9uycxvj2wiz8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 3 - 4
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Интернационале
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
+ ат: 2 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Олимпиакос Пирей
+DTSTART:20251209T153000Z
+DTEND:20251209T173000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Астана Арена\n
+ Результат: 0 - 1
+GEO:51.108217;71.40256
+LOCATION:Стадион Астана Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Астан
+ а Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Астана Ар
+ ена":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бавария Мюнхен VS Спортинг Лиссабон
+DTSTART:20251209T174500Z
+DTEND:20251209T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Arena\nРезультат: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Юнион Сент-Жиллуаз VS Олимпик Марсел
+ ь
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5r3sfsleiu2c82yuruwzhcv84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Lotto Park\nРезультат: 2 - 3
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПСВ VS Атлетико Мадрид
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5qqu3i9dgj6ummpnfzm05yf4k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Филипс\nРезул
+ ьтат: 2 - 3
+GEO:51.44163;5.467452
+LOCATION:Стадион Филипс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Филип
+ с";X-APPLE-RADIUS=70;X-TITLE="Стадион Филипс":geo:51.44163,5
+ .467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тоттенхэм VS Славия Прага
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5rifo72z7v3jxnx77051fy978@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Tottenham Hotspur Stadium\nРезуль
+ тат: 3 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Челси
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5pn7mzdx02v7lyxj8p1kr2cd0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: New Balance Arena\nРезультат: 2
+  - 1
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Монако VS Галатасарай
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stade Louis-II\nРезультат: 1 - 
+ 0
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интернационале VS Ливерпуль
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5qd2von9gayml36rbaib0bdp0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Giuseppe Meazza\nРезульта
+ т: 0 - 1
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Айнтрахт Франкфурт
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5q05t4o4el0d6rhmncz6pxqms@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Spotify Camp Nou\nРезультат: 2 
+ - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Вильярреал VS Копенгаген
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de la Cerámica\nРезульт
+ ат: 2 - 3
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Аякс
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5rwblgpp1p54pam18ie7bjnro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Республиканский стад
+ ион Тофика Бахрамова\nРезультат: 2 - 4
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК «Ювентус» VS Pafos
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5u1wyaby2c1x5iom7r2070p3o@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Stadium\nРезультат: 2 -
+  0
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS Арсенал
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5tp7r7lkjm2n3sj60puy8f7ys@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
+ 0 - 3
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Боруссия Дортмунд VS Будё / Глимт
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5tcbsszjd0zwish7c0udvnzf8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: SIGNAL IDUNA PARK\nРезультат: 2
+  - 2
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетик VS Paris Saint-Germain
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
+ т: 0 - 0
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Manchester City
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio Bernabéu\nРезультат: 1
+  - 2
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Наполи
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)\nРез
+ ультат: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS Ньюкасл
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: BayArena\nРезультат: 2 - 2
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Кайрат VS Клуб Брюгге
+DTSTART:20260120T153000Z
+DTEND:20260120T173000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Астана Арена\n
+ Результат: 1 - 4
+GEO:51.108217;71.40256
+LOCATION:Стадион Астана Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Астан
+ а Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Астана Ар
+ ена":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS Manchester City
+DTSTART:20260120T174500Z
+DTEND:20260120T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Aspmyra Stadion\nРезультат: 3 -
+  1
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Спортинг Лиссабон VS Paris Saint-Germain
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
+ ат: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Монако
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5xf3kaeavedi0z5fyjm6llwr8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio Bernabéu\nРезультат: 6
+  - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Вильярреал VS Аякс
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5yisbecyd57sdyr6oobdot0yc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de la Cerámica\nРезульт
+ ат: 1 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интернационале VS Арсенал
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5wmfkj6y4bbcpfbso62fcqoes@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Giuseppe Meazza\nРезульта
+ т: 1 - 3
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тоттенхэм VS Боруссия Дортмунд
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5y5k8zvc34l3egxsjfjfy5edw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Tottenham Hotspur Stadium\nРезуль
+ тат: 2 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Наполи
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Байер Леверкузен
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион им. Георгиуса 
+ Караискакиса\nРезультат: 2 - 0
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Галатасарай VS Атлетико Мадрид
+DTSTART:20260121T174500Z
+DTEND:20260121T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Тюрк Телеком 
+ Арена\nРезультат: 1 - 1
+GEO:41.103391;28.991064
+LOCATION:Стадион Тюрк Телеком Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Тюрк 
+ Телеком Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Тю
+ рк Телеком Арена":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Айнтрахт Франкфурт
+DTSTART:20260121T174500Z
+DTEND:20260121T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5z9jt02azordg6y6m97cvmc5w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Республиканский стад
+ ион Тофика Бахрамова\nРезультат: 3 - 2
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бавария Мюнхен VS Юнион Сент-Жиллуаз
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-60cf47tmbsv54dj3ruq6r5dec@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Arena\nРезультат: 2 - 0
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК «Ювентус» VS Бенфика
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Allianz Stadium\nРезультат: 2 -
+  0
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Челси VS Pafos
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5zzgoq20bhr6m700r68oc87x0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stamford Bridge\nРезультат: 1 -
+  0
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпик Марсель VS Ливерпуль
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-61hsz6689o7g9ybeya58oox78@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Оранж Велодром\nРезул
+ ьтат: 0 - 3
+GEO:43.26987;5.395854
+LOCATION:Оранж Велодром
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Оранж Велодро
+ м";X-APPLE-RADIUS=70;X-TITLE="Оранж Велодром":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ньюкасл VS ПСВ
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-612tw4i5lz6slw42ufs22av4k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: St. James' Park\nРезультат: 3 -
+  0
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Славия Прага VS Барселона
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-61upafdbc4mwkdmp1k5ajqu50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Синот Тип Аре
+ на\nРезультат: 2 - 4
+GEO:50.067525;14.47114
+LOCATION:Стадион Синот Тип Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Синот
+  Тип Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Синот 
+ Тип Арена":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Атлетик
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: New Balance Arena\nРезультат: 2
+  - 3
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПСВ VS Бавария Мюнхен
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-67h5xtrudih8xgebmw0ni8178@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Филипс\nРезул
+ ьтат: 1 - 2
+GEO:51.44163;5.467452
+LOCATION:Стадион Филипс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Филип
+ с";X-APPLE-RADIUS=70;X-TITLE="Стадион Филипс":geo:51.44163,5
+ .467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Копенгаген
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Spotify Camp Nou\nРезультат: 4 
+ - 1
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Боруссия Дортмунд VS Интернационале
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-64g5mr0x49o08xbllu18gl3pw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: SIGNAL IDUNA PARK\nРезультат: 0
+  - 2
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Юнион Сент-Жиллуаз VS Аталанта
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-67u5as824q96mp65srnyt7thw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Lotto Park\nРезультат: 1 - 0
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS Вильярреал
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: BayArena\nРезультат: 3 - 0
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ливерпуль VS Карабах
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-65yo7coecrnl1gwgkdatt2xas@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Anfield\nРезультат: 6 - 0
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Челси
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 2 - 3
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Галатасарай
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Etihad Stadium\nРезультат: 2 - 
+ 0
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Айнтрахт Франкфурт VS Тоттенхэм
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-656ifudbe32pxl0k263qrsq38@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Deutsche Bank Park\nРезультат: 
+ 0 - 2
+GEO:50.068577;8.645448
+LOCATION:Deutsche Bank Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
+ LE-RADIUS=70;X-TITLE="Deutsche Bank Park":geo:50.068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS Олимпик Марсель
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-64sx5q7qlo1ahz8cb3ss3lp90@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
+ 3 - 0
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Кайрат
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Emirates Stadium\nРезультат: 3 
+ - 2
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Будё / Глимт
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
+ ат: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Монако VS ФК «Ювентус»
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-62yriqtd43xg8ioh1ejxzw7pw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stade Louis-II\nРезультат: 0 - 
+ 0
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Реал Мадрид
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)\nРез
+ ультат: 4 - 2
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Славия Прага
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-66qr8r2yuseer81y1i1tp5hqs@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Alphamega Stadium\nРезультат: 4
+  - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Ньюкасл
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-674bu4uhq50y41dpeizevncic@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Парк де Пренс\nРезульт
+ ат: 1 - 1
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетик VS Спортинг Лиссабон
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
+ т: 2 - 3
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аякс VS Олимпиакос Пирей
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-629403zrbb8v8cq1g81v2lwk4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Амстердам Аре
+ нА\nРезультат: 1 - 2
+GEO:52.314303;4.941959
+LOCATION:Стадион Амстердам АренА
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Амсте
+ рдам АренА";X-APPLE-RADIUS=70;X-TITLE="Стадион Амсте
+ рдам АренА":geo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Галатасарай VS ФК «Ювентус»
+DTSTART:20260217T174500Z
+DTEND:20260217T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2ivwkprq3bnkkp2bfa2cdintg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Стадион Тюрк Те
+ леком Арена\nРезультат: 5 - 2
+GEO:41.103391;28.991064
+LOCATION:Стадион Тюрк Телеком Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Тюрк 
+ Телеком Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Тю
+ рк Телеком Арена":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Монако VS Paris Saint-Germain
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Stade Louis-II\nРезуль
+ тат: 2 - 3
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Реал Мадрид
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Стадион Эстади
+ о до Спорт Лисбоа э Бенфика (Стадион свет
+ а)\nРезультат: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Боруссия Дортмунд VS Аталанта
+DTSTART:20260217T201500Z
+DTEND:20260217T221500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-oex4se9z2myo4tc7eyhy9no4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: SIGNAL IDUNA PARK\nРезу
+ льтат: 2 - 0
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Карабах VS Ньюкасл
+DTSTART:20260218T174500Z
+DTEND:20260218T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5kfusd0dm3a7nj9phmwand7h0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Республикански
+ й стадион Тофика Бахрамова\nРезультат: 1 -
+  6
+GEO:40.39734;49.8524
+LOCATION:Республиканский стадион Тофика Бах
+ рамова
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Республиканс
+ кий стадион Тофика Бахрамова";X-APPLE-RADIUS=70;X
+ -TITLE="Республиканский стадион Тофика Бах
+ рамова":geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Клуб Брюгге VS Атлетико Мадрид
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Jan Breydelstadion\nРезу
+ льтат: 3 - 3
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Олимпиакос Пирей VS Байер Леверкузен
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Стадион им. Гео
+ ргиуса Караискакиса\nРезультат: 0 - 2
+GEO:37.946431;23.664384
+LOCATION:Стадион им. Георгиуса Караискакиса
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион им. Ге
+ оргиуса Караискакиса";X-APPLE-RADIUS=70;X-TITLE="Ста
+ дион им. Георгиуса Караискакиса":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS Интернационале
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7q33s9t4g6xvu2fzqz8fb9tsk@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Aspmyra Stadion\nРезул
+ ьтат: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Клуб Брюгге
+DTSTART:20260224T174500Z
+DTEND:20260224T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Riyadh Air Metropolitano\nР
+ езультат: 4 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ньюкасл VS Карабах
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ku5l0q1alklhnot6zgxnww7o@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: St. James' Park\nРезул
+ ьтат: 3 - 2
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Интернационале VS Будё / Глимт
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7qfyzlbmm47bxpk9p327ao1zo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Stadio Giuseppe Meazza\nРе
+ зультат: 1 - 2
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS Олимпиакос Пирей
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: BayArena\nРезультат
+ : 0 - 0
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Боруссия Дортмунд
+DTSTART:20260225T174500Z
+DTEND:20260225T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-oskmoxh73kh8jf9z4p8h0jys@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: New Balance Arena\nРезу
+ льтат: 4 - 1
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Бенфика
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Estadio Bernabéu\nРезу
+ льтат: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Монако
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Парк де Пренс\nР
+ езультат: 2 - 2
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК «Ювентус» VS Галатасарай
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2je80aixlyto9e2rtr0c0bpjo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Knockout Round Play-offs\nСтадион: Allianz Stadium\nРезул
+ ьтат: 3 - 2
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Галатасарай VS Ливерпуль
+DTSTART:20260310T174500Z
+DTEND:20260310T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4mgtzo7ycptzkfyv1top89st0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Стадион Тюрк Телеко
+ м Арена\nРезультат: 1 - 0
+GEO:41.103391;28.991064
+LOCATION:Стадион Тюрк Телеком Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Тюрк 
+ Телеком Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион Тю
+ рк Телеком Арена":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ньюкасл VS Барселона
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-cy57racub2br10hm6bcv5y39w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: St. James' Park\nРезультат:
+  1 - 1
+GEO:54.97554;-1.621621
+LOCATION:St. James' Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. James' Park";X-APPLE-
+ RADIUS=70;X-TITLE="St. James' Park":geo:54.97554,-1.621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аталанта VS Бавария Мюнхен
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: New Balance Arena\nРезульта
+ т: 1 - 6
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Тоттенхэм
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-25hk7u04fup5ze2892je0za50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Riyadh Air Metropolitano\nРезул
+ ьтат: 5 - 2
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Байер Леверкузен VS Арсенал
+DTSTART:20260311T174500Z
+DTEND:20260311T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: BayArena\nРезультат: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Будё / Глимт VS Спортинг Лиссабон
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Aspmyra Stadion\nРезультат:
+  3 - 0
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Manchester City
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Estadio Bernabéu\nРезульта
+ т: 3 - 0
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Челси
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2bhi66etavhwksr15mtds3jmc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Парк де Пренс\nРезул
+ ьтат: 5 - 2
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Спортинг Лиссабон VS Будё / Глимт
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Estádio José Alvalade\nРезул
+ ьтат: 5 - 0
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Реал Мадрид
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Etihad Stadium\nРезультат: 
+ 1 - 2
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Байер Леверкузен
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Emirates Stadium\nРезультат
+ : 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Челси VS Paris Saint-Germain
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2nekushi1t6nmi7ecukkoza50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Stamford Bridge\nРезультат:
+  0 - 3
+GEO:51.481712;-0.190975
+LOCATION:Stamford Bridge
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stamford Bridge";X-APPLE-
+ RADIUS=70;X-TITLE="Stamford Bridge":geo:51.481712,-0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Ньюкасл
+DTSTART:20260318T174500Z
+DTEND:20260318T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-d3utvvilysz7lkewu7ylnqntg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Spotify Camp Nou\nРезультат
+ : 7 - 2
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ливерпуль VS Галатасарай
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4p8fjg0wpd5eyaa0t0mv8pzx0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Anfield\nРезультат: 4 - 0
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бавария Мюнхен VS Аталанта
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Allianz Arena\nРезультат: 4
+  - 1
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тоттенхэм VS Атлетико Мадрид
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2a1ktq8ai1l1rh7uycbh0pk44@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/8 финала\nСтадион: Tottenham Hotspur Stadium\nРезу
+ льтат: 3 - 2
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Спортинг Лиссабон VS Арсенал
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Estádio José Alvalade\nРезул
+ ьтат: 0 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Реал Мадрид VS Бавария Мюнхен
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9vufgb7gp2kyxzv8ftvwcesyc@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Estadio Bernabéu\nРезульта
+ т: 1 - 2
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Барселона VS Атлетико Мадрид
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Spotify Camp Nou\nРезультат
+ : 0 - 2
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain VS Ливерпуль
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7om4mss983m7d0dadr87xfuok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Парк де Пренс\nРезул
+ ьтат: 2 - 0
+GEO:48.841433;2.253049
+LOCATION:Парк де Пренс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Парк де Пренс"
+ ;X-APPLE-RADIUS=70;X-TITLE="Парк де Пренс":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ливерпуль VS Paris Saint-Germain
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ek0bykzmr876s0vcbxdqua3h0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Anfield
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Атлетико Мадрид VS Барселона
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Riyadh Air Metropolitano
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бавария Мюнхен VS Реал Мадрид
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-27wrp262d2qdqseiunjrk8dg4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Allianz Arena
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Арсенал VS Спортинг Лиссабон
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/4 финала\nСтадион: Emirates Stadium
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260428T000000Z
+DTEND:20260428T020000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ca2i4o1c3ajp4nhwbvs6tmqs4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/2 финала\nСтадион: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260428T000000Z
+DTEND:20260428T020000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-b5v1bdk3yghbdtgjwyqyjz02c@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/2 финала\nСтадион: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260505T000000Z
+DTEND:20260505T020000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-em2v2c6m9jnpx7kkz1fomfz84@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/2 финала\nСтадион: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260505T000000Z
+DTEND:20260505T020000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-dkvlgk22rlyecfay5qgz48wes@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 1/2 финала\nСтадион: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6sb5ga83yrll15624x1z0gwt0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Финал\nСтадион: Puskás Aréna
+GEO:47.503076;19.098165
+LOCATION:Puskás Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Puskás Aréna";X-APPLE-R
+ ADIUS=70;X-TITLE="Puskás Aréna":geo:47.503076,19.098165
+END:VEVENT
+END:VCALENDAR

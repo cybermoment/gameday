@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - بايرن ميو
+ نيخ //
+X-WR-CALNAME:دوري أبطال أوروبا - بايرن ميونيخ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS تشيلسي
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ul6yr2fksq114k3r287afg9g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS بايرن ميونيخ
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 1 - 5
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS كلوب بروج
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 4 - 0
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS بايرن ميونيخ
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: بارك دي برينس\nا
+ لنتيجة: 1 - 2
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS بايرن ميونيخ
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 3 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS سبورتينغ لشبونة
+DTSTART:20251209T174500Z
+DTEND:20251209T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS أونيون سانت جيلواز
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-60cf47tmbsv54dj3ruq6r5dec@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 2 - 0
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايندهوفن VS بايرن ميونيخ
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-67h5xtrudih8xgebmw0ni8178@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
+ نتيجة: 1 - 2
+GEO:51.44163;5.467452
+LOCATION:استاد فيليبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيليبس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فيليبس":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS بايرن ميونيخ
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد أتليتي أزوري إ
+ يطاليا\nالنتيجة: 1 - 6
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS أتالانتا
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: أليانز أرينا\nالنتيج
+ ة: 4 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS بايرن ميونيخ
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9vufgb7gp2kyxzv8ftvwcesyc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: استاد سانتياغو ب
+ يرنابييو\nالنتيجة: 1 - 2
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS ريال مدريد
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-27wrp262d2qdqseiunjrk8dg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: أليانز أرينا
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+END:VCALENDAR

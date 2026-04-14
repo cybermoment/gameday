@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - بودو جليم
+ ت //
+X-WR-CALNAME:دوري أبطال أوروبا - بودو جليمت
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS شتورم غراتس
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9hb4z2iwh8sazow23a3nnw9g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ أسبميرا\nالنتيجة: 5 - 0
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شتورم غراتس VS بودو جليمت
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-jrqj1tlsc31sq3x10bkqb4lw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ف
+ ورترسي\nالنتيجة: 2 - 1
+GEO:46.609024;14.278193
+LOCATION:ملعب فورترسي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فورترسي";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب فورترسي":geo:46.609024,14.27819
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS بودو جليمت
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4tvunt9ccx4cn40c8x2jlnwno@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 2 - 2
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS توتنهام
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4zlje47s72rm7ucdu1xma8jdg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 2 - 2
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS بودو جليمت
+DTSTART:20251022T164500Z
+DTEND:20251022T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-57vuceh50t8ljktlsz99kwh04@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
+ م\nالنتيجة: 3 - 1
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS موناكو
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 0 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS نادي يوفنتوس
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5j5rc4wpittutm2qulb97arro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 2 - 3
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS بودو جليمت
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5tcbsszjd0zwish7c0udvnzf8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 2 - 2
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS مانشستر سيتي
+DTSTART:20260120T174500Z
+DTEND:20260120T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS بودو جليمت
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS إنتر ميلان
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7q33s9t4g6xvu2fzqz8fb9tsk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد أسبمي
+ را\nالنتيجة: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بودو جليمت
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7qfyzlbmm47bxpk9p327ao1zo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد جوزيب
+ ي مياتزا\nالنتيجة: 1 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS سبورتينغ لشبونة
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد أسبميرا\nالنتي
+ جة: 3 - 0
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS بودو جليمت
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد خوسيه ألفالاد
+ ي\nالنتيجة: 5 - 0
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+END:VCALENDAR

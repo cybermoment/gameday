@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - FC Internazionale Milano //
+X-WR-CALNAME:UEFA Champions League - FC Internazionale Milano
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Ajax VS FC Internazionale Milano
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4u8iqbh8m9es525qyf4tsrifo@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Johan Cruijff ArenA\nRisultato: 0 - 2
+GEO:52.314303;4.941959
+LOCATION:Johan Cruijff ArenA
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Johan Cruijff ArenA";X-AP
+ PLE-RADIUS=70;X-TITLE="Johan Cruijff ArenA":geo:52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Internazionale Milano VS Slavia Praga
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4z8to3catex92f0ng2u3f7310@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Stadio Giuseppe Meazza\nRisultato: 3 - 0
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Saint-Gilloise VS FC Internazionale Milano
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-56sbokbrbftomg93nof38dvro@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Lotto Park\nRisultato: 0 - 4
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Internazionale Milano VS FK Qairat Almaty
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5fofplo2ckg0386q0t12xen84@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Stadio Giuseppe Meazza\nRisultato: 2 - 1
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS FC Internazionale Milano
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Riyadh Air Metropolitano\nRisultato: 2 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Internazionale Milano VS Liverpool
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5qd2von9gayml36rbaib0bdp0@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Stadio Giuseppe Meazza\nRisultato: 0 - 1
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Internazionale Milano VS Arsenal
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5wmfkj6y4bbcpfbso62fcqoes@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: Stadio Giuseppe Meazza\nRisultato: 1 - 3
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Dortmund VS FC Internazionale Milano
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-64g5mr0x49o08xbllu18gl3pw@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
+ adio: SIGNAL IDUNA PARK\nRisultato: 0 - 2
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodø / Glimt VS FC Internazionale Milano
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-7q33s9t4g6xvu2fzqz8fb9tsk@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Knockout Round Play
+ -offs\nStadio: Aspmyra Stadion\nRisultato: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Internazionale Milano VS Bodø / Glimt
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-7qfyzlbmm47bxpk9p327ao1zo@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: Knockout Round Play
+ -offs\nStadio: Stadio Giuseppe Meazza\nRisultato: 1 - 2
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+END:VCALENDAR

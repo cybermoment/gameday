@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - FC Viktoria Pilsen //
+X-WR-CALNAME:UEFA Champions League - FC Viktoria Pilsen
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Viktoria Pilsen VS Servette
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-5e2frjzta6hz8dzngz5upawwk@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Doosan Aréna\nErgebnis: 0 - 1
+GEO:49.750074;13.385446
+LOCATION:Doosan Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Doosan Aréna";X-APPLE-RA
+ DIUS=70;X-TITLE="Doosan Aréna":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Servette VS FC Viktoria Pilsen
+DTSTART:20250730T190000Z
+DTEND:20250730T210000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-5fqhce7srss8hywz4ujj3nx1w@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Stade de Genève\nErgebnis: 1 - 3
+GEO:46.177841;6.127458
+LOCATION:Stade de Genève
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Genève";X-APPLE
+ -RADIUS=70;X-TITLE="Stade de Genève":geo:46.177841,6.127458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glasgow Rangers VS FC Viktoria Pilsen
+DTSTART:20250805T184500Z
+DTEND:20250805T204500Z
+DTSTAMP:20260414T022439Z
+UID:fifa-65e2eplopyl0nal1t4z2dv310@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
+ de\nStadion: Ibrox Stadium\nErgebnis: 3 - 0
+GEO:55.853211;-4.309283
+LOCATION:Ibrox Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ibrox Stadium";X-APPLE-RA
+ DIUS=70;X-TITLE="Ibrox Stadium":geo:55.853211,-4.309283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Viktoria Pilsen VS Glasgow Rangers
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-67ynklkwlxs648jughhfz9lw4@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
+ de\nStadion: Doosan Aréna\nErgebnis: 2 - 1
+GEO:49.750074;13.385446
+LOCATION:Doosan Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Doosan Aréna";X-APPLE-RA
+ DIUS=70;X-TITLE="Doosan Aréna":geo:49.750074,13.385446
+END:VEVENT
+END:VCALENDAR

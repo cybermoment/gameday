@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - مانشستر س
+ يتي //
+X-WR-CALNAME:دوري أبطال أوروبا - مانشستر سيتي
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS نابولي
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS مانشستر سيتي
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 2 - 2
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS مانشستر سيتي
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS نادي بوروسيا دورتمون
+ د
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 4 - 1
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS باير ليفركوزن
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 0 - 2
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS مانشستر سيتي
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 1 - 2
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS مانشستر سيتي
+DTSTART:20260120T174500Z
+DTEND:20260120T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS غلطة سراي
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS مانشستر سيتي
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد سانتياغو بيرن
+ ابييو\nالنتيجة: 3 - 0
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS ريال مدريد
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد الإتحاد\nالنتي
+ جة: 1 - 2
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+END:VCALENDAR

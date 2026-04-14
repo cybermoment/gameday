@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - كوبنهاجن /
+ /
+X-WR-CALNAME:دوري أبطال أوروبا - كوبنهاجن
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS دريتا
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: تيليا با
+ ركن\nالنتيجة: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دريتا VS كوبنهاجن
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب فاض
+ ل فوكري\nالنتيجة: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS كوبنهاجن
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد سو
+ يدبانك\nالنتيجة: 0 - 0
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS مالمو
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: تيليا با
+ ركن\nالنتيجة: 5 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بازل VS كوبنهاجن
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: سانت ج
+ ايكوب بارك\nالنتيجة: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:سانت جايكوب بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سانت جايكوب ب
+ ارك";X-APPLE-RADIUS=70;X-TITLE="سانت جايكوب بارك":geo:47.
+ 541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS بازل
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: تيليا 
+ باركن\nالنتيجة: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS باير ليفركوزن
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS كوبنهاجن
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توفيق بهرا
+ موف\nالنتيجة: 2 - 0
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS نادي بوروسيا دورتموند
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 2 - 4
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS كوبنهاجن
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
+ تسبير\nالنتيجة: 4 - 0
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS قايرات ألماته
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 3 - 2
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS كوبنهاجن
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 3
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS نابولي
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS كوبنهاجن
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: كامب نو\nالنتيجة
+ : 4 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+END:VCALENDAR

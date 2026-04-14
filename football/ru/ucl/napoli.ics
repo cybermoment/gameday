@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Наполи /
+ /
+X-WR-CALNAME:Лига чемпионов УЕФА - Наполи
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Наполи
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Etihad Stadium\nРезультат: 2 - 
+ 0
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Спортинг Лиссабон
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПСВ VS Наполи
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-56flul4umnrjdekx5ny22y7tg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Филипс\nРезул
+ ьтат: 6 - 2
+GEO:51.44163;5.467452
+LOCATION:Стадион Филипс
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Филип
+ с";X-APPLE-RADIUS=70;X-TITLE="Стадион Филипс":geo:51.44163,5
+ .467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Айнтрахт Франкфурт
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 0 - 0
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Карабах
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 2 - 0
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Наполи
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)\nРез
+ ультат: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Наполи
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Стадион Паркен\nРезул
+ ьтат: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Наполи VS Челси
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
+ льтат: 2 - 3
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Bayer Leverkusen //
+X-WR-CALNAME:UEFA Champions League - Bayer Leverkusen
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Bayer Leverkusen
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Parken\nResultado: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS PSV Eindhoven
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: BayArena\nResultado: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Paris Saint-Germain
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: BayArena\nResultado: 2 - 7
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL Benfica VS Bayer Leverkusen
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Estádio do Sport Lisboa e Benfica (da Luz)\nResultado: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:Estádio do Sport Lisboa e Benfica (da Luz)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Sport Lisboa 
+ e Benfica (da Luz)";X-APPLE-RADIUS=70;X-TITLE="Estádio do Sport Lisboa e 
+ Benfica (da Luz)":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Bayer Leverkusen
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Etihad Stadium\nResultado: 0 - 2
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Newcastle United
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: BayArena\nResultado: 2 - 2
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiakos de El Pireo VS Bayer Leverkusen
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Stadio Georgios Karaiskáki\nResultado: 2 - 0
+GEO:37.946431;23.664384
+LOCATION:Stadio Georgios Karaiskáki
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Georgios Karaiská
+ ki";X-APPLE-RADIUS=70;X-TITLE="Stadio Georgios Karaiskáki":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Villarreal
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: BayArena\nResultado: 3 - 0
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiakos de El Pireo VS Bayer Leverkusen
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
+ liminatorios\nEstadio: Stadio Georgios Karaiskáki\nResultado: 0 - 2
+GEO:37.946431;23.664384
+LOCATION:Stadio Georgios Karaiskáki
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Georgios Karaiská
+ ki";X-APPLE-RADIUS=70;X-TITLE="Stadio Georgios Karaiskáki":geo:37.946431,
+ 23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Olympiakos de El Pireo
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
+ liminatorios\nEstadio: BayArena\nResultado: 0 - 0
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Arsenal
+DTSTART:20260311T174500Z
+DTEND:20260311T194500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
+ stadio: BayArena\nResultado: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Bayer Leverkusen
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
+ stadio: Emirates Stadium\nResultado: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+END:VCALENDAR

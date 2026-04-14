@@ -1,0 +1,4141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا //
+X-WR-CALNAME:دوري أبطال أوروبا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS ميلسامي
+DTSTART:20250708T150000Z
+DTEND:20250708T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: سافون سان
+ ومات أرينا\nالنتيجة: 1 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايبيريا 1999 VS مالمو
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد ميخ
+ ائيل ميسخي\nالنتيجة: 1 - 3
+GEO:41.709809;44.746183
+LOCATION:استاد ميخائيل ميسخي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ميخائيل
+  ميسخي";X-APPLE-RADIUS=70;X-TITLE="استاد ميخائيل ميسخ
+ ي":geo:41.709809,44.746183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نوح VS بودوتشنوست
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Kotaik Stadium\nا
+ لنتيجة: 1 - 0
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفاديا تالين VS داوغافا ريغا
+DTSTART:20250708T163000Z
+DTEND:20250708T183000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: أ. لي كوك أ
+ رينا\nالنتيجة: 0 - 1
+GEO:59.421303;24.732022
+LOCATION:أ. لي كوك أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أ. لي كوك أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="أ. لي كوك أرينا":geo:59.421303,2
+ 4.732022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبيا ليوبليانا VS قايرات ألماته
+DTSTART:20250708T170000Z
+DTEND:20250708T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-a9aiop7i6u9lkj6zor7b0kf84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد ستو
+ تسيس\nالنتيجة: 1 - 1
+GEO:46.080472;14.524183
+LOCATION:استاد ستوتسيس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ستوتسيس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد ستوتسيس":geo:46.080472,14.5
+ 24183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دريتا VS ديفيردانج
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-17lgmf0v333oyc7ocwdkushlg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: ملعب فاضل 
+ فوكري\nالنتيجة: 1 - 0
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيو سانتس VS سكنديا
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بار
+ ك هول\nالنتيجة: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:استاد بارك هول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بارك هو
+ ل";X-APPLE-RADIUS=70;X-TITLE="استاد بارك هول":geo:52.875884,-
+ 3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكينغور غوتو VS لينكون ريد أمبس
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2axwif0kr7ld8vc988ji73q50@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: فيث دجوبو
+ ميرار\nالنتيجة: 2 - 3
+GEO:62.224654;-6.580154
+LOCATION:فيث دجوبوميرار
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="فيث دجوبوميرا
+ ر";X-APPLE-RADIUS=70;X-TITLE="فيث دجوبوميرار":geo:62.224654,
+ -6.580154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روغورجينة VS بريدابليك
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Arena Egnatia\nا
+ لنتيجة: 1 - 0
+GEO:41.07666;19.661713
+LOCATION:Arena Egnatia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Egnatia";X-APPLE-RA
+ DIUS=70;X-TITLE="Arena Egnatia":geo:41.07666,19.661713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرتوس أكوافيفا VS زرينيسكي موستا
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-8tul8117rp7ojznms19n6da1g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد أول
+ مبيكو دي سيرافالي\nالنتيجة: 0 - 2
+GEO:43.971245;12.476971
+LOCATION:استاد أولمبيكو دي سيرافالي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و دي سيرافالي";X-APPLE-RADIUS=70;X-TITLE="استاد أولمب
+ يكو دي سيرافالي":geo:43.971245,12.476971
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زالغيريس فيلنيوس VS حمرون سبارتانس
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: ملعب فيلن
+ يوس لاتحاد كرة القدم في ليتوانيا\nالنتيج
+ ة: 2 - 0
+GEO:54.668542;25.294725
+LOCATION:ملعب فيلنيوس لاتحاد كرة القدم في لي
+ توانيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فيلنيوس 
+ لاتحاد كرة القدم في ليتوانيا";X-APPLE-RADIUS=70;X-
+ TITLE="ملعب فيلنيوس لاتحاد كرة القدم في ليت
+ وانيا":geo:54.668542,25.294725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS دينامو مينسك
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-byxwrb3zraa87jwdky8998x04@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد لود
+ وجوريتس أرينا\nالنتيجة: 1 - 0
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ستياوا بوخارست VS إنتر إسكالديس
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-63wi7u2dyddcx22dn3xlcxno4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Stadionul Steaua\n
+ النتيجة: 3 - 1
+GEO:44.412846;26.040468
+LOCATION:Stadionul Steaua
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Steaua";X-APPLE
+ -RADIUS=70;X-TITLE="Stadionul Steaua":geo:44.412846,26.040468
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شيلبورن VS لينفيلد
+DTSTART:20250709T184500Z
+DTEND:20250709T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4y2t7dyvstks4qz55i5wvjm6s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Tolka Park\nالن
+ تيجة: 1 - 0
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS أولمبيا ليوبليانا
+DTSTART:20250715T150000Z
+DTEND:20250715T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-abgirlxxnvpt0vh19dzb25nv8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد أور
+ تاليك\nالنتيجة: 2 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لينكون ريد أمبس VS فيكينغور غوتو
+DTSTART:20250715T153000Z
+DTEND:20250715T173000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2feve63v1vjilkwh0lazcrztg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Europa Point Stadi
+ um\nالنتيجة: 1 - 0
+GEO:36.110714;-5.347034
+LOCATION:Europa Point Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Europa Point Stadium";X-A
+ PPLE-RADIUS=70;X-TITLE="Europa Point Stadium":geo:36.110714,-5.347034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:داوغافا ريغا VS ليفاديا تالين
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: LNK Sporta Parks (
+ dabīgais)\nالنتيجة: 1 - 0
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ميلسامي VS كوبيون بالوسورا
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: مجمع سبور
+ تيف رايونال\nالنتيجة: 0 - 0
+GEO:47.374451;28.819242
+LOCATION:مجمع سبورتيف رايونال
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مجمع سبورتيف 
+ رايونال";X-APPLE-RADIUS=70;X-TITLE="مجمع سبورتيف راي
+ ونال":geo:47.374451,28.819242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS ايبيريا 1999
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد سوي
+ دبانك\nالنتيجة: 3 - 1
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:حمرون سبارتانس VS زالغيريس فيلنيوس
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد تكا
+ لي القومي\nالنتيجة: 2 - 0
+GEO:35.894817;14.415141
+LOCATION:استاد تكالي القومي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد تكالي ا
+ لقومي";X-APPLE-RADIUS=70;X-TITLE="استاد تكالي القومي"
+ :geo:35.894817,14.415141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديفيردانج VS دريتا
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-19oizyt50o94u436hep5n8hlg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بار
+ ك دي سبورت\nالنتيجة: 2 - 3
+GEO:49.513897;5.889788
+LOCATION:استاد بارك دي سبورت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بارك دي 
+ سبورت";X-APPLE-RADIUS=70;X-TITLE="استاد بارك دي سبورت
+ ":geo:49.513897,5.889788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سكنديا VS نيو سانتس
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: توشي بروس
+ كي أرينا\nالنتيجة: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:توشي بروسكي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="توشي بروسكي أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="توشي بروسكي أرينا":geo
+ :42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر إسكالديس VS ستياوا بوخارست
+DTSTART:20250715T183000Z
+DTEND:20250715T203000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-680o3jgip3hhagbzecne30ob8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Estadi de la FAF d
+ 'Encamp\nالنتيجة: 2 - 1
+GEO:42.533481;1.575929
+LOCATION:Estadi de la FAF d'Encamp
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi de la FAF d'Encamp
+ ";X-APPLE-RADIUS=70;X-TITLE="Estadi de la FAF d'Encamp":geo:42.533481,1.57
+ 5929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودوتشنوست VS نوح
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بود 
+ جوريكوم\nالنتيجة: 2 - 2
+GEO:42.444817;19.264269
+LOCATION:استاد بود جوريكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بود جور
+ يكوم";X-APPLE-RADIUS=70;X-TITLE="استاد بود جوريكوم":geo
+ :42.444817,19.264269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بريدابليك VS روغورجينة
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: ملعب KFP مي
+ نسك\nالنتيجة: 5 - 0
+GEO:64.104104;-21.896889
+LOCATION:ملعب KFP مينسك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب KFP مينسك";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب KFP مينسك":geo:64.104104,-21.8968
+ 89
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS فيرتوس أكوافيفا
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-8w7j987hlwpkdty1yzefylafo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بيل
+ ي برييج\nالنتيجة: 2 - 1
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دينامو مينسك VS لودوجوريتس رازجراد
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-c1usp3qcw3ovrey4e9ls3n0no@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Városi Stadion\n
+ النتيجة: 2 - 2
+GEO:47.80213;20.567334
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.80213,20.567334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لينفيلد VS شيلبورن
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-53najx34i2qn6vo61ibbqqyac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: وندسور با
+ رك\nالنتيجة: 1 - 1
+GEO:54.582625;-5.955188
+LOCATION:وندسور بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="وندسور بارك";X-
+ APPLE-RADIUS=70;X-TITLE="وندسور بارك":geo:54.582625,-5.955188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS قايرات ألماته
+DTSTART:20250722T150000Z
+DTEND:20250722T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: سافون سا
+ نومات أرينا\nالنتيجة: 2 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لينكون ريد أمبس VS سرفينا زفيزدا
+DTSTART:20250722T160000Z
+DTEND:20250722T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-46xbmy1svtjsenauhcjtorz10@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Europa Point Sta
+ dium\nالنتيجة: 0 - 1
+GEO:36.110714;-5.347034
+LOCATION:Europa Point Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Europa Point Stadium";X-A
+ PPLE-RADIUS=70;X-TITLE="Europa Point Stadium":geo:36.110714,-5.347034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نوح VS فيرينكفاروس
+DTSTART:20250722T160000Z
+DTEND:20250722T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Kotaik Stadium\n
+ النتيجة: 1 - 2
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:حمرون سبارتانس VS دينامو كييف
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد أم 
+ إف إيه المركزي\nالنتيجة: 0 - 3
+GEO:35.896638;14.415425
+LOCATION:استاد أم إف إيه المركزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أم إف إي
+ ه المركزي";X-APPLE-RADIUS=70;X-TITLE="استاد أم إف إيه 
+ المركزي":geo:35.896638,14.415425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS سيرفيت جنيف
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5e2frjzta6hz8dzngz5upawwk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: دوسان أر
+ ينا\nالنتيجة: 0 - 1
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:داوغافا ريغا VS مالمو
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: LNK Sporta Parks
+  (dabīgais)\nالنتيجة: 1 - 4
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS دريتا
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: تيليا با
+ ركن\nالنتيجة: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS مكابي تل أبيب
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2llj9g9hkmh7pc5rq1wmhjaqc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Alphamega Stadiu
+ m\nالنتيجة: 1 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سكنديا VS ستياوا بوخارست
+DTSTART:20250722T180000Z
+DTEND:20250722T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: توشي برو
+ سكي أرينا\nالنتيجة: 1 - 0
+GEO:42.005743;21.425598
+LOCATION:توشي بروسكي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="توشي بروسكي أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="توشي بروسكي أرينا":geo
+ :42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS زرينيسكي موستا
+DTSTART:20250722T181500Z
+DTEND:20250722T201500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب تيه
+ يلني بول\nالنتيجة: 4 - 0
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليخ بوزنان VS بريدابليك
+DTSTART:20250722T183000Z
+DTEND:20250722T203000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد مي
+ جسكي\nالنتيجة: 7 - 1
+GEO:52.397679;16.858161
+LOCATION:استاد ميجسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ميجسكي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد ميجسكي":geo:52.397679,16.85816
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رينجرز VS باناثينيكوس
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد إي
+ بروكس\nالنتيجة: 2 - 0
+GEO:55.853211;-4.309283
+LOCATION:استاد إيبروكس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبروكس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد إيبروكس":geo:55.853211,-4.3
+ 09283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رييكا VS لودوجوريتس رازجراد
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد رو
+ جيفيكا\nالنتيجة: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:استاد روجيفيكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد روجيفيك
+ ا";X-APPLE-RADIUS=70;X-TITLE="استاد روجيفيكا":geo:45.347873,
+ 14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بران VS ريد بول سالزبورغ
+DTSTART:20250723T170000Z
+DTEND:20250723T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Brann Stadion\n
+ النتيجة: 1 - 4
+GEO:60.366933;5.357417
+LOCATION:Brann Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شيلبورن VS كارباغ أغدام
+DTSTART:20250723T184500Z
+DTEND:20250723T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-15au93rf3haritiab0g6dnj84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Tolka Park\nال
+ نتيجة: 0 - 3
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS كوبيون بالوسورا
+DTSTART:20250729T150000Z
+DTEND:20250729T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد أو
+ رتاليك\nالنتيجة: 3 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دريتا VS كوبنهاجن
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب فاض
+ ل فوكري\nالنتيجة: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دينامو كييف VS حمرون سبارتانس
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Motor Lublin Are
+ na\nالنتيجة: 3 - 0
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS سلوفان براتيسلافا
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد بي
+ لي برييج\nالنتيجة: 2 - 2
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سرفينا زفيزدا VS لينكون ريد أمبس
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-48t6pnn4up7tu28f6swem8duc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد را
+ يكو ميتيش\nالنتيجة: 5 - 1
+GEO:44.783191;20.464901
+LOCATION:استاد رايكو ميتيش
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رايكو م
+ يتيش";X-APPLE-RADIUS=70;X-TITLE="استاد رايكو ميتيش":geo
+ :44.783191,20.464901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS شيلبورن
+DTSTART:20250730T160000Z
+DTEND:20250730T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1855o8trnuavzs9zq1ubf5us4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب توف
+ يق بهراموف\nالنتيجة: 1 - 0
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS داوغافا ريغا
+DTSTART:20250730T170000Z
+DTEND:20250730T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد سو
+ يدبانك\nالنتيجة: 1 - 0
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS رييكا
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد لو
+ دوجوريتس أرينا\nالنتيجة: 3 - 1
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ستياوا بوخارست VS سكنديا
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: الملعب ا
+ لوطني\nالنتيجة: 1 - 2
+GEO:44.437208;26.152498
+LOCATION:الملعب الوطني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب الوطني
+ ";X-APPLE-RADIUS=70;X-TITLE="الملعب الوطني":geo:44.437208,26.1
+ 52498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مكابي تل أبيب VS نادي بافوس
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2p8utvgjvhobdvwdphdw7w1ec@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد جر
+ ادسكي\nالنتيجة: 0 - 1
+GEO:45.815599;19.627252
+LOCATION:استاد جرادسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جرادسكي
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد جرادسكي":geo:45.815599,19.6
+ 27252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS رينجرز
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب سبي
+ روس الأولمبي\nالنتيجة: 1 - 1
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS نوح
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-701azda2tmhto993kf731cowk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: غروباما 
+ أرينا\nالنتيجة: 4 - 3
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بريدابليك VS ليخ بوزنان
+DTSTART:20250730T183000Z
+DTEND:20250730T203000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب KFP م
+ ينسك\nالنتيجة: 0 - 1
+GEO:64.104104;-21.896889
+LOCATION:ملعب KFP مينسك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب KFP مينسك";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب KFP مينسك":geo:64.104104,-21.8968
+ 89
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريد بول سالزبورغ VS بران
+DTSTART:20250730T184500Z
+DTEND:20250730T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: رد بول أر
+ ينا\nالنتيجة: 1 - 1
+GEO:47.816294;12.998183
+LOCATION:رد بول أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="رد بول أرينا";X
+ -APPLE-RADIUS=70;X-TITLE="رد بول أرينا":geo:47.816294,12.998183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيرفيت جنيف VS فيكتوريا بلزين
+DTSTART:20250730T190000Z
+DTEND:20250730T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5fqhce7srss8hywz4ujj3nx1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد جن
+ يف\nالنتيجة: 1 - 3
+GEO:46.177841;6.127458
+LOCATION:استاد جنيف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جنيف";X-AP
+ PLE-RADIUS=70;X-TITLE="استاد جنيف":geo:46.177841,6.127458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS كوبنهاجن
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد سو
+ يدبانك\nالنتيجة: 0 - 0
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دينامو كييف VS نادي بافوس
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: Motor Lublin Are
+ na\nالنتيجة: 0 - 1
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سكنديا VS كارباغ أغدام
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: توشي برو
+ سكي أرينا\nالنتيجة: 0 - 1
+GEO:42.005743;21.425598
+LOCATION:توشي بروسكي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="توشي بروسكي أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="توشي بروسكي أرينا":geo
+ :42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رينجرز VS فيكتوريا بلزين
+DTSTART:20250805T184500Z
+DTEND:20250805T204500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-65e2eplopyl0nal1t4z2dv310@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد إي
+ بروكس\nالنتيجة: 3 - 0
+GEO:55.853211;-4.309283
+LOCATION:استاد إيبروكس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبروكس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد إيبروكس":geo:55.853211,-4.3
+ 09283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS سلوفان براتيسلافا
+DTSTART:20250806T150000Z
+DTEND:20250806T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد أو
+ رتاليك\nالنتيجة: 1 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريد بول سالزبورغ VS كلوب بروج
+DTSTART:20250806T170000Z
+DTEND:20250806T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: رد بول أر
+ ينا\nالنتيجة: 0 - 1
+GEO:47.816294;12.998183
+LOCATION:رد بول أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="رد بول أرينا";X
+ -APPLE-RADIUS=70;X-TITLE="رد بول أرينا":geo:47.816294,12.998183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS فيرينكفاروس
+DTSTART:20250806T173000Z
+DTEND:20250806T193000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد لو
+ دوجوريتس أرينا\nالنتيجة: 0 - 0
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليخ بوزنان VS سرفينا زفيزدا
+DTSTART:20250806T183000Z
+DTEND:20250806T203000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-c3x6lvs9dk8pyp5fj76w195p0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد مي
+ جسكي\nالنتيجة: 1 - 3
+GEO:52.397679;16.858161
+LOCATION:استاد ميجسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ميجسكي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد ميجسكي":geo:52.397679,16.85816
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فاينورد روتردام VS فناربخشة
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد في
+ ينورد\nالنتيجة: 2 - 1
+GEO:51.893855;4.523191
+LOCATION:استاد فيينورد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيينورد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد فيينورد":geo:51.893855,4.52
+ 3191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيس VS بنفيكا
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: أليانز ر
+ يفييرا\nالنتيجة: 0 - 2
+GEO:43.705119;7.192622
+LOCATION:أليانز ريفييرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز ريفيير
+ ا";X-APPLE-RADIUS=70;X-TITLE="أليانز ريفييرا":geo:43.705119,
+ 7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS سكنديا
+DTSTART:20250812T160000Z
+DTEND:20250812T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب توف
+ يق بهراموف\nالنتيجة: 5 - 1
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS مالمو
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: تيليا با
+ ركن\nالنتيجة: 5 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS رينجرز
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-67ynklkwlxs648jughhfz9lw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: دوسان أر
+ ينا\nالنتيجة: 2 - 1
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS دينامو كييف
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: Alphamega Stadiu
+ m\nالنتيجة: 2 - 0
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فناربخشة VS فاينورد روتردام
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب شكر
+ ي سراج أوغلو\nالنتيجة: 5 - 2
+GEO:40.987799;29.03686
+LOCATION:ملعب شكري سراج أوغلو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب شكري سرا
+ ج أوغلو";X-APPLE-RADIUS=70;X-TITLE="ملعب شكري سراج أو
+ غلو":geo:40.987799,29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS ريد بول سالزبورغ
+DTSTART:20250812T173000Z
+DTEND:20250812T193000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب جان 
+ بريدل\nالنتيجة: 3 - 2
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS لودوجوريتس رازجراد
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: غروباما 
+ أرينا\nالنتيجة: 3 - 0
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS قايرات ألماته
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب تيه
+ يلني بول\nالنتيجة: 1 - 0
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS نيس
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب الن
+ ور\nالنتيجة: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سرفينا زفيزدا VS ليخ بوزنان
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-c4xoo7g1uefu6hj1vgsn3r95g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد را
+ يكو ميتيش\nالنتيجة: 1 - 1
+GEO:44.783191;20.464901
+LOCATION:استاد رايكو ميتيش
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رايكو م
+ يتيش";X-APPLE-RADIUS=70;X-TITLE="استاد رايكو ميتيش":geo
+ :44.783191,20.464901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سرفينا زفيزدا VS نادي بافوس
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-eklbtanrg41db9bg2oj7fnevo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ رايكو ميتيش\nالنتيجة: 1 - 2
+GEO:44.783191;20.464901
+LOCATION:استاد رايكو ميتيش
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد رايكو م
+ يتيش";X-APPLE-RADIUS=70;X-TITLE="استاد رايكو ميتيش":geo
+ :44.783191,20.464901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رينجرز VS كلوب بروج
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-83509np6cybipasjyz6nbxpg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ إيبروكس\nالنتيجة: 1 - 3
+GEO:55.853211;-4.309283
+LOCATION:استاد إيبروكس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إيبروكس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد إيبروكس":geo:55.853211,-4.3
+ 09283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS كارباغ أغدام
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: غروبا
+ ما أرينا\nالنتيجة: 1 - 3
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بازل VS كوبنهاجن
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: سانت ج
+ ايكوب بارك\nالنتيجة: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:سانت جايكوب بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سانت جايكوب ب
+ ارك";X-APPLE-RADIUS=70;X-TITLE="سانت جايكوب بارك":geo:47.
+ 541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS شتورم غراتس
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9hb4z2iwh8sazow23a3nnw9g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ أسبميرا\nالنتيجة: 5 - 0
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي سلتيك VS قايرات ألماته
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: سلتيك 
+ بارك\nالنتيجة: 0 - 0
+GEO:55.849719;-4.20558
+LOCATION:سلتيك بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سلتيك بارك";X-AP
+ PLE-RADIUS=70;X-TITLE="سلتيك بارك":geo:55.849719,-4.20558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فناربخشة VS بنفيكا
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ش
+ كري سراج أوغلو\nالنتيجة: 0 - 0
+GEO:40.987799;29.03686
+LOCATION:ملعب شكري سراج أوغلو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب شكري سرا
+ ج أوغلو";X-APPLE-RADIUS=70;X-TITLE="ملعب شكري سراج أو
+ غلو":geo:40.987799,29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS نادي سلتيك
+DTSTART:20250826T164500Z
+DTEND:20250826T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ أورتاليك\nالنتيجة: 0 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS سرفينا زفيزدا
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-emypvbslto43ter68roe6cc2c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: Alphamega S
+ tadium\nالنتيجة: 1 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شتورم غراتس VS بودو جليمت
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-jrqj1tlsc31sq3x10bkqb4lw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ف
+ ورترسي\nالنتيجة: 2 - 1
+GEO:46.609024;14.278193
+LOCATION:ملعب فورترسي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فورترسي";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب فورترسي":geo:46.609024,14.27819
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS فيرينكفاروس
+DTSTART:20250827T164500Z
+DTEND:20250827T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ت
+ وفيق بهراموف\nالنتيجة: 2 - 3
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS فناربخشة
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ا
+ لنور\nالنتيجة: 1 - 0
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS رينجرز
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-847pdw2q6zi71o572y4xmmjh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ج
+ ان بريدل\nالنتيجة: 6 - 0
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS بازل
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: تيليا 
+ باركن\nالنتيجة: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايندهوفن VS أونيون سانت جيلواز
+DTSTART:20250916T164500Z
+DTEND:20250916T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4rq18t2s467wo5dbh8iwip1jo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
+ نتيجة: 1 - 3
+GEO:51.44163;5.467452
+LOCATION:استاد فيليبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيليبس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فيليبس":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS أرسنال
+DTSTART:20250916T164500Z
+DTEND:20250916T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 0 - 2
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS فياريال
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4t4v7a4pnyn93vudidzzjb6s4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
+ تسبير\nالنتيجة: 1 - 0
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS نادي بوروسيا دورتمون
+ د
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4s2m5vmbv79astpbzzz1bh8us@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 4 - 4
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS مارسيليا
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4sffoari6ugnp3roi1m3k7xn8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS كارباغ أغدام
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
+ يجة: 2 - 3
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS نادي بافوس
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4thsy1pya5y11wggav6gql4wk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 0 - 0
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS بودو جليمت
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4tvunt9ccx4cn40c8x2jlnwno@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 2 - 2
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS أتلتيكو مدريد
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
+  3 - 2
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS تشيلسي
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4ul6yr2fksq114k3r287afg9g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أياكس VS إنتر ميلان
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4u8iqbh8m9es525qyf4tsrifo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
+ نا\nالنتيجة: 0 - 2
+GEO:52.314303;4.941959
+LOCATION:يوهان كرويف أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوهان كرويف أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="يوهان كرويف أرينا":geo
+ :52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS أتالانتا
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4vah0y57kbchzjav53h65uv4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: بارك دي برينس\nا
+ لنتيجة: 4 - 0
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS موناكو
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
+ النتيجة: 4 - 1
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS باير ليفركوزن
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS برشلونة
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4x2w9j51dk7kc90orh6vkm2hg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
+ النتيجة: 1 - 2
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS نابولي
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آينرتخت فرانكفورت VS غلطة سراي
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4wcjch9j9nzd1cfu19oioy9sk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
+ ك\nالنتيجة: 5 - 1
+GEO:50.068577;8.645448
+LOCATION:استاد كوميرزبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميرزب
+ انك";X-APPLE-RADIUS=70;X-TITLE="استاد كوميرزبانك":geo:50
+ .068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS قايرات ألماته
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 4 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS ريال مدريد
+DTSTART:20250930T164500Z
+DTEND:20250930T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4y59n6hs1chc516v7tjoivswk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
+ النتيجة: 0 - 5
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS كلوب بروج
+DTSTART:20250930T164500Z
+DTEND:20250930T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4xs86vowvf2xcks0ln8eu9e6s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 2 - 1
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS بنفيكا
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
+ النتيجة: 1 - 0
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS بايرن ميونيخ
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 1 - 5
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS توتنهام
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4zlje47s72rm7ucdu1xma8jdg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 2 - 2
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS سلافيا براغ
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4z8to3catex92f0ng2u3f7310@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS آينرتخت فرانكفورت
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 5 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مارسيليا VS أياكس
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-50aybm4aduzr2y0na0l1tj2tw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيلودروم\n
+ النتيجة: 4 - 0
+GEO:43.26987;5.395854
+LOCATION:استاد فيلودروم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيلودرو
+ م";X-APPLE-RADIUS=70;X-TITLE="استاد فيلودروم":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS ليفربول
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4zy839pwz57fo6s7vmh7ntv6c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
+ م\nالنتيجة: 1 - 0
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أونيون سانت جيلواز VS نيوكاسل
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-51cxywc10d5578261crewjnkk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كونستانت 
+ فاندن ستوك\nالنتيجة: 0 - 4
+GEO:50.834182;4.298353
+LOCATION:استاد كونستانت فاندن ستوك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كونستان
+ ت فاندن ستوك";X-APPLE-RADIUS=70;X-TITLE="استاد كونستا
+ نت فاندن ستوك":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS كوبنهاجن
+DTSTART:20251001T164500Z
+DTEND:20251001T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توفيق بهرا
+ موف\nالنتيجة: 2 - 0
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS مانشستر سيتي
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 2 - 2
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS ايندهوفن
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS نادي يوفنتوس
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-53uv9nt6mmwd2snmpdhdrzbx0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 2
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS أولمبياكوس بيرايوس
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-51pmokefm21mo1i26kyokvvo4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS أتليتيكو بل
+ باو
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 4 - 1
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS سبورتينغ لشبونة
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS باريس سان جيرمان
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-535v16ejka2ckhekin6euxg5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 1 - 2
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS نادي بافوس
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
+ النتيجة: 0 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أولمبياكوس بيرايوس
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-547fv6pkd98zbsl3ha92ih0d0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 6 - 1
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS مانشستر سيتي
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أونيون سانت جيلواز VS إنتر ميلان
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-56sbokbrbftomg93nof38dvro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كونستانت 
+ فاندن ستوك\nالنتيجة: 0 - 4
+GEO:50.834182;4.298353
+LOCATION:استاد كونستانت فاندن ستوك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كونستان
+ ت فاندن ستوك";X-APPLE-RADIUS=70;X-TITLE="استاد كونستا
+ نت فاندن ستوك":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS نادي بوروسيا دورتموند
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 2 - 4
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايندهوفن VS نابولي
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-56flul4umnrjdekx5ny22y7tg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
+ نتيجة: 6 - 2
+GEO:51.44163;5.467452
+LOCATION:استاد فيليبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيليبس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فيليبس":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS أتلتيكو مدريد
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 4 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS باريس سان جيرمان
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 2 - 7
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS بنفيكا
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-562r0ddozxsa83y9l1wfm74t0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
+ النتيجة: 3 - 0
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS كارباغ أغدام
+DTSTART:20251022T164500Z
+DTEND:20251022T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 3 - 1
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS بودو جليمت
+DTSTART:20251022T164500Z
+DTEND:20251022T184500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-57vuceh50t8ljktlsz99kwh04@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
+ م\nالنتيجة: 3 - 1
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS نادي يوفنتوس
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5a1g6r8o0nw2fuy68ka0ls0es@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 1 - 0
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS مارسيليا
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS سلافيا براغ
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-58ls4qn0s2o0x3uzwo5lzs36c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 0 - 0
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آينرتخت فرانكفورت VS ليفربول
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-59bpikh36bw9pwdd7xuyp30gk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
+ ك\nالنتيجة: 1 - 5
+GEO:50.068577;8.645448
+LOCATION:استاد كوميرزبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميرزب
+ انك";X-APPLE-RADIUS=70;X-TITLE="استاد كوميرزبانك":geo:50
+ .068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS أياكس
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-58ypxe2wvxq7e89u8q0k0ep04@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
+ النتيجة: 5 - 1
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS توتنهام
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-588thaqsgswjlauvj2gp1orh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 0 - 0
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS كلوب بروج
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 4 - 0
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS آينرتخت فرانكفورت
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 0 - 0
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS أرسنال
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5ar7r75v5tj8t5k5c0lafex3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 0 - 3
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS موناكو
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 0 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS أونيون سانت جيلواز
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 3 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS سبورتينغ لشبونة
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5c6o9gkconkcdrpnsx0b5k4r8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 1 - 1
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS كوبنهاجن
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
+ تسبير\nالنتيجة: 4 - 0
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS بايرن ميونيخ
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: بارك دي برينس\nا
+ لنتيجة: 1 - 2
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS ريال مدريد
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5cldkwitxdgvsmr4erkx8zyms@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
+  1 - 0
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS ايندهوفن
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5cybtcdp5uzclqdyjmojazk0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 1 - 1
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS تشيلسي
+DTSTART:20251105T174500Z
+DTEND:20251105T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5eldqjhp1rtk3xd9olxavsvmc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توفيق بهرا
+ موف\nالنتيجة: 2 - 2
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS فياريال
+DTSTART:20251105T174500Z
+DTEND:20251105T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5e8c81yfj5wleflr99m651mok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 1 - 0
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS أتليتيكو بلباو
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5gj09fi5vmedayoh6kb4q08pg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
+ النتيجة: 2 - 0
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS نادي بوروسيا دورتمون
+ د
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 4 - 1
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS باير ليفركوزن
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
+ يجة: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مارسيليا VS أتالانتا
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5gvvzdmzgkymkhsskiiyiwdg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيلودروم\n
+ النتيجة: 0 - 1
+GEO:43.26987;5.395854
+LOCATION:استاد فيلودروم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيلودرو
+ م";X-APPLE-RADIUS=70;X-TITLE="استاد فيلودروم":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS برشلونة
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5fbfmxmdror7xvtcq3a41pkpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
+ النتيجة: 3 - 3
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS قايرات ألماته
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5fofplo2ckg0386q0t12xen84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 2 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أياكس VS غلطة سراي
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5eyjs5dmee4khfup2nzycajo4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
+ نا\nالنتيجة: 0 - 3
+GEO:52.314303;4.941959
+LOCATION:يوهان كرويف أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوهان كرويف أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="يوهان كرويف أرينا":geo
+ :52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أياكس VS بنفيكا
+DTSTART:20251125T174500Z
+DTEND:20251125T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
+ نا\nالنتيجة: 0 - 2
+GEO:52.314303;4.941959
+LOCATION:يوهان كرويف أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوهان كرويف أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="يوهان كرويف أرينا":geo
+ :52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS أونيون سانت جيلواز
+DTSTART:20251125T174500Z
+DTEND:20251125T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5i0c80gxlounme20ekaqrx0yc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
+ م\nالنتيجة: 0 - 1
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS نادي يوفنتوس
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5j5rc4wpittutm2qulb97arro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 2 - 3
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مارسيليا VS نيوكاسل
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5jvxlvcsjl7gv4i0tj10rqntg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيلودروم\n
+ النتيجة: 2 - 1
+GEO:43.26987;5.395854
+LOCATION:استاد فيلودروم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيلودرو
+ م";X-APPLE-RADIUS=70;X-TITLE="استاد فيلودروم":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS برشلونة
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5iss7tc562nnymg0uiewtt0r8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
+ النتيجة: 3 - 0
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS فياريال
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5ift1ypsxbwlm3fh0yqke8h04@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 4 - 0
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS كارباغ أغدام
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 0
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS باير ليفركوزن
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 0 - 2
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS أتليتيكو بلباو
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 0 - 0
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS موناكو
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 2 - 2
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS قايرات ألماته
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 3 - 2
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS كلوب بروج
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 3 - 0
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS ايندهوفن
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5n3jb853xf57iw2n1sw8ioc9g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
+  1 - 4
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS توتنهام
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5ntaf1zmqcikn6d7tcxfhd7v8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: بارك دي برينس\nا
+ لنتيجة: 5 - 3
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS بايرن ميونيخ
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 3 - 1
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آينرتخت فرانكفورت VS أتالانتا
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5mkoywuiapszrete4cw6mtmok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
+ ك\nالنتيجة: 0 - 3
+GEO:50.068577;8.645448
+LOCATION:استاد كوميرزبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميرزب
+ انك";X-APPLE-RADIUS=70;X-TITLE="استاد كوميرزبانك":geo:50
+ .068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS ريال مدريد
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5nge0lsbrt22h9uycxvj2wiz8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 3 - 4
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS إنتر ميلان
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 2 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS أولمبياكوس بيرايوس
+DTSTART:20251209T153000Z
+DTEND:20251209T173000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
+ نتيجة: 0 - 1
+GEO:51.108217;71.40256
+LOCATION:أستانا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أستانا أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أستانا أرينا":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS سبورتينغ لشبونة
+DTSTART:20251209T174500Z
+DTEND:20251209T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أونيون سانت جيلواز VS مارسيليا
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5r3sfsleiu2c82yuruwzhcv84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كونستانت 
+ فاندن ستوك\nالنتيجة: 2 - 3
+GEO:50.834182;4.298353
+LOCATION:استاد كونستانت فاندن ستوك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كونستان
+ ت فاندن ستوك";X-APPLE-RADIUS=70;X-TITLE="استاد كونستا
+ نت فاندن ستوك":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايندهوفن VS أتلتيكو مدريد
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5qqu3i9dgj6ummpnfzm05yf4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
+ نتيجة: 2 - 3
+GEO:51.44163;5.467452
+LOCATION:استاد فيليبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيليبس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فيليبس":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS سلافيا براغ
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5rifo72z7v3jxnx77051fy978@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
+ تسبير\nالنتيجة: 3 - 0
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS تشيلسي
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5pn7mzdx02v7lyxj8p1kr2cd0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 2 - 1
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS غلطة سراي
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 1 - 0
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS ليفربول
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5qd2von9gayml36rbaib0bdp0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 0 - 1
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS آينرتخت فرانكفورت
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5q05t4o4el0d6rhmncz6pxqms@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: كامب نو\nالنتيجة
+ : 2 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS كوبنهاجن
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 2 - 3
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS أياكس
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5rwblgpp1p54pam18ie7bjnro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توفيق بهرا
+ موف\nالنتيجة: 2 - 4
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS نادي بافوس
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5u1wyaby2c1x5iom7r2070p3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 2 - 0
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS أرسنال
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5tp7r7lkjm2n3sj60puy8f7ys@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
+ النتيجة: 0 - 3
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS بودو جليمت
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5tcbsszjd0zwish7c0udvnzf8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 2 - 2
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS باريس سان جيرمان
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 0 - 0
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS مانشستر سيتي
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 1 - 2
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS نابولي
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
+ يجة: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS نيوكاسل
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 2 - 2
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS كلوب بروج
+DTSTART:20260120T153000Z
+DTEND:20260120T173000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
+ نتيجة: 1 - 4
+GEO:51.108217;71.40256
+LOCATION:أستانا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أستانا أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أستانا أرينا":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS مانشستر سيتي
+DTSTART:20260120T174500Z
+DTEND:20260120T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS باريس سان جيرمان
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS موناكو
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5xf3kaeavedi0z5fyjm6llwr8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 6 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فياريال VS أياكس
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5yisbecyd57sdyr6oobdot0yc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
+ ميكا\nالنتيجة: 1 - 2
+GEO:39.944119;-0.103474
+LOCATION:استاد دي لا سيراميكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد دي لا سي
+ راميكا";X-APPLE-RADIUS=70;X-TITLE="استاد دي لا سيرامي
+ كا":geo:39.944119,-0.103474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS أرسنال
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5wmfkj6y4bbcpfbso62fcqoes@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 1 - 3
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS نادي بوروسيا دورتموند
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5y5k8zvc34l3egxsjfjfy5edw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
+ تسبير\nالنتيجة: 2 - 0
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS نابولي
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 2 - 0
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS أتلتيكو مدريد
+DTSTART:20260121T174500Z
+DTEND:20260121T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
+ م\nالنتيجة: 1 - 1
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS آينرتخت فرانكفورت
+DTSTART:20260121T174500Z
+DTEND:20260121T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5z9jt02azordg6y6m97cvmc5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توفيق بهرا
+ موف\nالنتيجة: 3 - 2
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS أونيون سانت جيلواز
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-60cf47tmbsv54dj3ruq6r5dec@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 2 - 0
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS بنفيكا
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 2 - 0
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS نادي بافوس
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5zzgoq20bhr6m700r68oc87x0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
+ النتيجة: 1 - 0
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مارسيليا VS ليفربول
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-61hsz6689o7g9ybeya58oox78@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيلودروم\n
+ النتيجة: 0 - 3
+GEO:43.26987;5.395854
+LOCATION:استاد فيلودروم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيلودرو
+ م";X-APPLE-RADIUS=70;X-TITLE="استاد فيلودروم":geo:43.26987,5
+ .395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS ايندهوفن
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-612tw4i5lz6slw42ufs22av4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
+ النتيجة: 3 - 0
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS برشلونة
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-61upafdbc4mwkdmp1k5ajqu50@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 2 - 4
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS أتليتيكو بلباو
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 2 - 3
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايندهوفن VS بايرن ميونيخ
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-67h5xtrudih8xgebmw0ni8178@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
+ نتيجة: 1 - 2
+GEO:51.44163;5.467452
+LOCATION:استاد فيليبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيليبس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فيليبس":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS كوبنهاجن
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: كامب نو\nالنتيجة
+ : 4 - 1
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS إنتر ميلان
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-64g5mr0x49o08xbllu18gl3pw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: سيغنال إيدونا ب
+ ارك\nالنتيجة: 0 - 2
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أونيون سانت جيلواز VS أتالانتا
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-67u5as824q96mp65srnyt7thw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كونستانت 
+ فاندن ستوك\nالنتيجة: 1 - 0
+GEO:50.834182;4.298353
+LOCATION:استاد كونستانت فاندن ستوك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كونستان
+ ت فاندن ستوك";X-APPLE-RADIUS=70;X-TITLE="استاد كونستا
+ نت فاندن ستوك":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS فياريال
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 3 - 0
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS كارباغ أغدام
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-65yo7coecrnl1gwgkdatt2xas@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
+  6 - 0
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS تشيلسي
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 3
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS غلطة سراي
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آينرتخت فرانكفورت VS توتنهام
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-656ifudbe32pxl0k263qrsq38@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
+ ك\nالنتيجة: 0 - 2
+GEO:50.068577;8.645448
+LOCATION:استاد كوميرزبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميرزب
+ انك";X-APPLE-RADIUS=70;X-TITLE="استاد كوميرزبانك":geo:50
+ .068577,8.645448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS مارسيليا
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-64sx5q7qlo1ahz8cb3ss3lp90@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
+ النتيجة: 3 - 0
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS قايرات ألماته
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 3 - 2
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS بودو جليمت
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب واندا ميتر
+ وبوليتانو\nالنتيجة: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS نادي يوفنتوس
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-62yriqtd43xg8ioh1ejxzw7pw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 0 - 0
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS ريال مدريد
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
+ يجة: 4 - 2
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS سلافيا براغ
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-66qr8r2yuseer81y1i1tp5hqs@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 4 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS نيوكاسل
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-674bu4uhq50y41dpeizevncic@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: بارك دي برينس\nا
+ لنتيجة: 1 - 1
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS سبورتينغ لشبونة
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 2 - 3
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أياكس VS أولمبياكوس بيرايوس
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-629403zrbb8v8cq1g81v2lwk4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
+ نا\nالنتيجة: 1 - 2
+GEO:52.314303;4.941959
+LOCATION:يوهان كرويف أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوهان كرويف أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="يوهان كرويف أرينا":geo
+ :52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS نادي يوفنتوس
+DTSTART:20260217T174500Z
+DTEND:20260217T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2ivwkprq3bnkkp2bfa2cdintg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب تورك ت
+ ليكوم\nالنتيجة: 5 - 2
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS باريس سان جيرمان
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ستاد لوي ال
+ ثاني\nالنتيجة: 2 - 3
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS ريال مدريد
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب النور\n
+ النتيجة: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بوروسيا دورتموند VS أتالانتا
+DTSTART:20260217T201500Z
+DTEND:20260217T221500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-oex4se9z2myo4tc7eyhy9no4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: سيغنال إيدو
+ نا بارك\nالنتيجة: 2 - 0
+GEO:51.492607;7.451777
+LOCATION:سيغنال إيدونا بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيغنال إيدونا
+  بارك";X-APPLE-RADIUS=70;X-TITLE="سيغنال إيدونا بارك":
+ geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS نيوكاسل
+DTSTART:20260218T174500Z
+DTEND:20260218T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5kfusd0dm3a7nj9phmwand7h0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب توفيق 
+ بهراموف\nالنتيجة: 1 - 6
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS أتلتيكو مدريد
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب جان بر
+ يدل\nالنتيجة: 3 - 3
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد جورجي
+ و كارايسكاكي\nالنتيجة: 0 - 2
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS إنتر ميلان
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-7q33s9t4g6xvu2fzqz8fb9tsk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد أسبمي
+ را\nالنتيجة: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS كلوب بروج
+DTSTART:20260224T174500Z
+DTEND:20260224T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب واندا 
+ ميتروبوليتانو\nالنتيجة: 4 - 1
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS كارباغ أغدام
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5ku5l0q1alklhnot6zgxnww7o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: سينت جيمس ب
+ ارك\nالنتيجة: 3 - 2
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS بودو جليمت
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-7qfyzlbmm47bxpk9p327ao1zo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد جوزيب
+ ي مياتزا\nالنتيجة: 1 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS أولمبياكوس بيرايوس
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب باي أر
+ ينا\nالنتيجة: 0 - 0
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS نادي بوروسيا دورتموند
+DTSTART:20260225T174500Z
+DTEND:20260225T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-oskmoxh73kh8jf9z4p8h0jys@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد أتليت
+ ي أزوري إيطاليا\nالنتيجة: 4 - 1
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS بنفيكا
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد سانتي
+ اغو بيرنابييو\nالنتيجة: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS موناكو
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: بارك دي بري
+ نس\nالنتيجة: 2 - 2
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS غلطة سراي
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2je80aixlyto9e2rtr0c0bpjo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: يوفنتوس أري
+ نا\nالنتيجة: 3 - 2
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:غلطة سراي VS ليفربول
+DTSTART:20260310T174500Z
+DTEND:20260310T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4mgtzo7ycptzkfyv1top89st0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: ملعب تورك تليكوم\nال
+ نتيجة: 1 - 0
+GEO:41.103391;28.991064
+LOCATION:ملعب تورك تليكوم
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تورك تلي
+ كوم";X-APPLE-RADIUS=70;X-TITLE="ملعب تورك تليكوم":geo:41.
+ 103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيوكاسل VS برشلونة
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-cy57racub2br10hm6bcv5y39w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: سينت جيمس بارك\nالنت
+ يجة: 1 - 1
+GEO:54.97554;-1.621621
+LOCATION:سينت جيمس بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سينت جيمس بار
+ ك";X-APPLE-RADIUS=70;X-TITLE="سينت جيمس بارك":geo:54.97554,-1
+ .621621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS بايرن ميونيخ
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد أتليتي أزوري إ
+ يطاليا\nالنتيجة: 1 - 6
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS توتنهام
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-25hk7u04fup5ze2892je0za50@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: ملعب واندا ميتروبول
+ يتانو\nالنتيجة: 5 - 2
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS أرسنال
+DTSTART:20260311T174500Z
+DTEND:20260311T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: ملعب باي أرينا\nالنت
+ يجة: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS سبورتينغ لشبونة
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد أسبميرا\nالنتي
+ جة: 3 - 0
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS مانشستر سيتي
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد سانتياغو بيرن
+ ابييو\nالنتيجة: 3 - 0
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS تشيلسي
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2bhi66etavhwksr15mtds3jmc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: بارك دي برينس\nالنتي
+ جة: 5 - 2
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS بودو جليمت
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد خوسيه ألفالاد
+ ي\nالنتيجة: 5 - 0
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS ريال مدريد
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد الإتحاد\nالنتي
+ جة: 1 - 2
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS باير ليفركوزن
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد الإمارات\nالنت
+ يجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تشيلسي VS باريس سان جيرمان
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2nekushi1t6nmi7ecukkoza50@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: ستامفورد بريدج\nالنت
+ يجة: 0 - 3
+GEO:51.481712;-0.190975
+LOCATION:ستامفورد بريدج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستامفورد بريد
+ ج";X-APPLE-RADIUS=70;X-TITLE="ستامفورد بريدج":geo:51.481712,
+ -0.190975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS نيوكاسل
+DTSTART:20260318T174500Z
+DTEND:20260318T194500Z
+DTSTAMP:20260414T022441Z
+UID:fifa-d3utvvilysz7lkewu7ylnqntg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: كامب نو\nالنتيجة: 7 - 2
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS غلطة سراي
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4p8fjg0wpd5eyaa0t0mv8pzx0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: أنفيلد\nالنتيجة: 4 - 0
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS أتالانتا
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: أليانز أرينا\nالنتيج
+ ة: 4 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS أتلتيكو مدريد
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-2a1ktq8ai1l1rh7uycbh0pk44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: ملعب توتنهام هوتسبي
+ ر\nالنتيجة: 3 - 2
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS أرسنال
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: استاد خوسيه ألفا
+ لادي\nالنتيجة: 0 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS بايرن ميونيخ
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9vufgb7gp2kyxzv8ftvwcesyc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: استاد سانتياغو ب
+ يرنابييو\nالنتيجة: 1 - 2
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أتلتيكو مدريد
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: كامب نو\nالنتيجة: 
+ 0 - 2
+GEO:41.38089;2.122813
+LOCATION:كامب نو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="كامب نو";X-APPLE-RA
+ DIUS=70;X-TITLE="كامب نو":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS ليفربول
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-7om4mss983m7d0dadr87xfuok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: بارك دي برينس\nال
+ نتيجة: 2 - 0
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفربول VS باريس سان جيرمان
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ek0bykzmr876s0vcbxdqua3h0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: أنفيلد
+GEO:53.430828;-2.960853
+LOCATION:أنفيلد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أنفيلد";X-APPLE-RAD
+ IUS=70;X-TITLE="أنفيلد":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتلتيكو مدريد VS برشلونة
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: ملعب واندا ميترو
+ بوليتانو
+GEO:40.436226;-3.59946
+LOCATION:ملعب واندا ميتروبوليتانو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب واندا مي
+ تروبوليتانو";X-APPLE-RADIUS=70;X-TITLE="ملعب واندا م
+ يتروبوليتانو":geo:40.436226,-3.59946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS ريال مدريد
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-27wrp262d2qdqseiunjrk8dg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: أليانز أرينا
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS سبورتينغ لشبونة
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: استاد الإمارات
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260428T000000Z
+DTEND:20260428T020000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ca2i4o1c3ajp4nhwbvs6tmqs4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: نصف النهائي\nالملعب: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260428T000000Z
+DTEND:20260428T020000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-b5v1bdk3yghbdtgjwyqyjz02c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: نصف النهائي\nالملعب: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260505T000000Z
+DTEND:20260505T020000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-em2v2c6m9jnpx7kkz1fomfz84@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: نصف النهائي\nالملعب: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260505T000000Z
+DTEND:20260505T020000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-dkvlgk22rlyecfay5qgz48wes@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: نصف النهائي\nالملعب: TBD
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:None VS None
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-6sb5ga83yrll15624x1z0gwt0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: النهائي\nالملعب: بوشكاش أرينا
+GEO:47.503076;19.098165
+LOCATION:بوشكاش أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بوشكاش أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="بوشكاش أرينا":geo:47.503076,19.09816
+ 5
+END:VEVENT
+END:VCALENDAR

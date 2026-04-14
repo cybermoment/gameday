@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - أولمبياكو
+ س بيرايوس //
+X-WR-CALNAME:دوري أبطال أوروبا - أولمبياكوس بي
+ رايوس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS نادي بافوس
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4thsy1pya5y11wggav6gql4wk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 0 - 0
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS أولمبياكوس بيرايوس
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-51pmokefm21mo1i26kyokvvo4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
+ النتيجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:برشلونة VS أولمبياكوس بيرايوس
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-547fv6pkd98zbsl3ha92ih0d0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب لويس كومبا
+ نيس الأولمبي\nالنتيجة: 6 - 1
+GEO:41.364756;2.155573
+LOCATION:ملعب لويس كومبانيس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب لويس كوم
+ بانيس الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب لويس 
+ كومبانيس الأولمبي":geo:41.364756,2.155573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS ايندهوفن
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5cybtcdp5uzclqdyjmojazk0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 1 - 1
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS ريال مدريد
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5nge0lsbrt22h9uycxvj2wiz8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 3 - 4
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS أولمبياكوس بيرايوس
+DTSTART:20251209T153000Z
+DTEND:20251209T173000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
+ نتيجة: 0 - 1
+GEO:51.108217;71.40256
+LOCATION:أستانا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أستانا أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أستانا أرينا":geo:51.108217,71.40256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 2 - 0
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أياكس VS أولمبياكوس بيرايوس
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-629403zrbb8v8cq1g81v2lwk4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
+ نا\nالنتيجة: 1 - 2
+GEO:52.314303;4.941959
+LOCATION:يوهان كرويف أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوهان كرويف أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="يوهان كرويف أرينا":geo
+ :52.314303,4.941959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد جورجي
+ و كارايسكاكي\nالنتيجة: 0 - 2
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS أولمبياكوس بيرايوس
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب باي أر
+ ينا\nالنتيجة: 0 - 0
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+END:VCALENDAR

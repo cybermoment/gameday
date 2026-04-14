@@ -1,0 +1,418 @@
+{
+  "competition_name": "دوري أبطال أوروبا",
+  "competition_id": "2000001032",
+  "season_id": "2mr0u0l78k2gdsm79q56tb2fo",
+  "lang": "ar",
+  "teams": [
+    {
+      "id": "1885177",
+      "name": "كوبيون بالوسورا",
+      "filename": "kups"
+    },
+    {
+      "id": "2000002596",
+      "name": "ميلسامي",
+      "filename": "milsami_orhei"
+    },
+    {
+      "id": "2000019195",
+      "name": "ايبيريا 1999",
+      "filename": "fc_saburtalo"
+    },
+    {
+      "id": "31098",
+      "name": "مالمو",
+      "filename": "malm_ff"
+    },
+    {
+      "id": "e9x62jymlef5ugsrijq19ur8q",
+      "name": "نوح",
+      "filename": "noah"
+    },
+    {
+      "id": "2000000725",
+      "name": "بودوتشنوست",
+      "filename": "buducnost_podgorica"
+    },
+    {
+      "id": "1885459",
+      "name": "ليفاديا تالين",
+      "filename": "fc_levadia_tallinn"
+    },
+    {
+      "id": "2000019334",
+      "name": "داوغافا ريغا",
+      "filename": "rigas_futbola_skola"
+    },
+    {
+      "id": "2000002626",
+      "name": "أولمبيا ليوبليانا",
+      "filename": "olimpija_ljubljana"
+    },
+    {
+      "id": "482",
+      "name": "قايرات ألماته",
+      "filename": "fc_kairat"
+    },
+    {
+      "id": "2000019538",
+      "name": "دريتا",
+      "filename": "drita"
+    },
+    {
+      "id": "2147482830",
+      "name": "ديفيردانج",
+      "filename": "fc_differdange_03"
+    },
+    {
+      "id": "2147482183",
+      "name": "نيو سانتس",
+      "filename": "the_new_saints"
+    },
+    {
+      "id": "1885492",
+      "name": "سكنديا",
+      "filename": "kf_shk_ndija"
+    },
+    {
+      "id": "2000000467",
+      "name": "فيكينغور غوتو",
+      "filename": "v_kingur"
+    },
+    {
+      "id": "2000019171",
+      "name": "لينكون ريد أمبس",
+      "filename": "lincoln_red_imps_fc"
+    },
+    {
+      "id": "400197961",
+      "name": "روغورجينة",
+      "filename": "egnatia"
+    },
+    {
+      "id": "446",
+      "name": "بريدابليك",
+      "filename": "brei_ablik"
+    },
+    {
+      "id": "2147481404",
+      "name": "فيرتوس أكوافيفا",
+      "filename": "virtus"
+    },
+    {
+      "id": "1885396",
+      "name": "زرينيسكي موستا",
+      "filename": "hsk_zrinjski"
+    },
+    {
+      "id": "1885554",
+      "name": "زالغيريس فيلنيوس",
+      "filename": "zalgiris_vilnius"
+    },
+    {
+      "id": "1885581",
+      "name": "حمرون سبارتانس",
+      "filename": "hamrun_spartans"
+    },
+    {
+      "id": "2000012840",
+      "name": "لودوجوريتس رازجراد",
+      "filename": "ludogorets"
+    },
+    {
+      "id": "1885380",
+      "name": "دينامو مينسك",
+      "filename": "dinamo_minsk"
+    },
+    {
+      "id": "1914834",
+      "name": "ستياوا بوخارست",
+      "filename": "fcsb"
+    },
+    {
+      "id": "2000000058",
+      "name": "إنتر إسكالديس",
+      "filename": "inter_d_escaldes"
+    },
+    {
+      "id": "400108464",
+      "name": "شيلبورن",
+      "filename": "shelbourne"
+    },
+    {
+      "id": "1885604",
+      "name": "لينفيلد",
+      "filename": "linfield_fc"
+    },
+    {
+      "id": "1885747",
+      "name": "سرفينا زفيزدا",
+      "filename": "crvena_zvezda"
+    },
+    {
+      "id": "1885533",
+      "name": "فيرينكفاروس",
+      "filename": "ferencv_ros"
+    },
+    {
+      "id": "36735",
+      "name": "دينامو كييف",
+      "filename": "dynamo_kyiv"
+    },
+    {
+      "id": "2147483300",
+      "name": "فيكتوريا بلزين",
+      "filename": "viktoria_plze"
+    },
+    {
+      "id": "400068644",
+      "name": "سيرفيت جنيف",
+      "filename": "servette_fc"
+    },
+    {
+      "id": "44323",
+      "name": "كوبنهاجن",
+      "filename": "k_benhavn"
+    },
+    {
+      "id": "2000000641",
+      "name": "نادي بافوس",
+      "filename": "pafos_fc"
+    },
+    {
+      "id": "1885529",
+      "name": "مكابي تل أبيب",
+      "filename": "maccabi_tel_aviv"
+    },
+    {
+      "id": "674",
+      "name": "سلوفان براتيسلافا",
+      "filename": "slovan_bratislava"
+    },
+    {
+      "id": "1884654",
+      "name": "ليخ بوزنان",
+      "filename": "lech_poznan"
+    },
+    {
+      "id": "31067",
+      "name": "رينجرز",
+      "filename": "rangers"
+    },
+    {
+      "id": "31033",
+      "name": "باناثينيكوس",
+      "filename": "panathinaikos"
+    },
+    {
+      "id": "310",
+      "name": "رييكا",
+      "filename": "hnk_rijeka"
+    },
+    {
+      "id": "1885332",
+      "name": "بران",
+      "filename": "sk_brann"
+    },
+    {
+      "id": "1956494",
+      "name": "ريد بول سالزبورغ",
+      "filename": "fc_salzburg"
+    },
+    {
+      "id": "2147483549",
+      "name": "كارباغ أغدام",
+      "filename": "qarabag_fk"
+    },
+    {
+      "id": "30997",
+      "name": "كلوب بروج",
+      "filename": "club_brugge"
+    },
+    {
+      "id": "44137",
+      "name": "فاينورد روتردام",
+      "filename": "feyenoord"
+    },
+    {
+      "id": "33163",
+      "name": "فناربخشة",
+      "filename": "fenerbah_e"
+    },
+    {
+      "id": "44203",
+      "name": "نيس",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "1914613",
+      "name": "بنفيكا",
+      "filename": "sl_benfica"
+    },
+    {
+      "id": "655",
+      "name": "بازل",
+      "filename": "fc_basel"
+    },
+    {
+      "id": "2000000083",
+      "name": "بودو جليمت",
+      "filename": "fk_bod_glimt"
+    },
+    {
+      "id": "31057",
+      "name": "شتورم غراتس",
+      "filename": "sturm_graz"
+    },
+    {
+      "id": "1914704",
+      "name": "نادي سلتيك",
+      "filename": "celtic"
+    },
+    {
+      "id": "1914838",
+      "name": "ايندهوفن",
+      "filename": "psv"
+    },
+    {
+      "id": "2000019580",
+      "name": "أونيون سانت جيلواز",
+      "filename": "union"
+    },
+    {
+      "id": "31071",
+      "name": "أتليتيكو بلباو",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "32847",
+      "name": "أرسنال",
+      "filename": "arsenal"
+    },
+    {
+      "id": "23437",
+      "name": "توتنهام",
+      "filename": "tottenham_hotspur"
+    },
+    {
+      "id": "1882482",
+      "name": "فياريال",
+      "filename": "villarreal"
+    },
+    {
+      "id": "1914806",
+      "name": "نادي يوفنتوس",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "1914854",
+      "name": "نادي بوروسيا دورتموند",
+      "filename": "borussia_dortmund"
+    },
+    {
+      "id": "30504",
+      "name": "ريال مدريد",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "33192",
+      "name": "مارسيليا",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "420",
+      "name": "أولمبياكوس بيرايوس",
+      "filename": "olympiakos_piraeus"
+    },
+    {
+      "id": "323",
+      "name": "سلافيا براغ",
+      "filename": "slavia_praha"
+    },
+    {
+      "id": "1896634",
+      "name": "ليفربول",
+      "filename": "liverpool"
+    },
+    {
+      "id": "1914808",
+      "name": "أتلتيكو مدريد",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "1914810",
+      "name": "بايرن ميونيخ",
+      "filename": "fc_bayern_m_nchen"
+    },
+    {
+      "id": "1935290",
+      "name": "تشيلسي",
+      "filename": "chelsea_fc"
+    },
+    {
+      "id": "31089",
+      "name": "أياكس",
+      "filename": "ajax"
+    },
+    {
+      "id": "1914619",
+      "name": "إنتر ميلان",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "1956449",
+      "name": "باريس سان جيرمان",
+      "filename": "paris_saint_germain"
+    },
+    {
+      "id": "2147482134",
+      "name": "أتالانتا",
+      "filename": "atalanta"
+    },
+    {
+      "id": "30983",
+      "name": "موناكو",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "31055",
+      "name": "باير ليفركوزن",
+      "filename": "bayer_leverkusen"
+    },
+    {
+      "id": "44136",
+      "name": "نيوكاسل",
+      "filename": "newcastle_united"
+    },
+    {
+      "id": "1903416",
+      "name": "برشلونة",
+      "filename": "barcelona"
+    },
+    {
+      "id": "1956198",
+      "name": "مانشستر سيتي",
+      "filename": "manchester_city"
+    },
+    {
+      "id": "2147481899",
+      "name": "نابولي",
+      "filename": "napoli"
+    },
+    {
+      "id": "31023",
+      "name": "آينرتخت فرانكفورت",
+      "filename": "eintracht_frankfurt"
+    },
+    {
+      "id": "31018",
+      "name": "غلطة سراي",
+      "filename": "galatasaray"
+    },
+    {
+      "id": "1939310",
+      "name": "سبورتينغ لشبونة",
+      "filename": "sporting_cp"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - موناكو //
+X-WR-CALNAME:دوري أبطال أوروبا - موناكو
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:كلوب بروج VS موناكو
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
+ النتيجة: 4 - 1
+GEO:51.193451;3.180542
+LOCATION:ملعب جان بريدل
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جان بريد
+ ل";X-APPLE-RADIUS=70;X-TITLE="ملعب جان بريدل":geo:51.193451,3
+ .180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS مانشستر سيتي
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 2 - 2
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS توتنهام
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-588thaqsgswjlauvj2gp1orh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 0 - 0
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS موناكو
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أسبميرا\nا
+ لنتيجة: 0 - 1
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS موناكو
+DTSTART:20251126T174500Z
+DTEND:20251126T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 2 - 2
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS غلطة سراي
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 1 - 0
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال مدريد VS موناكو
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5xf3kaeavedi0z5fyjm6llwr8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سانتياغو 
+ بيرنابييو\nالنتيجة: 6 - 1
+GEO:40.453068;-3.688354
+LOCATION:استاد سانتياغو بيرنابييو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سانتياغ
+ و بيرنابييو";X-APPLE-RADIUS=70;X-TITLE="استاد سانتيا
+ غو بيرنابييو":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS نادي يوفنتوس
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-62yriqtd43xg8ioh1ejxzw7pw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
+ nالنتيجة: 0 - 0
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:موناكو VS باريس سان جيرمان
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ستاد لوي ال
+ ثاني\nالنتيجة: 2 - 3
+GEO:43.727564;7.415542
+LOCATION:ستاد لوي الثاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد لوي الثا
+ ني";X-APPLE-RADIUS=70;X-TITLE="ستاد لوي الثاني":geo:43.7275
+ 64,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باريس سان جيرمان VS موناكو
+DTSTART:20260225T200000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: بارك دي بري
+ نس\nالنتيجة: 2 - 2
+GEO:48.841433;2.253049
+LOCATION:بارك دي برينس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بارك دي برينس"
+ ;X-APPLE-RADIUS=70;X-TITLE="بارك دي برينس":geo:48.841433,2.2530
+ 49
+END:VEVENT
+END:VCALENDAR

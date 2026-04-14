@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Villarreal //
+X-WR-CALNAME:UEFA Champions League - Villarreal
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Tottenham Hotspur VS Villarreal
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-4t4v7a4pnyn93vudidzzjb6s4@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: Tottenham Hotspur Stadium\nResult: 1 - 0
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Juventus FC
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-53uv9nt6mmwd2snmpdhdrzbx0@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: Estadio de la Cerámica\nResult: 2 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Manchester City
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: Estadio de la Cerámica\nResult: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos FC VS Villarreal
+DTSTART:20251105T174500Z
+DTEND:20251105T194500Z
+DTSTAMP:20260414T022436Z
+UID:fifa-5e8c81yfj5wleflr99m651mok@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: Alphamega Stadium\nResult: 1 - 0
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Dortmund VS Villarreal
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-5ift1ypsxbwlm3fh0yqke8h04@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: SIGNAL IDUNA PARK\nResult: 4 - 0
+GEO:51.492607;7.451777
+LOCATION:SIGNAL IDUNA PARK
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SIGNAL IDUNA PARK";X-APPL
+ E-RADIUS=70;X-TITLE="SIGNAL IDUNA PARK":geo:51.492607,7.451777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS København
+DTSTART:20251210T174500Z
+DTEND:20251210T194500Z
+DTSTAMP:20260414T022436Z
+UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: Estadio de la Cerámica\nResult: 2 - 3
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Ajax
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-5yisbecyd57sdyr6oobdot0yc@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: Estadio de la Cerámica\nResult: 1 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen VS Villarreal
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
+ um: BayArena\nResult: 3 - 0
+GEO:51.038213;7.00225
+LOCATION:BayArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BayArena";X-APPLE-RADIUS=
+ 70;X-TITLE="BayArena":geo:51.038213,7.00225
+END:VEVENT
+END:VCALENDAR

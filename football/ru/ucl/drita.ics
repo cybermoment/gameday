@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Drita //
+X-WR-CALNAME:Лига чемпионов УЕФА - Drita
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Drita VS Дифферданж 03
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-17lgmf0v333oyc7ocwdkushlg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Stadiumi 
+ Fadil Vokrri\nРезультат: 1 - 0
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дифферданж 03 VS Drita
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-19oizyt50o94u436hep5n8hlg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Stade Par
+ c des Sports\nРезультат: 2 - 3
+GEO:49.513897;5.889788
+LOCATION:Stade Parc des Sports
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Parc des Sports";X-
+ APPLE-RADIUS=70;X-TITLE="Stade Parc des Sports":geo:49.513897,5.889788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Drita
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Стадион Паркен\nРезу
+ льтат: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drita VS Копенгаген
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 2-й Раунд\nСтадион: Stadiumi Fadil Vokrri\nРезульт
+ ат: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+END:VCALENDAR

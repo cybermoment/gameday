@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - شتورم غرا
+ تس //
+X-WR-CALNAME:دوري أبطال أوروبا - شتورم غراتس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS شتورم غراتس
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9hb4z2iwh8sazow23a3nnw9g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ أسبميرا\nالنتيجة: 5 - 0
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شتورم غراتس VS بودو جليمت
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-jrqj1tlsc31sq3x10bkqb4lw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ف
+ ورترسي\nالنتيجة: 2 - 1
+GEO:46.609024;14.278193
+LOCATION:ملعب فورترسي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فورترسي";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب فورترسي":geo:46.609024,14.27819
+ 3
+END:VEVENT
+END:VCALENDAR

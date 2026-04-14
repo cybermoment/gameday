@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Celtic Glasgow //
+X-WR-CALNAME:UEFA Champions League - Celtic Glasgow
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Celtic Glasgow VS FK Qairat Almaty
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022439Z
+UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: C
+ eltic Park\nErgebnis: 0 - 0
+GEO:55.849719;-4.20558
+LOCATION:Celtic Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Celtic Park";X-APPLE-RADI
+ US=70;X-TITLE="Celtic Park":geo:55.849719,-4.20558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FK Qairat Almaty VS Celtic Glasgow
+DTSTART:20250826T164500Z
+DTEND:20250826T184500Z
+DTSTAMP:20260414T022439Z
+UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: O
+ rtalyq stadıon\nErgebnis: 0 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+END:VCALENDAR

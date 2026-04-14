@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Базель /
+ /
+X-WR-CALNAME:Лига чемпионов УЕФА - Базель
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Базель VS Копенгаген
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Санкт-Якоб П
+ арк\nРезультат: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:Стадион Санкт-Якоб Парк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Санкт
+ -Якоб Парк";X-APPLE-RADIUS=70;X-TITLE="Стадион Санкт-
+ Якоб Парк":geo:47.541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Копенгаген VS Базель
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: плей офф\nСтадион: Стадион Паркен\nРезу
+ льтат: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:Стадион Паркен
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Парке
+ н";X-APPLE-RADIUS=70;X-TITLE="Стадион Паркен":geo:55.702718,
+ 12.572291
+END:VEVENT
+END:VCALENDAR

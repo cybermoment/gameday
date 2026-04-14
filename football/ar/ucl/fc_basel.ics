@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - بازل //
+X-WR-CALNAME:دوري أبطال أوروبا - بازل
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:بازل VS كوبنهاجن
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: سانت ج
+ ايكوب بارك\nالنتيجة: 1 - 1
+GEO:47.541587;7.620061
+LOCATION:سانت جايكوب بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سانت جايكوب ب
+ ارك";X-APPLE-RADIUS=70;X-TITLE="سانت جايكوب بارك":geo:47.
+ 541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS بازل
+DTSTART:20250827T190000Z
+DTEND:20250827T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: تيليا 
+ باركن\nالنتيجة: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+END:VCALENDAR

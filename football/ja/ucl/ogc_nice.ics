@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAチャンピオンズリーグ - ニース //
+X-WR-CALNAME:UEFAチャンピオンズリーグ - ニース
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ニース VS SL ベンフィカ
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: アリアンツ リヴィエラ\n結果: 0 
+ - 2
+GEO:43.705119;7.192622
+LOCATION:アリアンツ リヴィエラ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="アリアンツ リヴィ
+ エラ";X-APPLE-RADIUS=70;X-TITLE="アリアンツ リヴィエラ":geo:43
+ .705119,7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SL ベンフィカ VS ニース
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022443Z
+UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
+DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
+ ラウンド\nスタジアム: エスタディオ・ド・スポルト・
+ リスボン・エ・ベンフィカ(・ダ・ルス)\n結果: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:エスタディオ・ド・スポルト・リスボン・エ・
+ ベンフィカ(・ダ・ルス)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="エスタディオ・ド
+ ・スポルト・リスボン・エ・ベンフィカ(・ダ・ルス)";X
+ -APPLE-RADIUS=70;X-TITLE="エスタディオ・ド・スポルト・リス
+ ボン・エ・ベンフィカ(・ダ・ルス)":geo:38.752648,-9.184699
+END:VEVENT
+END:VCALENDAR

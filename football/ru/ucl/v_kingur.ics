@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Викингу
+ р //
+X-WR-CALNAME:Лига чемпионов УЕФА - Викингур
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Викингур VS Lincoln Red Imps
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2axwif0kr7ld8vc988ji73q50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Við Djú
+ pumýrar\nРезультат: 2 - 3
+GEO:62.224654;-6.580154
+LOCATION:Við Djúpumýrar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Við Djúpumýrar";X-APPL
+ E-RADIUS=70;X-TITLE="Við Djúpumýrar":geo:62.224654,-6.580154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Red Imps VS Викингур
+DTSTART:20250715T153000Z
+DTEND:20250715T173000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2feve63v1vjilkwh0lazcrztg@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Europa Po
+ int Stadium\nРезультат: 1 - 0
+GEO:36.110714;-5.347034
+LOCATION:Europa Point Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Europa Point Stadium";X-A
+ PPLE-RADIUS=70;X-TITLE="Europa Point Stadium":geo:36.110714,-5.347034
+END:VEVENT
+END:VCALENDAR

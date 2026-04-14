@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - حمرون سبا
+ رتانس //
+X-WR-CALNAME:دوري أبطال أوروبا - حمرون سبارتان
+ س
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:زالغيريس فيلنيوس VS حمرون سبارتانس
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: ملعب فيلن
+ يوس لاتحاد كرة القدم في ليتوانيا\nالنتيج
+ ة: 2 - 0
+GEO:54.668542;25.294725
+LOCATION:ملعب فيلنيوس لاتحاد كرة القدم في لي
+ توانيا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فيلنيوس 
+ لاتحاد كرة القدم في ليتوانيا";X-APPLE-RADIUS=70;X-
+ TITLE="ملعب فيلنيوس لاتحاد كرة القدم في ليت
+ وانيا":geo:54.668542,25.294725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:حمرون سبارتانس VS زالغيريس فيلنيوس
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد تكا
+ لي القومي\nالنتيجة: 2 - 0
+GEO:35.894817;14.415141
+LOCATION:استاد تكالي القومي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد تكالي ا
+ لقومي";X-APPLE-RADIUS=70;X-TITLE="استاد تكالي القومي"
+ :geo:35.894817,14.415141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:حمرون سبارتانس VS دينامو كييف
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد أم 
+ إف إيه المركزي\nالنتيجة: 0 - 3
+GEO:35.896638;14.415425
+LOCATION:استاد أم إف إيه المركزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أم إف إي
+ ه المركزي";X-APPLE-RADIUS=70;X-TITLE="استاد أم إف إيه 
+ المركزي":geo:35.896638,14.415425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دينامو كييف VS حمرون سبارتانس
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Motor Lublin Are
+ na\nالنتيجة: 3 - 0
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+END:VCALENDAR

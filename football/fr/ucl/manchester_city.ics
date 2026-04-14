@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - Manchester City //
+X-WR-CALNAME:Ligue des champions - Manchester City
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Naples
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Etihad Stadium\nRésultat: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco VS Manchester City
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Stade Louis-II\nRésultat: 2 - 2
+GEO:43.727564;7.415542
+LOCATION:Stade Louis-II
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
+ ADIUS=70;X-TITLE="Stade Louis-II":geo:43.727564,7.415542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Manchester City
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Estadio de la Cerámica\nRésultat: 0 - 2
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Borussia Dortmund
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Etihad Stadium\nRésultat: 4 - 1
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Bayer Leverkusen
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Etihad Stadium\nRésultat: 0 - 2
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS Manchester City
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Estadio Bernabéu\nRésultat: 1 - 2
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodø / Glimt VS Manchester City
+DTSTART:20260120T174500Z
+DTEND:20260120T194500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Aspmyra Stadion\nRésultat: 3 - 1
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Galatasaray
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
+ e: Etihad Stadium\nRésultat: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS Manchester City
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
+ ade: Estadio Bernabéu\nRésultat: 3 - 0
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City VS Real Madrid C.F.
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
+ ade: Etihad Stadium\nRésultat: 1 - 2
+GEO:53.483152;-2.200409
+LOCATION:Etihad Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Etihad Stadium":geo:53.483152,-2.200409
+END:VEVENT
+END:VCALENDAR

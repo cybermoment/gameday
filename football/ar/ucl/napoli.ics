@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - نابولي //
+X-WR-CALNAME:دوري أبطال أوروبا - نابولي
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS نابولي
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 2 - 0
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS سبورتينغ لشبونة
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ايندهوفن VS نابولي
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-56flul4umnrjdekx5ny22y7tg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد فيليبس\nال
+ نتيجة: 6 - 2
+GEO:51.44163;5.467452
+LOCATION:استاد فيليبس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيليبس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فيليبس":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS آينرتخت فرانكفورت
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 0 - 0
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS كارباغ أغدام
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 0
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS نابولي
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
+ يجة: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS نابولي
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 1 - 1
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS تشيلسي
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 3
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+END:VCALENDAR

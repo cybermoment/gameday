@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Жальгир
+ ис //
+X-WR-CALNAME:Лига чемпионов УЕФА - Жальгирис
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Жальгирис VS Хамрун Спартанс
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: FK Žalgi
+ ris namų stadionas\nРезультат: 2 - 0
+GEO:54.668542;25.294725
+LOCATION:FK Žalgiris namų stadionas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="FK Žalgiris namų stadio
+ nas";X-APPLE-RADIUS=70;X-TITLE="FK Žalgiris namų stadionas":geo:54.66854
+ 2,25.294725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Хамрун Спартанс VS Жальгирис
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Наци
+ ональный стадион Такали\nРезультат: 2 - 0
+GEO:35.894817;14.415141
+LOCATION:Национальный стадион Такали
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Национальный 
+ стадион Такали";X-APPLE-RADIUS=70;X-TITLE="Националь
+ ный стадион Такали":geo:35.894817,14.415141
+END:VEVENT
+END:VCALENDAR

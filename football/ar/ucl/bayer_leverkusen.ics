@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - باير ليفر
+ كوزن //
+X-WR-CALNAME:دوري أبطال أوروبا - باير ليفركوزن
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS باير ليفركوزن
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
+ تيجة: 2 - 2
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS ايندهوفن
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS باريس سان جيرمان
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 2 - 7
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بنفيكا VS باير ليفركوزن
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
+ يجة: 0 - 1
+GEO:38.752648;-9.184699
+LOCATION:ملعب النور
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب النور";X-AP
+ PLE-RADIUS=70;X-TITLE="ملعب النور":geo:38.752648,-9.184699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مانشستر سيتي VS باير ليفركوزن
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
+ لنتيجة: 0 - 2
+GEO:53.483152;-2.200409
+LOCATION:استاد الإتحاد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإتحاد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد الإتحاد":geo:53.483152,-2.2
+ 00409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS نيوكاسل
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 2 - 2
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
+ رايسكاكي\nالنتيجة: 2 - 0
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS فياريال
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
+ النتيجة: 3 - 0
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: استاد جورجي
+ و كارايسكاكي\nالنتيجة: 0 - 2
+GEO:37.946431;23.664384
+LOCATION:استاد جورجيو كارايسكاكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجيو 
+ كارايسكاكي";X-APPLE-RADIUS=70;X-TITLE="استاد جورجيو 
+ كارايسكاكي":geo:37.946431,23.664384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS أولمبياكوس بيرايوس
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الإقصائيات\nالملعب: ملعب باي أر
+ ينا\nالنتيجة: 0 - 0
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باير ليفركوزن VS أرسنال
+DTSTART:20260311T174500Z
+DTEND:20260311T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: ملعب باي أرينا\nالنت
+ يجة: 1 - 1
+GEO:51.038213;7.00225
+LOCATION:ملعب باي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب باي أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="ملعب باي أرينا":geo:51.038213,7
+ .00225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS باير ليفركوزن
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد الإمارات\nالنت
+ يجة: 2 - 0
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+END:VCALENDAR

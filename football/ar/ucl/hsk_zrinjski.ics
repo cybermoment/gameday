@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - زرينيسكي 
+ موستا //
+X-WR-CALNAME:دوري أبطال أوروبا - زرينيسكي موست
+ ا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:فيرتوس أكوافيفا VS زرينيسكي موستا
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8tul8117rp7ojznms19n6da1g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد أول
+ مبيكو دي سيرافالي\nالنتيجة: 0 - 2
+GEO:43.971245;12.476971
+LOCATION:استاد أولمبيكو دي سيرافالي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و دي سيرافالي";X-APPLE-RADIUS=70;X-TITLE="استاد أولمب
+ يكو دي سيرافالي":geo:43.971245,12.476971
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS فيرتوس أكوافيفا
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-8w7j987hlwpkdty1yzefylafo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بيل
+ ي برييج\nالنتيجة: 2 - 1
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS زرينيسكي موستا
+DTSTART:20250722T181500Z
+DTEND:20250722T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب تيه
+ يلني بول\nالنتيجة: 4 - 0
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS سلوفان براتيسلافا
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد بي
+ لي برييج\nالنتيجة: 2 - 2
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+END:VCALENDAR

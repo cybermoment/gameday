@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - Brann //
+X-WR-CALNAME:Ligue des champions - Brann
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Brann VS FC Salzburg
+DTSTART:20250723T170000Z
+DTEND:20250723T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: Brann Stadion\nRésultat: 1 - 4
+GEO:60.366933;5.357417
+LOCATION:Brann Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Salzburg VS Brann
+DTSTART:20250730T184500Z
+DTEND:20250730T204500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: Red Bull Arena\nRésultat: 1 - 1
+GEO:47.816294;12.998183
+LOCATION:Red Bull Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Red Bull Arena";X-APPLE-R
+ ADIUS=70;X-TITLE="Red Bull Arena":geo:47.816294,12.998183
+END:VEVENT
+END:VCALENDAR

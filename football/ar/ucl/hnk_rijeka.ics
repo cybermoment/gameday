@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - رييكا //
+X-WR-CALNAME:دوري أبطال أوروبا - رييكا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:رييكا VS لودوجوريتس رازجراد
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد رو
+ جيفيكا\nالنتيجة: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:استاد روجيفيكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد روجيفيك
+ ا";X-APPLE-RADIUS=70;X-TITLE="استاد روجيفيكا":geo:45.347873,
+ 14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS رييكا
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد لو
+ دوجوريتس أرينا\nالنتيجة: 3 - 1
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR

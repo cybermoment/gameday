@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - مكابي تل أ
+ بيب //
+X-WR-CALNAME:دوري أبطال أوروبا - مكابي تل أبيب
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS مكابي تل أبيب
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2llj9g9hkmh7pc5rq1wmhjaqc@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Alphamega Stadiu
+ m\nالنتيجة: 1 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مكابي تل أبيب VS نادي بافوس
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-2p8utvgjvhobdvwdphdw7w1ec@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد جر
+ ادسكي\nالنتيجة: 0 - 1
+GEO:45.815599;19.627252
+LOCATION:استاد جرادسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جرادسكي
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد جرادسكي":geo:45.815599,19.6
+ 27252
+END:VEVENT
+END:VCALENDAR

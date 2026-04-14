@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Милсами
+  Орхей //
+X-WR-CALNAME:Лига чемпионов УЕФА - Милсами Орх
+ ей
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:КуПС VS Милсами Орхей
+DTSTART:20250708T150000Z
+DTEND:20250708T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Väre Are
+ ena\nРезультат: 1 - 0
+GEO:62.884633;27.671803
+LOCATION:Väre Areena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Väre Areena";X-APPLE-RAD
+ IUS=70;X-TITLE="Väre Areena":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Милсами Орхей VS КуПС
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Complexul
+  Sportiv Raional\nРезультат: 0 - 0
+GEO:47.374451;28.819242
+LOCATION:Complexul Sportiv Raional
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Complexul Sportiv Raional
+ ";X-APPLE-RADIUS=70;X-TITLE="Complexul Sportiv Raional":geo:47.374451,28.8
+ 19242
+END:VEVENT
+END:VCALENDAR

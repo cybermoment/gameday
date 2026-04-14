@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Panathinaikos //
+X-WR-CALNAME:UEFA Champions League - Panathinaikos
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Glasgow Rangers VS Panathinaikos
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022437Z
+UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
+ icación\nEstadio: Ibrox Stadium\nResultado: 2 - 0
+GEO:55.853211;-4.309283
+LOCATION:Ibrox Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ibrox Stadium";X-APPLE-RA
+ DIUS=70;X-TITLE="Ibrox Stadium":geo:55.853211,-4.309283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panathinaikos VS Glasgow Rangers
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022437Z
+UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
+ icación\nEstadio: Olympiako Stadio Spyros Louis\nResultado: 1 - 1
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+END:VCALENDAR

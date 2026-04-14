@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - The New Saints //
+X-WR-CALNAME:UEFA Champions League - The New Saints
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:The New Saints VS KF Shkëndija
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
+ d\nStadium: Park Hall Stadium\nResult: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:Park Hall Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Park Hall Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Park Hall Stadium":geo:52.875884,-3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KF Shkëndija VS The New Saints
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
+ d\nStadium: Toše Proeski Arena\nResult: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Toše Proeski Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
+ PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+END:VEVENT
+END:VCALENDAR

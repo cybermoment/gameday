@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Olimpija Ljubljana //
+X-WR-CALNAME:UEFA Champions League - Olimpija Ljubljana
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Olimpija Ljubljana VS FC Kairat
+DTSTART:20250708T170000Z
+DTEND:20250708T190000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-a9aiop7i6u9lkj6zor7b0kf84@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
+ d\nStadium: Stadion Stožice\nResult: 1 - 1
+GEO:46.080472;14.524183
+LOCATION:Stadion Stožice
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Stožice";X-APPLE
+ -RADIUS=70;X-TITLE="Stadion Stožice":geo:46.080472,14.524183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Kairat VS Olimpija Ljubljana
+DTSTART:20250715T150000Z
+DTEND:20250715T170000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-abgirlxxnvpt0vh19dzb25nv8@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
+ d\nStadium: Ortalyq stadıon\nResult: 2 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+END:VCALENDAR

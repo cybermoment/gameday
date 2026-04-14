@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - ميلسامي //
+X-WR-CALNAME:دوري أبطال أوروبا - ميلسامي
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS ميلسامي
+DTSTART:20250708T150000Z
+DTEND:20250708T170000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: سافون سان
+ ومات أرينا\nالنتيجة: 1 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ميلسامي VS كوبيون بالوسورا
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: مجمع سبور
+ تيف رايونال\nالنتيجة: 0 - 0
+GEO:47.374451;28.819242
+LOCATION:مجمع سبورتيف رايونال
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مجمع سبورتيف 
+ رايونال";X-APPLE-RADIUS=70;X-TITLE="مجمع سبورتيف راي
+ ونال":geo:47.374451,28.819242
+END:VEVENT
+END:VCALENDAR

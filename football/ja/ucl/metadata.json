@@ -1,0 +1,418 @@
+{
+  "competition_name": "UEFAチャンピオンズリーグ",
+  "competition_id": "2000001032",
+  "season_id": "2mr0u0l78k2gdsm79q56tb2fo",
+  "lang": "ja",
+  "teams": [
+    {
+      "id": "1885177",
+      "name": "KuPS",
+      "filename": "kups"
+    },
+    {
+      "id": "2000002596",
+      "name": "ミルサミ・ウルシドス",
+      "filename": "milsami_orhei"
+    },
+    {
+      "id": "2000019195",
+      "name": "イベリア 1999",
+      "filename": "fc_saburtalo"
+    },
+    {
+      "id": "31098",
+      "name": "マルメ",
+      "filename": "malm_ff"
+    },
+    {
+      "id": "e9x62jymlef5ugsrijq19ur8q",
+      "name": "ノア",
+      "filename": "noah"
+    },
+    {
+      "id": "2000000725",
+      "name": "ブドゥクノスト",
+      "filename": "buducnost_podgorica"
+    },
+    {
+      "id": "1885459",
+      "name": "レヴァディア",
+      "filename": "fc_levadia_tallinn"
+    },
+    {
+      "id": "2000019334",
+      "name": "リガ FS",
+      "filename": "rigas_futbola_skola"
+    },
+    {
+      "id": "2000002626",
+      "name": "オリンピア",
+      "filename": "olimpija_ljubljana"
+    },
+    {
+      "id": "482",
+      "name": "カイラト",
+      "filename": "fc_kairat"
+    },
+    {
+      "id": "2000019538",
+      "name": "ドリタ",
+      "filename": "drita"
+    },
+    {
+      "id": "2147482830",
+      "name": "ディフェルダンジュ",
+      "filename": "fc_differdange_03"
+    },
+    {
+      "id": "2147482183",
+      "name": "ザ・ニュー・セインツ",
+      "filename": "the_new_saints"
+    },
+    {
+      "id": "1885492",
+      "name": "シュケンディヤ",
+      "filename": "kf_shk_ndija"
+    },
+    {
+      "id": "2000000467",
+      "name": "ヴァイキングル",
+      "filename": "v_kingur"
+    },
+    {
+      "id": "2000019171",
+      "name": "リンカーン・レッド・インプス",
+      "filename": "lincoln_red_imps_fc"
+    },
+    {
+      "id": "400197961",
+      "name": "エグナティア",
+      "filename": "egnatia"
+    },
+    {
+      "id": "446",
+      "name": "ブレイダブリク",
+      "filename": "brei_ablik"
+    },
+    {
+      "id": "2147481404",
+      "name": "ヴィルトゥス",
+      "filename": "virtus"
+    },
+    {
+      "id": "1885396",
+      "name": "ズリニスキ",
+      "filename": "hsk_zrinjski"
+    },
+    {
+      "id": "1885554",
+      "name": "ジャルギリス",
+      "filename": "zalgiris_vilnius"
+    },
+    {
+      "id": "1885581",
+      "name": "ハムルン・スパルタンズ",
+      "filename": "hamrun_spartans"
+    },
+    {
+      "id": "2000012840",
+      "name": "ルドゴレツ",
+      "filename": "ludogorets"
+    },
+    {
+      "id": "1885380",
+      "name": "ディナモ・ミンスク",
+      "filename": "dinamo_minsk"
+    },
+    {
+      "id": "1914834",
+      "name": "ステアウア・ブカレスト",
+      "filename": "fcsb"
+    },
+    {
+      "id": "2000000058",
+      "name": "インテル･クラブ･エスカルデス",
+      "filename": "inter_d_escaldes"
+    },
+    {
+      "id": "400108464",
+      "name": "シェルボーン",
+      "filename": "shelbourne"
+    },
+    {
+      "id": "1885604",
+      "name": "リンフィールド",
+      "filename": "linfield_fc"
+    },
+    {
+      "id": "1885747",
+      "name": "ツルヴェナ・ズヴェズダ",
+      "filename": "crvena_zvezda"
+    },
+    {
+      "id": "1885533",
+      "name": "フェレンツヴァロシュ",
+      "filename": "ferencv_ros"
+    },
+    {
+      "id": "36735",
+      "name": "ディナモ・キエフ",
+      "filename": "dynamo_kyiv"
+    },
+    {
+      "id": "2147483300",
+      "name": "ヴィクトリア・プルゼン",
+      "filename": "viktoria_plze"
+    },
+    {
+      "id": "400068644",
+      "name": "セルヴェッテ",
+      "filename": "servette_fc"
+    },
+    {
+      "id": "44323",
+      "name": "コペンハーゲン",
+      "filename": "k_benhavn"
+    },
+    {
+      "id": "2000000641",
+      "name": "パフォス",
+      "filename": "pafos_fc"
+    },
+    {
+      "id": "1885529",
+      "name": "マッカビ・テル・アヴィヴ",
+      "filename": "maccabi_tel_aviv"
+    },
+    {
+      "id": "674",
+      "name": "スロヴァン・ブラチスラヴァ",
+      "filename": "slovan_bratislava"
+    },
+    {
+      "id": "1884654",
+      "name": "レフ・ポズナン",
+      "filename": "lech_poznan"
+    },
+    {
+      "id": "31067",
+      "name": "レンジャーズ",
+      "filename": "rangers"
+    },
+    {
+      "id": "31033",
+      "name": "パナシナイコス",
+      "filename": "panathinaikos"
+    },
+    {
+      "id": "310",
+      "name": "リエカ",
+      "filename": "hnk_rijeka"
+    },
+    {
+      "id": "1885332",
+      "name": "ブラン",
+      "filename": "sk_brann"
+    },
+    {
+      "id": "1956494",
+      "name": "FC ザルツブルク",
+      "filename": "fc_salzburg"
+    },
+    {
+      "id": "2147483549",
+      "name": "カラバフ",
+      "filename": "qarabag_fk"
+    },
+    {
+      "id": "30997",
+      "name": "クルブ・ブルッヘ",
+      "filename": "club_brugge"
+    },
+    {
+      "id": "44137",
+      "name": "フェイエノールト",
+      "filename": "feyenoord"
+    },
+    {
+      "id": "33163",
+      "name": "フェネルバフチェ",
+      "filename": "fenerbah_e"
+    },
+    {
+      "id": "44203",
+      "name": "ニース",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "1914613",
+      "name": "SL ベンフィカ",
+      "filename": "sl_benfica"
+    },
+    {
+      "id": "655",
+      "name": "バーゼル",
+      "filename": "fc_basel"
+    },
+    {
+      "id": "2000000083",
+      "name": "ボデ/グリムト",
+      "filename": "fk_bod_glimt"
+    },
+    {
+      "id": "31057",
+      "name": "シュトゥルム・グラーツ",
+      "filename": "sturm_graz"
+    },
+    {
+      "id": "1914704",
+      "name": "セルティック",
+      "filename": "celtic"
+    },
+    {
+      "id": "1914838",
+      "name": "PSV",
+      "filename": "psv"
+    },
+    {
+      "id": "2000019580",
+      "name": "ユニオン",
+      "filename": "union"
+    },
+    {
+      "id": "31071",
+      "name": "アトレティック・クルブ",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "32847",
+      "name": "アーセナル",
+      "filename": "arsenal"
+    },
+    {
+      "id": "23437",
+      "name": "トッテナム",
+      "filename": "tottenham_hotspur"
+    },
+    {
+      "id": "1882482",
+      "name": "ビジャレアル",
+      "filename": "villarreal"
+    },
+    {
+      "id": "1914806",
+      "name": "ユベントス FC",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "1914854",
+      "name": "ボルシア・ドルトムント",
+      "filename": "borussia_dortmund"
+    },
+    {
+      "id": "30504",
+      "name": "レアル・マドリード CF",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "33192",
+      "name": "マルセイユ",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "420",
+      "name": "オリンピアコス",
+      "filename": "olympiakos_piraeus"
+    },
+    {
+      "id": "323",
+      "name": "スラヴィア・プラハ",
+      "filename": "slavia_praha"
+    },
+    {
+      "id": "1896634",
+      "name": "リバプール",
+      "filename": "liverpool"
+    },
+    {
+      "id": "1914808",
+      "name": "アトレティコ・マドリード",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "1914810",
+      "name": "FC バイエルン・ミュンヘン",
+      "filename": "fc_bayern_m_nchen"
+    },
+    {
+      "id": "1935290",
+      "name": "チェルシー FC",
+      "filename": "chelsea_fc"
+    },
+    {
+      "id": "31089",
+      "name": "アヤックス",
+      "filename": "ajax"
+    },
+    {
+      "id": "1914619",
+      "name": "FC インテルナツィオナーレ・ミラノ",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "1956449",
+      "name": "パリ・サンジェルマン",
+      "filename": "paris_saint_germain"
+    },
+    {
+      "id": "2147482134",
+      "name": "アタランタ",
+      "filename": "atalanta"
+    },
+    {
+      "id": "30983",
+      "name": "モナコ",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "31055",
+      "name": "レヴァークーゼン",
+      "filename": "bayer_leverkusen"
+    },
+    {
+      "id": "44136",
+      "name": "ニューカッスル・ユナイテッド",
+      "filename": "newcastle_united"
+    },
+    {
+      "id": "1903416",
+      "name": "バルセロナ",
+      "filename": "barcelona"
+    },
+    {
+      "id": "1956198",
+      "name": "マンチェスター・シティ",
+      "filename": "manchester_city"
+    },
+    {
+      "id": "2147481899",
+      "name": "ナポリ",
+      "filename": "napoli"
+    },
+    {
+      "id": "31023",
+      "name": "フランクフルト",
+      "filename": "eintracht_frankfurt"
+    },
+    {
+      "id": "31018",
+      "name": "ガラタサライ",
+      "filename": "galatasaray"
+    },
+    {
+      "id": "1939310",
+      "name": "スポルティング・リスボン",
+      "filename": "sporting_cp"
+    }
+  ]
+}

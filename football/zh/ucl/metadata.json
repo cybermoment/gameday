@@ -1,0 +1,418 @@
+{
+  "competition_name": "欧冠",
+  "competition_id": "2000001032",
+  "season_id": "2mr0u0l78k2gdsm79q56tb2fo",
+  "lang": "zh",
+  "teams": [
+    {
+      "id": "1885177",
+      "name": "古比斯",
+      "filename": "kups"
+    },
+    {
+      "id": "2000002596",
+      "name": "维托鲁尔",
+      "filename": "milsami_orhei"
+    },
+    {
+      "id": "2000019195",
+      "name": "伊比利亚俱乐部 1999",
+      "filename": "fc_saburtalo"
+    },
+    {
+      "id": "31098",
+      "name": "马尔默",
+      "filename": "malm_ff"
+    },
+    {
+      "id": "e9x62jymlef5ugsrijq19ur8q",
+      "name": "诺亚FC",
+      "filename": "noah"
+    },
+    {
+      "id": "2000000725",
+      "name": "布度诺斯特",
+      "filename": "buducnost_podgorica"
+    },
+    {
+      "id": "1885459",
+      "name": "利华迪亚",
+      "filename": "fc_levadia_tallinn"
+    },
+    {
+      "id": "2000019334",
+      "name": "道加瓦",
+      "filename": "rigas_futbola_skola"
+    },
+    {
+      "id": "2000002626",
+      "name": "卢布尔雅那奥林匹亚",
+      "filename": "olimpija_ljubljana"
+    },
+    {
+      "id": "482",
+      "name": "凯拉特",
+      "filename": "fc_kairat"
+    },
+    {
+      "id": "2000019538",
+      "name": "德里塔",
+      "filename": "drita"
+    },
+    {
+      "id": "2147482830",
+      "name": "迪费丹格03",
+      "filename": "fc_differdange_03"
+    },
+    {
+      "id": "2147482183",
+      "name": "新圣徒",
+      "filename": "the_new_saints"
+    },
+    {
+      "id": "1885492",
+      "name": "舒肯迪加79",
+      "filename": "kf_shk_ndija"
+    },
+    {
+      "id": "2000000467",
+      "name": "维京古尔",
+      "filename": "v_kingur"
+    },
+    {
+      "id": "2000019171",
+      "name": "林肯红魔",
+      "filename": "lincoln_red_imps_fc"
+    },
+    {
+      "id": "400197961",
+      "name": "伊格纳迪亚",
+      "filename": "egnatia"
+    },
+    {
+      "id": "446",
+      "name": "布雷达比利克",
+      "filename": "brei_ablik"
+    },
+    {
+      "id": "2147481404",
+      "name": "维图斯",
+      "filename": "virtus"
+    },
+    {
+      "id": "1885396",
+      "name": "兹林伊斯基",
+      "filename": "hsk_zrinjski"
+    },
+    {
+      "id": "1885554",
+      "name": "萨拉基利斯",
+      "filename": "zalgiris_vilnius"
+    },
+    {
+      "id": "1885581",
+      "name": "哈姆伦斯巴坦斯",
+      "filename": "hamrun_spartans"
+    },
+    {
+      "id": "2000012840",
+      "name": "卢多戈里耶",
+      "filename": "ludogorets"
+    },
+    {
+      "id": "1885380",
+      "name": "明斯克迪纳摩",
+      "filename": "dinamo_minsk"
+    },
+    {
+      "id": "1914834",
+      "name": "布加勒斯特星",
+      "filename": "fcsb"
+    },
+    {
+      "id": "2000000058",
+      "name": "伊斯卡尔德斯",
+      "filename": "inter_d_escaldes"
+    },
+    {
+      "id": "400108464",
+      "name": "谢尔伯恩",
+      "filename": "shelbourne"
+    },
+    {
+      "id": "1885604",
+      "name": "连菲特",
+      "filename": "linfield_fc"
+    },
+    {
+      "id": "1885747",
+      "name": "贝尔格莱德红星",
+      "filename": "crvena_zvezda"
+    },
+    {
+      "id": "1885533",
+      "name": "费伦茨瓦罗斯",
+      "filename": "ferencv_ros"
+    },
+    {
+      "id": "36735",
+      "name": "基辅迪纳摩",
+      "filename": "dynamo_kyiv"
+    },
+    {
+      "id": "2147483300",
+      "name": "比尔森胜利",
+      "filename": "viktoria_plze"
+    },
+    {
+      "id": "400068644",
+      "name": "塞尔维特",
+      "filename": "servette_fc"
+    },
+    {
+      "id": "44323",
+      "name": "哥本哈根",
+      "filename": "k_benhavn"
+    },
+    {
+      "id": "2000000641",
+      "name": "Pafos",
+      "filename": "pafos_fc"
+    },
+    {
+      "id": "1885529",
+      "name": "特拉维夫马卡比",
+      "filename": "maccabi_tel_aviv"
+    },
+    {
+      "id": "674",
+      "name": "斯洛文巴拉迪斯拉法",
+      "filename": "slovan_bratislava"
+    },
+    {
+      "id": "1884654",
+      "name": "莱克普斯纳",
+      "filename": "lech_poznan"
+    },
+    {
+      "id": "31067",
+      "name": "流浪者",
+      "filename": "rangers"
+    },
+    {
+      "id": "31033",
+      "name": "帕纳辛奈科斯",
+      "filename": "panathinaikos"
+    },
+    {
+      "id": "310",
+      "name": "里杰卡",
+      "filename": "hnk_rijeka"
+    },
+    {
+      "id": "1885332",
+      "name": "布兰恩",
+      "filename": "sk_brann"
+    },
+    {
+      "id": "1956494",
+      "name": "FC Salzburg",
+      "filename": "fc_salzburg"
+    },
+    {
+      "id": "2147483549",
+      "name": "卡拉巴赫",
+      "filename": "qarabag_fk"
+    },
+    {
+      "id": "30997",
+      "name": "布鲁日",
+      "filename": "club_brugge"
+    },
+    {
+      "id": "44137",
+      "name": "费耶诺德",
+      "filename": "feyenoord"
+    },
+    {
+      "id": "33163",
+      "name": "费内巴切",
+      "filename": "fenerbah_e"
+    },
+    {
+      "id": "44203",
+      "name": "尼斯",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "1914613",
+      "name": "里斯本与本菲卡",
+      "filename": "sl_benfica"
+    },
+    {
+      "id": "655",
+      "name": "巴塞尔",
+      "filename": "fc_basel"
+    },
+    {
+      "id": "2000000083",
+      "name": "波德格里姆特",
+      "filename": "fk_bod_glimt"
+    },
+    {
+      "id": "31057",
+      "name": "格拉茨飓风",
+      "filename": "sturm_graz"
+    },
+    {
+      "id": "1914704",
+      "name": "凯尔特人",
+      "filename": "celtic"
+    },
+    {
+      "id": "1914838",
+      "name": "埃因霍温",
+      "filename": "psv"
+    },
+    {
+      "id": "2000019580",
+      "name": "圣吉罗斯联合",
+      "filename": "union"
+    },
+    {
+      "id": "31071",
+      "name": "毕尔巴鄂竞技",
+      "filename": "athletic_club"
+    },
+    {
+      "id": "32847",
+      "name": "阿森纳",
+      "filename": "arsenal"
+    },
+    {
+      "id": "23437",
+      "name": "托特纳姆热刺",
+      "filename": "tottenham_hotspur"
+    },
+    {
+      "id": "1882482",
+      "name": "比利亚雷亚尔",
+      "filename": "villarreal"
+    },
+    {
+      "id": "1914806",
+      "name": "尤文图斯足球俱乐部",
+      "filename": "juventus_fc"
+    },
+    {
+      "id": "1914854",
+      "name": "多特蒙德",
+      "filename": "borussia_dortmund"
+    },
+    {
+      "id": "30504",
+      "name": "皇家马德里",
+      "filename": "real_madrid_c_f"
+    },
+    {
+      "id": "33192",
+      "name": "马赛",
+      "filename": "olympique_marseille"
+    },
+    {
+      "id": "420",
+      "name": "奥林匹亚科斯",
+      "filename": "olympiakos_piraeus"
+    },
+    {
+      "id": "323",
+      "name": "布拉格斯拉维亚",
+      "filename": "slavia_praha"
+    },
+    {
+      "id": "1896634",
+      "name": "利物浦",
+      "filename": "liverpool"
+    },
+    {
+      "id": "1914808",
+      "name": "马德里竞技",
+      "filename": "atl_tico_de_madrid"
+    },
+    {
+      "id": "1914810",
+      "name": "拜仁慕尼黑",
+      "filename": "fc_bayern_m_nchen"
+    },
+    {
+      "id": "1935290",
+      "name": "切尔西",
+      "filename": "chelsea_fc"
+    },
+    {
+      "id": "31089",
+      "name": "阿贾克斯",
+      "filename": "ajax"
+    },
+    {
+      "id": "1914619",
+      "name": "国际米兰",
+      "filename": "fc_internazionale_milano"
+    },
+    {
+      "id": "1956449",
+      "name": "Paris Saint-Germain",
+      "filename": "paris_saint_germain"
+    },
+    {
+      "id": "2147482134",
+      "name": "亚特兰大",
+      "filename": "atalanta"
+    },
+    {
+      "id": "30983",
+      "name": "摩纳哥",
+      "filename": "as_monaco"
+    },
+    {
+      "id": "31055",
+      "name": "勒沃库森",
+      "filename": "bayer_leverkusen"
+    },
+    {
+      "id": "44136",
+      "name": "纽卡斯尔联",
+      "filename": "newcastle_united"
+    },
+    {
+      "id": "1903416",
+      "name": "巴塞罗纳",
+      "filename": "barcelona"
+    },
+    {
+      "id": "1956198",
+      "name": "Manchester City",
+      "filename": "manchester_city"
+    },
+    {
+      "id": "2147481899",
+      "name": "那不勒斯",
+      "filename": "napoli"
+    },
+    {
+      "id": "31023",
+      "name": "法兰克福",
+      "filename": "eintracht_frankfurt"
+    },
+    {
+      "id": "31018",
+      "name": "加拉塔萨雷",
+      "filename": "galatasaray"
+    },
+    {
+      "id": "1939310",
+      "name": "葡萄牙体育",
+      "filename": "sporting_cp"
+    }
+  ]
+}

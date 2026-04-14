@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - فيرينكفار
+ وس //
+X-WR-CALNAME:دوري أبطال أوروبا - فيرينكفاروس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:نوح VS فيرينكفاروس
+DTSTART:20250722T160000Z
+DTEND:20250722T180000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: Kotaik Stadium\n
+ النتيجة: 1 - 2
+GEO:40.268491;44.635429
+LOCATION:Kotaik Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kotaik Stadium";X-APPLE-R
+ ADIUS=70;X-TITLE="Kotaik Stadium":geo:40.268491,44.635429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS نوح
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-701azda2tmhto993kf731cowk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: غروباما 
+ أرينا\nالنتيجة: 4 - 3
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS فيرينكفاروس
+DTSTART:20250806T173000Z
+DTEND:20250806T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد لو
+ دوجوريتس أرينا\nالنتيجة: 0 - 0
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS لودوجوريتس رازجراد
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: غروباما 
+ أرينا\nالنتيجة: 3 - 0
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS كارباغ أغدام
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: غروبا
+ ما أرينا\nالنتيجة: 1 - 3
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كارباغ أغدام VS فيرينكفاروس
+DTSTART:20250827T164500Z
+DTEND:20250827T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: ملعب ت
+ وفيق بهراموف\nالنتيجة: 2 - 3
+GEO:40.39734;49.8524
+LOCATION:ملعب توفيق بهراموف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توفيق به
+ راموف";X-APPLE-RADIUS=70;X-TITLE="ملعب توفيق بهراموف"
+ :geo:40.39734,49.8524
+END:VEVENT
+END:VCALENDAR

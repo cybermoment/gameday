@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - لودوجوريت
+ س رازجراد //
+X-WR-CALNAME:دوري أبطال أوروبا - لودوجوريتس را
+ زجراد
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS دينامو مينسك
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-byxwrb3zraa87jwdky8998x04@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد لود
+ وجوريتس أرينا\nالنتيجة: 1 - 0
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دينامو مينسك VS لودوجوريتس رازجراد
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-c1usp3qcw3ovrey4e9ls3n0no@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Városi Stadion\n
+ النتيجة: 2 - 2
+GEO:47.80213;20.567334
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.80213,20.567334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رييكا VS لودوجوريتس رازجراد
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد رو
+ جيفيكا\nالنتيجة: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:استاد روجيفيكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد روجيفيك
+ ا";X-APPLE-RADIUS=70;X-TITLE="استاد روجيفيكا":geo:45.347873,
+ 14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS رييكا
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد لو
+ دوجوريتس أرينا\nالنتيجة: 3 - 1
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS فيرينكفاروس
+DTSTART:20250806T173000Z
+DTEND:20250806T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد لو
+ دوجوريتس أرينا\nالنتيجة: 0 - 0
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS لودوجوريتس رازجراد
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: غروباما 
+ أرينا\nالنتيجة: 3 - 0
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+END:VCALENDAR

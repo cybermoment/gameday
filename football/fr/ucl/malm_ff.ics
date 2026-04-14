@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - Malmö FF //
+X-WR-CALNAME:Ligue des champions - Malmö FF
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Iberia 1999 VS Malmö FF
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Mikheil Meskhis sakhelobis Stadioni\nRésultat: 1 - 3
+GEO:41.709809;44.746183
+LOCATION:Mikheil Meskhis sakhelobis Stadioni
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mikheil Meskhis sakhelobi
+ s Stadioni";X-APPLE-RADIUS=70;X-TITLE="Mikheil Meskhis sakhelobis Stadioni
+ ":geo:41.709809,44.746183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malmö FF VS Iberia 1999
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Eleda Stadion\nRésultat: 3 - 1
+GEO:55.583646;12.987815
+LOCATION:Eleda Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Eleda Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Eleda Stadion":geo:55.583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rīgas FS VS Malmö FF
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: LNK Sporta Parks (dabīgais)\nRésultat: 1 - 4
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malmö FF VS Rīgas FS
+DTSTART:20250730T170000Z
+DTEND:20250730T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: Eleda Stadion\nRésultat: 1 - 0
+GEO:55.583646;12.987815
+LOCATION:Eleda Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Eleda Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Eleda Stadion":geo:55.583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malmö FF VS FC Copenhague
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
+ ication\nStade: Eleda Stadion\nRésultat: 0 - 0
+GEO:55.583646;12.987815
+LOCATION:Eleda Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Eleda Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Eleda Stadion":geo:55.583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Copenhague VS Malmö FF
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
+ ication\nStade: Parken\nRésultat: 5 - 0
+GEO:55.702718;12.572291
+LOCATION:Parken
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parken";X-APPLE-RADIUS=70
+ ;X-TITLE="Parken":geo:55.702718,12.572291
+END:VEVENT
+END:VCALENDAR

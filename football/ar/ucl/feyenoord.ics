@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - فاينورد ر
+ وتردام //
+X-WR-CALNAME:دوري أبطال أوروبا - فاينورد روترد
+ ام
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:فاينورد روتردام VS فناربخشة
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد في
+ ينورد\nالنتيجة: 2 - 1
+GEO:51.893855;4.523191
+LOCATION:استاد فيينورد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيينورد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد فيينورد":geo:51.893855,4.52
+ 3191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فناربخشة VS فاينورد روتردام
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب شكر
+ ي سراج أوغلو\nالنتيجة: 5 - 2
+GEO:40.987799;29.03686
+LOCATION:ملعب شكري سراج أوغلو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب شكري سرا
+ ج أوغلو";X-APPLE-RADIUS=70;X-TITLE="ملعب شكري سراج أو
+ غلو":geo:40.987799,29.03686
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - سلافيا بر
+ اغ //
+X-WR-CALNAME:دوري أبطال أوروبا - سلافيا براغ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS بودو جليمت
+DTSTART:20250917T164500Z
+DTEND:20250917T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4tvunt9ccx4cn40c8x2jlnwno@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 2 - 2
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS سلافيا براغ
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4z8to3catex92f0ng2u3f7310@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS سلافيا براغ
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-58ls4qn0s2o0x3uzwo5lzs36c@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 0 - 0
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS أرسنال
+DTSTART:20251104T174500Z
+DTEND:20251104T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ar7r75v5tj8t5k5c0lafex3o@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 0 - 3
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS أتليتيكو بلباو
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 0 - 0
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:توتنهام VS سلافيا براغ
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5rifo72z7v3jxnx77051fy978@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
+ تسبير\nالنتيجة: 3 - 0
+GEO:51.604217;-0.066229
+LOCATION:ملعب توتنهام هوتسبير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب توتنهام 
+ هوتسبير";X-APPLE-RADIUS=70;X-TITLE="ملعب توتنهام هوت
+ سبير":geo:51.604217,-0.066229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلافيا براغ VS برشلونة
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-61upafdbc4mwkdmp1k5ajqu50@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
+ نتيجة: 2 - 4
+GEO:50.067525;14.47114
+LOCATION:استاد سينوبو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سينوبو";
+ X-APPLE-RADIUS=70;X-TITLE="استاد سينوبو":geo:50.067525,14.47114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي بافوس VS سلافيا براغ
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-66qr8r2yuseer81y1i1tp5hqs@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
+ جة: 4 - 1
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+END:VCALENDAR

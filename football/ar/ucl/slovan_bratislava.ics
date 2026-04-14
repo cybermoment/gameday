@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - سلوفان بر
+ اتيسلافا //
+X-WR-CALNAME:دوري أبطال أوروبا - سلوفان براتيس
+ لافا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS زرينيسكي موستا
+DTSTART:20250722T181500Z
+DTEND:20250722T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب تيه
+ يلني بول\nالنتيجة: 4 - 0
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS سلوفان براتيسلافا
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد بي
+ لي برييج\nالنتيجة: 2 - 2
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS سلوفان براتيسلافا
+DTSTART:20250806T150000Z
+DTEND:20250806T170000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: استاد أو
+ رتاليك\nالنتيجة: 1 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS قايرات ألماته
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثالث\nالملعب: ملعب تيه
+ يلني بول\nالنتيجة: 1 - 0
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+END:VCALENDAR

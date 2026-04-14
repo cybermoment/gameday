@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Левадия
+  //
+X-WR-CALNAME:Лига чемпионов УЕФА - Левадия
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Левадия VS Даугава Рига
+DTSTART:20250708T163000Z
+DTEND:20250708T183000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: Стад
+ ион А Ле Кок Арена\nРезультат: 0 - 1
+GEO:59.421303;24.732022
+LOCATION:Стадион А Ле Кок Арена
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион А Ле К
+ ок Арена";X-APPLE-RADIUS=70;X-TITLE="Стадион А Ле Кок 
+ Арена":geo:59.421303,24.732022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Даугава Рига VS Левадия
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: Квалификационный раунд\nСтадион: LNK Sport
+ a Parks (dabīgais)\nРезультат: 1 - 0
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+END:VCALENDAR

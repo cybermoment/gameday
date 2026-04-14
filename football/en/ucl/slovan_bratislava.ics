@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Slovan Bratislava //
+X-WR-CALNAME:UEFA Champions League - Slovan Bratislava
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava VS HSK Zrinjski
+DTSTART:20250722T181500Z
+DTEND:20250722T201500Z
+DTSTAMP:20260414T022436Z
+UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
+ d\nStadium: Štadión Tehelné pole\nResult: 4 - 0
+GEO:48.163495;17.136698
+LOCATION:Štadión Tehelné pole
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Štadión Tehelné pole";
+ X-APPLE-RADIUS=70;X-TITLE="Štadión Tehelné pole":geo:48.163495,17.13669
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSK Zrinjski VS Slovan Bratislava
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
+ d\nStadium: Stadion Bijeli Brijeg\nResult: 2 - 2
+GEO:43.345619;17.795261
+LOCATION:Stadion Bijeli Brijeg
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Kairat VS Slovan Bratislava
+DTSTART:20250806T150000Z
+DTEND:20250806T170000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
+ d\nStadium: Ortalyq stadıon\nResult: 1 - 0
+GEO:43.238376;76.924183
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:43.238376,76.924183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava VS FC Kairat
+DTSTART:20250812T181500Z
+DTEND:20250812T201500Z
+DTSTAMP:20260414T022436Z
+UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
+ d\nStadium: Štadión Tehelné pole\nResult: 1 - 0
+GEO:48.163495;17.136698
+LOCATION:Štadión Tehelné pole
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Štadión Tehelné pole";
+ X-APPLE-RADIUS=70;X-TITLE="Štadión Tehelné pole":geo:48.163495,17.13669
+ 8
+END:VEVENT
+END:VCALENDAR

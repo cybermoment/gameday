@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Atlético de Madrid //
+X-WR-CALNAME:UEFA Champions League - Atlético de Madrid
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Liverpool VS Atlético de Madrid
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Anfield\nResultado: 3 - 2
+GEO:53.430828;-2.960853
+LOCATION:Anfield
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Anfield";X-APPLE-RADIUS=7
+ 0;X-TITLE="Anfield":geo:53.430828,-2.960853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Eintracht Frankfurt
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Riyadh Air Metropolitano\nResultado: 5 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Atlético de Madrid
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Emirates Stadium\nResultado: 4 - 0
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Union Saint-Gilloise
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Riyadh Air Metropolitano\nResultado: 3 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS FC Internazionale Milano
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Riyadh Air Metropolitano\nResultado: 2 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV Eindhoven VS Atlético de Madrid
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5qqu3i9dgj6ummpnfzm05yf4k@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Philips Stadion\nResultado: 2 - 3
+GEO:51.44163;5.467452
+LOCATION:Philips Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Philips Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Philips Stadion":geo:51.44163,5.467452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray VS Atlético de Madrid
+DTSTART:20260121T174500Z
+DTEND:20260121T194500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: RAMS Park\nResultado: 1 - 1
+GEO:41.103391;28.991064
+LOCATION:RAMS Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RAMS Park";X-APPLE-RADIUS
+ =70;X-TITLE="RAMS Park":geo:41.103391,28.991064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Bodo Glimt
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Riyadh Air Metropolitano\nResultado: 1 - 2
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brujas VS Atlético de Madrid
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
+ liminatorios\nEstadio: Jan Breydelstadion\nResultado: 3 - 3
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Brujas
+DTSTART:20260224T174500Z
+DTEND:20260224T194500Z
+DTSTAMP:20260414T022438Z
+UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
+ liminatorios\nEstadio: Riyadh Air Metropolitano\nResultado: 4 - 1
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Tottenham Hotspur
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-25hk7u04fup5ze2892je0za50@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
+ stadio: Riyadh Air Metropolitano\nResultado: 5 - 2
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham Hotspur VS Atlético de Madrid
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-2a1ktq8ai1l1rh7uycbh0pk44@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
+ stadio: Tottenham Hotspur Stadium\nResultado: 3 - 2
+GEO:51.604217;-0.066229
+LOCATION:Tottenham Hotspur Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tottenham Hotspur Stadium
+ ";X-APPLE-RADIUS=70;X-TITLE="Tottenham Hotspur Stadium":geo:51.604217,-0.0
+ 66229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Barcelona VS Atlético de Madrid
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Cuartos de Final\nE
+ stadio: Spotify Camp Nou\nResultado: 0 - 2
+GEO:41.38089;2.122813
+LOCATION:Spotify Camp Nou
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
+ -RADIUS=70;X-TITLE="Spotify Camp Nou":geo:41.38089,2.122813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS FC Barcelona
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: Cuartos de Final\nE
+ stadio: Riyadh Air Metropolitano
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - ستياوا بو
+ خارست //
+X-WR-CALNAME:دوري أبطال أوروبا - ستياوا بوخارس
+ ت
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ستياوا بوخارست VS إنتر إسكالديس
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63wi7u2dyddcx22dn3xlcxno4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Stadionul Steaua\n
+ النتيجة: 3 - 1
+GEO:44.412846;26.040468
+LOCATION:Stadionul Steaua
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Steaua";X-APPLE
+ -RADIUS=70;X-TITLE="Stadionul Steaua":geo:44.412846,26.040468
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إنتر إسكالديس VS ستياوا بوخارست
+DTSTART:20250715T183000Z
+DTEND:20250715T203000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-680o3jgip3hhagbzecne30ob8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: Estadi de la FAF d
+ 'Encamp\nالنتيجة: 2 - 1
+GEO:42.533481;1.575929
+LOCATION:Estadi de la FAF d'Encamp
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi de la FAF d'Encamp
+ ";X-APPLE-RADIUS=70;X-TITLE="Estadi de la FAF d'Encamp":geo:42.533481,1.57
+ 5929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سكنديا VS ستياوا بوخارست
+DTSTART:20250722T180000Z
+DTEND:20250722T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: توشي برو
+ سكي أرينا\nالنتيجة: 1 - 0
+GEO:42.005743;21.425598
+LOCATION:توشي بروسكي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="توشي بروسكي أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="توشي بروسكي أرينا":geo
+ :42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ستياوا بوخارست VS سكنديا
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: الملعب ا
+ لوطني\nالنتيجة: 1 - 2
+GEO:44.437208;26.152498
+LOCATION:الملعب الوطني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب الوطني
+ ";X-APPLE-RADIUS=70;X-TITLE="الملعب الوطني":geo:44.437208,26.1
+ 52498
+END:VEVENT
+END:VCALENDAR

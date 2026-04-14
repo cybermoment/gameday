@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - سبورتينغ 
+ لشبونة //
+X-WR-CALNAME:دوري أبطال أوروبا - سبورتينغ لشبو
+ نة
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS قايرات ألماته
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 4 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS سبورتينغ لشبونة
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS مارسيليا
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS سبورتينغ لشبونة
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5c6o9gkconkcdrpnsx0b5k4r8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 1 - 1
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS كلوب بروج
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 3 - 0
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بايرن ميونيخ VS سبورتينغ لشبونة
+DTSTART:20251209T174500Z
+DTEND:20251209T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
+ نتيجة: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:أليانز أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز أرينا";
+ X-APPLE-RADIUS=70;X-TITLE="أليانز أرينا":geo:48.218779,11.62474
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS باريس سان جيرمان
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
+ الادي\nالنتيجة: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتليتيكو بلباو VS سبورتينغ لشبونة
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: مرحلة الدوري\nالملعب: استاد سان ماميه\
+ nالنتيجة: 2 - 3
+GEO:43.264173;-2.949383
+LOCATION:استاد سان ماميه
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان مام
+ يه";X-APPLE-RADIUS=70;X-TITLE="استاد سان ماميه":geo:43.2641
+ 73,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بودو جليمت VS سبورتينغ لشبونة
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد أسبميرا\nالنتي
+ جة: 3 - 0
+GEO:67.276677;14.384365
+LOCATION:استاد أسبميرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أسبميرا
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد أسبميرا":geo:67.276677,14.3
+ 84365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS بودو جليمت
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور الـ16\nالملعب: استاد خوسيه ألفالاد
+ ي\nالنتيجة: 5 - 0
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ لشبونة VS أرسنال
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: استاد خوسيه ألفا
+ لادي\nالنتيجة: 0 - 1
+GEO:38.761207;-9.160876
+LOCATION:استاد خوسيه ألفالادي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد خوسيه أ
+ لفالادي";X-APPLE-RADIUS=70;X-TITLE="استاد خوسيه ألفا
+ لادي":geo:38.761207,-9.160876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أرسنال VS سبورتينغ لشبونة
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: ربع النهائي\nالملعب: استاد الإمارات
+GEO:51.555075;-0.108458
+LOCATION:استاد الإمارات
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد الإمارا
+ ت";X-APPLE-RADIUS=70;X-TITLE="استاد الإمارات":geo:51.555075,
+ -0.108458
+END:VEVENT
+END:VCALENDAR

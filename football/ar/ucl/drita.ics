@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - دريتا //
+X-WR-CALNAME:دوري أبطال أوروبا - دريتا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:دريتا VS ديفيردانج
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-17lgmf0v333oyc7ocwdkushlg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: ملعب فاضل 
+ فوكري\nالنتيجة: 1 - 0
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ديفيردانج VS دريتا
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-19oizyt50o94u436hep5n8hlg@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بار
+ ك دي سبورت\nالنتيجة: 2 - 3
+GEO:49.513897;5.889788
+LOCATION:استاد بارك دي سبورت
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بارك دي 
+ سبورت";X-APPLE-RADIUS=70;X-TITLE="استاد بارك دي سبورت
+ ":geo:49.513897,5.889788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبنهاجن VS دريتا
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: تيليا با
+ ركن\nالنتيجة: 2 - 0
+GEO:55.702718;12.572291
+LOCATION:تيليا باركن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="تيليا باركن";X-
+ APPLE-RADIUS=70;X-TITLE="تيليا باركن":geo:55.702718,12.572291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دريتا VS كوبنهاجن
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: ملعب فاض
+ ل فوكري\nالنتيجة: 0 - 1
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - داوغافا ر
+ يغا //
+X-WR-CALNAME:دوري أبطال أوروبا - داوغافا ريغا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ليفاديا تالين VS داوغافا ريغا
+DTSTART:20250708T163000Z
+DTEND:20250708T183000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: أ. لي كوك أ
+ رينا\nالنتيجة: 0 - 1
+GEO:59.421303;24.732022
+LOCATION:أ. لي كوك أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أ. لي كوك أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="أ. لي كوك أرينا":geo:59.421303,2
+ 4.732022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:داوغافا ريغا VS ليفاديا تالين
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: LNK Sporta Parks (
+ dabīgais)\nالنتيجة: 1 - 0
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:داوغافا ريغا VS مالمو
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: LNK Sporta Parks
+  (dabīgais)\nالنتيجة: 1 - 4
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS داوغافا ريغا
+DTSTART:20250730T170000Z
+DTEND:20250730T190000Z
+DTSTAMP:20260414T022441Z
+UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الثاني\nالملعب: استاد سو
+ يدبانك\nالنتيجة: 1 - 0
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+END:VCALENDAR

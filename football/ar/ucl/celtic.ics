@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - نادي سلتي
+ ك //
+X-WR-CALNAME:دوري أبطال أوروبا - نادي سلتيك
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:نادي سلتيك VS قايرات ألماته
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: سلتيك 
+ بارك\nالنتيجة: 0 - 0
+GEO:55.849719;-4.20558
+LOCATION:سلتيك بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سلتيك بارك";X-AP
+ PLE-RADIUS=70;X-TITLE="سلتيك بارك":geo:55.849719,-4.20558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:قايرات ألماته VS نادي سلتيك
+DTSTART:20250826T164500Z
+DTEND:20250826T184500Z
+DTSTAMP:20260414T022442Z
+UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: المبارايات الاختتامية\nالملعب: استاد 
+ أورتاليك\nالنتيجة: 0 - 0
+GEO:43.238376;76.924183
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:43.238376,
+ 76.924183
+END:VEVENT
+END:VCALENDAR

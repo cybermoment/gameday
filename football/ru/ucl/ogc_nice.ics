@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Ницца //
+X-WR-CALNAME:Лига чемпионов УЕФА - Ницца
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Ницца VS Бенфика
+DTSTART:20250806T190000Z
+DTEND:20250806T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Альянц Ривьера\nРезу
+ льтат: 0 - 2
+GEO:43.705119;7.192622
+LOCATION:Альянц Ривьера
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Альянц Ривьер
+ а";X-APPLE-RADIUS=70;X-TITLE="Альянц Ривьера":geo:43.705119,
+ 7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бенфика VS Ницца
+DTSTART:20250812T190000Z
+DTEND:20250812T210000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
+DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
+ я: 3-й Раунд\nСтадион: Стадион Эстадио до С
+ порт Лисбоа э Бенфика (Стадион света)\nРе
+ зультат: 2 - 0
+GEO:38.752648;-9.184699
+LOCATION:Стадион Эстадио до Спорт Лисбоа э Б
+ енфика (Стадион света)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Эстад
+ ио до Спорт Лисбоа э Бенфика (Стадион све
+ та)";X-APPLE-RADIUS=70;X-TITLE="Стадион Эстадио до Сп
+ орт Лисбоа э Бенфика (Стадион света)":geo:38.
+ 752648,-9.184699
+END:VEVENT
+END:VCALENDAR

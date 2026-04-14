@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Zalgiris Vilnius //
+X-WR-CALNAME:UEFA Champions League - Zalgiris Vilnius
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Zalgiris Vilnius VS Hamrun Spartans
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
+ d\nStadium: FK Žalgiris namų stadionas\nResult: 2 - 0
+GEO:54.668542;25.294725
+LOCATION:FK Žalgiris namų stadionas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="FK Žalgiris namų stadio
+ nas";X-APPLE-RADIUS=70;X-TITLE="FK Žalgiris namų stadionas":geo:54.66854
+ 2,25.294725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamrun Spartans VS Zalgiris Vilnius
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022436Z
+UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
+DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
+ d\nStadium: Ta'Qali National Stadium\nResult: 2 - 0
+GEO:35.894817;14.415141
+LOCATION:Ta'Qali National Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ta'Qali National Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="Ta'Qali National Stadium":geo:35.894817,14.415
+ 141
+END:VEVENT
+END:VCALENDAR

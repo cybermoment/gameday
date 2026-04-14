@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Indian Super League - Mumbai City //
+X-WR-CALNAME:Indian Super League - Mumbai City
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Mumbai City VS Chennaiyin FC
+DTSTART:20260219T140000Z
+DTEND:20260219T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8dlcot3dh5pr3poisqej66978@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Mumbai Football Arena\nResult: 1 - 0
+GEO:19.129035;72.835427
+LOCATION:Mumbai Football Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mumbai Football Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Mumbai Football Arena":geo:19.129035,72.835427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kerala Blasters VS Mumbai City
+DTSTART:20260222T140000Z
+DTEND:20260222T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8gr6ccg50p3tzwfeget6b572s@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Jawaharlal Nehru Stadium\nResult: 0 - 1
+GEO:9.997269;76.300886
+LOCATION:Jawaharlal Nehru Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jawaharlal Nehru Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="Jawaharlal Nehru Stadium":geo:9.997269,76.3008
+ 86
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mumbai City VS NorthEast United
+DTSTART:20260301T140000Z
+DTEND:20260301T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8mxs1mnve62o2s54viw1gg93o@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Mumbai Football Arena\nResult: 1 - 1
+GEO:19.129035;72.835427
+LOCATION:Mumbai Football Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mumbai Football Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Mumbai Football Arena":geo:19.129035,72.835427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mumbai City VS Sporting Delhi
+DTSTART:20260308T140000Z
+DTEND:20260308T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8r1uxbm1k2pbhsx4r6hsc58gk@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Mumbai Football Arena\nResult: 2 - 2
+GEO:19.129035;72.835427
+LOCATION:Mumbai Football Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mumbai Football Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Mumbai Football Arena":geo:19.129035,72.835427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Kashi VS Mumbai City
+DTSTART:20260315T140000Z
+DTEND:20260315T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8wdsn3ed89u7f48hku8pe6yhg@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Kishore Bharati Krirangan\nResult: 1 - 2
+GEO:22.494282;88.394546
+LOCATION:Kishore Bharati Krirangan
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kishore Bharati Krirangan
+ ";X-APPLE-RADIUS=70;X-TITLE="Kishore Bharati Krirangan":geo:22.494282,88.3
+ 94546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mohun Bagan VS Mumbai City
+DTSTART:20260320T140000Z
+DTEND:20260320T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-8zw6yx2zycl7o2o1jlpzf2yhg@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 0 - 1
+GEO:22.569074;88.409037
+LOCATION:Vivekananda Yuba Bharati Krirangan Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vivekananda Yuba Bharati 
+ Krirangan Stadium";X-APPLE-RADIUS=70;X-TITLE="Vivekananda Yuba Bharati Kri
+ rangan Stadium":geo:22.569074,88.409037
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mumbai City VS Odisha FC
+DTSTART:20260405T140000Z
+DTEND:20260405T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9bcmrkruj63ehcypr5d8lbrpw@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Mumbai Football Arena\nResult: 1 - 0
+GEO:19.129035;72.835427
+LOCATION:Mumbai Football Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mumbai Football Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Mumbai Football Arena":geo:19.129035,72.835427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jamshedpur FC VS Mumbai City
+DTSTART:20260409T140000Z
+DTEND:20260409T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9dqm0jvock9jajw4lljfdvod0@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: JRD Tata Sports Complex Stadium\nResult: 1 - 1
+GEO:22.805989;86.193473
+LOCATION:JRD Tata Sports Complex Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="JRD Tata Sports Complex S
+ tadium";X-APPLE-RADIUS=70;X-TITLE="JRD Tata Sports Complex Stadium":geo:22
+ .805989,86.193473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goa VS Mumbai City
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9kv2lo0lvw5e9zvz0hp7mhr84@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Jawaharlal Nehru Stadium Goa
+GEO:15.289329;73.962412
+LOCATION:Jawaharlal Nehru Stadium Goa
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jawaharlal Nehru Stadium 
+ Goa";X-APPLE-RADIUS=70;X-TITLE="Jawaharlal Nehru Stadium Goa":geo:15.28932
+ 9,73.962412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru FC VS Mumbai City
+DTSTART:20260425T113000Z
+DTEND:20260425T133000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9odh7pc443wozr629786veaz8@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Sree Kanteerava Stadium
+GEO:12.969651;77.593453
+LOCATION:Sree Kanteerava Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sree Kanteerava Stadium";
+ X-APPLE-RADIUS=70;X-TITLE="Sree Kanteerava Stadium":geo:12.969651,77.59345
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mumbai City VS Kingfisher East Bengal
+DTSTART:20260505T140000Z
+DTEND:20260505T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9utt6339gz02mdn18ahy7e32s@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Mumbai Football Arena
+GEO:19.129035;72.835427
+LOCATION:Mumbai Football Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mumbai Football Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Mumbai Football Arena":geo:19.129035,72.835427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mohammedan SC VS Mumbai City
+DTSTART:20260515T140000Z
+DTEND:20260515T160000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-9sok9bccuu6yy671e9vassw7o@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Kishore Bharati Krirangan
+GEO:22.494282;88.394546
+LOCATION:Kishore Bharati Krirangan
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kishore Bharati Krirangan
+ ";X-APPLE-RADIUS=70;X-TITLE="Kishore Bharati Krirangan":geo:22.494282,88.3
+ 94546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minerva Punjab VS Mumbai City
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260414T022445Z
+UID:fifa-bcwes78dnl29r0mpe7pcardas@fifa.com
+DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
+ um: Jawaharlal Nehru Stadium
+GEO:28.582845;77.234359
+LOCATION:Jawaharlal Nehru Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jawaharlal Nehru Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="Jawaharlal Nehru Stadium":geo:28.582845,77.234
+ 359
+END:VEVENT
+END:VCALENDAR

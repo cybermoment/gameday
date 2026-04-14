@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - نيو سانتس 
+ //
+X-WR-CALNAME:دوري أبطال أوروبا - نيو سانتس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:نيو سانتس VS سكنديا
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد بار
+ ك هول\nالنتيجة: 0 - 0
+GEO:52.875884;-3.026315
+LOCATION:استاد بارك هول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بارك هو
+ ل";X-APPLE-RADIUS=70;X-TITLE="استاد بارك هول":geo:52.875884,-
+ 3.026315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سكنديا VS نيو سانتس
+DTSTART:20250715T180000Z
+DTEND:20250715T200000Z
+DTSTAMP:20260414T022442Z
+UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: توشي بروس
+ كي أرينا\nالنتيجة: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:توشي بروسكي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="توشي بروسكي أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="توشي بروسكي أرينا":geo
+ :42.005743,21.425598
+END:VEVENT
+END:VCALENDAR

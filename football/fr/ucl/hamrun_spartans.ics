@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - Hamrun Spartans //
+X-WR-CALNAME:Ligue des champions - Hamrun Spartans
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Žalgiris Vilnius VS Hamrun Spartans
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: FK Žalgiris namų stadionas\nRésultat: 2 - 0
+GEO:54.668542;25.294725
+LOCATION:FK Žalgiris namų stadionas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="FK Žalgiris namų stadio
+ nas";X-APPLE-RADIUS=70;X-TITLE="FK Žalgiris namų stadionas":geo:54.66854
+ 2,25.294725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamrun Spartans VS Žalgiris Vilnius
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Ta'Qali National Stadium\nRésultat: 2 - 0
+GEO:35.894817;14.415141
+LOCATION:Ta'Qali National Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ta'Qali National Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="Ta'Qali National Stadium":geo:35.894817,14.415
+ 141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamrun Spartans VS Dynamo Kiev
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: MFA Centenary Stadium\nRésultat: 0 - 3
+GEO:35.896638;14.415425
+LOCATION:MFA Centenary Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MFA Centenary Stadium";X-
+ APPLE-RADIUS=70;X-TITLE="MFA Centenary Stadium":geo:35.896638,14.415425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Kiev VS Hamrun Spartans
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260414T022438Z
+UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
+ ication\nStade: Motor Lublin Arena\nRésultat: 3 - 0
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+END:VCALENDAR

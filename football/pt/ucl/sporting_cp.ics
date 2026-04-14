@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga dos Campeões da UEFA - Sporting //
+X-WR-CALNAME:Liga dos Campeões da UEFA - Sporting
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Sporting VS Kairat Almaty
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estádio José Alvalade\nResultado: 4 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli VS Sporting
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Stadio Diego Armando Maradona\nResultado: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting VS Olympique de Marseille
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estádio José Alvalade\nResultado: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus FC VS Sporting
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5c6o9gkconkcdrpnsx0b5k4r8@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Allianz Stadium\nResultado: 1 - 1
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting VS Club Brugge
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estádio José Alvalade\nResultado: 3 - 0
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Bayern München VS Sporting
+DTSTART:20251209T174500Z
+DTEND:20251209T194500Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Allianz Arena\nResultado: 3 - 1
+GEO:48.218779;11.624743
+LOCATION:Allianz Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena";X-APPLE-RA
+ DIUS=70;X-TITLE="Allianz Arena":geo:48.218779,11.624743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting VS Paris Saint-Germain
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estádio José Alvalade\nResultado: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Bilbao VS Sporting
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
+ \nEstádio: Estadio de San Mamés\nResultado: 2 - 3
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodo Glimt VS Sporting
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Oitavas de fi
+ nal\nEstádio: Aspmyra Stadion\nResultado: 3 - 0
+GEO:67.276677;14.384365
+LOCATION:Aspmyra Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Aspmyra Stadion":geo:67.276677,14.384365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting VS Bodo Glimt
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+DTSTAMP:20260414T022440Z
+UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Oitavas de fi
+ nal\nEstádio: Estádio José Alvalade\nResultado: 5 - 0
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting VS Arsenal
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Quartas de fi
+ nal\nEstádio: Estádio José Alvalade\nResultado: 0 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal VS Sporting
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+DTSTAMP:20260414T022440Z
+UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Quartas de fi
+ nal\nEstádio: Emirates Stadium
+GEO:51.555075;-0.108458
+LOCATION:Emirates Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Emirates Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Emirates Stadium":geo:51.555075,-0.108458
+END:VEVENT
+END:VCALENDAR
