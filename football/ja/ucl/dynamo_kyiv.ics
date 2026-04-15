@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ハムルン・スパルタンズ VS ディナモ・キエフ
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260415T121250Z
+DTSTAMP:20260415T141218Z
 UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第2
  ラウンド\nスタジアム: MFA Centenary Stadium\n結果: 0 - 3
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:ディナモ・キエフ VS ハムルン・スパルタンズ
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260415T121250Z
+DTSTAMP:20260415T141218Z
 UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第2
  ラウンド\nスタジアム: Motor Lublin Arena\n結果: 3 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:ディナモ・キエフ VS パフォス
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260415T121250Z
+DTSTAMP:20260415T141218Z
 UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
  ラウンド\nスタジアム: Motor Lublin Arena\n結果: 0 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:パフォス VS ディナモ・キエフ
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260415T121250Z
+DTSTAMP:20260415T141218Z
 UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
  ラウンド\nスタジアム: Alphamega Stadium\n結果: 2 - 0
