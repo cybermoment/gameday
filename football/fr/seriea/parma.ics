@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Parme
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-ck0djtpx1mzn7xyncs3eifv9w@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Allia
  nz Stadium\nRésultat: 2 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Atalanta
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-cp4xpnjmoxua4xp2os0o54kk4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Parme
 DTSTART:20250913T130000Z
 DTEND:20250913T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-cqrnaavxgeypn5c4h3nvbayvo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Unipo
  l Domus\nRésultat: 2 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Parme
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-cuoyvh94watus9uvz0po9sc9g@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giovanni Zini\nRésultat: 0 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Torino
 DTSTART:20250929T163000Z
 DTEND:20250929T183000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-d0p9a2knjp3jb4mdfk6zz2rdg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 2 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Lecce
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-d54tgboprbgicv3i71jygpz4k@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Parme
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-d7yrxii7ad8bixosyqiukk5qs@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Comunale Luigi Ferraris\nRésultat: 0 - 0
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Côme
 DTSTART:20251025T130000Z
 DTEND:20251025T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-dcexpeqv5l6k0hh0dq6prdwr8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 0
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Rome VS Parme
 DTSTART:20251029T173000Z
 DTEND:20251029T193000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-di2cpubntuatd5o4uesn6b9ck@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico\nRésultat: 2 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Bologne
 DTSTART:20251102T170000Z
 DTEND:20251102T190000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-dkg96ikwaxincjz0osgjhgqac@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 3
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Milan
 DTSTART:20251108T194500Z
 DTEND:20251108T214500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-dpamiled595lvr7mgypx0j28k@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 2 - 2
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Vérone VS Parme
 DTSTART:20251123T113000Z
 DTEND:20251123T133000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-du5o1hifd5wf9cgqx1k5qj9qs@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Marcantonio Bentegodi\nRésultat: 1 - 2
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Udinese
 DTSTART:20251129T140000Z
 DTEND:20251129T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-dxf1sr570o15ypiab9xekb47o@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 2
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Parme
 DTSTART:20251208T140000Z
 DTEND:20251208T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-e0nmvoyc7233dc8207kp6702c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Lazio
 DTSTART:20251213T170000Z
 DTEND:20251213T190000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-e54xho1vjc5wpg0ck8yumyjo4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 1
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Fiorentina
 DTSTART:20251227T113000Z
 DTEND:20251227T133000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-ecwjc630j0uezvzvfou83faj8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 0
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Parme
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-ei5v3fz0l6xr7nh933s8db76c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: MAPEI
   Stadium - Città del Tricolore\nRésultat: 1 - 1
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS FC Internazionale Milano
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-eld4erfmnbst0a3xa3q9lwwlw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 2
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Parme
 DTSTART:20260111T113000Z
 DTEND:20260111T133000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-epet2s8f9nzgwui77ttese8es@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ettore Giardiniero - Via del Mare\nRésultat: 1 - 2
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Naples VS Parme
 DTSTART:20260114T173000Z
 DTEND:20260114T193000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-e9n7n8yfsr12gjtx9g7mq426s@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Diego Armando Maradona\nRésultat: 0 - 0
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Genoa
 DTSTART:20260118T113000Z
 DTEND:20260118T133000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-etgr2t5n144nao4q1gjde7nro@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 0
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Parme
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-ev2qqd49urkz78tpy89ik2yac@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: New B
  alance Arena\nRésultat: 4 - 0
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Juventus FC
 DTSTART:20260201T194500Z
 DTEND:20260201T214500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-f1ixg21n70uh4ry0pt8aay68k@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 4
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Parme
 DTSTART:20260208T113000Z
 DTEND:20260208T133000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-f3kr5n5cib5fjzh4wkyfc23h0@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 1
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Hellas Vérone
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-3zvz7jtks1b36idc3qvcp9uc@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 2 - 1
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Parme
 DTSTART:20260222T170000Z
 DTEND:20260222T190000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-8iokjh6fgt42m820ro58io0k@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Meazza\nRésultat: 0 - 1
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Cagliari
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-bdvvpz48cp9w0lbkjdd56nmc@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 1
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Parme
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-fky4snxtqfviavccrzrolp1w@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Artemio Franchi\nRésultat: 0 - 0
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Parme
 DTSTART:20260313T194500Z
 DTEND:20260313T214500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-lbj87rsbmaa1b9d1oilvj8r8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico Grande Torino\nRésultat: 4 - 1
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Cremonese
 DTSTART:20260321T140000Z
 DTEND:20260321T160000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-psm3jqhx8gi7qcbean0x1iqc@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 0 - 2
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Parme
 DTSTART:20260404T184500Z
 DTEND:20260404T204500Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-rshw4ezhypjmwddcxoh9vkes@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico\nRésultat: 1 - 1
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Naples
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-xg55dqtttt1i6r7b92lzgrh0@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 1
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Parme
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-11wmdv9mupz47ouy3tovmpqtw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Bluen
  ergy Stadium
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Pise
 DTSTART:20260425T130000Z
 DTEND:20260425T150000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-15loq6a72majvehyhin9g5mok@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Parme
 DTSTART:20260503T000000Z
 DTEND:20260503T020000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-18ecm157hjfw0toe8zwky15w4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Meazza
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Rome
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-1dn74pjxuw8h50tg2lnkyjifo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Côme VS Parme
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-1fp64xokh0rihbfxsn2xgq9ec@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Sinigaglia
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Sassuolo
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260415T171532Z
+DTSTAMP:20260415T184934Z
 UID:fifa-1m0tb8uc3apsaakqsjlz6stg4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini
