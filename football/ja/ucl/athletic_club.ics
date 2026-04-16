@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:アトレティック・クルブ VS アーセナル
 DTSTART:20250916T164500Z
 DTEND:20250916T184500Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: サン・マメス\n結果: 0 - 2
@@ -23,7 +23,7 @@ SUMMARY:ボルシア・ドルトムント VS アトレティック・ク
  ルブ
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ジグナル・イドゥナ・パルク\n結果
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:アトレティック・クルブ VS カラバフ
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: サン・マメス\n結果: 3 - 1
@@ -52,7 +52,7 @@ SUMMARY:ニューカッスル・ユナイテッド VS アトレティッ
  ク・クルブ
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-5gj09fi5vmedayoh6kb4q08pg@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: セント ジェームズ パーク\n結果: 2 
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:スラヴィア・プラハ VS アトレティック・クルブ
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: シノー・ティップ・アレナ\n結果: 0
@@ -83,7 +83,7 @@ SUMMARY:アトレティック・クルブ VS パリ・サンジェルマ
  ン
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: サン・マメス\n結果: 0 - 0
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:アタランタ VS アトレティック・クルブ
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: アトレティ・アズーリ・ディター
@@ -112,7 +112,7 @@ SUMMARY:アトレティック・クルブ VS スポルティング・リ
  スボン
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260416T225209Z
+DTSTAMP:20260416T235134Z
 UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: サン・マメス\n結果: 2 - 3
