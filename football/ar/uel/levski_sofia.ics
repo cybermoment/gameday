@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - ليفسكي صوفي
+ ا //
+X-WR-CALNAME:الدوري الأوروبي - ليفسكي صوفيا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ليفسكي صوفيا VS هابويل بير شيفا
+DTSTART:20250710T173000Z
+DTEND:20250710T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6f82698scw2670hxkqci38kr8@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: استاد جورج
+ ي أسباروهوف\nالنتيجة: 0 - 0
+GEO:42.705304;23.363172
+LOCATION:استاد جورجي أسباروهوف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجي أ
+ سباروهوف";X-APPLE-RADIUS=70;X-TITLE="استاد جورجي أسب
+ اروهوف":geo:42.705304,23.363172
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هابويل بير شيفا VS ليفسكي صوفيا
+DTSTART:20250717T180000Z
+DTEND:20250717T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6ha35p7vsqiciqqyxt6el2rro@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: Városi Stadion\nا
+ لنتيجة: 1 - 1
+GEO:47.970448;21.713019
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.970448,21.713019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليفسكي صوفيا VS سبورتينغ براغا
+DTSTART:20250724T173000Z
+DTEND:20250724T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8f8mn7eq13nfk9o1q2ag1hxqs@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: استاد جور
+ جي أسباروهوف\nالنتيجة: 0 - 0
+GEO:42.705304;23.363172
+LOCATION:استاد جورجي أسباروهوف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جورجي أ
+ سباروهوف";X-APPLE-RADIUS=70;X-TITLE="استاد جورجي أسب
+ اروهوف":geo:42.705304,23.363172
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ براغا VS ليفسكي صوفيا
+DTSTART:20250731T190000Z
+DTEND:20250731T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8hzxfg2240bw9dtten8cg83ys@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ملعب براغ
+ ا البلدي\nالنتيجة: 1 - 0
+GEO:41.562554;-8.429904
+LOCATION:ملعب براغا البلدي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب براغا ال
+ بلدي";X-APPLE-RADIUS=70;X-TITLE="ملعب براغا البلدي":geo
+ :41.562554,-8.429904
+END:VEVENT
+END:VCALENDAR

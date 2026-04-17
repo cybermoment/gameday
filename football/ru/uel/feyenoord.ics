@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Фейеноорд /
+ /
+X-WR-CALNAME:Лига Европы УЕФА - Фейеноорд
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Спортинг Брага VS Фейеноорд
+DTSTART:20250924T190000Z
+DTEND:20250924T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2dfosrsh726tlvaj439c8qbro@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Estádio Municipal de Braga\nРезульта
+ т: 1 - 0
+GEO:41.562554;-8.429904
+LOCATION:Estádio Municipal de Braga
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Municipal de Bra
+ ga";X-APPLE-RADIUS=70;X-TITLE="Estádio Municipal de Braga":geo:41.562554,
+ -8.429904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фейеноорд VS Астон Вилла
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2n1jwdj6udqizkg3pw1vetkb8@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Стадион Фейеноорд\nРезул
+ ьтат: 0 - 2
+GEO:51.893855;4.523191
+LOCATION:Стадион Фейеноорд
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Фейен
+ оорд";X-APPLE-RADIUS=70;X-TITLE="Стадион Фейеноорд":ge
+ o:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фейеноорд VS Панатинаикос
+DTSTART:20251023T190000Z
+DTEND:20251023T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2qjpx0yzc7pltyr60azvjfuac@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Стадион Фейеноорд\nРезул
+ ьтат: 3 - 1
+GEO:51.893855;4.523191
+LOCATION:Стадион Фейеноорд
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Фейен
+ оорд";X-APPLE-RADIUS=70;X-TITLE="Стадион Фейеноорд":ge
+ o:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Штутгарт VS Фейеноорд
+DTSTART:20251106T200000Z
+DTEND:20251106T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3337fdi2i6glmnqiaoxn70t1w@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: MHPArena\nРезультат: 2 - 0
+GEO:48.792284;9.232024
+LOCATION:MHPArena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MHPArena";X-APPLE-RADIUS=
+ 70;X-TITLE="MHPArena":geo:48.792284,9.232024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фейеноорд VS Селтик
+DTSTART:20251127T174500Z
+DTEND:20251127T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-35bt5pch6rwksc4g3oz20sis4@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Стадион Фейеноорд\nРезул
+ ьтат: 1 - 3
+GEO:51.893855;4.523191
+LOCATION:Стадион Фейеноорд
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Фейен
+ оорд";X-APPLE-RADIUS=70;X-TITLE="Стадион Фейеноорд":ge
+ o:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стяуа Бухарест VS Фейеноорд
+DTSTART:20251211T200000Z
+DTEND:20251211T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3exemy7jjs0gsy8gnlivu7ytw@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Стадион Арена Национала\n
+ Результат: 4 - 3
+GEO:44.437208;26.152498
+LOCATION:Стадион Арена Национала
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Арена
+  Национала";X-APPLE-RADIUS=70;X-TITLE="Стадион Арена 
+ Национала":geo:44.437208,26.152498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фейеноорд VS Штурм Грац
+DTSTART:20260122T174500Z
+DTEND:20260122T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3iqtssvqk0iafq3l5rhfo1rmc@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Стадион Фейеноорд\nРезул
+ ьтат: 3 - 0
+GEO:51.893855;4.523191
+LOCATION:Стадион Фейеноорд
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Фейен
+ оорд";X-APPLE-RADIUS=70;X-TITLE="Стадион Фейеноорд":ge
+ o:51.893855,4.523191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Бетис VS Фейеноорд
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3u3qv7pqfvwq5amuwc3uz1wk4@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
+ ague Stage\nСтадион: Estadio La Cartuja de Sevilla\nРезульт
+ ат: 2 - 1
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+END:VCALENDAR

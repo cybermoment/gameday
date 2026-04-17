@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - فيكتوريا بل
+ زين //
+X-WR-CALNAME:الدوري الأوروبي - فيكتوريا بلزين
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS فيكتوريا بلزين
+DTSTART:20250925T190000Z
+DTEND:20250925T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2hqxoj0slx8w7xdd7vm6ssd90@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: غروباما أرينا\nال
+ نتيجة: 1 - 1
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS مالمو
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2k50w9k11mfagf9k9c68xn7dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: دوسان أرينا\nالنت
+ يجة: 3 - 0
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS فيكتوريا بلزين
+DTSTART:20251023T190000Z
+DTEND:20251023T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2t7dlyh36i6oj8kfwpm0sygwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: استاديو أولمبيكو
+ \nالنتيجة: 1 - 2
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS فناربخشة
+DTSTART:20251106T200000Z
+DTEND:20251106T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-30sydfjx7xh1nmu8ksws885jo@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: دوسان أرينا\nالنت
+ يجة: 0 - 0
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS فرايبورج
+DTSTART:20251127T174500Z
+DTEND:20251127T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-34kx5gsbx1f2hfichvnj0pv6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: دوسان أرينا\nالنت
+ يجة: 0 - 0
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS فيكتوريا بلزين
+DTSTART:20251211T200000Z
+DTEND:20251211T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3fo9bnz1qngonn4wn9fjgsl5g@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: ملعب سبيروس الأو
+ لمبي\nالنتيجة: 0 - 0
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS بورتو
+DTSTART:20260122T174500Z
+DTEND:20260122T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3i03lc9aadhu9tqn2quus0sus@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: دوسان أرينا\nالنت
+ يجة: 1 - 1
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بازل VS فيكتوريا بلزين
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3pcwco68lz1wvaztjmymbigb8@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: سانت جايكوب بارك\
+ nالنتيجة: 0 - 1
+GEO:47.541587;7.620061
+LOCATION:سانت جايكوب بارك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سانت جايكوب ب
+ ارك";X-APPLE-RADIUS=70;X-TITLE="سانت جايكوب بارك":geo:47.
+ 541587,7.620061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS فيكتوريا بلزين
+DTSTART:20260219T200000Z
+DTEND:20260219T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-bnnhfk876390rf015vih7aolw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الإقصائيات\nالملعب: ملعب سبيروس 
+ الأولمبي\nالنتيجة: 2 - 2
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS باناثينيكوس
+DTSTART:20260226T174500Z
+DTEND:20260226T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-bo1l0def9vth39uen10zfm0b8@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الإقصائيات\nالملعب: دوسان أرينا\n
+ النتيجة: 1 - 1
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+END:VCALENDAR

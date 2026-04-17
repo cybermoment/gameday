@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Сигма Олом
+ оуц //
+X-WR-CALNAME:Лига Европы УЕФА - Сигма Оломоуц
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Мальме ФФ VS Сигма Оломоуц
+DTSTART:20250821T170000Z
+DTEND:20250821T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8llae49a4ieh49iv5a9i2b4lw@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Стадион Шведбанк\nРезул
+ ьтат: 3 - 0
+GEO:55.583646;12.987815
+LOCATION:Стадион Шведбанк
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Шведб
+ анк";X-APPLE-RADIUS=70;X-TITLE="Стадион Шведбанк":geo:55
+ .583646,12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сигма Оломоуц VS Мальме ФФ
+DTSTART:20250828T163000Z
+DTEND:20250828T183000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8mcsu1xvy2enk11nclnm29gk4@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Стадион Андрув\nРезульт
+ ат: 0 - 2
+GEO:49.600121;17.248245
+LOCATION:Стадион Андрув
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Андру
+ в";X-APPLE-RADIUS=70;X-TITLE="Стадион Андрув":geo:49.600121,
+ 17.248245
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - アクトベ //
+X-WR-CALNAME:UEFAヨーロッパリーグ - アクトベ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:レギア・ワルシャワ VS アクトベ
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-540cn7c28qer1k49px0qmuy38@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: Stadion Miejski Legii Warszawa im. Marszałka Jó
+ zefa Piłsudskiego\n結果: 1 - 0
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:アクトベ VS レギア・ワルシャワ
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-577o52d84mj1bi4dw6qx2k0lw@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: Ortalıq Stadion\, Aqtobe\n結果: 0 - 1
+GEO:50.291526;57.159119
+LOCATION:Ortalıq Stadion\, Aqtobe
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalıq Stadion, Aqtobe"
+ ;X-APPLE-RADIUS=70;X-TITLE="Ortalıq Stadion, Aqtobe":geo:50.291526,57.159
+ 119
+END:VEVENT
+END:VCALENDAR

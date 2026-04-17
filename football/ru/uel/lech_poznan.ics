@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Лех Познан
+ ь //
+X-WR-CALNAME:Лига Европы УЕФА - Лех Познань
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Лех Познань VS Генк
+DTSTART:20250821T183000Z
+DTEND:20250821T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-et5e017h24vr4fpdzy6o9uplg@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Стадион Мьежски (городс
+ кой)\nРезультат: 1 - 5
+GEO:52.397679;16.858161
+LOCATION:Стадион Мьежски (городской)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мьежс
+ ки (городской)";X-APPLE-RADIUS=70;X-TITLE="Стадион Мь
+ ежски (городской)":geo:52.397679,16.858161
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Генк VS Лех Познань
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-ev0iq7ld1a0856celb7nmuxas@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Cegeka Arena\nРезультат: 1 - 2
+GEO:51.005019;5.533247
+LOCATION:Cegeka Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cegeka Arena";X-APPLE-RAD
+ IUS=70;X-TITLE="Cegeka Arena":geo:51.005019,5.533247
+END:VEVENT
+END:VCALENDAR

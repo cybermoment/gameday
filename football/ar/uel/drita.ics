@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - دريتا //
+X-WR-CALNAME:الدوري الأوروبي - دريتا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ستياوا بوخارست VS دريتا
+DTSTART:20250807T183000Z
+DTEND:20250807T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-7vj9jtw7ues3qg3e17xf3ahhw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: الملعب ال
+ وطني\nالنتيجة: 3 - 2
+GEO:44.437208;26.152498
+LOCATION:الملعب الوطني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب الوطني
+ ";X-APPLE-RADIUS=70;X-TITLE="الملعب الوطني":geo:44.437208,26.1
+ 52498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دريتا VS ستياوا بوخارست
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-81z9fnenkg9263jkrv6cml8us@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: ملعب فاضل 
+ فوكري\nالنتيجة: 1 - 3
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+END:VCALENDAR

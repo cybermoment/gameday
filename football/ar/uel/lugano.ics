@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - لوغانو //
+X-WR-CALNAME:الدوري الأوروبي - لوغانو
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:لوغانو VS سي إف آر كلوج
+DTSTART:20250724T183000Z
+DTEND:20250724T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5g7neaaeitb1ca46mztdefk7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ساحة ستوك
+ هورن\nالنتيجة: 0 - 0
+GEO:46.744588;7.606627
+LOCATION:ساحة ستوكهورن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ساحة ستوكهورن
+ ";X-APPLE-RADIUS=70;X-TITLE="ساحة ستوكهورن":geo:46.744588,7.60
+ 6627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سي إف آر كلوج VS لوغانو
+DTSTART:20250731T173000Z
+DTEND:20250731T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5hwdf3o9o0yzc8a3jwb8s3axg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ستاد د. كو
+ نستانتين راديليسكيو\nالنتيجة: 1 - 0
+GEO:46.779675;23.577218
+LOCATION:ستاد د. كونستانتين راديليسكيو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد د. كونستا
+ نتين راديليسكيو";X-APPLE-RADIUS=70;X-TITLE="ستاد د. ك
+ ونستانتين راديليسكيو":geo:46.779675,23.577218
+END:VEVENT
+END:VCALENDAR

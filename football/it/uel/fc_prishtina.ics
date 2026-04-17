@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - FC Prishtina //
+X-WR-CALNAME:UEFA Europa League - FC Prishtina
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Sheriff Tiraspol VS FC Prishtina
+DTSTART:20250710T170000Z
+DTEND:20250710T190000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-f59gg14k8q0f2krt7i3nc14pg@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Bolshaya Sportivnaya Arena\nRisultato: 4 - 0
+GEO:46.838347;29.557895
+LOCATION:Bolshaya Sportivnaya Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bolshaya Sportivnaya Aren
+ a";X-APPLE-RADIUS=70;X-TITLE="Bolshaya Sportivnaya Arena":geo:46.838347,29
+ .557895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Prishtina VS FC Sheriff Tiraspol
+DTSTART:20250717T180000Z
+DTEND:20250717T200000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-32yssqutk0xg9erldxw02r6c@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Stadiumi Fadil Vokrri\nRisultato: 2 - 1
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+END:VCALENDAR

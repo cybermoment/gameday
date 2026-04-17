@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Абердин //
+X-WR-CALNAME:Лига Европы УЕФА - Абердин
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Абердин VS Стяуа Бухарест
+DTSTART:20250821T184500Z
+DTEND:20250821T204500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dk0gwm4uix1rkqo8584nmuu50@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Pittodrie Stadium\nРезультат: 2 - 
+ 2
+GEO:57.159304;-2.088797
+LOCATION:Pittodrie Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Pittodrie Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Pittodrie Stadium":geo:57.159304,-2.088797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Стяуа Бухарест VS Абердин
+DTSTART:20250828T183000Z
+DTEND:20250828T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dldhzv0mqyqay3lvbtgo6r7ro@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Стадион Арена Национал
+ а\nРезультат: 3 - 0
+GEO:44.437208;26.152498
+LOCATION:Стадион Арена Национала
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Арена
+  Национала";X-APPLE-RADIUS=70;X-TITLE="Стадион Арена 
+ Национала":geo:44.437208,26.152498
+END:VEVENT
+END:VCALENDAR

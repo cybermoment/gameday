@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga Europa - Zrinjski Mostar //
+X-WR-CALNAME:Liga Europa - Zrinjski Mostar
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Zrinjski Mostar VS Breidablik
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+DTSTAMP:20260417T055245Z
+UID:fifa-6qkme6vyn4nl950powrwxt9g4@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: 3ª rodada classificatória\
+ nEstádio: Stadion Bijeli Brijeg\nResultado: 1 - 1
+GEO:43.345619;17.795261
+LOCATION:Stadion Bijeli Brijeg
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breidablik VS Zrinjski Mostar
+DTSTART:20250814T173000Z
+DTEND:20250814T193000Z
+DTSTAMP:20260417T055245Z
+UID:fifa-6se1oni96vfa56cx66tu16has@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: 3ª rodada classificatória\
+ nEstádio: Kópavogsvöllur\nResultado: 1 - 2
+GEO:64.104104;-21.896889
+LOCATION:Kópavogsvöllur
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kópavogsvöllur";X-APPLE
+ -RADIUS=70;X-TITLE="Kópavogsvöllur":geo:64.104104,-21.896889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zrinjski Mostar VS Utrecht
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260417T055245Z
+UID:fifa-6yzohc7o27nrqy008agsoczdg@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Stadion
+  Bijeli Brijeg\nResultado: 0 - 2
+GEO:43.345619;17.795261
+LOCATION:Stadion Bijeli Brijeg
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utrecht VS Zrinjski Mostar
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055245Z
+UID:fifa-70srxazhtbiqm5lg2r043an10@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Stadion
+  Galgenwaard\nResultado: 0 - 0
+GEO:52.078319;5.145904
+LOCATION:Stadion Galgenwaard
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Galgenwaard";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadion Galgenwaard":geo:52.078319,5.145904
+END:VEVENT
+END:VCALENDAR

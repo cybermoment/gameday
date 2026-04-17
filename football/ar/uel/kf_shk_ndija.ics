@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - سكنديا //
+X-WR-CALNAME:الدوري الأوروبي - سكنديا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سكنديا VS لودوجوريتس رازجراد
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6qizmoyvjiumx8v3m1s2pukus@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: توشي بر
+ وسكي أرينا\nالنتيجة: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:توشي بروسكي أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="توشي بروسكي أ
+ رينا";X-APPLE-RADIUS=70;X-TITLE="توشي بروسكي أرينا":geo
+ :42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لودوجوريتس رازجراد VS سكنديا
+DTSTART:20250828T173000Z
+DTEND:20250828T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6rt2jxrf92y1vwdk7g1vrdv6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ل
+ ودوجوريتس أرينا\nالنتيجة: 4 - 1
+GEO:43.534662;26.527643
+LOCATION:استاد لودوجوريتس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد لودوجور
+ يتس أرينا";X-APPLE-RADIUS=70;X-TITLE="استاد لودوجوري
+ تس أرينا":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR

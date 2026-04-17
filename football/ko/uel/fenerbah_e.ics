@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// 유로파리그 - 페네르바체 //
+X-WR-CALNAME:유로파리그 - 페네르바체
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:디나모 자그레브 VS 페네르바체
+DTSTART:20250924T190000Z
+DTEND:20250924T210000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-2bknvjaymbwjxl3fjmr9yg2dw@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 스
+ 타디온 막시미르\n결과: 3 - 1
+GEO:45.818781;16.017884
+LOCATION:스타디온 막시미르
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="스타디온 막시미르
+ ";X-APPLE-RADIUS=70;X-TITLE="스타디온 막시미르":geo:45.818781,16.0
+ 17884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:페네르바체 VS 니스
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+DTSTAMP:20260417T055253Z
+UID:fifa-2kibft4cw0il0qf473078yfbo@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 울
+ 케르 페네르바체 수크루 사라조글루 스타디움\n결과: 2 -
+  1
+GEO:40.987799;29.03686
+LOCATION:울케르 페네르바체 수크루 사라조글루 스타디움
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="울케르 페네르바체
+  수크루 사라조글루 스타디움";X-APPLE-RADIUS=70;X-TITLE="울케
+ 르 페네르바체 수크루 사라조글루 스타디움":geo:40.987799,
+ 29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:페네르바체 VS 슈투트가르트
+DTSTART:20251023T164500Z
+DTEND:20251023T184500Z
+DTSTAMP:20260417T055253Z
+UID:fifa-2q5rrmst1zejfug0pjlhw6lg4@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 울
+ 케르 페네르바체 수크루 사라조글루 스타디움\n결과: 1 -
+  0
+GEO:40.987799;29.03686
+LOCATION:울케르 페네르바체 수크루 사라조글루 스타디움
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="울케르 페네르바체
+  수크루 사라조글루 스타디움";X-APPLE-RADIUS=70;X-TITLE="울케
+ 르 페네르바체 수크루 사라조글루 스타디움":geo:40.987799,
+ 29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:빅토리아 플젠 VS 페네르바체
+DTSTART:20251106T200000Z
+DTEND:20251106T220000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-30sydfjx7xh1nmu8ksws885jo@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 두
+ 산 아레나\n결과: 0 - 0
+GEO:49.750074;13.385446
+LOCATION:두산 아레나
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="두산 아레나";X-APPLE
+ -RADIUS=70;X-TITLE="두산 아레나":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:페네르바체 VS 페렌츠바로스
+DTSTART:20251127T174500Z
+DTEND:20251127T194500Z
+DTSTAMP:20260417T055253Z
+UID:fifa-34yesr8muzxsiqdyhwjkui4no@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 울
+ 케르 페네르바체 수크루 사라조글루 스타디움\n결과: 1 -
+  1
+GEO:40.987799;29.03686
+LOCATION:울케르 페네르바체 수크루 사라조글루 스타디움
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="울케르 페네르바체
+  수크루 사라조글루 스타디움";X-APPLE-RADIUS=70;X-TITLE="울케
+ 르 페네르바체 수크루 사라조글루 스타디움":geo:40.987799,
+ 29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:브란 VS 페네르바체
+DTSTART:20251211T200000Z
+DTEND:20251211T220000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-3gu8pmxg0b991nweo8cedch04@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 브
+ 란 스타디온\n결과: 0 - 4
+GEO:60.366933;5.357417
+LOCATION:브란 스타디온
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="브란 스타디온";X-AP
+ PLE-RADIUS=70;X-TITLE="브란 스타디온":geo:60.366933,5.357417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:페네르바체 VS 애스턴 빌라
+DTSTART:20260122T174500Z
+DTEND:20260122T194500Z
+DTSTAMP:20260417T055253Z
+UID:fifa-3idil7gpd3cmamm7h0rbzb9xw@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 울
+ 케르 페네르바체 수크루 사라조글루 스타디움\n결과: 0 -
+  1
+GEO:40.987799;29.03686
+LOCATION:울케르 페네르바체 수크루 사라조글루 스타디움
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="울케르 페네르바체
+  수크루 사라조글루 스타디움";X-APPLE-RADIUS=70;X-TITLE="울케
+ 르 페네르바체 수크루 사라조글루 스타디움":geo:40.987799,
+ 29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:슈테아우아 부쿠레슈티 VS 페네르바체
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-3ql58bf1m7e6xgqcj26w88xzo@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: League Stage\n경기장: 아
+ 레나 나치오날러\n결과: 1 - 1
+GEO:44.437208;26.152498
+LOCATION:아레나 나치오날러
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="아레나 나치오날러
+ ";X-APPLE-RADIUS=70;X-TITLE="아레나 나치오날러":geo:44.437208,26.1
+ 52498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:페네르바체 VS 노팅엄 포레스트
+DTSTART:20260219T174500Z
+DTEND:20260219T194500Z
+DTSTAMP:20260417T055253Z
+UID:fifa-c4s4tciu12as2ane6gmiswo44@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: Knockout Round Play-offs\n경
+ 기장: 울케르 페네르바체 수크루 사라조글루 스타디움\n
+ 결과: 0 - 3
+GEO:40.987799;29.03686
+LOCATION:울케르 페네르바체 수크루 사라조글루 스타디움
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="울케르 페네르바체
+  수크루 사라조글루 스타디움";X-APPLE-RADIUS=70;X-TITLE="울케
+ 르 페네르바체 수크루 사라조글루 스타디움":geo:40.987799,
+ 29.03686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:노팅엄 포레스트 VS 페네르바체
+DTSTART:20260226T200000Z
+DTEND:20260226T220000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-c55xhp8a6d48r4eaw03bc5lw4@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: Knockout Round Play-offs\n경
+ 기장: 더 시티 그라운드\n결과: 1 - 2
+GEO:52.939913;-1.132894
+LOCATION:더 시티 그라운드
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="더 시티 그라운드";
+ X-APPLE-RADIUS=70;X-TITLE="더 시티 그라운드":geo:52.939913,-1.13289
+ 4
+END:VEVENT
+END:VCALENDAR

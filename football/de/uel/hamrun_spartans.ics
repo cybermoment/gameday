@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Hamrun Spartans //
+X-WR-CALNAME:UEFA Europa League - Hamrun Spartans
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Hamrun Spartans VS Maccabi Tel Aviv
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-56ndamjc2fan2ehkl2dfwyqdw@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
+ nStadion: Ta'Qali National Stadium\nErgebnis: 1 - 2
+GEO:35.894817;14.415141
+LOCATION:Ta'Qali National Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ta'Qali National Stadium"
+ ;X-APPLE-RADIUS=70;X-TITLE="Ta'Qali National Stadium":geo:35.894817,14.415
+ 141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maccabi Tel Aviv VS Hamrun Spartans
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-5dnzyp0rv11vgiw4x1zh81zis@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
+ nStadion: TSC Arena\nErgebnis: 3 - 1
+GEO:45.815599;19.627252
+LOCATION:TSC Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="TSC Arena";X-APPLE-RADIUS
+ =70;X-TITLE="TSC Arena":geo:45.815599,19.627252
+END:VEVENT
+END:VCALENDAR

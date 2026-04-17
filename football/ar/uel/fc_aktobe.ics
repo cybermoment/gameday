@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - آق توبى //
+X-WR-CALNAME:الدوري الأوروبي - آق توبى
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ليغيا وارسو VS آق توبى
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-540cn7c28qer1k49px0qmuy38@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: ملعب الجيش 
+ البولندي\nالنتيجة: 1 - 0
+GEO:52.220498;21.040514
+LOCATION:ملعب الجيش البولندي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب الجيش ال
+ بولندي";X-APPLE-RADIUS=70;X-TITLE="ملعب الجيش البولن
+ دي":geo:52.220498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:آق توبى VS ليغيا وارسو
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-577o52d84mj1bi4dw6qx2k0lw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: استاد أورت
+ اليك\nالنتيجة: 0 - 1
+GEO:50.291526;57.159119
+LOCATION:استاد أورتاليك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أورتالي
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد أورتاليك":geo:50.291526,
+ 57.159119
+END:VEVENT
+END:VCALENDAR

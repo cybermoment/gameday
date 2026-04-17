@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - スロヴァン・ブ
+ ラチスラヴァ //
+X-WR-CALNAME:UEFAヨーロッパリーグ - スロヴァン・ブラチス
+ ラヴァ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:スロヴァン・ブラチスラヴァ VS ヤング・ボーイ
+ ズ
+DTSTART:20250821T181500Z
+DTEND:20250821T201500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-7u2mpw57s6khzp7ydnzkfnaxg@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: プレー
+ オフ\nスタジアム: Štadión Tehelné pole\n結果: 0 - 1
+GEO:48.163495;17.136698
+LOCATION:Štadión Tehelné pole
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Štadión Tehelné pole";
+ X-APPLE-RADIUS=70;X-TITLE="Štadión Tehelné pole":geo:48.163495,17.13669
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ヤング・ボーイズ VS スロヴァン・ブラチスラヴ
+ ァ
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-7xuy8ti27tjmwomrwfpbitmok@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: プレー
+ オフ\nスタジアム: スタッド・ドゥ・スイス・バンクド
+ ルフ・ベーン\n結果: 3 - 2
+GEO:46.963118;7.464857
+LOCATION:スタッド・ドゥ・スイス・バンクドルフ・ベー
+ ン
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタッド・ドゥ・
+ スイス・バンクドルフ・ベーン";X-APPLE-RADIUS=70;X-TITLE="ス
+ タッド・ドゥ・スイス・バンクドルフ・ベーン":geo:46.96
+ 3118,7.464857
+END:VEVENT
+END:VCALENDAR

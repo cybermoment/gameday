@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - سي إف آر كلو
+ ج //
+X-WR-CALNAME:الدوري الأوروبي - سي إف آر كلوج
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:باكشي VS سي إف آر كلوج
+DTSTART:20250710T170000Z
+DTEND:20250710T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8urov6093lc0ap7fntdld1iqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: Paksi FC Stadion\nا
+ لنتيجة: 0 - 0
+GEO:46.633791;18.852335
+LOCATION:Paksi FC Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Paksi FC Stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Paksi FC Stadion":geo:46.633791,18.852335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سي إف آر كلوج VS باكشي
+DTSTART:20250717T173000Z
+DTEND:20250717T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8xtii67q5fgkj5vmtp16rue50@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: ستاد د. كون
+ ستانتين راديليسكيو\nالنتيجة: 3 - 0
+GEO:46.779675;23.577218
+LOCATION:ستاد د. كونستانتين راديليسكيو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد د. كونستا
+ نتين راديليسكيو";X-APPLE-RADIUS=70;X-TITLE="ستاد د. ك
+ ونستانتين راديليسكيو":geo:46.779675,23.577218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لوغانو VS سي إف آر كلوج
+DTSTART:20250724T183000Z
+DTEND:20250724T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5g7neaaeitb1ca46mztdefk7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ساحة ستوك
+ هورن\nالنتيجة: 0 - 0
+GEO:46.744588;7.606627
+LOCATION:ساحة ستوكهورن
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ساحة ستوكهورن
+ ";X-APPLE-RADIUS=70;X-TITLE="ساحة ستوكهورن":geo:46.744588,7.60
+ 6627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سي إف آر كلوج VS لوغانو
+DTSTART:20250731T173000Z
+DTEND:20250731T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5hwdf3o9o0yzc8a3jwb8s3axg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ستاد د. كو
+ نستانتين راديليسكيو\nالنتيجة: 1 - 0
+GEO:46.779675;23.577218
+LOCATION:ستاد د. كونستانتين راديليسكيو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد د. كونستا
+ نتين راديليسكيو";X-APPLE-RADIUS=70;X-TITLE="ستاد د. ك
+ ونستانتين راديليسكيو":geo:46.779675,23.577218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سي إف آر كلوج VS سبورتينغ براغا
+DTSTART:20250807T163000Z
+DTEND:20250807T183000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-66s9pcsf4jcys1hzeqdwl3v9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: ستاد د. كو
+ نستانتين راديليسكيو\nالنتيجة: 1 - 2
+GEO:46.779675;23.577218
+LOCATION:ستاد د. كونستانتين راديليسكيو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ستاد د. كونستا
+ نتين راديليسكيو";X-APPLE-RADIUS=70;X-TITLE="ستاد د. ك
+ ونستانتين راديليسكيو":geo:46.779675,23.577218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سبورتينغ براغا VS سي إف آر كلوج
+DTSTART:20250814T183000Z
+DTEND:20250814T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6ar0axb2q5636y2zuid5jwqok@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: ملعب براغ
+ ا البلدي\nالنتيجة: 2 - 0
+GEO:41.562554;-8.429904
+LOCATION:ملعب براغا البلدي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب براغا ال
+ بلدي";X-APPLE-RADIUS=70;X-TITLE="ملعب براغا البلدي":geo
+ :41.562554,-8.429904
+END:VEVENT
+END:VCALENDAR

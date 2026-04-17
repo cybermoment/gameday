@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Paksi SE //
+X-WR-CALNAME:UEFA Europa League - Paksi SE
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Paksi SE VS CFR Cluj
+DTSTART:20250710T170000Z
+DTEND:20250710T190000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-8urov6093lc0ap7fntdld1iqc@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Paksi FC Stadion\nRisultato: 0 - 0
+GEO:46.633791;18.852335
+LOCATION:Paksi FC Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Paksi FC Stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Paksi FC Stadion":geo:46.633791,18.852335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFR Cluj VS Paksi SE
+DTSTART:20250717T173000Z
+DTEND:20250717T193000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-8xtii67q5fgkj5vmtp16rue50@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Stadionul Dr. Constantin Rădulescu\nRisultato: 3 - 0
+GEO:46.779675;23.577218
+LOCATION:Stadionul Dr. Constantin Rădulescu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Dr. Constantin 
+ Rădulescu";X-APPLE-RADIUS=70;X-TITLE="Stadionul Dr. Constantin Rădulescu
+ ":geo:46.779675,23.577218
+END:VEVENT
+END:VCALENDAR

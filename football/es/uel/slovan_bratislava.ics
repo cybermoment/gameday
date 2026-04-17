@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Slovan Bratislava //
+X-WR-CALNAME:UEFA Europa League - Slovan Bratislava
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava VS Young Boys
+DTSTART:20250821T181500Z
+DTEND:20250821T201500Z
+DTSTAMP:20260417T055235Z
+UID:fifa-7u2mpw57s6khzp7ydnzkfnaxg@fifa.com
+DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Št
+ adión Tehelné pole\nResultado: 0 - 1
+GEO:48.163495;17.136698
+LOCATION:Štadión Tehelné pole
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Štadión Tehelné pole";
+ X-APPLE-RADIUS=70;X-TITLE="Štadión Tehelné pole":geo:48.163495,17.13669
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Boys VS Slovan Bratislava
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055235Z
+UID:fifa-7xuy8ti27tjmwomrwfpbitmok@fifa.com
+DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Sta
+ dion Wankdorf\nResultado: 3 - 2
+GEO:46.963118;7.464857
+LOCATION:Stadion Wankdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Wankdorf";X-APPLE
+ -RADIUS=70;X-TITLE="Stadion Wankdorf":geo:46.963118,7.464857
+END:VEVENT
+END:VCALENDAR

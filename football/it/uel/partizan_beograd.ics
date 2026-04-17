@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Partizan Belgrad //
+X-WR-CALNAME:UEFA Europa League - Partizan Belgrad
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:AEK Larnaca VS Partizan Belgrad
+DTSTART:20250710T163000Z
+DTEND:20250710T183000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: AEK Arena - George Karapatakis\nRisultato: 1 - 0
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Partizan Belgrad VS AEK Larnaca
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Stadion Partizana\nRisultato: 2 - 1
+GEO:44.788761;20.459032
+LOCATION:Stadion Partizana
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Partizana";X-APPL
+ E-RADIUS=70;X-TITLE="Stadion Partizana":geo:44.788761,20.459032
+END:VEVENT
+END:VCALENDAR

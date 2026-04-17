@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - サムスンスポル 
+ //
+X-WR-CALNAME:UEFAヨーロッパリーグ - サムスンスポル
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:パナシナイコス VS サムスンスポル
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-bvns60v31wknbk3y5navv2vbo@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: プレー
+ オフ\nスタジアム: Olympiako Stadio Spyros Louis\n結果: 2 - 1
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:サムスンスポル VS パナシナイコス
+DTSTART:20250828T170000Z
+DTEND:20250828T190000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-bydahmfy0kjp96a5vy555di50@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: プレー
+ オフ\nスタジアム: Samsun Yeni 19 Mayıs Stadyumu\n結果: 0 - 0
+GEO:41.227881;36.457712
+LOCATION:Samsun Yeni 19 Mayıs Stadyumu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samsun Yeni 19 Mayıs Sta
+ dyumu";X-APPLE-RADIUS=70;X-TITLE="Samsun Yeni 19 Mayıs Stadyumu":geo:41.2
+ 27881,36.457712
+END:VEVENT
+END:VCALENDAR

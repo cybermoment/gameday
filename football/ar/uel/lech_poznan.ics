@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - ليخ بوزنان /
+ /
+X-WR-CALNAME:الدوري الأوروبي - ليخ بوزنان
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ليخ بوزنان VS جينك
+DTSTART:20250821T183000Z
+DTEND:20250821T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-et5e017h24vr4fpdzy6o9uplg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد م
+ يجسكي\nالنتيجة: 1 - 5
+GEO:52.397679;16.858161
+LOCATION:استاد ميجسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ميجسكي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد ميجسكي":geo:52.397679,16.85816
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جينك VS ليخ بوزنان
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-ev0iq7ld1a0856celb7nmuxas@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: Cegeka Arena\
+ nالنتيجة: 1 - 2
+GEO:51.005019;5.533247
+LOCATION:Cegeka Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cegeka Arena";X-APPLE-RAD
+ IUS=70;X-TITLE="Cegeka Arena":geo:51.005019,5.533247
+END:VEVENT
+END:VCALENDAR

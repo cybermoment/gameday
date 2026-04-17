@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Besiktas //
+X-WR-CALNAME:UEFA Europa League - Besiktas
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Besiktas VS Shakhtar Donetsk
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-1d4aeg74h672gn0c4t0krxc0k@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 2° Turno Qualificazio
+ ni\nStadio: Tüpraş Stadyumu\nRisultato: 2 - 4
+GEO:41.039424;28.994444
+LOCATION:Tüpraş Stadyumu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tüpraş Stadyumu";X-APPL
+ E-RADIUS=70;X-TITLE="Tüpraş Stadyumu":geo:41.039424,28.994444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk VS Besiktas
+DTSTART:20250731T180000Z
+DTEND:20250731T200000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-1ehuo3mhuzksrzc07hgz3v7dg@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 2° Turno Qualificazio
+ ni\nStadio: Synerise Arena - Stadion Miejski im. Henryka Reymana\nRisultat
+ o: 2 - 0
+GEO:50.063727;19.911819
+LOCATION:Synerise Arena - Stadion Miejski im. Henryka Reymana
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Synerise Arena - Stadion 
+ Miejski im. Henryka Reymana";X-APPLE-RADIUS=70;X-TITLE="Synerise Arena - S
+ tadion Miejski im. Henryka Reymana":geo:50.063727,19.911819
+END:VEVENT
+END:VCALENDAR

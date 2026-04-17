@@ -1,0 +1,393 @@
+{
+  "competition_name": "유로파리그",
+  "competition_id": "2000001041",
+  "season_id": "7ttpe5jzya3vjhjadiemjy7mc",
+  "lang": "ko",
+  "teams": [
+    {
+      "id": "2000019873",
+      "name": "Sabah",
+      "filename": "sabah_fk"
+    },
+    {
+      "id": "1885701",
+      "name": "NK 켈예",
+      "filename": "nk_celje"
+    },
+    {
+      "id": "2147483321",
+      "name": "라르나카",
+      "filename": "aek_larnaca"
+    },
+    {
+      "id": "44271",
+      "name": "파르티잔",
+      "filename": "partizan_beograd"
+    },
+    {
+      "id": "2147483060",
+      "name": "파스키 SE",
+      "filename": "paksi_fc"
+    },
+    {
+      "id": "2147482568",
+      "name": "CFR 클루이",
+      "filename": "cfr_1907_cluj"
+    },
+    {
+      "id": "1885330",
+      "name": "FK 셰리프",
+      "filename": "sheriff"
+    },
+    {
+      "id": "2000019541",
+      "name": "프리시티나",
+      "filename": "fc_prishtina"
+    },
+    {
+      "id": "30998",
+      "name": "레프스키 소피아",
+      "filename": "levski_sofia"
+    },
+    {
+      "id": "1903435",
+      "name": "하포엘 브엘셰바",
+      "filename": "hapoel_beer_sheva"
+    },
+    {
+      "id": "1883012",
+      "name": "샤흐타르 도네츠크",
+      "filename": "shakhtar_donetsk"
+    },
+    {
+      "id": "1883547",
+      "name": "일베스",
+      "filename": "ilves"
+    },
+    {
+      "id": "675",
+      "name": "스파르타크 트르나바",
+      "filename": "spartak_trnava"
+    },
+    {
+      "id": "2000001056",
+      "name": "하켄",
+      "filename": "bk_h_cken"
+    },
+    {
+      "id": "1884655",
+      "name": "레지아 바르샤바",
+      "filename": "legia_warszawa"
+    },
+    {
+      "id": "2147482926",
+      "name": "FC 악퇴베",
+      "filename": "fc_aktobe"
+    },
+    {
+      "id": "314",
+      "name": "바니크 오스트라바",
+      "filename": "ban_k_ostrava"
+    },
+    {
+      "id": "563",
+      "name": "위트레흐트",
+      "filename": "fc_utrecht"
+    },
+    {
+      "id": "1884019",
+      "name": "스포르팅 브라가",
+      "filename": "sporting_braga"
+    },
+    {
+      "id": "1885167",
+      "name": "미트윌란",
+      "filename": "midtjylland"
+    },
+    {
+      "id": "33247",
+      "name": "하이버니언",
+      "filename": "hibernian"
+    },
+    {
+      "id": "1884125",
+      "name": "RSC 안더레흐트",
+      "filename": "anderlecht"
+    },
+    {
+      "id": "44163",
+      "name": "베식타시",
+      "filename": "be_ikta"
+    },
+    {
+      "id": "400248192",
+      "name": "루가노",
+      "filename": "lugano"
+    },
+    {
+      "id": "1885581",
+      "name": "함룬",
+      "filename": "hamrun_spartans"
+    },
+    {
+      "id": "1885529",
+      "name": "마카비 텔아비브",
+      "filename": "maccabi_tel_aviv"
+    },
+    {
+      "id": "2000019334",
+      "name": "리가스",
+      "filename": "rigas_futbola_skola"
+    },
+    {
+      "id": "1885177",
+      "name": "KuPS",
+      "filename": "kups"
+    },
+    {
+      "id": "310",
+      "name": "리예카",
+      "filename": "hnk_rijeka"
+    },
+    {
+      "id": "400108464",
+      "name": "셸부른",
+      "filename": "shelbourne"
+    },
+    {
+      "id": "e5txudmuc2qpc460bs4lb5aff",
+      "name": "프레드리크스타드",
+      "filename": "fredrikstad"
+    },
+    {
+      "id": "2000019171",
+      "name": "링컨",
+      "filename": "lincoln_red_imps_fc"
+    },
+    {
+      "id": "e9x62jymlef5ugsrijq19ur8q",
+      "name": "노아",
+      "filename": "noah"
+    },
+    {
+      "id": "1885332",
+      "name": "브란",
+      "filename": "sk_brann"
+    },
+    {
+      "id": "421",
+      "name": "PAOK",
+      "filename": "paok"
+    },
+    {
+      "id": "2000017585",
+      "name": "볼프스베르거",
+      "filename": "rz_pellets_wac"
+    },
+    {
+      "id": "1885396",
+      "name": "즈리니스키",
+      "filename": "hsk_zrinjski"
+    },
+    {
+      "id": "446",
+      "name": "브라이다블리크",
+      "filename": "brei_ablik"
+    },
+    {
+      "id": "31033",
+      "name": "파나시나이코스",
+      "filename": "panathinaikos"
+    },
+    {
+      "id": "1914834",
+      "name": "슈테아우아 부쿠레슈티",
+      "filename": "fcsb"
+    },
+    {
+      "id": "2000019538",
+      "name": "드리타",
+      "filename": "drita"
+    },
+    {
+      "id": "400068644",
+      "name": "세르베테",
+      "filename": "servette_fc"
+    },
+    {
+      "id": "31098",
+      "name": "말뫼 FF",
+      "filename": "malm_ff"
+    },
+    {
+      "id": "322",
+      "name": "시그마 올로무츠",
+      "filename": "sigma_olomouc"
+    },
+    {
+      "id": "dpsnqu7pd2b0shfzjyn5j1znf",
+      "name": "삼순스포르",
+      "filename": "samsunspor"
+    },
+    {
+      "id": "1885492",
+      "name": "쉬켄디야",
+      "filename": "kf_shk_ndija"
+    },
+    {
+      "id": "2000012840",
+      "name": "루도고레츠",
+      "filename": "ludogorets"
+    },
+    {
+      "id": "36735",
+      "name": "디나모 키예프",
+      "filename": "dynamo_kyiv"
+    },
+    {
+      "id": "674",
+      "name": "슬로반",
+      "filename": "slovan_bratislava"
+    },
+    {
+      "id": "1885721",
+      "name": "영 보이즈",
+      "filename": "young_boys"
+    },
+    {
+      "id": "1884654",
+      "name": "레흐 포즈난",
+      "filename": "lech_poznan"
+    },
+    {
+      "id": "2147483539",
+      "name": "헹크",
+      "filename": "racing_genk"
+    },
+    {
+      "id": "31068",
+      "name": "애버딘",
+      "filename": "aberdeen"
+    },
+    {
+      "id": "31057",
+      "name": "스투름 그라츠",
+      "filename": "sturm_graz"
+    },
+    {
+      "id": "44203",
+      "name": "니스",
+      "filename": "ogc_nice"
+    },
+    {
+      "id": "31083",
+      "name": "로마",
+      "filename": "as_roma"
+    },
+    {
+      "id": "1885747",
+      "name": "츠르베나 즈베즈다",
+      "filename": "crvena_zvezda"
+    },
+    {
+      "id": "1914704",
+      "name": "셀틱",
+      "filename": "celtic"
+    },
+    {
+      "id": "32838",
+      "name": "레알 베티스",
+      "filename": "real_betis"
+    },
+    {
+      "id": "1qtaiy11gswx327s0vkibf70n",
+      "name": "노팅엄 포레스트",
+      "filename": "nottingham_forest"
+    },
+    {
+      "id": "309",
+      "name": "디나모 자그레브",
+      "filename": "dinamo_zagreb"
+    },
+    {
+      "id": "33163",
+      "name": "페네르바체",
+      "filename": "fenerbah_e"
+    },
+    {
+      "id": "44137",
+      "name": "페예노르트",
+      "filename": "feyenoord"
+    },
+    {
+      "id": "1882249",
+      "name": "프라이부르크",
+      "filename": "sc_freiburg"
+    },
+    {
+      "id": "655",
+      "name": "바젤",
+      "filename": "fc_basel"
+    },
+    {
+      "id": "33350",
+      "name": "릴",
+      "filename": "lille"
+    },
+    {
+      "id": "400190083",
+      "name": "고 어헤드 이글스",
+      "filename": "go_ahead_eagles"
+    },
+    {
+      "id": "31053",
+      "name": "슈투트가르트",
+      "filename": "vfb_stuttgart"
+    },
+    {
+      "id": "2000006874",
+      "name": "셀타 데 비고",
+      "filename": "rc_celta"
+    },
+    {
+      "id": "26230",
+      "name": "올랭피크 리옹",
+      "filename": "olympique_lyonnais"
+    },
+    {
+      "id": "1956494",
+      "name": "FC 잘츠부르크",
+      "filename": "fc_salzburg"
+    },
+    {
+      "id": "1914836",
+      "name": "FC 포르투",
+      "filename": "fc_porto"
+    },
+    {
+      "id": "31067",
+      "name": "레인저스",
+      "filename": "rangers"
+    },
+    {
+      "id": "1885533",
+      "name": "페렌츠바로스",
+      "filename": "ferencv_ros"
+    },
+    {
+      "id": "2147483300",
+      "name": "빅토리아 플젠",
+      "filename": "viktoria_plze"
+    },
+    {
+      "id": "400078460",
+      "name": "애스턴 빌라",
+      "filename": "aston_villa"
+    },
+    {
+      "id": "33387",
+      "name": "볼로냐",
+      "filename": "bologna"
+    }
+  ]
+}

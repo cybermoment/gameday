@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - أوسترافا //
+X-WR-CALNAME:الدوري الأوروبي - أوسترافا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:أوسترافا VS ليغيا وارسو
+DTSTART:20250724T170000Z
+DTEND:20250724T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-9q8gkhr39w7ocg5p0bxmm2uqc@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: Městský stadion 
+ - Vítkovice Aréna\nالنتيجة: 2 - 2
+GEO:49.804349;18.255989
+LOCATION:Městský stadion - Vítkovice Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Městský stadion - Vítk
+ ovice Aréna";X-APPLE-RADIUS=70;X-TITLE="Městský stadion - Vítkovice Ar
+ éna":geo:49.804349,18.255989
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليغيا وارسو VS أوسترافا
+DTSTART:20250731T190000Z
+DTEND:20250731T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-9ubst7bovh646y6n0jkfj4il0@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ملعب الجي
+ ش البولندي\nالنتيجة: 2 - 1
+GEO:52.220498;21.040514
+LOCATION:ملعب الجيش البولندي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب الجيش ال
+ بولندي";X-APPLE-RADIUS=70;X-TITLE="ملعب الجيش البولن
+ دي":geo:52.220498,21.040514
+END:VEVENT
+END:VCALENDAR

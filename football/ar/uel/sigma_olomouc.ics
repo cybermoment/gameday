@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - سيغما أولوم
+ وتس //
+X-WR-CALNAME:الدوري الأوروبي - سيغما أولوموتس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:مالمو VS سيغما أولوموتس
+DTSTART:20250821T170000Z
+DTEND:20250821T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8llae49a4ieh49iv5a9i2b4lw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد س
+ ويدبانك\nالنتيجة: 3 - 0
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سيغما أولوموتس VS مالمو
+DTSTART:20250828T163000Z
+DTEND:20250828T183000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-8mcsu1xvy2enk11nclnm29gk4@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد أ
+ ندروف\nالنتيجة: 0 - 2
+GEO:49.600121;17.248245
+LOCATION:استاد أندروف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أندروف";
+ X-APPLE-RADIUS=70;X-TITLE="استاد أندروف":geo:49.600121,17.24824
+ 5
+END:VEVENT
+END:VCALENDAR

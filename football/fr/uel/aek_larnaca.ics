@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue Europa - AEK Larnaca //
+X-WR-CALNAME:Ligue Europa - AEK Larnaca
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:AEK Larnaca VS Partizan Belgrad
+DTSTART:20250710T163000Z
+DTEND:20250710T183000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
+ Stade: AEK Arena - George Karapatakis\nRésultat: 1 - 0
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Partizan Belgrad VS AEK Larnaca
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
+ Stade: Stadion Partizana\nRésultat: 2 - 1
+GEO:44.788761;20.459032
+LOCATION:Stadion Partizana
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Partizana";X-APPL
+ E-RADIUS=70;X-TITLE="Stadion Partizana":geo:44.788761,20.459032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NK Celje VS AEK Larnaca
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-7366wtevmanq0otla4swyzbbo@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
+ \nStade: Stadion Z'dežele\nRésultat: 1 - 1
+GEO:46.246573;15.269923
+LOCATION:Stadion Z'dežele
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Z'dežele";X-APPL
+ E-RADIUS=70;X-TITLE="Stadion Z'dežele":geo:46.246573,15.269923
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Larnaca VS NK Celje
+DTSTART:20250731T163000Z
+DTEND:20250731T183000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-74a58utzgpm01v9ozw2m3otg4@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
+ \nStade: AEK Arena - George Karapatakis\nRésultat: 2 - 1
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Larnaca VS Legia Varsovie
+DTSTART:20250807T163000Z
+DTEND:20250807T183000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: AEK Arena - George Karapatakis\nRésultat: 4 - 1
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legia Varsovie VS AEK Larnaca
+DTSTART:20250814T190000Z
+DTEND:20250814T210000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go\nRésultat: 2 - 1
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brann VS AEK Larnaca
+DTSTART:20250821T170000Z
+DTEND:20250821T190000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-8esik66moepd1ywpgy24a0f10@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: Barrages\nStade: Brann Stad
+ ion\nRésultat: 2 - 1
+GEO:60.366933;5.357417
+LOCATION:Brann Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Larnaca VS Brann
+DTSTART:20250827T163000Z
+DTEND:20250827T183000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-8g2kv7p1dbvjv6nevwq735b10@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: Barrages\nStade: AEK Arena 
+ - George Karapatakis\nRésultat: 0 - 4
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - دينامو كييف
+  //
+X-WR-CALNAME:الدوري الأوروبي - دينامو كييف
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:مكابي تل أبيب VS دينامو كييف
+DTSTART:20250821T181500Z
+DTEND:20250821T201500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-54rk1kg28ge28wmz10n2psk5w@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ج
+ رادسكي\nالنتيجة: 3 - 1
+GEO:45.815599;19.627252
+LOCATION:استاد جرادسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جرادسكي
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد جرادسكي":geo:45.815599,19.6
+ 27252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:دينامو كييف VS مكابي تل أبيب
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-577d7etyg53p2y824zylrlq1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: Motor Lublin 
+ Arena\nالنتيجة: 1 - 0
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+END:VCALENDAR

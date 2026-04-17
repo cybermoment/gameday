@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - سيرفيت جنيف
+  //
+X-WR-CALNAME:الدوري الأوروبي - سيرفيت جنيف
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سيرفيت جنيف VS أوتريخت
+DTSTART:20250807T183000Z
+DTEND:20250807T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-ajf4t8sm17xy2ilx7rkn05o9g@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد جني
+ ف\nالنتيجة: 1 - 3
+GEO:46.177841;6.127458
+LOCATION:استاد جنيف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جنيف";X-AP
+ PLE-RADIUS=70;X-TITLE="استاد جنيف":geo:46.177841,6.127458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوتريخت VS سيرفيت جنيف
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-akq60d1anbwh91lladx7n24gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد جال
+ جينفارد\nالنتيجة: 2 - 1
+GEO:52.078319;5.145904
+LOCATION:استاد جالجينفارد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جالجينف
+ ارد";X-APPLE-RADIUS=70;X-TITLE="استاد جالجينفارد":geo:52
+ .078319,5.145904
+END:VEVENT
+END:VCALENDAR

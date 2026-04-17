@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Актобе //
+X-WR-CALNAME:Лига Европы УЕФА - Актобе
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Легия Варшава VS Актобе
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-540cn7c28qer1k49px0qmuy38@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
+ валификационный раунд\nСтадион: Stadion Miejski
+  Legii Warszawa im. Marszałka Józefa Piłsudskiego\nРезультат: 
+ 1 - 0
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Актобе VS Легия Варшава
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-577o52d84mj1bi4dw6qx2k0lw@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
+ валификационный раунд\nСтадион: Ortalyq stadıo
+ n\nРезультат: 0 - 1
+GEO:50.291526;57.159119
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:50.291526,57.159119
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - بارتيزان //
+X-WR-CALNAME:الدوري الأوروبي - بارتيزان
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:آيك لارناكا VS بارتيزان
+DTSTART:20250710T163000Z
+DTEND:20250710T183000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: أيك أرينا - 
+ جورج كاراباتاكيس\nالنتيجة: 1 - 0
+GEO:34.926218;33.597746
+LOCATION:أيك أرينا - جورج كاراباتاكيس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أيك أرينا - جو
+ رج كاراباتاكيس";X-APPLE-RADIUS=70;X-TITLE="أيك أرينا 
+ - جورج كاراباتاكيس":geo:34.926218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارتيزان VS آيك لارناكا
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: استاد بارت
+ يزان\nالنتيجة: 2 - 1
+GEO:44.788761;20.459032
+LOCATION:استاد بارتيزان
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بارتيزا
+ ن";X-APPLE-RADIUS=70;X-TITLE="استاد بارتيزان":geo:44.788761,
+ 20.459032
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - シャフタール・
+ ドネツク //
+X-WR-CALNAME:UEFAヨーロッパリーグ - シャフタール・ドネツ
+ ク
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:シャフタール・ドネツク VS イルヴェス
+DTSTART:20250710T180000Z
+DTEND:20250710T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-du56os69tes46dtwwdx1wyot0@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: スタディオン・ストジツェ\n結果: 6 -
+  0
+GEO:46.080472;14.524183
+LOCATION:スタディオン・ストジツェ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタディオン・ス
+ トジツェ";X-APPLE-RADIUS=70;X-TITLE="スタディオン・ストジツ
+ ェ":geo:46.080472,14.524183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:イルヴェス VS シャフタール・ドネツク
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-dyue41lxl3xy3cju8eif4721g@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: Tammelan stadion\n結果: 0 - 0
+GEO:61.500278;23.785465
+LOCATION:Tammelan stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tammelan stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Tammelan stadion":geo:61.500278,23.785465
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベシクタシュ VS シャフタール・ドネツク
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-1d4aeg74h672gn0c4t0krxc0k@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第2ラウ
+ ンド\nスタジアム: Tüpraş Stadyumu\n結果: 2 - 4
+GEO:41.039424;28.994444
+LOCATION:Tüpraş Stadyumu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tüpraş Stadyumu";X-APPL
+ E-RADIUS=70;X-TITLE="Tüpraş Stadyumu":geo:41.039424,28.994444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:シャフタール・ドネツク VS ベシクタシュ
+DTSTART:20250731T180000Z
+DTEND:20250731T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-1ehuo3mhuzksrzc07hgz3v7dg@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第2ラウ
+ ンド\nスタジアム: Stadion Miejski im. Henryka Reymana\, Krakow\n結
+ 果: 2 - 0
+GEO:50.063727;19.911819
+LOCATION:Stadion Miejski im. Henryka Reymana\, Krakow
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski im. Henry
+ ka Reymana, Krakow";X-APPLE-RADIUS=70;X-TITLE="Stadion Miejski im. Henryka
+  Reymana, Krakow":geo:50.063727,19.911819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:パナシナイコス VS シャフタール・ドネツク
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-f1wzth659sqztejnurg55nf9w@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第3ラウ
+ ンド\nスタジアム: Olympiako Stadio Spyros Louis\n結果: 0 - 0
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:シャフタール・ドネツク VS パナシナイコス
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-f32g90kashwq5kjyzwpdxjuhg@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第3ラウ
+ ンド\nスタジアム: Stadion Miejski im. Henryka Reymana\, Krakow\n結
+ 果: 0 - 0
+GEO:50.063727;19.911819
+LOCATION:Stadion Miejski im. Henryka Reymana\, Krakow
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski im. Henry
+ ka Reymana, Krakow";X-APPLE-RADIUS=70;X-TITLE="Stadion Miejski im. Henryka
+  Reymana, Krakow":geo:50.063727,19.911819
+END:VEVENT
+END:VCALENDAR

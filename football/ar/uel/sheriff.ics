@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - شريف تيراسب
+ ول //
+X-WR-CALNAME:الدوري الأوروبي - شريف تيراسبول
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:شريف تيراسبول VS بريشتينا
+DTSTART:20250710T170000Z
+DTEND:20250710T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-f59gg14k8q0f2krt7i3nc14pg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: بولشايا سب
+ ورتفنايا أرينا\nالنتيجة: 4 - 0
+GEO:46.838347;29.557895
+LOCATION:بولشايا سبورتفنايا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="بولشايا سبورت
+ فنايا أرينا";X-APPLE-RADIUS=70;X-TITLE="بولشايا سبور
+ تفنايا أرينا":geo:46.838347,29.557895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بريشتينا VS شريف تيراسبول
+DTSTART:20250717T180000Z
+DTEND:20250717T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-32yssqutk0xg9erldxw02r6c@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: ملعب فاضل ف
+ وكري\nالنتيجة: 2 - 1
+GEO:42.662873;21.15705
+LOCATION:ملعب فاضل فوكري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فاضل فوك
+ ري";X-APPLE-RADIUS=70;X-TITLE="ملعب فاضل فوكري":geo:42.6628
+ 73,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شريف تيراسبول VS أوتريخت
+DTSTART:20250724T170000Z
+DTEND:20250724T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dsv9rgfekagl152af8g5a37dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: Stadionul Orăşen
+ esc\nالنتيجة: 1 - 3
+GEO:47.07661;28.179224
+LOCATION:Stadionul Orăşenesc
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Orăşenesc";X-
+ APPLE-RADIUS=70;X-TITLE="Stadionul Orăşenesc":geo:47.07661,28.179224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوتريخت VS شريف تيراسبول
+DTSTART:20250731T180000Z
+DTEND:20250731T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dw98cmzn248gwpl04tt0v1pg4@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: استاد جال
+ جينفارد\nالنتيجة: 4 - 1
+GEO:52.078319;5.145904
+LOCATION:استاد جالجينفارد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جالجينف
+ ارد";X-APPLE-RADIUS=70;X-TITLE="استاد جالجينفارد":geo:52
+ .078319,5.145904
+END:VEVENT
+END:VCALENDAR

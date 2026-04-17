@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// 유로파리그 - 바니크 오스트라바 //
+X-WR-CALNAME:유로파리그 - 바니크 오스트라바
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:바니크 오스트라바 VS 레지아 바르샤바
+DTSTART:20250724T170000Z
+DTEND:20250724T190000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-9q8gkhr39w7ocg5p0bxmm2uqc@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: 2차 예선\n경기장: 메
+ 스트스키 스타디온 - 비트코비체 아레나\n결과: 2 - 2
+GEO:49.804349;18.255989
+LOCATION:메스트스키 스타디온 - 비트코비체 아레나
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="메스트스키 스타디
+ 온 - 비트코비체 아레나";X-APPLE-RADIUS=70;X-TITLE="메스트스
+ 키 스타디온 - 비트코비체 아레나":geo:49.804349,18.255989
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:레지아 바르샤바 VS 바니크 오스트라바
+DTSTART:20250731T190000Z
+DTEND:20250731T210000Z
+DTSTAMP:20260417T055253Z
+UID:fifa-9ubst7bovh646y6n0jkfj4il0@fifa.com
+DESCRIPTION:대회: 유로파리그\n단계: 2차 예선\n경기장: 스
+ 타디온 미에이스키 레기 바르샤바\n결과: 2 - 1
+GEO:52.220498;21.040514
+LOCATION:스타디온 미에이스키 레기 바르샤바
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="스타디온 미에이스
+ 키 레기 바르샤바";X-APPLE-RADIUS=70;X-TITLE="스타디온 미에이
+ 스키 레기 바르샤바":geo:52.220498,21.040514
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - رييكا //
+X-WR-CALNAME:الدوري الأوروبي - رييكا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:رييكا VS شيلبورن
+DTSTART:20250806T184500Z
+DTEND:20250806T204500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-urqyhtxzw5f0e0162deegf10@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد روج
+ يفيكا\nالنتيجة: 1 - 2
+GEO:45.347873;14.402203
+LOCATION:استاد روجيفيكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد روجيفيك
+ ا";X-APPLE-RADIUS=70;X-TITLE="استاد روجيفيكا":geo:45.347873,
+ 14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شيلبورن VS رييكا
+DTSTART:20250812T184500Z
+DTEND:20250812T204500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-109tzu24amo985enu2dlo1a8k@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: Tolka Park\nالن
+ تيجة: 1 - 3
+GEO:53.367513;-6.251929
+LOCATION:Tolka Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tolka Park";X-APPLE-RADIU
+ S=70;X-TITLE="Tolka Park":geo:53.367513,-6.251929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:رييكا VS باوك سالونيكي
+DTSTART:20250821T184500Z
+DTEND:20250821T204500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-a00stu2r9waxfjiarrmhwdj4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ر
+ وجيفيكا\nالنتيجة: 1 - 0
+GEO:45.347873;14.402203
+LOCATION:استاد روجيفيكا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد روجيفيك
+ ا";X-APPLE-RADIUS=70;X-TITLE="استاد روجيفيكا":geo:45.347873,
+ 14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باوك سالونيكي VS رييكا
+DTSTART:20250828T173000Z
+DTEND:20250828T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-a12pc4txf515i4sjnu4mt7ztg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ت
+ ومباس\nالنتيجة: 5 - 0
+GEO:40.613818;22.972396
+LOCATION:استاد تومباس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد تومباس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد تومباس":geo:40.613818,22.97239
+ 6
+END:VEVENT
+END:VCALENDAR

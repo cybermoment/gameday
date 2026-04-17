@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga Europa - Ilves //
+X-WR-CALNAME:Liga Europa - Ilves
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk VS Ilves
+DTSTART:20250710T180000Z
+DTEND:20250710T200000Z
+DTSTAMP:20260417T055245Z
+UID:fifa-du56os69tes46dtwwdx1wyot0@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: 1ª rodada classificatória\
+ nEstádio: Stadion Stožice\nResultado: 6 - 0
+GEO:46.080472;14.524183
+LOCATION:Stadion Stožice
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Stožice";X-APPLE
+ -RADIUS=70;X-TITLE="Stadion Stožice":geo:46.080472,14.524183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves VS Shakhtar Donetsk
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055245Z
+UID:fifa-dyue41lxl3xy3cju8eif4721g@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: 1ª rodada classificatória\
+ nEstádio: Tammelan stadion\nResultado: 0 - 0
+GEO:61.500278;23.785465
+LOCATION:Tammelan stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tammelan stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Tammelan stadion":geo:61.500278,23.785465
+END:VEVENT
+END:VCALENDAR

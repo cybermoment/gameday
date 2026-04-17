@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - سلوفان برات
+ يسلافا //
+X-WR-CALNAME:الدوري الأوروبي - سلوفان براتيسلا
+ فا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سلوفان براتيسلافا VS ياينغ بويز
+DTSTART:20250821T181500Z
+DTEND:20250821T201500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-7u2mpw57s6khzp7ydnzkfnaxg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: ملعب تي
+ هيلني بول\nالنتيجة: 0 - 1
+GEO:48.163495;17.136698
+LOCATION:ملعب تيهيلني بول
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب تيهيلني 
+ بول";X-APPLE-RADIUS=70;X-TITLE="ملعب تيهيلني بول":geo:48.
+ 163495,17.136698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ياينغ بويز VS سلوفان براتيسلافا
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-7xuy8ti27tjmwomrwfpbitmok@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: الملعب 
+ وانكدورف\nالنتيجة: 3 - 2
+GEO:46.963118;7.464857
+LOCATION:الملعب وانكدورف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب وانكدو
+ رف";X-APPLE-RADIUS=70;X-TITLE="الملعب وانكدورف":geo:46.963
+ 118,7.464857
+END:VEVENT
+END:VCALENDAR

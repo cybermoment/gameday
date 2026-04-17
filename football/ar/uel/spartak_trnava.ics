@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - سبارتاك ترن
+ افا //
+X-WR-CALNAME:الدوري الأوروبي - سبارتاك ترنافا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:سبارتاك ترنافا VS هاكين
+DTSTART:20250710T181500Z
+DTEND:20250710T201500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-19mnvfumzflebewsrsqq7xu6s@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: سيتي أرنيا 
+ - ملعب أنطون مالاتينسكي\nالنتيجة: 0 - 1
+GEO:48.373652;17.591702
+LOCATION:سيتي أرنيا - ملعب أنطون مالاتينسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سيتي أرنيا - م
+ لعب أنطون مالاتينسكي";X-APPLE-RADIUS=70;X-TITLE="سيت
+ ي أرنيا - ملعب أنطون مالاتينسكي":geo:48.373652,17
+ .591702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هاكين VS سبارتاك ترنافا
+DTSTART:20250717T170000Z
+DTEND:20250717T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-1g65uxx895gn55e8x1fycr1uc@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: برافيدا أر
+ ينا\nالنتيجة: 2 - 2
+GEO:57.719199;11.930689
+LOCATION:برافيدا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="برافيدا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="برافيدا أرينا":geo:57.719199,11.9
+ 30689
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - أندرلخت //
+X-WR-CALNAME:الدوري الأوروبي - أندرلخت
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:أندرلخت VS هاكين
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-ce8ymreedf4mfyrkgtw2vqbys@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: استاد كون
+ ستانت فاندن ستوك\nالنتيجة: 1 - 0
+GEO:50.834182;4.298353
+LOCATION:استاد كونستانت فاندن ستوك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كونستان
+ ت فاندن ستوك";X-APPLE-RADIUS=70;X-TITLE="استاد كونستا
+ نت فاندن ستوك":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هاكين VS أندرلخت
+DTSTART:20250731T170000Z
+DTEND:20250731T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-cm3d6wt2u5uvgga454fn4vq50@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: برافيدا أ
+ رينا\nالنتيجة: 2 - 1
+GEO:57.719199;11.930689
+LOCATION:برافيدا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="برافيدا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="برافيدا أرينا":geo:57.719199,11.9
+ 30689
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - جو أهيد إيج
+ لز //
+X-WR-CALNAME:الدوري الأوروبي - جو أهيد إيجلز
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:جو أهيد إيجلز VS ستياوا بوخارست
+DTSTART:20250925T164500Z
+DTEND:20250925T184500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2eff66apoyrlfcse26mtlbeac@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: De Adelaarshorst\nالنتيج
+ ة: 0 - 1
+GEO:52.260414;6.172554
+LOCATION:De Adelaarshorst
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="De Adelaarshorst";X-APPLE
+ -RADIUS=70;X-TITLE="De Adelaarshorst":geo:52.260414,6.172554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS جو أهيد إيجلز
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2l8ozuvalcgzsz5vtmtzsbuac@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: ملعب سبيروس الأو
+ لمبي\nالنتيجة: 1 - 2
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جو أهيد إيجلز VS أستون فيلا
+DTSTART:20251023T164500Z
+DTEND:20251023T184500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2ramt4e3mdg0497ctzurqssno@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: De Adelaarshorst\nالنتيج
+ ة: 2 - 1
+GEO:52.260414;6.172554
+LOCATION:De Adelaarshorst
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="De Adelaarshorst";X-APPLE
+ -RADIUS=70;X-TITLE="De Adelaarshorst":geo:52.260414,6.172554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريد بول سالزبورغ VS جو أهيد إيجلز
+DTSTART:20251106T174500Z
+DTEND:20251106T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2wllqt1nu9mkvmuw31oqxsydw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: رد بول أرينا\nالن
+ تيجة: 2 - 0
+GEO:47.816294;12.998183
+LOCATION:رد بول أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="رد بول أرينا";X
+ -APPLE-RADIUS=70;X-TITLE="رد بول أرينا":geo:47.816294,12.998183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جو أهيد إيجلز VS شتوتجارت
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-37l5ikcoen6w6y7bgo1hl29lg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: De Adelaarshorst\nالنتيج
+ ة: 0 - 4
+GEO:52.260414;6.172554
+LOCATION:De Adelaarshorst
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="De Adelaarshorst";X-APPLE
+ -RADIUS=70;X-TITLE="De Adelaarshorst":geo:52.260414,6.172554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليون VS جو أهيد إيجلز
+DTSTART:20251211T200000Z
+DTEND:20251211T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3fas92tik5auvdcgtdox7lqtw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: Groupama Stadium\nالنتيج
+ ة: 2 - 1
+GEO:45.76531;4.982064
+LOCATION:Groupama Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Groupama Stadium";X-APPLE
+ -RADIUS=70;X-TITLE="Groupama Stadium":geo:45.76531,4.982064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نيس VS جو أهيد إيجلز
+DTSTART:20260122T200000Z
+DTEND:20260122T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3mmm827q95dfjd62kx0qlnehg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: أليانز ريفييرا\nا
+ لنتيجة: 3 - 1
+GEO:43.705119;7.192622
+LOCATION:أليانز ريفييرا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أليانز ريفيير
+ ا";X-APPLE-RADIUS=70;X-TITLE="أليانز ريفييرا":geo:43.705119,
+ 7.192622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جو أهيد إيجلز VS سبورتينغ براغا
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3qyj40mb8wkbl2cegldsnr4es@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: De Adelaarshorst\nالنتيج
+ ة: 0 - 0
+GEO:52.260414;6.172554
+LOCATION:De Adelaarshorst
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="De Adelaarshorst";X-APPLE
+ -RADIUS=70;X-TITLE="De Adelaarshorst":geo:52.260414,6.172554
+END:VEVENT
+END:VCALENDAR

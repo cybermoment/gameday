@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - زرينيسكي مو
+ ستا //
+X-WR-CALNAME:الدوري الأوروبي - زرينيسكي موستا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS بريدابليك
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6qkme6vyn4nl950powrwxt9g4@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد بيل
+ ي برييج\nالنتيجة: 1 - 1
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بريدابليك VS زرينيسكي موستا
+DTSTART:20250814T173000Z
+DTEND:20250814T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6se1oni96vfa56cx66tu16has@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: ملعب KFP مي
+ نسك\nالنتيجة: 1 - 2
+GEO:64.104104;-21.896889
+LOCATION:ملعب KFP مينسك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب KFP مينسك";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب KFP مينسك":geo:64.104104,-21.8968
+ 89
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:زرينيسكي موستا VS أوتريخت
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6yzohc7o27nrqy008agsoczdg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ب
+ يلي برييج\nالنتيجة: 0 - 2
+GEO:43.345619;17.795261
+LOCATION:استاد بيلي برييج
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيلي بر
+ ييج";X-APPLE-RADIUS=70;X-TITLE="استاد بيلي برييج":geo:43.
+ 345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أوتريخت VS زرينيسكي موستا
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-70srxazhtbiqm5lg2r043an10@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ج
+ الجينفارد\nالنتيجة: 0 - 0
+GEO:52.078319;5.145904
+LOCATION:استاد جالجينفارد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جالجينف
+ ارد";X-APPLE-RADIUS=70;X-TITLE="استاد جالجينفارد":geo:52
+ .078319,5.145904
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - باناثينيكو
+ س //
+X-WR-CALNAME:الدوري الأوروبي - باناثينيكوس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS شاختار دونيتسك
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-f1wzth659sqztejnurg55nf9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: ملعب سبير
+ وس الأولمبي\nالنتيجة: 0 - 0
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:شاختار دونيتسك VS باناثينيكوس
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-f32g90kashwq5kjyzwpdxjuhg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: Synerise Arena - S
+ tadion Miejski im. Henryka Reymana\nالنتيجة: 0 - 0
+GEO:50.063727;19.911819
+LOCATION:Synerise Arena - Stadion Miejski im. Henryka Reymana
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Synerise Arena - Stadion 
+ Miejski im. Henryka Reymana";X-APPLE-RADIUS=70;X-TITLE="Synerise Arena - S
+ tadion Miejski im. Henryka Reymana":geo:50.063727,19.911819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS سامسون سبور
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-bvns60v31wknbk3y5navv2vbo@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: ملعب سب
+ يروس الأولمبي\nالنتيجة: 2 - 1
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:سامسون سبور VS باناثينيكوس
+DTSTART:20250828T170000Z
+DTEND:20250828T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-bydahmfy0kjp96a5vy555di50@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: Samsun Yeni 1
+ 9 Mayıs Stadyumu\nالنتيجة: 0 - 0
+GEO:41.227881;36.457712
+LOCATION:Samsun Yeni 19 Mayıs Stadyumu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samsun Yeni 19 Mayıs Sta
+ dyumu";X-APPLE-RADIUS=70;X-TITLE="Samsun Yeni 19 Mayıs Stadyumu":geo:41.2
+ 27881,36.457712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ياينغ بويز VS باناثينيكوس
+DTSTART:20250925T190000Z
+DTEND:20250925T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2gekdkofcj9m2yubl3jd658us@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: الملعب وانكدورف\n
+ النتيجة: 1 - 4
+GEO:46.963118;7.464857
+LOCATION:الملعب وانكدورف
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب وانكدو
+ رف";X-APPLE-RADIUS=70;X-TITLE="الملعب وانكدورف":geo:46.963
+ 118,7.464857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS جو أهيد إيجلز
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2l8ozuvalcgzsz5vtmtzsbuac@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: ملعب سبيروس الأو
+ لمبي\nالنتيجة: 1 - 2
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فاينورد روتردام VS باناثينيكوس
+DTSTART:20251023T190000Z
+DTEND:20251023T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2qjpx0yzc7pltyr60azvjfuac@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: استاد فيينورد\nال
+ نتيجة: 3 - 1
+GEO:51.893855;4.523191
+LOCATION:استاد فيينورد
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فيينورد
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد فيينورد":geo:51.893855,4.52
+ 3191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS باناثينيكوس
+DTSTART:20251106T174500Z
+DTEND:20251106T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-2ywm5fjhgkzru10uhjnivua6s@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: استاد سويدبانك\nا
+ لنتيجة: 0 - 1
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS شتورم غراتس
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-394dhf2z7bu8spa10uht2ekno@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: ملعب سبيروس الأو
+ لمبي\nالنتيجة: 2 - 1
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS فيكتوريا بلزين
+DTSTART:20251211T200000Z
+DTEND:20251211T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3fo9bnz1qngonn4wn9fjgsl5g@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: ملعب سبيروس الأو
+ لمبي\nالنتيجة: 0 - 0
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيرينكفاروس VS باناثينيكوس
+DTSTART:20260122T200000Z
+DTEND:20260122T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3lsjtxb9i7zujfrkce2cn47is@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: غروباما أرينا\nال
+ نتيجة: 1 - 1
+GEO:47.475514;19.095286
+LOCATION:غروباما أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="غروباما أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="غروباما أرينا":geo:47.475514,19.0
+ 95286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS روما
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-3tcveo6je79m4z9lwovs2aqdw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الدوري\nالملعب: ملعب سبيروس الأو
+ لمبي\nالنتيجة: 1 - 1
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS فيكتوريا بلزين
+DTSTART:20260219T200000Z
+DTEND:20260219T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-bnnhfk876390rf015vih7aolw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الإقصائيات\nالملعب: ملعب سبيروس 
+ الأولمبي\nالنتيجة: 2 - 2
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيكتوريا بلزين VS باناثينيكوس
+DTSTART:20260226T174500Z
+DTEND:20260226T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-bo1l0def9vth39uen10zfm0b8@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: مرحلة الإقصائيات\nالملعب: دوسان أرينا\n
+ النتيجة: 1 - 1
+GEO:49.750074;13.385446
+LOCATION:دوسان أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="دوسان أرينا";X-
+ APPLE-RADIUS=70;X-TITLE="دوسان أرينا":geo:49.750074,13.385446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:باناثينيكوس VS ريال بيتيس
+DTSTART:20260312T174500Z
+DTEND:20260312T194500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-c2m176bl9e7q8prubwjj16pzo@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور الـ16\nالملعب: ملعب سبيروس الأولمبي\
+ nالنتيجة: 1 - 0
+GEO:38.036135;23.787584
+LOCATION:ملعب سبيروس الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب سبيروس ا
+ لأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب سبيروس الأو
+ لمبي":geo:38.036135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ريال بيتيس VS باناثينيكوس
+DTSTART:20260319T200000Z
+DTEND:20260319T220000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-cn85d3iowgaxev6zxod0zdz4k@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور الـ16\nالملعب: ملعب إشبيلية الأولمب
+ ي\nالنتيجة: 4 - 0
+GEO:37.417209;-6.004661
+LOCATION:ملعب إشبيلية الأولمبي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب إشبيلية 
+ الأولمبي";X-APPLE-RADIUS=70;X-TITLE="ملعب إشبيلية ال
+ أولمبي":geo:37.417209,-6.004661
+END:VEVENT
+END:VCALENDAR

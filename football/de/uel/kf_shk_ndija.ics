@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Shkëndija Tetovo //
+X-WR-CALNAME:UEFA Europa League - Shkëndija Tetovo
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Shkëndija Tetovo VS Ludogorets Razgrad
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-6qizmoyvjiumx8v3m1s2pukus@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Toš
+ e Proeski Arena\nErgebnis: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Toše Proeski Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
+ PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludogorets Razgrad VS Shkëndija Tetovo
+DTSTART:20250828T173000Z
+DTEND:20250828T193000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-6rt2jxrf92y1vwdk7g1vrdv6c@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Huve
+ pharma Arena\nErgebnis: 4 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR

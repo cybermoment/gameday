@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue Europa - KF Drita //
+X-WR-CALNAME:Ligue Europa - KF Drita
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Steaua Bucarest VS KF Drita
+DTSTART:20250807T183000Z
+DTEND:20250807T203000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-7vj9jtw7ues3qg3e17xf3ahhw@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: Arena Naţională\nRésultat: 3 - 2
+GEO:44.437208;26.152498
+LOCATION:Arena Naţională
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Naţională";X-APPL
+ E-RADIUS=70;X-TITLE="Arena Naţională":geo:44.437208,26.152498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KF Drita VS FC Steaua Bucarest
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-81z9fnenkg9263jkrv6cml8us@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: Stadiumi Fadil Vokrri\nRésultat: 1 - 3
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Лугано //
+X-WR-CALNAME:Лига Европы УЕФА - Лугано
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Лугано VS ЧФР Клуж
+DTSTART:20250724T183000Z
+DTEND:20250724T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5g7neaaeitb1ca46mztdefk7o@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
+ й Раунд\nСтадион: Stockhorn Arena\nРезультат: 0 - 0
+GEO:46.744588;7.606627
+LOCATION:Stockhorn Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stockhorn Arena";X-APPLE-
+ RADIUS=70;X-TITLE="Stockhorn Arena":geo:46.744588,7.606627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЧФР Клуж VS Лугано
+DTSTART:20250731T173000Z
+DTEND:20250731T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5hwdf3o9o0yzc8a3jwb8s3axg@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
+ й Раунд\nСтадион: Stadionul Dr. Constantin Rădulescu\nРез
+ ультат: 1 - 0
+GEO:46.779675;23.577218
+LOCATION:Stadionul Dr. Constantin Rădulescu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Dr. Constantin 
+ Rădulescu";X-APPLE-RADIUS=70;X-TITLE="Stadionul Dr. Constantin Rădulescu
+ ":geo:46.779675,23.577218
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - ベティス //
+X-WR-CALNAME:UEFAヨーロッパリーグ - ベティス
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ベティス VS ノッティンガム・フォレスト
+DTSTART:20250924T190000Z
+DTEND:20250924T210000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-2cyfpiu9c3kowfard5ahjl5hw@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 2 - 2
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ルドゴレツ VS ベティス
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-2llosqn5lakiqll1ij7tjxslw@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Huvepharma Arena\n結果: 0 - 2
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ヘンク VS ベティス
+DTSTART:20251023T164500Z
+DTEND:20251023T184500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-2rojxj4zaqw1zed2phgqlklck@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Cegeka Arena\n結果: 0 - 0
+GEO:51.005019;5.533247
+LOCATION:Cegeka Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cegeka Arena";X-APPLE-RAD
+ IUS=70;X-TITLE="Cegeka Arena":geo:51.005019,5.533247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベティス VS リヨン
+DTSTART:20251106T200000Z
+DTEND:20251106T220000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-32anu8hlalhsra1ksbq6ef3mc@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 2 - 0
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベティス VS ユトレヒト
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-39vfjmatv0hh73j5dxaz33mz8@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 2 - 1
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ディナモ・ザグレブ VS ベティス
+DTSTART:20251211T174500Z
+DTEND:20251211T194500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-3bt2gdt7p0qmlvkcbxxar1ic4@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: スタディオン・マクシミール\n結果: 1 - 
+ 3
+GEO:45.818781;16.017884
+LOCATION:スタディオン・マクシミール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタディオン・マ
+ クシミール";X-APPLE-RADIUS=70;X-TITLE="スタディオン・マクシ
+ ミール":geo:45.818781,16.017884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAOKサロニカ VS ベティス
+DTSTART:20260122T174500Z
+DTEND:20260122T194500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-3jjwsgbtga3y1m8paorwbc6c4@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Stadio Toumbas\n結果: 2 - 0
+GEO:40.613818;22.972396
+LOCATION:Stadio Toumbas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Toumbas";X-APPLE-R
+ ADIUS=70;X-TITLE="Stadio Toumbas":geo:40.613818,22.972396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベティス VS フェイエノールト
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-3u3qv7pqfvwq5amuwc3uz1wk4@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: League Sta
+ ge\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 2 - 1
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:パナシナイコス VS ベティス
+DTSTART:20260312T174500Z
+DTEND:20260312T194500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-c2m176bl9e7q8prubwjj16pzo@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: ラウン
+ ド16\nスタジアム: Olympiako Stadio Spyros Louis\n結果: 1 - 0
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベティス VS パナシナイコス
+DTSTART:20260319T200000Z
+DTEND:20260319T220000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-cn85d3iowgaxev6zxod0zdz4k@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: ラウン
+ ド16\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 4 - 0
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ブラガ VS ベティス
+DTSTART:20260408T164500Z
+DTEND:20260408T184500Z
+DTSTAMP:20260417T055252Z
+UID:fifa-5sb3nsdbez1j927jb73rc74k@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 準々決
+ 勝\nスタジアム: Estádio Municipal de Braga\n結果: 1 - 1
+GEO:41.562554;-8.429904
+LOCATION:Estádio Municipal de Braga
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Municipal de Bra
+ ga";X-APPLE-RADIUS=70;X-TITLE="Estádio Municipal de Braga":geo:41.562554,
+ -8.429904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベティス VS ブラガ
+DTSTART:20260416T190000Z
+DTEND:20260416T210000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-5adlvuesdb4axljrp95addixg@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 準々決
+ 勝\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 2 - 4
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+END:VCALENDAR

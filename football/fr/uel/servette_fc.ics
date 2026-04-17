@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue Europa - Servette //
+X-WR-CALNAME:Ligue Europa - Servette
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Servette VS Utrecht
+DTSTART:20250807T183000Z
+DTEND:20250807T203000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-ajf4t8sm17xy2ilx7rkn05o9g@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: Stade de Genève\nRésultat: 1 - 3
+GEO:46.177841;6.127458
+LOCATION:Stade de Genève
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Genève";X-APPLE
+ -RADIUS=70;X-TITLE="Stade de Genève":geo:46.177841,6.127458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utrecht VS Servette
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055239Z
+UID:fifa-akq60d1anbwh91lladx7n24gk@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: Stadion Galgenwaard\nRésultat: 2 - 1
+GEO:52.078319;5.145904
+LOCATION:Stadion Galgenwaard
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Galgenwaard";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadion Galgenwaard":geo:52.078319,5.145904
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - أبردين //
+X-WR-CALNAME:الدوري الأوروبي - أبردين
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:أبردين VS ستياوا بوخارست
+DTSTART:20250821T184500Z
+DTEND:20250821T204500Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dk0gwm4uix1rkqo8584nmuu50@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: استاد ب
+ يتودري\nالنتيجة: 2 - 2
+GEO:57.159304;-2.088797
+LOCATION:استاد بيتودري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد بيتودري
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد بيتودري":geo:57.159304,-2.0
+ 88797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ستياوا بوخارست VS أبردين
+DTSTART:20250828T183000Z
+DTEND:20250828T203000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dldhzv0mqyqay3lvbtgo6r7ro@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: المبارايات الاختتامية\nالملعب: الملعب 
+ الوطني\nالنتيجة: 3 - 0
+GEO:44.437208;26.152498
+LOCATION:الملعب الوطني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="الملعب الوطني
+ ";X-APPLE-RADIUS=70;X-TITLE="الملعب الوطني":geo:44.437208,26.1
+ 52498
+END:VEVENT
+END:VCALENDAR

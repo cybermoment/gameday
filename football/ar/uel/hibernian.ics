@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - هيبرنيان //
+X-WR-CALNAME:الدوري الأوروبي - هيبرنيان
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ميتلاند VS هيبرنيان
+DTSTART:20250724T173000Z
+DTEND:20250724T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-exinbwqsqtpobfj3ef76h73f8@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: إم سي إتش 
+ أرينا\nالنتيجة: 1 - 1
+GEO:56.11685;8.951647
+LOCATION:إم سي إتش أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="إم سي إتش أرين
+ ا";X-APPLE-RADIUS=70;X-TITLE="إم سي إتش أرينا":geo:56.11685,8
+ .951647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هيبرنيان VS ميتلاند
+DTSTART:20250731T190000Z
+DTEND:20250731T210000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-f1gx1a5gifqw0lyz3i0zgrspg@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثاني\nالملعب: ملعب ايست
+ ر رود\nالنتيجة: 1 - 2
+GEO:55.961782;-3.165311
+LOCATION:ملعب ايستر رود
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ايستر رو
+ د";X-APPLE-RADIUS=70;X-TITLE="ملعب ايستر رود":geo:55.961782,-
+ 3.165311
+END:VEVENT
+END:VCALENDAR

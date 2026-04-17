@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - AEKラルナカ //
+X-WR-CALNAME:UEFAヨーロッパリーグ - AEKラルナカ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:AEKラルナカ VS パルティザン
+DTSTART:20250710T163000Z
+DTEND:20250710T183000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: AEK Arena - George Karapatakis\n結果: 1 - 0
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:パルティザン VS AEKラルナカ
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: スタディオン・パルチザーナ\n結果: 
+ 2 - 1
+GEO:44.788761;20.459032
+LOCATION:スタディオン・パルチザーナ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="スタディオン・パ
+ ルチザーナ";X-APPLE-RADIUS=70;X-TITLE="スタディオン・パルチ
+ ザーナ":geo:44.788761,20.459032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ツェリエ VS AEKラルナカ
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-7366wtevmanq0otla4swyzbbo@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第2ラウ
+ ンド\nスタジアム: Stadion Z'dežele\n結果: 1 - 1
+GEO:46.246573;15.269923
+LOCATION:Stadion Z'dežele
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Z'dežele";X-APPL
+ E-RADIUS=70;X-TITLE="Stadion Z'dežele":geo:46.246573,15.269923
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEKラルナカ VS ツェリエ
+DTSTART:20250731T163000Z
+DTEND:20250731T183000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-74a58utzgpm01v9ozw2m3otg4@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第2ラウ
+ ンド\nスタジアム: AEK Arena - George Karapatakis\n結果: 2 - 1
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEKラルナカ VS レギア・ワルシャワ
+DTSTART:20250807T163000Z
+DTEND:20250807T183000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第3ラウ
+ ンド\nスタジアム: AEK Arena - George Karapatakis\n結果: 4 - 1
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:レギア・ワルシャワ VS AEKラルナカ
+DTSTART:20250814T190000Z
+DTEND:20250814T210000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第3ラウ
+ ンド\nスタジアム: Stadion Miejski Legii Warszawa im. Marszałka Jó
+ zefa Piłsudskiego\n結果: 2 - 1
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ブラン VS AEKラルナカ
+DTSTART:20250821T170000Z
+DTEND:20250821T190000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-8esik66moepd1ywpgy24a0f10@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: プレー
+ オフ\nスタジアム: Brann Stadion\n結果: 2 - 1
+GEO:60.366933;5.357417
+LOCATION:Brann Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEKラルナカ VS ブラン
+DTSTART:20250827T163000Z
+DTEND:20250827T183000Z
+DTSTAMP:20260417T055252Z
+UID:fifa-8g2kv7p1dbvjv6nevwq735b10@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: プレー
+ オフ\nスタジアム: AEK Arena - George Karapatakis\n結果: 0 - 4
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+END:VCALENDAR

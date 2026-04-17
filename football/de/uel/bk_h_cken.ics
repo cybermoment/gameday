@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - BK Häcken //
+X-WR-CALNAME:UEFA Europa League - BK Häcken
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Spartak Trnava VS BK Häcken
+DTSTART:20250710T181500Z
+DTEND:20250710T201500Z
+DTSTAMP:20260417T055240Z
+UID:fifa-19mnvfumzflebewsrsqq7xu6s@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
+ nStadion: CITY ARENA – Štadión Antona Malatinského\nErgebnis: 0 - 1
+GEO:48.373652;17.591702
+LOCATION:CITY ARENA – Štadión Antona Malatinského
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="CITY ARENA – Štadión 
+ Antona Malatinského";X-APPLE-RADIUS=70;X-TITLE="CITY ARENA – Štadión 
+ Antona Malatinského":geo:48.373652,17.591702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK Häcken VS Spartak Trnava
+DTSTART:20250717T170000Z
+DTEND:20250717T190000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-1g65uxx895gn55e8x1fycr1uc@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
+ nStadion: Nordic Wellness Arena\nErgebnis: 2 - 2
+GEO:57.719199;11.930689
+LOCATION:Nordic Wellness Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nordic Wellness Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Nordic Wellness Arena":geo:57.719199,11.930689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSC Anderlecht VS BK Häcken
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-ce8ymreedf4mfyrkgtw2vqbys@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 2. Qualifikationsrunde\
+ nStadion: Lotto Park\nErgebnis: 1 - 0
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK Häcken VS RSC Anderlecht
+DTSTART:20250731T170000Z
+DTEND:20250731T190000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-cm3d6wt2u5uvgga454fn4vq50@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 2. Qualifikationsrunde\
+ nStadion: Nordic Wellness Arena\nErgebnis: 2 - 1
+GEO:57.719199;11.930689
+LOCATION:Nordic Wellness Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nordic Wellness Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Nordic Wellness Arena":geo:57.719199,11.930689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK Häcken VS SK Brann Bergen
+DTSTART:20250807T170000Z
+DTEND:20250807T190000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-c6a2zhj3ah136lfhjrp95onis@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
+ nStadion: Nordic Wellness Arena\nErgebnis: 0 - 2
+GEO:57.719199;11.930689
+LOCATION:Nordic Wellness Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nordic Wellness Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Nordic Wellness Arena":geo:57.719199,11.930689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SK Brann Bergen VS BK Häcken
+DTSTART:20250814T170000Z
+DTEND:20250814T190000Z
+DTSTAMP:20260417T055240Z
+UID:fifa-c7nhn7w12amuzckfmwpcipkic@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
+ nStadion: Brann Stadion\nErgebnis: 0 - 1
+GEO:60.366933;5.357417
+LOCATION:Brann Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
+END:VEVENT
+END:VCALENDAR

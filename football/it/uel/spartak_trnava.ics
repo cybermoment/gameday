@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Spartak Trnava //
+X-WR-CALNAME:UEFA Europa League - Spartak Trnava
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Spartak Trnava VS Häcken
+DTSTART:20250710T181500Z
+DTEND:20250710T201500Z
+DTSTAMP:20260417T055246Z
+UID:fifa-19mnvfumzflebewsrsqq7xu6s@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: CITY ARENA – Štadión Antona Malatinského\nRisultato: 0 - 
+ 1
+GEO:48.373652;17.591702
+LOCATION:CITY ARENA – Štadión Antona Malatinského
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="CITY ARENA – Štadión 
+ Antona Malatinského";X-APPLE-RADIUS=70;X-TITLE="CITY ARENA – Štadión 
+ Antona Malatinského":geo:48.373652,17.591702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Häcken VS Spartak Trnava
+DTSTART:20250717T170000Z
+DTEND:20250717T190000Z
+DTSTAMP:20260417T055246Z
+UID:fifa-1g65uxx895gn55e8x1fycr1uc@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Nordic Wellness Arena\nRisultato: 2 - 2
+GEO:57.719199;11.930689
+LOCATION:Nordic Wellness Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nordic Wellness Arena";X-
+ APPLE-RADIUS=70;X-TITLE="Nordic Wellness Arena":geo:57.719199,11.930689
+END:VEVENT
+END:VCALENDAR

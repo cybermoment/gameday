@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - داوغافا ريغ
+ ا //
+X-WR-CALNAME:الدوري الأوروبي - داوغافا ريغا
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:داوغافا ريغا VS كوبيون بالوسورا
+DTSTART:20250806T170000Z
+DTEND:20250806T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-258eswpmjkvdk07riloeuzdp0@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: LNK Sporta Parks (
+ dabīgais)\nالنتيجة: 1 - 2
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks (dabīgais)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
+ is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
+ ,24.1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كوبيون بالوسورا VS داوغافا ريغا
+DTSTART:20250814T150000Z
+DTEND:20250814T170000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-28abhiz0drasfw8sbk05iwnpw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: سافون سان
+ ومات أرينا\nالنتيجة: 1 - 0
+GEO:62.884633;27.671803
+LOCATION:سافون سانومات أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سافون سانومات
+  أرينا";X-APPLE-RADIUS=70;X-TITLE="سافون سانومات أرين
+ ا":geo:62.884633,27.671803
+END:VEVENT
+END:VCALENDAR

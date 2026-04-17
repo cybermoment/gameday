@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - فولفسبرجر //
+X-WR-CALNAME:الدوري الأوروبي - فولفسبرجر
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:باوك سالونيكي VS فولفسبرجر
+DTSTART:20250807T173000Z
+DTEND:20250807T193000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-6xzdplg23g3g3ni34nmh5di50@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد توم
+ باس\nالنتيجة: 0 - 0
+GEO:40.613818;22.972396
+LOCATION:استاد تومباس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد تومباس";
+ X-APPLE-RADIUS=70;X-TITLE="استاد تومباس":geo:40.613818,22.97239
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فولفسبرجر VS باوك سالونيكي
+DTSTART:20250814T170000Z
+DTEND:20250814T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-70zqarfg4fmdjhcormhtjou8k@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: ملعب فورت
+ رسي\nالنتيجة: 0 - 1
+GEO:46.609024;14.278193
+LOCATION:ملعب فورترسي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب فورترسي";
+ X-APPLE-RADIUS=70;X-TITLE="ملعب فورترسي":geo:46.609024,14.27819
+ 3
+END:VEVENT
+END:VCALENDAR

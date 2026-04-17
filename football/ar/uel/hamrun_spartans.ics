@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - حمرون سبارت
+ انس //
+X-WR-CALNAME:الدوري الأوروبي - حمرون سبارتانس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:حمرون سبارتانس VS مكابي تل أبيب
+DTSTART:20250805T170000Z
+DTEND:20250805T190000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-56ndamjc2fan2ehkl2dfwyqdw@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد تكا
+ لي القومي\nالنتيجة: 1 - 2
+GEO:35.894817;14.415141
+LOCATION:استاد تكالي القومي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد تكالي ا
+ لقومي";X-APPLE-RADIUS=70;X-TITLE="استاد تكالي القومي"
+ :geo:35.894817,14.415141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مكابي تل أبيب VS حمرون سبارتانس
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-5dnzyp0rv11vgiw4x1zh81zis@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الثالث\nالملعب: استاد جرا
+ دسكي\nالنتيجة: 3 - 1
+GEO:45.815599;19.627252
+LOCATION:استاد جرادسكي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جرادسكي
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد جرادسكي":geo:45.815599,19.6
+ 27252
+END:VEVENT
+END:VCALENDAR

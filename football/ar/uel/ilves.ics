@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الأوروبي - إلفيس //
+X-WR-CALNAME:الدوري الأوروبي - إلفيس
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:شاختار دونيتسك VS إلفيس
+DTSTART:20250710T180000Z
+DTEND:20250710T200000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-du56os69tes46dtwwdx1wyot0@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: استاد ستوت
+ سيس\nالنتيجة: 6 - 0
+GEO:46.080472;14.524183
+LOCATION:استاد ستوتسيس
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ستوتسيس
+ ";X-APPLE-RADIUS=70;X-TITLE="استاد ستوتسيس":geo:46.080472,14.5
+ 24183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:إلفيس VS شاختار دونيتسك
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055251Z
+UID:fifa-dyue41lxl3xy3cju8eif4721g@fifa.com
+DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
+ ة: دور التصفيات الأول\nالملعب: Tammelan stadion\nا
+ لنتيجة: 0 - 0
+GEO:61.500278;23.785465
+LOCATION:Tammelan stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tammelan stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Tammelan stadion":geo:61.500278,23.785465
+END:VEVENT
+END:VCALENDAR

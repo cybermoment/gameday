@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Shakhtar Donetsk //
+X-WR-CALNAME:UEFA Europa League - Shakhtar Donetsk
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk VS Ilves
+DTSTART:20250710T180000Z
+DTEND:20250710T200000Z
+DTSTAMP:20260417T055227Z
+UID:fifa-du56os69tes46dtwwdx1wyot0@fifa.com
+DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
+ Stadium: Stadion Stožice\nResult: 6 - 0
+GEO:46.080472;14.524183
+LOCATION:Stadion Stožice
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Stožice";X-APPLE
+ -RADIUS=70;X-TITLE="Stadion Stožice":geo:46.080472,14.524183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves VS Shakhtar Donetsk
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260417T055227Z
+UID:fifa-dyue41lxl3xy3cju8eif4721g@fifa.com
+DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
+ Stadium: Tammelan stadion\nResult: 0 - 0
+GEO:61.500278;23.785465
+LOCATION:Tammelan stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tammelan stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Tammelan stadion":geo:61.500278,23.785465
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beşiktaş VS Shakhtar Donetsk
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+DTSTAMP:20260417T055227Z
+UID:fifa-1d4aeg74h672gn0c4t0krxc0k@fifa.com
+DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
+ Stadium: Tüpraş Stadyumu\nResult: 2 - 4
+GEO:41.039424;28.994444
+LOCATION:Tüpraş Stadyumu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tüpraş Stadyumu";X-APPL
+ E-RADIUS=70;X-TITLE="Tüpraş Stadyumu":geo:41.039424,28.994444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk VS Beşiktaş
+DTSTART:20250731T180000Z
+DTEND:20250731T200000Z
+DTSTAMP:20260417T055227Z
+UID:fifa-1ehuo3mhuzksrzc07hgz3v7dg@fifa.com
+DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
+ Stadium: Synerise Arena - Stadion Miejski im. Henryka Reymana\nResult: 2 -
+  0
+GEO:50.063727;19.911819
+LOCATION:Synerise Arena - Stadion Miejski im. Henryka Reymana
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Synerise Arena - Stadion 
+ Miejski im. Henryka Reymana";X-APPLE-RADIUS=70;X-TITLE="Synerise Arena - S
+ tadion Miejski im. Henryka Reymana":geo:50.063727,19.911819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panathinaikos VS Shakhtar Donetsk
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+DTSTAMP:20260417T055227Z
+UID:fifa-f1wzth659sqztejnurg55nf9w@fifa.com
+DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
+ Stadium: Olympiako Stadio Spyros Louis\nResult: 0 - 0
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk VS Panathinaikos
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+DTSTAMP:20260417T055227Z
+UID:fifa-f32g90kashwq5kjyzwpdxjuhg@fifa.com
+DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
+ Stadium: Synerise Arena - Stadion Miejski im. Henryka Reymana\nResult: 0 -
+  0
+GEO:50.063727;19.911819
+LOCATION:Synerise Arena - Stadion Miejski im. Henryka Reymana
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Synerise Arena - Stadion 
+ Miejski im. Henryka Reymana";X-APPLE-RADIUS=70;X-TITLE="Synerise Arena - S
+ tadion Miejski im. Henryka Reymana":geo:50.063727,19.911819
+END:VEVENT
+END:VCALENDAR
