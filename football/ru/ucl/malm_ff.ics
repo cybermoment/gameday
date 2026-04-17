@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Iberia 1999 VS Мальме ФФ
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
-DTSTAMP:20260417T055221Z
+DTSTAMP:20260417T080024Z
 UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Mikheil M
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Мальме ФФ VS Iberia 1999
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260417T055221Z
+DTSTAMP:20260417T080024Z
 UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Стад
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Даугава Рига VS Мальме ФФ
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260417T055221Z
+DTSTAMP:20260417T080024Z
 UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: LNK Sporta Parks (dabīgais)\nРез
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Мальме ФФ VS Даугава Рига
 DTSTART:20250730T170000Z
 DTEND:20250730T190000Z
-DTSTAMP:20260417T055221Z
+DTSTAMP:20260417T080024Z
 UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Стадион Шведбанк\nРе
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Мальме ФФ VS Копенгаген
 DTSTART:20250805T170000Z
 DTEND:20250805T190000Z
-DTSTAMP:20260417T055221Z
+DTSTAMP:20260417T080024Z
 UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Стадион Шведбанк\nРе
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Копенгаген VS Мальме ФФ
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260417T055221Z
+DTSTAMP:20260417T080024Z
 UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Стадион Паркен\nРезу
