@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia VS Hapoel Beer Sheva
 DTSTART:20250710T173000Z
 DTEND:20250710T193000Z
-DTSTAMP:20260417T121115Z
+DTSTAMP:20260417T140520Z
 UID:fifa-6f82698scw2670hxkqci38kr8@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Stadion Georgi Asparuhov\nResult: 0 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Hapoel Beer Sheva VS Levski Sofia
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260417T121115Z
+DTSTAMP:20260417T140520Z
 UID:fifa-6ha35p7vsqiciqqyxt6el2rro@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Városi Stadion\nResult: 1 - 1
