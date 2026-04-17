@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS مارسيليا
 DTSTART:20250815T184500Z
 DTEND:20250815T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-72ywjmxfsozasbdhr12v63vv8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS ليون
 DTSTART:20250816T150000Z
 DTEND:20250816T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-73l4er9v8jty4j1755iq9l6ok@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS لو هافر
 DTSTART:20250816T170000Z
 DTEND:20250816T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-76d9cbhb0m7r4hvrr0ma22fpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS تولوز
 DTSTART:20250816T190500Z
 DTEND:20250816T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7418rio2sxr1iuexz55zxuyac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS ليل
 DTSTART:20250817T130000Z
 DTEND:20250817T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-74zpn9q4fwxv9jgn3a7ijslck@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS ستراسبورغ
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-75vj2kkzx3rsh4sljwh5yv2tw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS باريس
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-75fp0z0nvmxwq7e93v82hludw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS لوريان
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-74h5os2atpg4gkrdbrss9gefo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS باريس سان جيرمان
 DTSTART:20250817T184500Z
 DTEND:20250817T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-76t6m3q3ye3kb7rtlansiyivo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS آنجيه
 DTSTART:20250822T184500Z
 DTEND:20250822T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7a235jtuwzxep18ue4cpoi51w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS باريس
 DTSTART:20250823T150000Z
 DTEND:20250823T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7760a973lifciy9atx6ougq38@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS أوكسير
 DTSTART:20250823T170000Z
 DTEND:20250823T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-78ltzch15j0kgdvqr7fww0nbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS ميتز
 DTSTART:20250823T190500Z
 DTEND:20250823T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-79brtmu270u71wnu6nqh6uj2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS ستاد رين
 DTSTART:20250824T130000Z
 DTEND:20250824T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-788vfzsw9hc64lne7umcnkpp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS لينس
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-77vwwullt2rkwqbrcq2q71j4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS نانت
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-79oyk2qmf1t5auscpyaavyrdg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS بريست
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-78yvd6345ocoz4gxmaklttyqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS موناكو
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-77j13otir5d57ue444m10kqac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS بريست
 DTSTART:20250829T184500Z
 DTEND:20250829T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7b72rgxdptmkdu4bauqvywvmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS ليل
 DTSTART:20250830T150000Z
 DTEND:20250830T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7czutwaxk9tqhjmf8ttgrixp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS أوكسير
 DTSTART:20250830T170000Z
 DTEND:20250830T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7bk8twwdbyyipms1jnzmt3ims@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS باريس سان جيرمان
 DTSTART:20250830T190500Z
 DTEND:20250830T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7af49jgo4iulv1k8cplj9smj8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS ستاد رين
 DTSTART:20250831T130000Z
 DTEND:20250831T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7bx3blsy1or1lxv2mmmj4jyms@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS نيس
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7cmwxdyiko746tibe3mgxdjpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS ميتز
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7c9ygcprmgav5uii8a89w9o2c@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS ستراسبورغ
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7as416n51kwznt2k62e2o0178@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS مارسيليا
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7dcotifjucedc6y5ym418k5qs@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS لوريان
 DTSTART:20250912T184500Z
 DTEND:20250912T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7dpmvjum8qnbd3451iz9nm9sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS نانت
 DTSTART:20250913T150000Z
 DTEND:20250913T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7esrafqg6iv027c36tpc9rjtg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS موناكو
 DTSTART:20250913T190500Z
 DTEND:20250913T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7efmhwisdsjjgbfwh06ou8nbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS تولوز
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7gajlkhpq82gxrxhu19og0qhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS لينس
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7e2n9uyd9eo7o4j8ogg52hams@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS لو هافر
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7fxlfaq79j9fhu0z0tywm036c@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS آنجيه
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7f5r9wk8ccx0tfz0ykc4bzvo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS باريس
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7finhgei82ggqjmpqvozmy32s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -527,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS ليون
 DTSTART:20250914T184500Z
 DTEND:20250914T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7gnjrgecb17513nn58buzcftg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS آنجيه
 DTSTART:20250919T184500Z
 DTEND:20250919T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7jjpozp88qx6oz9lj126oahas@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS ستاد رين
 DTSTART:20250920T150000Z
 DTEND:20250920T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7hdh3tbg2wvlim6o9dwmf47is@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS نيس
 DTSTART:20250920T170000Z
 DTEND:20250920T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7i3i9xsmgt7s9m90xj1pr6z2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS ليل
 DTSTART:20250920T190500Z
 DTEND:20250920T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7h0i7e61tfj9c8pebjoyccx04@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS ستراسبورغ
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7hqfsp9wwps1370c6rgriitxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -615,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS ميتز
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7j6xkqxwykwo1ey199ysxhul0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS تولوز
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7iglc3pzsvxdcv3y06926j6l0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS لوريان
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7iu1zdyf1l318hz7bq2zau42c@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -659,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS باريس سان جيرمان
 DTSTART:20250922T180000Z
 DTEND:20250922T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7jwliihvfb3uy25mnkhow33tg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -674,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS مارسيليا
 DTSTART:20250926T184500Z
 DTEND:20250926T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7k9jcd1dxbz7xnp5qbhjbqiac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS موناكو
 DTSTART:20250927T150000Z
 DTEND:20250927T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7mjfw1yfeh546dja65cp7ejo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS نانت
 DTSTART:20250927T170000Z
 DTEND:20250927T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7letvduy3f5mnqk12p0lr5qtw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -719,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS أوكسير
 DTSTART:20250927T190500Z
 DTEND:20250927T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7na0v7epd0x1r94af3u4dso44@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -734,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS باريس
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7m62w9j9iun95smcx0a8hocgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS ليون
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7mwwqwnv8mcxrkauh686zdxjo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -764,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS بريست
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7kofummfmha2cguoivv9vyvbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -779,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS لو هافر
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7lt407efe035jm3gv41dg8vmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -794,7 +794,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS لينس
 DTSTART:20250928T184500Z
 DTEND:20250928T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7l1n57rq3lxa7la5ztggwjvh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -808,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS لوريان
 DTSTART:20251003T184500Z
 DTEND:20251003T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7p43li2bqzu2bl9eqqg9bq42c@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS مارسيليا
 DTSTART:20251004T150000Z
 DTEND:20251004T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7o0gmehom5mzsocak42ultt78@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -838,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS نانت
 DTSTART:20251004T170000Z
 DTEND:20251004T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7pwcv40os2bpgrh3td8elxhxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -853,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS لينس
 DTSTART:20251004T190500Z
 DTEND:20251004T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7q9habd412g1giclzyhxwqm1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS تولوز
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7odp3g03ubqgqokl25ha79ces@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -882,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS نيس
 DTSTART:20251005T151500Z
 DTEND:20251005T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7nn5sww4yvob1qnen04jmyfpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS ستاد رين
 DTSTART:20251005T151500Z
 DTEND:20251005T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7oqwklcldhxccx21yl22e8v84@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS آنجيه
 DTSTART:20251005T151500Z
 DTEND:20251005T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7pj6sxncv64nf54kv4x0c795g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -926,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS باريس سان جيرمان
 DTSTART:20251005T184500Z
 DTEND:20251005T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7qmk3hlyd0dcnxnh6p1unaxas@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -941,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS ستراسبورغ
 DTSTART:20251017T184500Z
 DTEND:20251017T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7rqqx5f5hg6r0w0ixflxjncic@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -956,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS ليون
 DTSTART:20251018T150000Z
 DTEND:20251018T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7rdc1a8lxjdf8pszxvlov6sr8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS موناكو
 DTSTART:20251018T170000Z
 DTEND:20251018T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7t7yxocl9le4hipp8sy9hqyhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -986,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS لو هافر
 DTSTART:20251018T190500Z
 DTEND:20251018T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7r005fpphen9xjmizqrub6904@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS باريس
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7sh3gud0et7a4ivgb8jgwbj84@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -1016,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS ميتز
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7s40axsqq7zfk748ymaw8jtw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -1031,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS أوكسير
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7tyy0bjxwgzgrr2s7lnn698no@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -1045,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS بريست
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7suiizi1qmm8tr7ey7exckb9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS ليل
 DTSTART:20251019T184500Z
 DTEND:20251019T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7tlbjk7fi973p87e8pgizgtuc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -1075,7 +1075,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS نانت
 DTSTART:20251024T184500Z
 DTEND:20251024T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7woilg11mdjafmd9g8zm53aqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -1090,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS باريس سان جيرمان
 DTSTART:20251025T150000Z
 DTEND:20251025T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7xev2belu7if982hoiysjsglw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -1105,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS تولوز
 DTSTART:20251025T170000Z
 DTEND:20251025T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7v573renz2sz5kijdwya246xg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -1120,7 +1120,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS مارسيليا
 DTSTART:20251025T190500Z
 DTEND:20251025T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7x1o058r9z5q36sidhpy4ot90@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -1135,7 +1135,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS ميتز
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7wb6zzjgh7wp418sn45p6q87o@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -1150,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS لوريان
 DTSTART:20251026T161500Z
 DTEND:20251026T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7us1vqvgfpe349hpapkp42g44@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -1165,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS لو هافر
 DTSTART:20251026T161500Z
 DTEND:20251026T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7vxtdk1qltv5nokw7qo9kk9p0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -1180,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS نيس
 DTSTART:20251026T161500Z
 DTEND:20251026T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7vkdtkvofryd4gn1uu4gq4t1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -1194,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS ستراسبورغ
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7uez0go2lksfpxv0envcy2txw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -1208,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS باريس سان جيرمان
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7y5e0gczdsng2ybx6ecb3zy1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -1223,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS لينس
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-80ep8gebj6p6l3xr3x3983kes@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -1238,7 +1238,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS ليل
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-80wh2fbewlez7ttmv63yowlqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -1253,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS بريست
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7znx52cirafzl9sfcd5fcpd04@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -1267,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS ليون
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7zakpx3bdi9xngk6n0kzf0xsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -1282,7 +1282,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS آنجيه
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7xs3l7p9x8cr57eawypzkatxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -1297,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS أوكسير
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7yvumhtfkzi2mp08th02rzhg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -1312,7 +1312,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS ستاد رين
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8017kgrmft0thxb5zciyfvifo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -1327,7 +1327,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS موناكو
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-7yiltbyr9682m9yuukm40yvx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -1342,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS نيس
 DTSTART:20251101T160000Z
 DTEND:20251101T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-81aediyh85oa7ux7qj50va4us@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -1357,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS باريس
 DTSTART:20251101T180000Z
 DTEND:20251101T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-83wy5m6fbrrtlug3hcpq4uyhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS مارسيليا
 DTSTART:20251101T200500Z
 DTEND:20251101T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-84cd9y0ujv779suuvt17xv7ro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -1387,7 +1387,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS ستراسبورغ
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-82ebxmrmqgkws56fj9x5otq8k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -1401,7 +1401,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS ميتز
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-83jr3gvavdtyibbwtnq8tz5zo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -1416,7 +1416,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS لوريان
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-82rnrjb2fbikdy5nbhf4mxz4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -1431,7 +1431,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS لو هافر
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-81nmz4z6jep92lon7gofss650@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -1446,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS آنجيه
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-820yilruplpojta9jznqwt82c@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS ليون
 DTSTART:20251102T194500Z
 DTEND:20251102T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-836cqx23u09nwnsi2tnmdcduc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -1476,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS ستاد رين
 DTSTART:20251107T194500Z
 DTEND:20251107T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-86k0uxuzs6p0j7lhdat542g44@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -1491,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS بريست
 DTSTART:20251108T160000Z
 DTEND:20251108T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-84pk71yvb8kkl4rfrmqrudbmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -1506,7 +1506,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS نانت
 DTSTART:20251108T180000Z
 DTEND:20251108T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-866rrtjqlkc7awxv3d655drmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -1520,7 +1520,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS لينس
 DTSTART:20251108T200500Z
 DTEND:20251108T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-87a9ay9yxg6yrv300xdpb5b10@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -1535,7 +1535,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS تولوز
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-86x27wjaeyld15ukqaidjyxp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -1550,7 +1550,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS نيس
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-85g24yt5o01b410wl4njd2sk4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -1565,7 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS ليل
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-87nkivfh38imdea2mlokcvu38@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -1580,7 +1580,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS أوكسير
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-85tfgt0ebqh6zi9jd3xfvqhhw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -1595,7 +1595,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS باريس سان جيرمان
 DTSTART:20251109T194500Z
 DTEND:20251109T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-852q11gnbre1lghipp6s4outw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -1609,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS مارسيليا
 DTSTART:20251121T194500Z
 DTEND:20251121T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8an0jlr1zf40vov8zekwbgavo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -1624,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS ستراسبورغ
 DTSTART:20251122T160000Z
 DTEND:20251122T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-880t6lepwo7xf1dbsudept6ac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -1639,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS موناكو
 DTSTART:20251122T180000Z
 DTEND:20251122T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-88dya81roreal0lxy1mkzhb84@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -1653,7 +1653,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS لو هافر
 DTSTART:20251122T200500Z
 DTEND:20251122T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8b07eq7uasgxv9sfkgi6nocus@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -1668,7 +1668,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS ليون
 DTSTART:20251123T140000Z
 DTEND:20251123T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8a9wa7pzfck1g5z5t33z06784@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -1683,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS ميتز
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-89jasaj1ep0aadfc88obaz11w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -1698,7 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS آنجيه
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-89656oqm5av2vdm2h26lxt2c4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -1713,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS لوريان
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-88r8mh63ovrqr79aikgzroefo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -1728,7 +1728,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS باريس
 DTSTART:20251123T194500Z
 DTEND:20251123T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-89wmzpjtz2u1jq65kkfz1hyj8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -1743,7 +1743,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS ستاد رين
 DTSTART:20251128T194500Z
 DTEND:20251128T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8cuxefm9l1ux973t156sp0opg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -1758,7 +1758,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS باريس سان جيرمان
 DTSTART:20251129T160000Z
 DTEND:20251129T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8dzxrbjovbb72u3zfrgxrp5as@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -1773,7 +1773,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS أوكسير
 DTSTART:20251129T180000Z
 DTEND:20251129T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8bqrt5xzfyok5v7dblphpd4pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -1788,7 +1788,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS تولوز
 DTSTART:20251129T200500Z
 DTEND:20251129T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8ed8h94ghvgle3ni3sel5tx5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -1803,7 +1803,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS بريست
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8d863d4hukktuken9r5812qz8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -1818,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS لينس
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8c40s9dmzxl33115jh6w10104@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -1833,7 +1833,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS نيس
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8dlbjkymc8kpyf4tosivin4t0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -1848,7 +1848,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS ليل
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8chiraxydxwe3x80yl1bozkes@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -1862,7 +1862,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS نانت
 DTSTART:20251130T194500Z
 DTEND:20251130T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8bdlfuv6dy0cge9pyz9ix5v6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -1876,7 +1876,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS موناكو
 DTSTART:20251205T180000Z
 DTEND:20251205T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8glj05zdcq5z920vg05lvn6z8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -1891,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS مارسيليا
 DTSTART:20251205T200000Z
 DTEND:20251205T220000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8eql64qcpxsivzywyfr3p3s44@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -1906,7 +1906,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS لينس
 DTSTART:20251206T160000Z
 DTEND:20251206T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8fuei7twwjrpuze3dokkx45jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -1921,7 +1921,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS ستراسبورغ
 DTSTART:20251206T180000Z
 DTEND:20251206T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8hcfr8w41pqptnf955zxsubkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -1936,7 +1936,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS ستاد رين
 DTSTART:20251206T200500Z
 DTEND:20251206T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8hq6n7zb6ij0lkzp9f3snenmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -1951,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS آنجيه
 DTSTART:20251207T140000Z
 DTEND:20251207T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8g7ldzzbom2ba2a3yfpq9e904@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -1966,7 +1966,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS باريس
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8f3tnmo8i4bko7srxs5ssqkgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -1980,7 +1980,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS ميتز
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8fh296rt2px5vbp5y7457qxas@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -1995,7 +1995,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS ليون
 DTSTART:20251207T194500Z
 DTEND:20251207T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8gyvhezfpqenv51hott4yoydw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -2010,7 +2010,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS نانت
 DTSTART:20251212T194500Z
 DTEND:20251212T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8i3rzhdimvv1bucfosy8fcro4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -2025,7 +2025,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS بريست
 DTSTART:20251213T160000Z
 DTEND:20251213T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8j97zseqjb93yvwy9n2vf0ums@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -2039,7 +2039,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS باريس سان جيرمان
 DTSTART:20251213T180000Z
 DTEND:20251213T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8kd48mdv34g7t95d9b6glcwt0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -2054,7 +2054,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS تولوز
 DTSTART:20251213T200500Z
 DTEND:20251213T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8igyys1xqxqyk7lodsnndzpqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -2069,7 +2069,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS لو هافر
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8jmkgul01k740xn7bqnhkbr4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -2083,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS ليل
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8ivxronb80ztyzfv5pr850sno@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -2098,7 +2098,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS لوريان
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8jzwdz729b6d3cina9j0g4ljo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -2113,7 +2113,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS نيس
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8kqdyxm18wfmljsps5a5fk178@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -2128,7 +2128,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS موناكو
 DTSTART:20251214T194500Z
 DTEND:20251214T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8l3moidix6vsl5zhosbr7k7is@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -2143,7 +2143,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS لينس
 DTSTART:20260102T194500Z
 DTEND:20260102T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8o32zdzhixuovdh9jck1bjm6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -2158,7 +2158,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS ليون
 DTSTART:20260103T160000Z
 DTEND:20260103T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8m7gx48d3vn9hnr1hfyswyvx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -2173,7 +2173,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS ستراسبورغ
 DTSTART:20260103T180000Z
 DTEND:20260103T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8lgxl8h25a3htyni3vsao83ys@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -2188,7 +2188,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS ستاد رين
 DTSTART:20260103T200500Z
 DTEND:20260103T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8mkls8wflm36ps9v71yuoe61g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -2203,7 +2203,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS نانت
 DTSTART:20260104T140000Z
 DTEND:20260104T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8ogihgvj5esnu8jg10aosihp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -2218,7 +2218,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS أوكسير
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8nq11nvlv3kcy4qidv1yii2ac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -2233,7 +2233,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS ميتز
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8nb1272u5o0h57dfnsz05n3f8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -2248,7 +2248,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS آنجيه
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8mxqz36quo3qb4bt6wgwbmz2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -2262,7 +2262,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS باريس
 DTSTART:20260104T194500Z
 DTEND:20260104T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8lu58inotaezy8amroo3xopw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -2277,7 +2277,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS لوريان
 DTSTART:20260116T180000Z
 DTEND:20260116T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8r33icbcztc0n66ki58oedtsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -2292,7 +2292,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS ليل
 DTSTART:20260116T200000Z
 DTEND:20260116T220000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8rga2f9w2h9eqamd4c0ieybro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -2307,7 +2307,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS أوكسير
 DTSTART:20260117T160000Z
 DTEND:20260117T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8pysxkqzqxm5buurzebf08e8k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -2322,7 +2322,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS نيس
 DTSTART:20260117T180000Z
 DTEND:20260117T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8qc6ubi62sx11njufwyclcaok@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -2337,7 +2337,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS مارسيليا
 DTSTART:20260117T200500Z
 DTEND:20260117T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8rwtar5hadikpvxuh7xhltb10@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -2352,7 +2352,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS ميتز
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8p7bz5si0ywkxxrzfe5d1007o@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -2367,7 +2367,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS باريس
 DTSTART:20260118T161500Z
 DTEND:20260118T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8qpsv11q63px0nfhh91sgdafo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -2382,7 +2382,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS لو هافر
 DTSTART:20260118T161500Z
 DTEND:20260118T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8otqi9r77wlz4ohmerij4fqxg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -2396,7 +2396,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS بريست
 DTSTART:20260118T194500Z
 DTEND:20260118T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8plljs64bsqgk05etnjow4opg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -2410,7 +2410,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS باريس سان جيرمان
 DTSTART:20260123T190000Z
 DTEND:20260123T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8sr1cnoxz6t9nr359umloabro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -2425,7 +2425,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS لوريان
 DTSTART:20260124T160000Z
 DTEND:20260124T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8tulxhgmgvet0w5e46f2zxrtg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -2439,7 +2439,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS موناكو
 DTSTART:20260124T180000Z
 DTEND:20260124T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8um36ha8ckilyfkjzwnzikhzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -2453,7 +2453,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS لينس
 DTSTART:20260124T200500Z
 DTEND:20260124T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8vdhidfe9e7yz0rjl3qbblogk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -2468,7 +2468,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS نيس
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8uzuadv07g5b03zozks825444@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -2483,7 +2483,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS ليون
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8u7y3t0dlfofkey5h05n2datw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -2498,7 +2498,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS آنجيه
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8then2i39m955xdxcgps2xqfo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -2513,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS تولوز
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8t46s64zsh1t73iwei9nxcydw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -2528,7 +2528,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS ستراسبورغ
 DTSTART:20260125T194500Z
 DTEND:20260125T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8sbt68kf1vu4u298a2b8a08pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -2543,7 +2543,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS لو هافر
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8y0f1bhw42hpzh9ch8vrmyp78@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -2558,7 +2558,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS مارسيليا
 DTSTART:20260131T160000Z
 DTEND:20260131T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8vqputshtlktgeucmqsqqstg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -2573,7 +2573,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS نانت
 DTSTART:20260131T180000Z
 DTEND:20260131T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8x7jthn7rqsphvbwsxswzsglw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -2588,7 +2588,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS ستاد رين
 DTSTART:20260131T200500Z
 DTEND:20260131T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8xn2d5a2kdx5238cwz9uc6lg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -2603,7 +2603,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS ليل
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8w416tbdarkpzgnefbpldyvpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -2617,7 +2617,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS ميتز
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8yrcdxksb2ul8rdr1gza8e978@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -2632,7 +2632,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS أوكسير
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8wub8phw726z2s7c0xd95xfkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -2647,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS بريست
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8ydv3pe27le3jf7ma3ezyvdw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -2662,7 +2662,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS باريس سان جيرمان
 DTSTART:20260201T194500Z
 DTEND:20260201T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8wh6w0enqn5gxvuqelm0078d0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -2677,7 +2677,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS ليل
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9241nze9bak869q57rjeaq3h0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -2692,7 +2692,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS ستاد رين
 DTSTART:20260207T160000Z
 DTEND:20260207T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-91dfp4tj1gs3ca84prdkxos9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -2707,7 +2707,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS لوريان
 DTSTART:20260207T180000Z
 DTEND:20260207T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8zwdh40g17b67uxggrqi94i6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -2722,7 +2722,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS ليون
 DTSTART:20260207T200500Z
 DTEND:20260207T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9105nbvblxjaby19wl6ijotg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -2737,7 +2737,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS موناكو
 DTSTART:20260208T140000Z
 DTEND:20260208T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8zj1jybz6nbdkbcrp2j9z1u6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -2752,7 +2752,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS باريس
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-90mzl6cpsvr2ctujlp4he6fis@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -2767,7 +2767,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS ستراسبورغ
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-909n78etc7zwg4afsvra5kro4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -2781,7 +2781,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS تولوز
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-91qqlyz09tg9ez5o7q2lpe0b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -2796,7 +2796,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS مارسيليا
 DTSTART:20260208T194500Z
 DTEND:20260208T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-8z58ss9wus2842zlzu6grvuac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -2811,7 +2811,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS باريس سان جيرمان
 DTSTART:20260213T180000Z
 DTEND:20260213T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-95hg76d9v54mx9ve9t87qv5zo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -2825,7 +2825,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS نانت
 DTSTART:20260213T200500Z
 DTEND:20260213T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-94qrj6vriaepju8lbpa91kdg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -2840,7 +2840,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS ستراسبورغ
 DTSTART:20260214T160000Z
 DTEND:20260214T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-92w3v1zmovn1e6fdahj11l5w4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -2855,7 +2855,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS بريست
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-939i2u1dqhrqht2dk192oanmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -2870,7 +2870,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS لينس
 DTSTART:20260214T200500Z
 DTEND:20260214T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9542olzreg98t5g7iy5689yc4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -2885,7 +2885,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS تولوز
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-93mssjxmeg7m6j5qdzug0gpp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -2899,7 +2899,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS آنجيه
 DTSTART:20260215T161500Z
 DTEND:20260215T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-94dg900bmd4ksi4kn62r0xi50@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -2914,7 +2914,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS أوكسير
 DTSTART:20260215T161500Z
 DTEND:20260215T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9404tejjdtw065b44zk6aj5sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -2929,7 +2929,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS نيس
 DTSTART:20260215T194500Z
 DTEND:20260215T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-92j1e74iuasnbtrex63woeql0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -2943,7 +2943,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS مارسيليا
 DTSTART:20260220T194500Z
 DTEND:20260220T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-96zy9u5gs3rmkk4aldnbo6y38@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -2958,7 +2958,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS موناكو
 DTSTART:20260221T160000Z
 DTEND:20260221T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9680w5grhbij53uk7u1zdkiz8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -2973,7 +2973,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS باريس
 DTSTART:20260221T180000Z
 DTEND:20260221T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9862rku5wkvr7ztuaow2ckzro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -2988,7 +2988,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS ميتز
 DTSTART:20260221T200500Z
 DTEND:20260221T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-96ldfp9679q8i4hdcoxutsg7o@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -3003,7 +3003,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS ستاد رين
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-98wrlx9pesn8r95d5wm0qfims@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -3018,7 +3018,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS ليل
 DTSTART:20260222T161500Z
 DTEND:20260222T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-98ji44fvlaloy2apebw4yl6hg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -3033,7 +3033,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS لو هافر
 DTSTART:20260222T161500Z
 DTEND:20260222T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-97ss3ca8wx72vsspzijyu20pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -3048,7 +3048,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS لوريان
 DTSTART:20260222T161500Z
 DTEND:20260222T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-97f1y7z09apfet3gaa3lgq32s@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -3063,7 +3063,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS ليون
 DTSTART:20260222T194500Z
 DTEND:20260222T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-95up16y21d8pfupfkyzapqmms@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -3078,7 +3078,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS لينس
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9bvvo7fe784553nbrum8q67mc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -3093,7 +3093,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS تولوز
 DTSTART:20260228T160000Z
 DTEND:20260228T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-99ns3z8mn2uuwfmm2pe108ftg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -3107,7 +3107,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS آنجيه
 DTSTART:20260228T180000Z
 DTEND:20260228T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9a1iouor9k6jlnb6lqp0qlkpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -3122,7 +3122,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS باريس سان جيرمان
 DTSTART:20260228T200500Z
 DTEND:20260228T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-99a58crfa6os7lt9la3gclh5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -3136,7 +3136,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS نيس
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9biqqtofk8ivb1twgvwku0hec@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -3151,7 +3151,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS أوكسير
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9af53o9hfgs4hfirkjmlljndg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -3166,7 +3166,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS بريست
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9as9lbax5iqs4ifsddmbos3ro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -3181,7 +3181,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS نانت
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9b5nkrzt8ku0bp3x883tgxmvo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -3196,7 +3196,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS ليون
 DTSTART:20260301T194500Z
 DTEND:20260301T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9cath7fgxe906unsmhrhincpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -3211,7 +3211,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS موناكو
 DTSTART:20260306T194500Z
 DTEND:20260306T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9fmvv0tnw20dgmsxz8tdcv0us@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -3226,7 +3226,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS آنجيه
 DTSTART:20260307T160000Z
 DTEND:20260307T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9f9kuids3rgqlqx1zhsvfbwus@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -3241,7 +3241,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS ستراسبورغ
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9ewdmzregj6oqyc4h5wd30fmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -3256,7 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS مارسيليا
 DTSTART:20260307T200500Z
 DTEND:20260307T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9cnzd2zkyjfl8wq39yyawdic4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -3271,7 +3271,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS ميتز
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9e5nae59jjcp07kxv2w21oe1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -3286,7 +3286,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS ستاد رين
 DTSTART:20260308T161500Z
 DTEND:20260308T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9devx8w8zta50tnjtiwkvw9as@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -3301,7 +3301,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS لو هافر
 DTSTART:20260308T161500Z
 DTEND:20260308T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9d1i6ix9sinez5um1ic7284d0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -3316,7 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS لوريان
 DTSTART:20260308T161500Z
 DTEND:20260308T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9eixig78n4sav3qfoboz38qac@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -3331,7 +3331,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS باريس
 DTSTART:20260308T194500Z
 DTEND:20260308T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9dsdi6019alc3ofkzhs6zusd0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -3345,7 +3345,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS أوكسير
 DTSTART:20260313T194500Z
 DTEND:20260313T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9j3m943ydaqhzkip4dm8x36s4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -3360,7 +3360,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS لينس
 DTSTART:20260314T160000Z
 DTEND:20260314T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9gdkk8wkbsrfyxckswcmfkd1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -3375,7 +3375,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS نيس
 DTSTART:20260314T180000Z
 DTEND:20260314T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9i9rrqyrywsf4qfqot6a68duc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -3390,7 +3390,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS بريست
 DTSTART:20260314T200500Z
 DTEND:20260314T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9ionuokb3g2k1ryu5vbm7b0gk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -3405,7 +3405,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS باريس
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9h5ymyb7mkj2jvirmscchc55g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -3420,7 +3420,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS ليون
 DTSTART:20260315T161500Z
 DTEND:20260315T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9gqu1uh88maw6ttz22uwpjwus@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -3434,7 +3434,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS تولوز
 DTSTART:20260315T161500Z
 DTEND:20260315T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9hj1424xlip8civkt6hskt2j8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -3449,7 +3449,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS ليل
 DTSTART:20260315T194500Z
 DTEND:20260315T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9hwe5k0b5yv8dfdsquahq8zys@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -3463,7 +3463,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS آنجيه
 DTSTART:20260320T194500Z
 DTEND:20260320T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9l3eew5kqdhdlkce55khtsaok@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -3478,7 +3478,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS لوريان
 DTSTART:20260321T160000Z
 DTEND:20260321T180000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9ltwksm92ttlkgv1gf51u1ous@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -3493,7 +3493,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS بريست
 DTSTART:20260321T180000Z
 DTEND:20260321T200000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9jziwyg6cgsvoirapcks32dxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -3508,7 +3508,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS باريس سان جيرمان
 DTSTART:20260321T200500Z
 DTEND:20260321T220500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9m8t0nd0eroyeg4ua31yq2kgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -3523,7 +3523,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS موناكو
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9jm8h36920l1wek39e2axl1xw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -3537,7 +3537,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS ميتز
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9kcqiybypw9kix606xckqoqhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -3551,7 +3551,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS ليل
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9mlx4iqslyu1521yjvzc0jvh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -3566,7 +3566,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS لو هافر
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9lgnd4nfwyy4hxu2uxmfnid5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -3581,7 +3581,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS ستراسبورغ
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9kq8x7m65ajep26bou4lcqpzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -3596,7 +3596,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS تولوز
 DTSTART:20260403T184500Z
 DTEND:20260403T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9plnaznv3kr2vuaqzhrqm7i8k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس\nالن
@@ -3611,7 +3611,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS نيس
 DTSTART:20260404T150000Z
 DTEND:20260404T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9pz0g8650jfcdtp974lo02xhw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو\nا
@@ -3626,7 +3626,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS ستاد رين
 DTSTART:20260404T170000Z
 DTEND:20260404T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9ndqn7pe9rlo7eyftkjqlkoic@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -3641,7 +3641,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS لينس
 DTSTART:20260404T190500Z
 DTEND:20260404T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9p8eybm8kroprwrs3sd151nh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي\n
@@ -3656,7 +3656,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS ليون
 DTSTART:20260405T130000Z
 DTEND:20260405T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9nr9gxvsdvrirq0id72061kwk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين\nال
@@ -3671,7 +3671,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS باريس
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9ov5e4suhwmige770nfot7or8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -3686,7 +3686,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS نانت
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9o4n55lkslbeyjajky43umsyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -3701,7 +3701,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS أوكسير
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9oi06kws1i8wrxbdkl4pnf5sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان\nالن
@@ -3715,7 +3715,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS مارسيليا
 DTSTART:20260405T184500Z
 DTEND:20260405T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9n0bsizfj4sedu9937hdhz190@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني\nا
@@ -3730,7 +3730,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS موناكو
 DTSTART:20260410T170000Z
 DTEND:20260410T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9sa8e6pqyd65jwfzybnm03i1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين\nالن
@@ -3745,7 +3745,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS ميتز
 DTSTART:20260410T190500Z
 DTEND:20260410T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9qcdaq1wjtf8da69phljb2z9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم\nا
@@ -3760,7 +3760,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS نانت
 DTSTART:20260411T170000Z
 DTEND:20260411T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9t2ybu6n2todh9f2qi3uyg4r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -3775,7 +3775,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS آنجيه
 DTSTART:20260411T190500Z
 DTEND:20260411T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9r545q5gex4ynt4kjzz3ugx78@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك\nالنت
@@ -3789,7 +3789,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS ليل
 DTSTART:20260412T151500Z
 DTEND:20260412T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9sni5hkp2nuxqrbbjmm9heo0k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -3804,7 +3804,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS لو هافر
 DTSTART:20260412T151500Z
 DTEND:20260412T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9rizhdu5w8k70m2jml4nf4d1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا\nا
@@ -3819,7 +3819,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS لوريان
 DTSTART:20260412T184500Z
 DTEND:20260412T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9qpt1w1dlssthzfoof12xp6hg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium\nالنتيجة
@@ -3833,7 +3833,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS تولوز
 DTSTART:20260417T184500Z
 DTEND:20260417T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9v0uaaro4f8emh6sp49ucu4gk@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -3848,7 +3848,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS مارسيليا
 DTSTART:20260418T150000Z
 DTEND:20260418T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9tuecc8r0tw3cj6ztu66tgljo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -3863,7 +3863,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS لو هافر
 DTSTART:20260418T170000Z
 DTEND:20260418T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9vf4hv3la1d428v3j7ejd6qs4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين
@@ -3877,7 +3877,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS نيس
 DTSTART:20260418T190500Z
 DTEND:20260418T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9wl2aexkvn2nyfp79cawh45jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي
@@ -3891,7 +3891,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS أوكسير
 DTSTART:20260419T130000Z
 DTEND:20260419T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9vsnlak9lmoalib3eyd64z9ck@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني
@@ -3905,7 +3905,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS باريس
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9undrxf1ijzcnw6pqwcorrml0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -3920,7 +3920,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS ستاد رين
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9u93mskgb139cu0hd7vu9sduc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو
@@ -3934,7 +3934,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS بريست
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9w7ua9b67wzm28myjm68l50d0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -3949,7 +3949,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS ليون
 DTSTART:20260419T184500Z
 DTEND:20260419T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9wyi01fwzpnykchw34trhjml0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس
@@ -3963,7 +3963,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS نانت
 DTSTART:20260422T170000Z
 DTEND:20260422T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9g07ss9mgnigw1hfa4ne4i1w4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس
@@ -3977,7 +3977,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS لينس
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9zxjb8x1gt0a80798vsat6i38@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -3992,7 +3992,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS أوكسير
 DTSTART:20260425T130000Z
 DTEND:20260425T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9z6uqobyhlmmv7r1ntaszb5zo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium
@@ -4005,7 +4005,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS باريس سان جيرمان
 DTSTART:20260425T170000Z
 DTEND:20260425T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9xpffh33w9283nrzsvvn0y7f8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين
@@ -4019,7 +4019,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS موناكو
 DTSTART:20260425T190500Z
 DTEND:20260425T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9zkahvlipcmh3o95lr4ea95hw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -4034,7 +4034,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS ستراسبورغ
 DTSTART:20260426T130000Z
 DTEND:20260426T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9ytna8swoqeiuqmwdflakxbtg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -4049,7 +4049,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS ليل
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9yg1rb5k622djgynfoisbjdhw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين
@@ -4063,7 +4063,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS ميتز
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9y2s6ykrv8q191sxyzu8g8dg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان
@@ -4076,7 +4076,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS نانت
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9xc14cp3sitr6wfs4bh7vgtuc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك
@@ -4089,7 +4089,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS نيس
 DTSTART:20260426T184500Z
 DTEND:20260426T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a0b0nkumjijelm5rjqfo82plg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم
@@ -4103,7 +4103,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS مارسيليا
 DTSTART:20260501T184500Z
 DTEND:20260501T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a14pqud01q3gdpn5sb78dzims@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
@@ -4118,7 +4118,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS لوريان
 DTSTART:20260502T150000Z
 DTEND:20260502T170000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a0o9cgfq2dtxjclkbtt11n3f8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس
@@ -4132,7 +4132,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS موناكو
 DTSTART:20260502T170000Z
 DTEND:20260502T190000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a1hw3ldrle31gbslwfj4x24us@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -4147,7 +4147,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS لينس
 DTSTART:20260502T190500Z
 DTEND:20260502T210500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a3p4pgae3k82njd8a9w0ftmhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا
@@ -4161,7 +4161,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS لو هافر
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a1uynt862yubvos469tnn6c5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي
@@ -4175,7 +4175,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS تولوز
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a28gzkojrp8r88cffl82o9c7o@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو
@@ -4189,7 +4189,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS بريست
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a2yvjth611uwq6dwxc6wuuy38@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين
@@ -4203,7 +4203,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS آنجيه
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a3bwsw6j5a69te8hyh8e2ytxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -4218,7 +4218,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS ستاد رين
 DTSTART:20260503T184500Z
 DTEND:20260503T204500Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a2lqu6dz9dtclu4tb2eppyn10@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium
@@ -4231,7 +4231,7 @@ BEGIN:VEVENT
 SUMMARY:آنجيه VS ستراسبورغ
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a6osea7is20zcww5b85r08npw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد جان بوين
@@ -4245,7 +4245,7 @@ BEGIN:VEVENT
 SUMMARY:ستاد رين VS باريس
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a5yg8tcrxk9lzymoxratyivis@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: روزهون بارك
@@ -4258,7 +4258,7 @@ BEGIN:VEVENT
 SUMMARY:أوكسير VS نيس
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a5jgajvb594m84xr48f4aqo0k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد دي لابي ديش
@@ -4273,7 +4273,7 @@ BEGIN:VEVENT
 SUMMARY:لو هافر VS مارسيليا
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a4fu2e9ue09trjzjs5ob8w8b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد اوسيان
@@ -4286,7 +4286,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS بريست
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a42fzova76bvjvsu9hm8ow7is@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: بارك دي برينس
@@ -4300,7 +4300,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS نانت
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a565uhc7y4eouqda5vp1nejo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -4315,7 +4315,7 @@ BEGIN:VEVENT
 SUMMARY:تولوز VS ليون
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a4t053mt6g4yuwf15ps2dhatw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: الملعب البلدي تول
@@ -4330,7 +4330,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS ليل
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a71zm3hyrcgh30hixbbbbacr8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد لوي الثاني
@@ -4344,7 +4344,7 @@ BEGIN:VEVENT
 SUMMARY:ميتز VS لوريان
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a6bkq6sjyd3dcv8ig0d7haxp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد سانت سيمفور
@@ -4359,7 +4359,7 @@ BEGIN:VEVENT
 SUMMARY:لينس VS باريس سان جيرمان
 DTSTART:20260513T000000Z
 DTEND:20260513T020000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9tgkqlevg5n5o5opx4boqsljo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد بولاير دوليل
@@ -4374,7 +4374,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS ستراسبورغ
 DTSTART:20260513T000000Z
 DTEND:20260513T020000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-9rwlcosdmxen4l8qu9x0kdvro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -4389,7 +4389,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS ميتز
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a8wp4lhl199rhbglul7qk87x0@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: أليانز ريفييرا
@@ -4403,7 +4403,7 @@ BEGIN:VEVENT
 SUMMARY:ليل VS أوكسير
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a8jcx98nbda7y3qmm4aigetqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد بيير موروي
@@ -4417,7 +4417,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS ستاد رين
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a9n96juwy5im5b428xgpf03ro@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فيلودروم
@@ -4431,7 +4431,7 @@ BEGIN:VEVENT
 SUMMARY:ستراسبورغ VS موناكو
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-aa0fiz57iyc7rhjtg47ul2olw@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ستاد دي لا مينو
@@ -4445,7 +4445,7 @@ BEGIN:VEVENT
 SUMMARY:ليون VS لينس
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-aadqkdlabfc68ah1r4ziesg0k@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: Groupama Stadium
@@ -4458,7 +4458,7 @@ BEGIN:VEVENT
 SUMMARY:باريس VS باريس سان جيرمان
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a99xwpczlz7leac2yu0zlj5zo@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب جان بوين
@@ -4472,7 +4472,7 @@ BEGIN:VEVENT
 SUMMARY:بريست VS آنجيه
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a85xjra8twh5x8ahf0tivmdqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد فرنسيس لو ب
@@ -4487,7 +4487,7 @@ BEGIN:VEVENT
 SUMMARY:لوريان VS لو هافر
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a7sjjaj7qeh5a8bh61cdw8vmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: استاد يفيس ألانما
@@ -4502,7 +4502,7 @@ BEGIN:VEVENT
 SUMMARY:نانت VS تولوز
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
-DTSTAMP:20260417T225528Z
+DTSTAMP:20260417T235042Z
 UID:fifa-a7f4eaz5l7ly8go0q797dt7v8@fifa.com
 DESCRIPTION:المسابقة: الدوري الفرنسي\nالمرحلة:
   الموسم الحالي\nالملعب: ملعب دي لابيجيور -
