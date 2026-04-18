@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Olympique Marseille
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-4sffoari6ugnp3roi1m3k7xn8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 2 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS Ajax
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-50aybm4aduzr2y0na0l1tj2tw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Orange Vélodrome\nResult: 4 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP VS Olympique Marseille
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estádio José Alvalade\nResult: 2 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS Atalanta
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-5gvvzdmzgkymkhsskiiyiwdg4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Orange Vélodrome\nResult: 0 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS Newcastle United
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-5jvxlvcsjl7gv4i0tj10rqntg@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Orange Vélodrome\nResult: 2 - 1
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Union VS Olympique Marseille
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-5r3sfsleiu2c82yuruwzhcv84@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Lotto Park\nResult: 2 - 3
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS Liverpool
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-61hsz6689o7g9ybeya58oox78@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Orange Vélodrome\nResult: 0 - 3
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge VS Olympique Marseille
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260418T052413Z
+DTSTAMP:20260418T064754Z
 UID:fifa-64sx5q7qlo1ahz8cb3ss3lp90@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Jan Breydelstadion\nResult: 3 - 0
