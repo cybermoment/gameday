@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Brujas VS AS Mónaco
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Jan Breydelstadion\nResultado: 4 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Manchester City
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Stade Louis-II\nResultado: 2 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Tottenham Hotspur
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-588thaqsgswjlauvj2gp1orh0@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Stade Louis-II\nResultado: 0 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Bodo Glimt VS AS Mónaco
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Aspmyra Stadion\nResultado: 0 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos VS AS Mónaco
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Alphamega Stadium\nResultado: 2 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Galatasaray
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Stade Louis-II\nResultado: 1 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS AS Mónaco
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-5xf3kaeavedi0z5fyjm6llwr8@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Estadio Bernabéu\nResultado: 6 - 1
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Juventus FC
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-62yriqtd43xg8ioh1ejxzw7pw@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
  io: Stade Louis-II\nResultado: 0 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Paris Saint-Germain
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
  liminatorios\nEstadio: Stade Louis-II\nResultado: 2 - 3
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS AS Mónaco
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260418T141136Z
+DTSTAMP:20260418T150849Z
 UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
  liminatorios\nEstadio: Parque de los Príncipes\nResultado: 2 - 2
