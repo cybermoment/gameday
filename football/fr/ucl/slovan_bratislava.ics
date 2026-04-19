@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava VS Zrinjski
 DTSTART:20250722T181500Z
 DTEND:20250722T201500Z
-DTSTAMP:20260419T200227Z
+DTSTAMP:20260419T210509Z
 UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Štadión Tehelné pole\nRésultat: 4 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Zrinjski VS Slovan Bratislava
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260419T200227Z
+DTSTAMP:20260419T210509Z
 UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Stadion Bijeli Brijeg\nRésultat: 2 - 2
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Kaïrat VS Slovan Bratislava
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260419T200227Z
+DTSTAMP:20260419T210509Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Ortalyq stadıon\nRésultat: 1 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava VS Kaïrat
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260419T200227Z
+DTSTAMP:20260419T210509Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Štadión Tehelné pole\nRésultat: 1 - 0
