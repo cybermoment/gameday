@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Аугсбург
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-ctiyi3fh9yo41q6wyssamhyc4@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Кельн VS Фрайбург
 DTSTART:20250831T173000Z
 DTEND:20250831T193000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-cz0pjg0mj1a5m91lqszpb2bkk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Стади
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Штутгарт
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Вердер Бремен VS Фрайбург
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Weserstadi
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Хоффенхайм
 DTSTART:20250928T133000Z
 DTEND:20250928T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-d76yzyflinjbjue96ve9zekgk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Боруссия Менхенгладбах VS Фрайбург
 DTSTART:20251005T173000Z
 DTEND:20251005T193000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-dcrccxyi2q3cw0t8hmksn3ok4@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: BORUSSIA-P
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Айнтрахт Франкфурт
 DTSTART:20251019T133000Z
 DTEND:20251019T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-dfmkm0af0rgtmxs4ow219prtg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Фрайбург
 DTSTART:20251026T143000Z
 DTEND:20251026T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-djrsa1siv252tot4dqegveyok@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: BayArena\n
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Унион Берлин VS Фрайбург
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-dpi74rfcl5l4gor7uzfi7mot0@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Stadion An
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Санкт-Паули
 DTSTART:20251109T143000Z
 DTEND:20251109T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-drwds3zpvjelfi2ne49dahous@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Фрайбург
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-duphpfn76nnmm87fh3hkmobh0@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Allianz Ar
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Майнц 05
 DTSTART:20251130T183000Z
 DTEND:20251130T203000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Хайденхайм VS Фрайбург
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-e478laz1p8875b08kujh0lces@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Voith-Aren
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Боруссия Дортмунд
 DTSTART:20251214T143000Z
 DTEND:20251214T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-e6jj6eibzyfv0o6jmv6pdsqhg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Вольфсбург VS Фрайбург
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-eaiqxd2ocdb9meu07n6figglw@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Volkswagen
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Гамбург
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-edpwo151usyqwitu53kqeobh0@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:РБ Лейпциг VS Фрайбург
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-egv9ep9u1qftm8duqphe094b8@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Red Bull A
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Аугсбург VS Фрайбург
 DTSTART:20260118T163000Z
 DTEND:20260118T183000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-elm64iezyo4chxb3ukcdxjl04@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: WWK Arena\
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Кельн
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-eof2idjdw3bvltio6b49clpuc@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Фрайбург
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Вердер Бремен
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Хоффенхайм VS Фрайбург
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-f0nyu34ar99b8yxjac3jpyolw@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: PreZero Ar
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Боруссия Менхенгладбах
 DTSTART:20260222T143000Z
 DTEND:20260222T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-f1ud2i8b4rezfxix7czncsis4@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Айнтрахт Франкфурт VS Фрайбург
 DTSTART:20260301T163000Z
 DTEND:20260301T183000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-f5esrxkpcocxsk0umq5p2yoes@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Deutsche B
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Байер Леверкузен
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-3dvpg0zqnvzgoqj263zl3g9g@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Унион Берлин
 DTSTART:20260315T163000Z
 DTEND:20260315T183000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-7r14isj1f999evgg9xt7ydxw@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Санкт-Паули VS Фрайбург
 DTSTART:20260322T163000Z
 DTEND:20260322T183000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-cgq5h1fz7sm71cfnxdnn3j10@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Millerntor
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Бавария Мюнхен
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-ehm6p0fs4lr0jykl70umuuxg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Майнц 05 VS Фрайбург
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MEWA ARENA
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Хайденхайм
 DTSTART:20260419T133000Z
 DTEND:20260419T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-m8e1thtcqeuy54l3zyouar6c@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Боруссия Дортмунд VS Фрайбург
 DTSTART:20260426T153000Z
 DTEND:20260426T173000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-opeabpi1vy53fxn3l5zfwt1w@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: SIGNAL IDU
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Вольфсбург
 DTSTART:20260503T173000Z
 DTEND:20260503T193000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-tfbsbfqni95nhdkgdis9cd1w@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Гамбург VS Фрайбург
 DTSTART:20260510T133000Z
 DTEND:20260510T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-yyscgqr7sskeagimqimfx6hg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Volksparks
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS РБ Лейпциг
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260419T040030Z
+DTSTAMP:20260419T060919Z
 UID:fifa-10jnauxzq6mmvzk1xmhl552qc@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
