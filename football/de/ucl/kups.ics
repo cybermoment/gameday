@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio VS Milsami Orhei
 DTSTART:20250708T150000Z
 DTEND:20250708T170000Z
-DTSTAMP:20260419T141131Z
+DTSTAMP:20260419T150856Z
 UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
  de\nStadion: Väre Areena\nErgebnis: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Milsami Orhei VS KuPS Kuopio
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260419T141131Z
+DTSTAMP:20260419T150856Z
 UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
  de\nStadion: Complexul Sportiv Raional\nErgebnis: 0 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio VS FK Qairat Almaty
 DTSTART:20250722T150000Z
 DTEND:20250722T170000Z
-DTSTAMP:20260419T141131Z
+DTSTAMP:20260419T150856Z
 UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Väre Areena\nErgebnis: 2 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:FK Qairat Almaty VS KuPS Kuopio
 DTSTART:20250729T150000Z
 DTEND:20250729T170000Z
-DTSTAMP:20260419T141131Z
+DTSTAMP:20260419T150856Z
 UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Ortalyq stadıon\nErgebnis: 3 - 0

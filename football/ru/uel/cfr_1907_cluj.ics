@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Пакши СЕ VS ЧФР Клуж
 DTSTART:20250710T170000Z
 DTEND:20250710T190000Z
-DTSTAMP:20260419T141139Z
+DTSTAMP:20260419T150900Z
 UID:fifa-8urov6093lc0ap7fntdld1iqc@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Paksi FC Stadio
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:ЧФР Клуж VS Пакши СЕ
 DTSTART:20250717T173000Z
 DTEND:20250717T193000Z
-DTSTAMP:20260419T141139Z
+DTSTAMP:20260419T150900Z
 UID:fifa-8xtii67q5fgkj5vmtp16rue50@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Stadionul Dr. C
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Лугано VS ЧФР Клуж
 DTSTART:20250724T183000Z
 DTEND:20250724T203000Z
-DTSTAMP:20260419T141139Z
+DTSTAMP:20260419T150900Z
 UID:fifa-5g7neaaeitb1ca46mztdefk7o@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stockhorn Arena\nРезультат: 0 - 0
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:ЧФР Клуж VS Лугано
 DTSTART:20250731T173000Z
 DTEND:20250731T193000Z
-DTSTAMP:20260419T141139Z
+DTSTAMP:20260419T150900Z
 UID:fifa-5hwdf3o9o0yzc8a3jwb8s3axg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadionul Dr. Constantin Rădulescu\nРез
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:ЧФР Клуж VS Спортинг Брага
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260419T141139Z
+DTSTAMP:20260419T150900Z
 UID:fifa-66s9pcsf4jcys1hzeqdwl3v9w@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadionul Dr. Constantin Rădulescu\nРез
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS ЧФР Клуж
 DTSTART:20250814T183000Z
 DTEND:20250814T203000Z
-DTSTAMP:20260419T141139Z
+DTSTAMP:20260419T150900Z
 UID:fifa-6ar0axb2q5636y2zuid5jwqok@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Estádio Municipal de Braga\nРезульт
