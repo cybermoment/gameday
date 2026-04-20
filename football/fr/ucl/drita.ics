@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:KF Drita VS Differdange 03
 DTSTART:20250708T180000Z
 DTEND:20250708T200000Z
-DTSTAMP:20260420T105540Z
+DTSTAMP:20260420T121011Z
 UID:fifa-17lgmf0v333oyc7ocwdkushlg@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Stadiumi Fadil Vokrri\nRésultat: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Differdange 03 VS KF Drita
 DTSTART:20250715T180000Z
 DTEND:20250715T200000Z
-DTSTAMP:20260420T105540Z
+DTSTAMP:20260420T121011Z
 UID:fifa-19oizyt50o94u436hep5n8hlg@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Stade Parc des Sports\nRésultat: 2 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Copenhague VS KF Drita
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260420T105540Z
+DTSTAMP:20260420T121011Z
 UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Parken\nRésultat: 2 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:KF Drita VS FC Copenhague
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260420T105540Z
+DTSTAMP:20260420T121011Z
 UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Stadiumi Fadil Vokrri\nRésultat: 0 - 1
