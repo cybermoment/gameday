@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia VS Hapoel Be'er Sheva
 DTSTART:20250710T173000Z
 DTEND:20250710T193000Z
-DTSTAMP:20260421T035342Z
+DTSTAMP:20260421T060912Z
 UID:fifa-6f82698scw2670hxkqci38kr8@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
  nStadion: Stadion Georgi Asparuhov\nErgebnis: 0 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Hapoel Be'er Sheva VS Levski Sofia
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260421T035342Z
+DTSTAMP:20260421T060912Z
 UID:fifa-6ha35p7vsqiciqqyxt6el2rro@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
  nStadion: Városi Stadion\nErgebnis: 1 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Levski Sofia VS Sporting Braga
 DTSTART:20250724T173000Z
 DTEND:20250724T193000Z
-DTSTAMP:20260421T035342Z
+DTSTAMP:20260421T060912Z
 UID:fifa-8f8mn7eq13nfk9o1q2ag1hxqs@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 2. Qualifikationsrunde\
  nStadion: Stadion Georgi Asparuhov\nErgebnis: 0 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Braga VS Levski Sofia
 DTSTART:20250731T190000Z
 DTEND:20250731T210000Z
-DTSTAMP:20260421T035342Z
+DTSTAMP:20260421T060912Z
 UID:fifa-8hzxfg2240bw9dtten8cg83ys@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 2. Qualifikationsrunde\
  nStadion: Estádio Municipal de Braga\nErgebnis: 1 - 0
