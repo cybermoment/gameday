@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:فيرينكفاروس VS فيكتوريا بلزين
 DTSTART:20250925T190000Z
 DTEND:20250925T210000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-2hqxoj0slx8w7xdd7vm6ssd90@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: غروباما أرينا\nال
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:جينك VS فيرينكفاروس
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-2neip9ij6zoesrxt1zi91242c@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: Cegeka Arena\nالنتيجة: 0
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:ريد بول سالزبورغ VS فيرينكفاروس
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-2psekrm6aowcnoh1x8vrpaz9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: رد بول أرينا\nالن
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:فيرينكفاروس VS لودوجوريتس رازجراد
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-316d4lqvmkoznx676xevpgy6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: غروباما أرينا\nال
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:فناربخشة VS فيرينكفاروس
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-34yesr8muzxsiqdyhwjkui4no@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: ملعب شكري سراج أو
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:فيرينكفاروس VS رينجرز
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-3bek1nh0cxh5isz1e27wnb21g@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: غروباما أرينا\nال
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:فيرينكفاروس VS باناثينيكوس
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-3lsjtxb9i7zujfrkce2cn47is@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: غروباما أرينا\nال
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:نوتنغهام فورست VS فيرينكفاروس
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-3sm69cl8fupee5emusq4fe9ec@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: ذا سيتي جراوند\nا
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:لودوجوريتس رازجراد VS فيرينكفاروس
 DTSTART:20260219T200000Z
 DTEND:20260219T220000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-dlzd8tu79g1l62skvpc6mv190@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الإقصائيات\nالملعب: استاد لودوجو
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:فيرينكفاروس VS لودوجوريتس رازجراد
 DTSTART:20260226T174500Z
 DTEND:20260226T194500Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-dmd6vnxfqz8y1npgm35g3kh04@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الإقصائيات\nالملعب: غروباما أرين
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:فيرينكفاروس VS سبورتينغ براغا
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-7wcps4ugc0ann8jjeursjt2qc@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور الـ16\nالملعب: غروباما أرينا\nالنتيج
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:سبورتينغ براغا VS فيرينكفاروس
 DTSTART:20260318T153000Z
 DTEND:20260318T173000Z
-DTSTAMP:20260422T152524Z
+DTSTAMP:20260422T163911Z
 UID:fifa-8qbuf4i1okgnom3q0silrbjf8@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور الـ16\nالملعب: ملعب براغا البلدي\nال
