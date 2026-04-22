@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Feyenoord VS Fenerbahçe
 DTSTART:20250806T190000Z
 DTEND:20250806T210000Z
-DTSTAMP:20260422T140033Z
+DTSTAMP:20260422T152419Z
 UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Stadion Feijenoord\nResult: 2 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahçe VS Feyenoord
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260422T140033Z
+DTSTAMP:20260422T152419Z
 UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleks
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahçe VS SL Benfica
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260422T140033Z
+DTSTAMP:20260422T152419Z
 UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\nResult: 
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Fenerbahçe
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260422T140033Z
+DTSTAMP:20260422T152419Z
 UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   Estádio do Sport Lisboa e Benfica (da Luz)\nResult: 1 - 0
