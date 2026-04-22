@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Pise
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-chhs4jqieq3l8wyuww0wt8h78@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: New B
  alance Arena\nRésultat: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Rome
 DTSTART:20250830T184500Z
 DTEND:20250830T204500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-cpjqg4esn6oq24obqmfbj63h0@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Udinese
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-csq3u15fsrczzowqcz1he0dg4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Naples VS Pise
 DTSTART:20250922T184500Z
 DTEND:20250922T204500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-cwp801847hnz6cu08s3qng3ro@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Diego Armando Maradona\nRésultat: 3 - 2
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Fiorentina
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-d13j9w14b12tik6wf4bvy3ztg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 0
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Pise
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-d2pyl0n9fu5dothwptleadzbo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 4 - 0
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Hellas Vérone
 DTSTART:20251018T130000Z
 DTEND:20251018T150000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-d95p2ejy2of7ii7s45jnvz9jo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 0
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Pise
 DTSTART:20251024T184500Z
 DTEND:20251024T204500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-dbm5cdzyy5io7ip09r4fqp0r8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Meazza\nRésultat: 2 - 2
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Lazio
 DTSTART:20251030T194500Z
 DTEND:20251030T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-dhnuk2lkv2t2krxmz9ezd2vpw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 0
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Pise
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-dl8z0whe7rrb6x9q5t2ujr0gk@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico Grande Torino\nRésultat: 2 - 2
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Cremonese
 DTSTART:20251107T194500Z
 DTEND:20251107T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-dpp84bygkdgyg0sajw9uj1gr8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 1 - 0
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Pise
 DTSTART:20251124T194500Z
 DTEND:20251124T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-dsyfzer3u4sczqe32ahodc5xw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: MAPEI
   Stadium - Città del Tricolore\nRésultat: 2 - 2
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS FC Internazionale Milano
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-dxtjfc6x21jgycgji2syawxzo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 2
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Parme
 DTSTART:20251208T140000Z
 DTEND:20251208T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-e0nmvoyc7233dc8207kp6702c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Pise
 DTSTART:20251212T194500Z
 DTEND:20251212T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-e4bjrtggvllrtp9utmav8836c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ettore Giardiniero - Via del Mare\nRésultat: 1 - 0
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Pise
 DTSTART:20251221T113000Z
 DTEND:20251221T133000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-e6tpfxp6ju1ri8t0tbhms0d1w@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Unipo
  l Domus\nRésultat: 2 - 2
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Juventus FC
 DTSTART:20251227T194500Z
 DTEND:20251227T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-edb0ezyz2qh8ioasdyywy5zpw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 2
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Pise
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-egikby2mt9d9oezp7s5hm58us@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Comunale Luigi Ferraris\nRésultat: 1 - 1
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Côme
 DTSTART:20260106T140000Z
 DTEND:20260106T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-elrgn9wyfbxmib5v33945uk2c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 3
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Pise
 DTSTART:20260110T140000Z
 DTEND:20260110T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-eq7ymzfykzsalkmmcgk0lpq8k@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Bluen
  ergy Stadium\nRésultat: 2 - 2
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Atalanta
 DTSTART:20260116T194500Z
 DTEND:20260116T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-etv0hejdoeonpz2kldst7um1g@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 1 - 1
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Pise
 DTSTART:20260123T194500Z
 DTEND:20260123T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-ewod71xdhguxn8t3flreq7qxg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Meazza\nRésultat: 6 - 2
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Sassuolo
 DTSTART:20260131T140000Z
 DTEND:20260131T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-f1xe9okjrzzi578py4d9ey9ec@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 1 - 3
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Vérone VS Pise
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-1649awjhwjabdhzre2rel4wk@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Marcantonio Bentegodi\nRésultat: 0 - 0
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Milan
 DTSTART:20260213T194500Z
 DTEND:20260213T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-4e81wpsnuls0zkw4th3x3wus@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 1 - 2
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Pise
 DTSTART:20260223T173000Z
 DTEND:20260223T193000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-6t5gf31u786bqivt64dv3384@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Artemio Franchi\nRésultat: 1 - 0
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Bologne
 DTSTART:20260302T173000Z
 DTEND:20260302T193000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-btdw5nixu80jqgu17y4qmgb8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Pise
 DTSTART:20260307T194500Z
 DTEND:20260307T214500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-ge43njbo3ilpf10bpjw6uzo4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Allia
  nz Stadium\nRésultat: 4 - 0
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Cagliari
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-ki794byd0j3awobhie3mj5sk@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 3 - 1
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Côme VS Pise
 DTSTART:20260322T113000Z
 DTEND:20260322T133000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-nsj5praxu0adwtq1eyhttixg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Sinigaglia\nRésultat: 5 - 0
@@ -419,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Torino
 DTSTART:20260405T160000Z
 DTEND:20260405T180000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-t1gsmyfyaufvj6xgw933og0k@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Rome VS Pise
 DTSTART:20260410T184500Z
 DTEND:20260410T204500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-xuk4c2tkbjldesp82onbo1sk@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico\nRésultat: 3 - 0
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Genoa
 DTSTART:20260419T160000Z
 DTEND:20260419T180000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-10p02pjryye8cajuop2sdy42c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 1 - 2
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Pise
 DTSTART:20260425T130000Z
 DTEND:20260425T150000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-15loq6a72majvehyhin9g5mok@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Lecce
 DTSTART:20260501T184500Z
 DTEND:20260501T204500Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-198o7cwvp34fdlmlraotjlez8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Pise
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-1b8kjyzu1m6z3o8jqjli6wvmc@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giovanni Zini
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Naples
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-1hbn9i3wwdt46jmrp4cfhggt0@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Pise
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260422T100752Z
+DTSTAMP:20260422T114225Z
 UID:fifa-1kano1peqbw5ho0zlex7mdw5w@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico
