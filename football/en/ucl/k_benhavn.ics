@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:København VS Drita
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Parken\nResult: 2 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Drita VS København
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Stadiumi Fadil Vokrri\nResult: 0 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Malmö FF VS København
 DTSTART:20250805T170000Z
 DTEND:20250805T190000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Eleda Stadion\nResult: 0 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:København VS Malmö FF
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Parken\nResult: 5 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:FC Basel VS København
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   St. Jakob-Park\nResult: 1 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:København VS FC Basel
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   Parken\nResult: 2 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:København VS Bayer Leverkusen
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Parken\nResult: 2 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabag FK VS København
 DTSTART:20251001T164500Z
 DTEND:20251001T184500Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Tofiq Bəhramov adına Respublika stadionu\nResult: 2 - 0
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:København VS Borussia Dortmund
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Parken\nResult: 2 - 4
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham Hotspur VS København
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Tottenham Hotspur Stadium\nResult: 4 - 0
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:København VS FC Kairat
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Parken\nResult: 3 - 2
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS København
 DTSTART:20251210T174500Z
 DTEND:20251210T194500Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de la Cerámica\nResult: 2 - 3
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:København VS Napoli
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Parken\nResult: 1 - 1
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS København
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260423T225607Z
+DTSTAMP:20260423T235443Z
 UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Spotify Camp Nou\nResult: 4 - 1

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucurest VS KF Drita
 DTSTART:20250807T183000Z
 DTEND:20250807T203000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-7vj9jtw7ues3qg3e17xf3ahhw@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: 3ra Ronda de clasifica
  ción\nEstadio: Arena Naţională\nResultado: 3 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:KF Drita VS Steaua Bucurest
 DTSTART:20250814T180000Z
 DTEND:20250814T200000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-81z9fnenkg9263jkrv6cml8us@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: 3ra Ronda de clasifica
  ción\nEstadio: Stadiumi Fadil Vokrri\nResultado: 1 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Aberdeen VS Steaua Bucurest
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-dk0gwm4uix1rkqo8584nmuu50@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Pit
  todrie Stadium\nResultado: 2 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucurest VS Aberdeen
 DTSTART:20250828T183000Z
 DTEND:20250828T203000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-dldhzv0mqyqay3lvbtgo6r7ro@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Are
  na Naţională\nResultado: 3 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Go Ahead Eagles VS Steaua Bucurest
 DTSTART:20250925T164500Z
 DTEND:20250925T184500Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-2eff66apoyrlfcse26mtlbeac@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   De Adelaarshorst\nResultado: 0 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucurest VS Young Boys
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-2kvljjmo0wcgp6qbuiegoqrkk@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Arena Naţională\nResultado: 0 - 2
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucurest VS Bolonia
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-2qx7frk1rz3yiepzixxyvbhuc@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Arena Naţională\nResultado: 1 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Basilea VS Steaua Bucurest
 DTSTART:20251106T174500Z
 DTEND:20251106T194500Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-2wz1a1yx83d6rucii88lfisyc@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   St. Jakob-Park\nResultado: 3 - 1
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Estrella Roja Belgrado VS Steaua Bucurest
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-377qlfic51bvosdpse494xclw@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Stadion Rajko Mitić\nResultado: 1 - 0
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucurest VS Feyenoord
 DTSTART:20251211T200000Z
 DTEND:20251211T220000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-3exemy7jjs0gsy8gnlivu7ytw@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Arena Naţională\nResultado: 4 - 3
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb VS Steaua Bucurest
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-3m66cqhi50fgmlkae8rhgsa38@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Stadion Maksimir\nResultado: 4 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucurest VS Fenerbahçe
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260423T225631Z
+DTSTAMP:20260423T235447Z
 UID:fifa-3ql58bf1m7e6xgqcj26w88xzo@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Arena Naţională\nResultado: 1 - 1
