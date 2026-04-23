@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Shkendija Tetovo VS Ludogorets
 DTSTART:20250821T180000Z
 DTEND:20250821T200000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-6qizmoyvjiumx8v3m1s2pukus@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: To
  še Proeski Arena\nResultado: 2 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Shkendija Tetovo
 DTSTART:20250828T173000Z
 DTEND:20250828T193000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-6rt2jxrf92y1vwdk7g1vrdv6c@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Huv
  epharma Arena\nResultado: 4 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Malmoe VS Ludogorets
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-2c0ymnxtyg3xbuuudu037jlec@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Eleda Stadion\nResultado: 1 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Real Betis
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-2llosqn5lakiqll1ij7tjxslw@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Huvepharma Arena\nResultado: 0 - 2
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Young Boys VS Ludogorets
 DTSTART:20251023T190000Z
 DTEND:20251023T210000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-2tkpevdqwueyqhbomg913yo7o@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Stadion Wankdorf\nResultado: 3 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros VS Ludogorets
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-316d4lqvmkoznx676xevpgy6s@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Groupama Aréna\nResultado: 3 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Celta de Vigo
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-36gst2px13ce8jcwq1asqkis4@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Huvepharma Arena\nResultado: 3 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS PAOK
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-3cjw8pifgyo5wu0aikfw1f1g4@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Huvepharma Arena\nResultado: 3 - 3
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Glasgow Rangers VS Ludogorets
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-3n2tlbc327mesrssf51oqqbdg@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Ibrox Stadium\nResultado: 1 - 0
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Niza
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-3tq9swswjiox72ryujhm4hclw@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: League Stage\nEstadio:
   Huvepharma Arena\nResultado: 1 - 0
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Ferencvaros
 DTSTART:20260219T200000Z
 DTEND:20260219T220000Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-dlzd8tu79g1l62skvpc6mv190@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Ronda de Playoffs Elim
  inatorios\nEstadio: Huvepharma Arena\nResultado: 2 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros VS Ludogorets
 DTSTART:20260226T174500Z
 DTEND:20260226T194500Z
-DTSTAMP:20260423T192334Z
+DTSTAMP:20260423T203349Z
 UID:fifa-dmd6vnxfqz8y1npgm35g3kh04@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Ronda de Playoffs Elim
  inatorios\nEstadio: Groupama Aréna\nResultado: 2 - 0
