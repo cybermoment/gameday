@@ -22,7 +22,7 @@
     {
       "id": "44136",
       "name": "Newcastle",
-      "filename": "newcastle"
+      "filename": "newcastle_united"
     },
     {
       "id": "1r3545b2dzan8yqa80gtmcjch",
@@ -32,12 +32,12 @@
     {
       "id": "33741",
       "name": "West Ham",
-      "filename": "west_ham"
+      "filename": "west_ham_united"
     },
     {
       "id": "2000019603",
       "name": "Brighton",
-      "filename": "brighton"
+      "filename": "brighton_hove_albion"
     },
     {
       "id": "44262",
@@ -47,7 +47,7 @@
     {
       "id": "23437",
       "name": "Tottenham",
-      "filename": "tottenham"
+      "filename": "tottenham_hotspur"
     },
     {
       "id": "1882935",
@@ -57,7 +57,7 @@
     {
       "id": "29110",
       "name": "Wolverhampton",
-      "filename": "wolverhampton"
+      "filename": "wolverhampton_wanderers"
     },
     {
       "id": "1956198",
@@ -97,7 +97,7 @@
     {
       "id": "400138227",
       "name": "Leeds",
-      "filename": "leeds"
+      "filename": "leeds_united"
     },
     {
       "id": "32848",
