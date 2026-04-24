@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Torino
 DTSTART:20250825T184500Z
 DTEND:20250825T204500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-cjir7ivrn1ol4vwld9wfrfcwk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giuseppe Meazza\nRisultato: 5 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Fiorentina
 DTSTART:20250831T163000Z
 DTEND:20250831T183000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-cpxwneowcffpmb2wvwitp8x04@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 0 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Torino
 DTSTART:20250914T103000Z
 DTEND:20250914T123000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-ct4pr9n90ljgamkcw2r4qdl3o@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico\nRisultato: 0 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Atalanta
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-cx3go6z9ruqo169jvzbwtq4gk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 0 - 3
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Torino
 DTSTART:20250929T163000Z
 DTEND:20250929T183000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-d0p9a2knjp3jb4mdfk6zz2rdg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Ennio Tardini\nRisultato: 2 - 1
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Torino
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-d4bf8awg8k155fyjhvi6qov84@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico\nRisultato: 3 - 3
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Napoli
 DTSTART:20251018T160000Z
 DTEND:20251018T180000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-d9ymqc53t61s1cxt7tau89c7o@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 0
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Genoa
 DTSTART:20251026T113000Z
 DTEND:20251026T133000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-dd7pxcuki8noxhspqtl0pdbtg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 2 - 1
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Torino
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-det3s3pww7gsva0v1edvi37dg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Renato Dall'Ara\nRisultato: 0 - 0
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Pisa
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-dl8z0whe7rrb6x9q5t2ujr0gk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 2 - 2
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Torino
 DTSTART:20251108T170000Z
 DTEND:20251108T190000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-dohyl0ad5ysvxd4ai8yzzmrys@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Allian
  z Stadium\nRisultato: 0 - 0
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Como
 DTSTART:20251124T173000Z
 DTEND:20251124T193000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-dtct334p03m4xw2l4fxzg6adw@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 5
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Torino
 DTSTART:20251130T113000Z
 DTEND:20251130T133000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-dwm79w7tnuve8xn9ietkl0mc4@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Ettore Giardiniero - Via del Mare\nRisultato: 2 - 1
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Milan
 DTSTART:20251208T194500Z
 DTEND:20251208T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-e1i36p26rp3mmmepqw1pdu87o@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 2 - 3
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Cremonese
 DTSTART:20251213T140000Z
 DTEND:20251213T160000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-e5xznov5gl96vdg6fb673h8us@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 0
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Torino
 DTSTART:20251221T140000Z
 DTEND:20251221T160000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-ea1qy46mwfvqufnf1gif5p4wk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: MAPEI 
  Stadium - Città del Tricolore\nRisultato: 0 - 1
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Cagliari
 DTSTART:20251227T140000Z
 DTEND:20251227T160000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-ee3xl5vlrk8rwfcvjvrhyuzo4@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 2
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Verona VS Torino
 DTSTART:20260104T170000Z
 DTEND:20260104T190000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-eik42z6kw37nxznbrxsyiarys@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Marcantonio Bentegodi\nRisultato: 0 - 3
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Udinese
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-emlr65k1xlt2jgir4u6ozg650@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 2
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Torino
 DTSTART:20260110T194500Z
 DTEND:20260110T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-en04mux4sa2tpto1gmkpy7wgk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: New Ba
  lance Arena\nRisultato: 2 - 0
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Roma
 DTSTART:20260118T170000Z
 DTEND:20260118T190000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-eu9yf1tlc5l8eln0irxgz3sic@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 0 - 2
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Torino
 DTSTART:20260124T140000Z
 DTEND:20260124T160000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-evgz6zohzg7rg9lnkyu5r0avo@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giuseppe Sinigaglia\nRisultato: 6 - 0
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Lecce
 DTSTART:20260201T113000Z
 DTEND:20260201T133000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-f2diu7wmdh2kczfhftc1it8gk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 0
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Torino
 DTSTART:20260207T194500Z
 DTEND:20260207T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-f3z7l1dghgflb3mwypyfv1tec@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Artemio Franchi\nRisultato: 2 - 2
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Bologna
 DTSTART:20260215T170000Z
 DTEND:20260215T190000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-4spec9ggp4vq333o0yd88u1g@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 1 - 2
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Torino
 DTSTART:20260222T113000Z
 DTEND:20260222T133000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-7bf4wiumx7xdelasktgf1slw@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 3 - 0
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Lazio
 DTSTART:20260301T170000Z
 DTEND:20260301T190000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-d5pt6kna4c869xy8s7llm0pg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 2 - 0
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Torino
 DTSTART:20260306T194500Z
 DTEND:20260306T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-i0vew24dsk4vfoxr3x0p8rh0@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Diego Armando Maradona\nRisultato: 2 - 1
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Parma
 DTSTART:20260313T194500Z
 DTEND:20260313T214500Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-lbj87rsbmaa1b9d1oilvj8r8@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 4 - 1
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Torino
 DTSTART:20260321T170000Z
 DTEND:20260321T190000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-pebva0i38kg7gdl9trqo7578@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giuseppe Meazza\nRisultato: 3 - 2
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Torino
 DTSTART:20260405T160000Z
 DTEND:20260405T180000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-t1gsmyfyaufvj6xgw933og0k@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Arena 
  Garibaldi - Stadio Romeo Anconetani\nRisultato: 0 - 1
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Hellas Verona
 DTSTART:20260411T130000Z
 DTEND:20260411T150000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-yan66fvrvxp3dkkz3ju4055g@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 2 - 1
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Torino
 DTSTART:20260419T103000Z
 DTEND:20260419T123000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-yowks8zh3p4jxlbuoxyhr0us@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giovanni Zini\nRisultato: 0 - 0
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS FC Internazionale Milano
 DTSTART:20260426T160000Z
 DTEND:20260426T180000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-1602c2k3bat8a8wisw032q49g@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Torino
 DTSTART:20260502T130000Z
 DTEND:20260502T150000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-1afjrc6t4039d6osjpah32z9w@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Bluene
  rgy Stadium
@@ -484,9 +484,9 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bluenergy Stadium";X-APPL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Torino VS Sassuolo
-DTSTART:20260510T000000Z
-DTEND:20260510T020000Z
-DTSTAMP:20260424T033657Z
+DTSTART:20260508T184500Z
+DTEND:20260508T204500Z
+DTSTAMP:20260424T061750Z
 UID:fifa-1e38gvt3r86ce8b1azvpp4pas@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Torino
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-1fainz3780yrnmdbbjyc7cdg4@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Unipol
   Domus
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Juventus FC
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260424T033657Z
+DTSTAMP:20260424T061750Z
 UID:fifa-1mirtl64axmc9us45pzzojevo@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino
