@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Real Sociedad
 DTSTART:20250816T193000Z
 DTEND:20250816T213000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-f4pxrt9gy35rbm5zxmjvxu5uc@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:CA Osasuna VS Valencia CF
 DTSTART:20250824T150000Z
 DTEND:20250824T170000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-4mfxv5abl2kcamp8edxmwzkk@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio El Sadar\nResult: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Getafe CF
 DTSTART:20250829T193000Z
 DTEND:20250829T213000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-6uofyrgo5n51e1rbx8n8eeqc@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 3 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Valencia CF
 DTSTART:20250914T190000Z
 DTEND:20250914T210000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-b88u5e429cnb6ng0i5t4f9jo@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadi Johan Cruyff\nResult: 6 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Athletic Club
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-g1dat3xp3jfi5wvyc0njidxw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 2 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:RCD Espanyol VS Valencia CF
 DTSTART:20250923T170000Z
 DTEND:20250923T190000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-j23bvmu4uuofecr7aaeurtw4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : RCDE Stadium\nResult: 2 - 2
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Real Oviedo
 DTSTART:20250930T180000Z
 DTEND:20250930T200000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-lqdgf26mjssi4yz9o00xco44@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Girona FC VS Valencia CF
 DTSTART:20251004T141500Z
 DTEND:20251004T161500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-q89ix5d2x25rptwlhkq27j10@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadi Municipal de Montilivi\nResult: 2 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Deportivo Alavés VS Valencia CF
 DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-t6q5ftwcnm8os0cb3stk1kic@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mendizorroza\nResult: 0 - 0
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Villarreal
 DTSTART:20251025T190000Z
 DTEND:20251025T210000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-xpp766lmrig4xeolfmmtehp0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 0 - 2
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Valencia CF
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1288ajju0cadnuxxhvkal1mok@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Bernabéu\nResult: 4 - 0
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Real Betis
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-176p8ms7mmtnsyiwqb87aavx0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 1
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Levante UD
 DTSTART:20251121T200000Z
 DTEND:20251121T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1ayj7qyruvkyprfzr6plov4t0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 0
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Valencia CF
 DTSTART:20251201T200000Z
 DTEND:20251201T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1ctejm87t066zop4ert2zb4es@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Vallecas\nResult: 1 - 1
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Sevilla
 DTSTART:20251207T151500Z
 DTEND:20251207T171500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1ifuis5x6296qke087rpwo5jo@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 1
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Valencia CF
 DTSTART:20251213T130000Z
 DTEND:20251213T150000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1mlai6ycmblrejdaxysomfw2c@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Riyadh Air Metropolitano\nResult: 2 - 1
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS RCD Mallorca
 DTSTART:20251219T200000Z
 DTEND:20251219T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1p93rklxg8b0b4dymsqjlcbh0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 1
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:RC Celta VS Valencia CF
 DTSTART:20260103T130000Z
 DTEND:20260103T150000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1u5e5gvy0cadt3stkrffvi8es@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Abanca-Balaídos\nResult: 4 - 1
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Elche CF
 DTSTART:20260110T200000Z
 DTEND:20260110T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1wdy4ggbun88lgjv5mhlw53pw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 1
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe CF VS Valencia CF
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-1yshj5s9yj440ar0xld31xxqs@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Coliseum\nResult: 0 - 1
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS RCD Espanyol
 DTSTART:20260124T151500Z
 DTEND:20260124T171500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-22x7y5lc2ynqrwdkh5kl64a38@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 3 - 2
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis VS Valencia CF
 DTSTART:20260201T151500Z
 DTEND:20260201T171500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-28lvz9j35a3we5r2jy9lff7dg@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio La Cartuja de Sevilla\nResult: 2 - 1
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Real Madrid C.F.
 DTSTART:20260208T200000Z
 DTEND:20260208T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2bl3hdm49yj3nhnvngy8p6qs4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 0 - 2
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Levante UD VS Valencia CF
 DTSTART:20260215T173000Z
 DTEND:20260215T193000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2ggfagcn46v6b5rbqpgdj7das@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Ciudad de Valencia\nResult: 0 - 2
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Valencia CF
 DTSTART:20260222T200000Z
 DTEND:20260222T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2ieudkqygyu0aa32xvmgllc7o@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de la Cerámica\nResult: 2 - 1
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS CA Osasuna
 DTSTART:20260301T151500Z
 DTEND:20260301T171500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2mieos6z7lqo2pb9bsl6j0xsk@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 1 - 0
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Deportivo Alavés
 DTSTART:20260308T200000Z
 DTEND:20260308T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2rswicw0gb42ehlbg8gcvyjh0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 3 - 2
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Valencia CF
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2vwyt47ub9v6e27mu6ddaxhqs@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Municipal Carlos Tartiere\nResult: 1 - 0
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Sevilla VS Valencia CF
 DTSTART:20260321T200000Z
 DTEND:20260321T220000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-2zpoy8pxorsqwffemhjkcff2s@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Ramón Sánchez Pizjuán\nResult: 0 - 2
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS RC Celta
 DTSTART:20260405T141500Z
 DTEND:20260405T161500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-30gnuehy43on5orc9n3sh8pw4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 2 - 3
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Elche CF VS Valencia CF
 DTSTART:20260411T141500Z
 DTEND:20260411T161500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-363nbiu36arb8us8vuxlizqc4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Manuel Martínez Valero\nResult: 1 - 0
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:RCD Mallorca VS Valencia CF
 DTSTART:20260421T170000Z
 DTEND:20260421T190000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-3ddiuilkmzwc7z89f5cjy1pn8@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadi Mallorca Son Moix\nResult: 1 - 1
@@ -434,10 +434,10 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Girona FC
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-380ebum8hdpxn90su6vzm4bo4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
- : Estadio de Mestalla\nResult: 1 - 0
+ : Estadio de Mestalla\nResult: 2 - 1
 GEO:39.474602;-0.358257
 LOCATION:Estadio de Mestalla
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mestalla";X-AP
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Atlético de Madrid
 DTSTART:20260502T141500Z
 DTEND:20260502T161500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-3indehxonm3sorl5dn4ojvj84@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Valencia CF
 DTSTART:20260510T141500Z
 DTEND:20260510T161500Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-3jromoqjf4ywqhz6gv1xpo0lw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Rayo Vallecano
 DTSTART:20260514T170000Z
 DTEND:20260514T190000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-3psr2605g4d19sdukq2711gd0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Valencia CF
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-3t723gzwnzh44w0jdk8bfjdhw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Municipal de Anoeta
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Barcelona
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260425T174805Z
+DTSTAMP:20260425T190552Z
 UID:fifa-3xq4alyjtlltd6j11gckoxvkk@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla
