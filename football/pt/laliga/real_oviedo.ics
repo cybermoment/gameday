@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Real Oviedo
 DTSTART:20250815T193000Z
 DTEND:20250815T213000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-f56qt74kmg9pbt0ci47030mqc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de la Cerámica\nResultado: 2 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Real Madrid C.F.
 DTSTART:20250824T193000Z
 DTEND:20250824T213000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-4zhv5gr0aqfz7e8e32rrx6hg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 3
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Real Sociedad
 DTSTART:20250830T170000Z
 DTEND:20250830T190000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-9eknjmjtkb8hdsde5htzqiac@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 0
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Real Oviedo
 DTSTART:20250913T120000Z
 DTEND:20250913T140000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-cdmj53c561vyvy44s5q32p04@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 0
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Elche VS Real Oviedo
 DTSTART:20250921T163000Z
 DTEND:20250921T183000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-faxb5rfdawpnwaoof1j1o3ro@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Manuel Martínez Valero\nResultado: 1 - 0
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Barcelona
 DTSTART:20250925T193000Z
 DTEND:20250925T213000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-kkl8x55qltpl4g1v5260df6c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 3
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia VS Real Oviedo
 DTSTART:20250930T180000Z
 DTEND:20250930T200000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-lqdgf26mjssi4yz9o00xco44@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mestalla\nResultado: 1 - 2
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Levante
 DTSTART:20251004T120000Z
 DTEND:20251004T140000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-sg2ifrolnrbubiys9n9n8844@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 2
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Espanyol
 DTSTART:20251017T190000Z
 DTEND:20251017T210000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-w7ym83i7x7vql3mkid0zn3tg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 2
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Girona VS Real Oviedo
 DTSTART:20251025T120000Z
 DTEND:20251025T140000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-wyrlnmec1exr7tyktusq0i6s@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Municipal de Montilivi\nResultado: 3 - 3
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Osasuna
 DTSTART:20251103T200000Z
 DTEND:20251103T220000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-13d50vdn5ecuddcpg1cvdrq50@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 0
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Real Oviedo
 DTSTART:20251109T130000Z
 DTEND:20251109T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-14ia91hr21lnjto1f2uga5f6c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de San Mamés\nResultado: 1 - 0
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Rayo Vallecano
 DTSTART:20251123T130000Z
 DTEND:20251123T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-19ubgm1lxlw64hrajkv1cc5ck@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 0
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Real Oviedo
 DTSTART:20251129T200000Z
 DTEND:20251129T220000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1f3hreqlw5s8sg03041v1ecyc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Riy
  adh Air Metropolitano\nResultado: 2 - 0
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Mallorca
 DTSTART:20251205T200000Z
 DTEND:20251205T220000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1i2f9ycdq0mof2nmr7jievlsk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 0
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Sevilla VS Real Oviedo
 DTSTART:20251214T130000Z
 DTEND:20251214T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1lud5oppwm3ngiyzarvb1zoyc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ramón Sánchez Pizjuán\nResultado: 4 - 0
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Celta de Vigo
 DTSTART:20251220T130000Z
 DTEND:20251220T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1ovhxl8n5vxmkrovkcg8q8ufo@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 0
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Alavés VS Real Oviedo
 DTSTART:20260104T173000Z
 DTEND:20260104T193000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1ts1vbi2mugv1401ifojdtqtw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mendizorroza\nResultado: 1 - 1
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Betis
 DTSTART:20260110T130000Z
 DTEND:20260110T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1vn4i7o4gvzy4wej9uoz5qz9w@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 1
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Osasuna VS Real Oviedo
 DTSTART:20260117T173000Z
 DTEND:20260117T193000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-1z79bgsg0g4xojqjpoxolh1ck@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio El Sadar\nResultado: 3 - 2
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Real Oviedo
 DTSTART:20260125T151500Z
 DTEND:20260125T171500Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-257ci0bd6g6l3uk1fn5a0ob2s@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Spo
  tify Camp Nou\nResultado: 3 - 0
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Girona
 DTSTART:20260131T130000Z
 DTEND:20260131T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-27fpawpnvii11w6oxcgm7a80k@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 0
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Athletic Bilbao
 DTSTART:20260215T130000Z
 DTEND:20260215T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2dut8dksy5wicxc8bk1fy582c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 2
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Real Oviedo
 DTSTART:20260221T130000Z
 DTEND:20260221T150000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2is2f0giwb65xpuanzsstcs2c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal de Anoeta\nResultado: 3 - 3
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Atlético de Madrid
 DTSTART:20260228T200000Z
 DTEND:20260228T220000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2ldv2nafpzvwhdympdp0rff9w@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 1
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Real Oviedo
 DTSTART:20260304T180000Z
 DTEND:20260304T200000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2byg0dchhk26dnihjtq1wa0pg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Vallecas\nResultado: 3 - 0
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Espanyol VS Real Oviedo
 DTSTART:20260309T200000Z
 DTEND:20260309T220000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2rdu4yg44ic1xh5ymhhx1yolw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: RCD
  E Stadium\nResultado: 1 - 1
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Valencia
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2vwyt47ub9v6e27mu6ddaxhqs@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 0
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Levante VS Real Oviedo
 DTSTART:20260321T173000Z
 DTEND:20260321T193000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-2zc6div45o8artjqg9vrawb2s@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ciudad de Valencia\nResultado: 4 - 2
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Sevilla
 DTSTART:20260405T163000Z
 DTEND:20260405T183000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-33hvcbq5xmb0wo3x4r5p3w1ec@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 0
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Celta de Vigo VS Real Oviedo
 DTSTART:20260412T163000Z
 DTEND:20260412T183000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-35q4pov6mhtlujc68n1nz7bpw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Abanca-Balaídos\nResultado: 0 - 3
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Villarreal
 DTSTART:20260423T193000Z
 DTEND:20260423T213000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3dqveie2v1c7dydqpn40ccyl0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 1
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Elche
 DTSTART:20260426T141500Z
 DTEND:20260426T161500Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3bihehy0y8mtxizg74rkkuh3o@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Real Oviedo
 DTSTART:20260503T163000Z
 DTEND:20260503T183000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3gs6lllokoo9wk19co9k4yyac@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Getafe
 DTSTART:20260510T163000Z
 DTEND:20260510T183000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3msszbu4fc0okhk1cy6k7f09g@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Real Oviedo
 DTSTART:20260514T193000Z
 DTEND:20260514T213000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3ql6gx72pau1cocng395b63h0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Bernabéu
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Alavés
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3tkk80csb0shs70l1ucy03uok@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Real Oviedo
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260425T120528Z
+DTSTAMP:20260425T134804Z
 UID:fifa-3wljbdagmhpi6h7viwogz9ul0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix
