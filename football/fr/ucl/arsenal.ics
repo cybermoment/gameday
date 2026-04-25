@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Arsenal
 DTSTART:20250916T164500Z
 DTEND:20250916T184500Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Estadio de San Mamés\nRésultat: 0 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Olympiakos Pirée
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-51pmokefm21mo1i26kyokvvo4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Emirates Stadium\nRésultat: 2 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Atlético de Madrid
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Emirates Stadium\nRésultat: 4 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Slavia Prague VS Arsenal
 DTSTART:20251104T174500Z
 DTEND:20251104T194500Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-5ar7r75v5tj8t5k5c0lafex3o@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Fortuna Arena\nRésultat: 0 - 3
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS FC Bayern München
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Emirates Stadium\nRésultat: 3 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Club Bruges VS Arsenal
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-5tp7r7lkjm2n3sj60puy8f7ys@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Jan Breydelstadion\nRésultat: 0 - 3
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Arsenal
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-5wmfkj6y4bbcpfbso62fcqoes@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Stadio Giuseppe Meazza\nRésultat: 1 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Kaïrat
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Emirates Stadium\nRésultat: 3 - 2
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Arsenal
 DTSTART:20260311T174500Z
 DTEND:20260311T194500Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
  ade: BayArena\nRésultat: 1 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Bayer Leverkusen
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
  ade: Emirates Stadium\nRésultat: 2 - 0
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP VS Arsenal
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Quarts de finale\nSt
  ade: Estádio José Alvalade\nRésultat: 0 - 1
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Sporting CP
 DTSTART:20260415T190000Z
 DTEND:20260415T210000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Quarts de finale\nSt
  ade: Emirates Stadium\nRésultat: 0 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Arsenal
 DTSTART:20260429T190000Z
 DTEND:20260429T210000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-ca2i4o1c3ajp4nhwbvs6tmqs4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Demi-finales\nStade:
   Riyadh Air Metropolitano
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Atlético de Madrid
 DTSTART:20260505T190000Z
 DTEND:20260505T210000Z
-DTSTAMP:20260425T154947Z
+DTSTAMP:20260425T165406Z
 UID:fifa-em2v2c6m9jnpx7kkz1fomfz84@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Demi-finales\nStade:
   Emirates Stadium
