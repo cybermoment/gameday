@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Elche VS Betis
 DTSTART:20250818T190000Z
 DTEND:20250818T210000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2t5f41usmgztitxkybrycidw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Manuel Martínez Valero\nResultado: 1 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Alavés
 DTSTART:20250822T193000Z
 DTEND:20250822T213000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-5chzep0qs16scjx4m95i8owk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 1 - 0
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Celta de Vigo VS Betis
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-kxz64yu7ddap0d1agwdxugwk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Abanca-Balaídos\nResultado: 1 - 1
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Athletic Bilbao
 DTSTART:20250831T170000Z
 DTEND:20250831T190000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-9rnhp2t23qi248bbos0taxp0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 1 - 2
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Levante VS Betis
 DTSTART:20250914T141500Z
 DTEND:20250914T161500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-dh2jy2sqqln0u67dgau8p53o@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ciudad de Valencia\nResultado: 2 - 2
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Real Sociedad
 DTSTART:20250919T190000Z
 DTEND:20250919T210000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-exqzwxpls360bd9qf89ggff8@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 3 - 1
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Osasuna
 DTSTART:20250928T190000Z
 DTEND:20250928T210000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-mulhl7s94em1faqw5y2499uc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 2 - 0
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Espanyol VS Betis
 DTSTART:20251005T163000Z
 DTEND:20251005T183000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-rp9h3yrxylg9bwywpccje8lw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: RCD
  E Stadium\nResultado: 1 - 2
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Betis
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-vue1zih02z58m1ihnz9pod90@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de la Cerámica\nResultado: 2 - 2
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Atlético de Madrid
 DTSTART:20251027T200000Z
 DTEND:20251027T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-ygjm4bbtl6jbrz9gsd661vys@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 0 - 2
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Mallorca
 DTSTART:20251102T200000Z
 DTEND:20251102T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 3 - 0
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia VS Betis
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-176p8ms7mmtnsyiwqb87aavx0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mestalla\nResultado: 1 - 1
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Girona
 DTSTART:20251123T151500Z
 DTEND:20251123T171500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-18b3vyjp3y356x49ce7z1qdxw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 1 - 1
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Sevilla VS Betis
 DTSTART:20251130T151500Z
 DTEND:20251130T171500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-1eaz7mdny12eiuyeysnycnw2c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ramón Sánchez Pizjuán\nResultado: 0 - 2
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Barcelona
 DTSTART:20251206T173000Z
 DTEND:20251206T193000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-1gkqfp2d7qi9h6k34k3mo8zkk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 3 - 5
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Betis
 DTSTART:20251215T200000Z
 DTEND:20251215T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-1kcl2n7fay0ptltdwj2k47tp0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Vallecas\nResultado: 0 - 0
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Getafe
 DTSTART:20251221T200000Z
 DTEND:20251221T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-1q09wu5t41r3rdtsv757pyf4k@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 4 - 0
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Betis
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-1s8ry79zt6zhqqa2eoakvm904@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Bernabéu\nResultado: 5 - 1
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Betis
 DTSTART:20260110T130000Z
 DTEND:20260110T150000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-1vn4i7o4gvzy4wej9uoz5qz9w@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 1 - 1
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Villarreal
 DTSTART:20260117T200000Z
 DTEND:20260117T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-212c0txlhb4ljff92d2cu5edw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 2 - 0
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Alavés VS Betis
 DTSTART:20260125T200000Z
 DTEND:20260125T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-24ggs30od6yf2dz3uyz8zjlec@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mendizorroza\nResultado: 2 - 1
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Valencia
 DTSTART:20260201T151500Z
 DTEND:20260201T171500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-28lvz9j35a3we5r2jy9lff7dg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 2 - 1
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Betis
 DTSTART:20260208T173000Z
 DTEND:20260208T193000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2d48hhckok4yi8bluy55trf2s@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Riy
  adh Air Metropolitano\nResultado: 0 - 1
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Betis
 DTSTART:20260215T200000Z
 DTEND:20260215T220000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 2
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Rayo Vallecano
 DTSTART:20260221T151500Z
 DTEND:20260221T171500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2kn874mea28rs8m0s333xmp78@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 1 - 1
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Sevilla
 DTSTART:20260301T173000Z
 DTEND:20260301T193000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2napzcxsfy1ju0ixutyi6z8yc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 2 - 2
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Betis
 DTSTART:20260308T151500Z
 DTEND:20260308T171500Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2s67ol8ci5kpjktfuw80c58gk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 0
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Celta de Vigo
 DTSTART:20260315T173000Z
 DTEND:20260315T193000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2vji7tw0khxdvfeo52geb0jkk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 1 - 1
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Betis
 DTSTART:20260322T173000Z
 DTEND:20260322T193000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-2xuajcyluofrmnt1siit15jbo@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de San Mamés\nResultado: 2 - 1
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Espanyol
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-32dgfvl5v0zo942n2e2zihfdg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 0 - 0
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Osasuna VS Betis
 DTSTART:20260412T120000Z
 DTEND:20260412T140000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-37mlon39zla9t9jjetz0zei38@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio El Sadar\nResultado: 1 - 1
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Girona VS Betis
 DTSTART:20260421T193000Z
 DTEND:20260421T213000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-3eve0z8ko67bbailw6nhbl3x0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Municipal de Montilivi\nResultado: 2 - 3
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Real Madrid C.F.
 DTSTART:20260424T190000Z
 DTEND:20260424T210000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-38r38grppqfwcb99s9ikyv6s4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 1 - 1
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Real Oviedo
 DTSTART:20260503T163000Z
 DTEND:20260503T183000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-3gs6lllokoo9wk19co9k4yyac@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Betis
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-3m24sjc20wo15f6mmkw3qeqz8@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal de Anoeta
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Elche
 DTSTART:20260512T180000Z
 DTEND:20260512T200000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-3njoj8cm40koxt8u94a1h3yfo@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Betis
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-3rpa9gg887sphjnou8h1uv6s4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Spo
  tify Camp Nou
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Levante
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260426T220725Z
+DTSTAMP:20260426T231005Z
 UID:fifa-3v3zljn1yog1g4knq4uoaledw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla

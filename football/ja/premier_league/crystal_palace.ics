@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:チェルシー FC VS クリスタル・パレス
 DTSTART:20250817T130000Z
 DTEND:20250817T150000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-12znl0wq9dni0y2j3xb2dsmj8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタンフォード ブリッジ\n結果:
@@ -24,7 +24,7 @@ SUMMARY:クリスタル・パレス VS ノッティンガム・フォレ
  スト
 DTSTART:20250824T130000Z
 DTEND:20250824T150000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-15wpdgoeb2hhp1jui3uzbf6l0@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:アストンヴィラ VS クリスタル・パレス
 DTSTART:20250831T180000Z
 DTEND:20250831T200000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-18a8disd61jy3wflaabj72tqs@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴィラ・パーク\n結果: 0 - 3
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS サンダーランド
 DTSTART:20250913T140000Z
 DTEND:20250913T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-1drtj6vzc17m0mb549yuwuz9w@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -68,7 +68,7 @@ SUMMARY:ウェストハム・ユナイテッド VS クリスタル・パ
  レス
 DTSTART:20250920T140000Z
 DTEND:20250920T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-1jauwu1mheu6kyp1pwpoa6dxw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ロンドン スタジアム\n結果: 1 - 2
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS リバプール
 DTSTART:20250927T140000Z
 DTEND:20250927T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-1la9af0q274nmzgcyme30rcwk@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 2 
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:エヴァートン VS クリスタル・パレス
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-1q2zv5o6545wcsdhbx4vvgqok@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Hill Dickinson Stadium\n結果: 2 - 1
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS ボーンマス
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-1swfjplq1923hcknqk1r00kyc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 3 
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:アーセナル VS クリスタル・パレス
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-1wlvabjugecgxexpyqugbo7bo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エミレーツ スタジアム\n結果: 1 
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS ブレントフォード
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-21035eerys56hl1oi5yw20wes@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 2 
@@ -156,7 +156,7 @@ SUMMARY:クリスタル・パレス VS ブライトン&ホーヴ・アル
  ビオン
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-25ehw2cjb60a2kyhwvlqppr10@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -172,7 +172,7 @@ SUMMARY:ウォルヴァーハンプトン・ワンダラーズ VS クリ
  スタル・パレス
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2bs4mjzwplzl04w7940las4yc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: モリニュー・スタジアム\n結果: 
@@ -188,7 +188,7 @@ SUMMARY:クリスタル・パレス VS マンチェスター・ユナイ
  テッド
 DTSTART:20251130T120000Z
 DTEND:20251130T140000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2ddgt0wgk8212ask4bgjokqac@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:バーンリー VS クリスタル・パレス
 DTSTART:20251203T193000Z
 DTEND:20251203T213000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2hghh7367z6k3uoysqts4uwwk@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ターフ モア\n結果: 0 - 1
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:フラム VS クリスタル・パレス
 DTSTART:20251207T163000Z
 DTEND:20251207T183000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2luiolpt1jy5d28eus95spudw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: クレイヴン・コテージ\n結果: 1 -
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS マンチェスター・シティ
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2puvu6w2xhmlm3xgj1fqihpn8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:リーズ・ユナイテッド VS クリスタル・パレス
 DTSTART:20251220T200000Z
 DTEND:20251220T220000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2ueejizhur6zh8io313s28mj8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Elland Road\n結果: 4 - 1
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS トッテナム
 DTSTART:20251228T163000Z
 DTEND:20251228T183000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-2y0iw6uupiyuw2f7smry1v5ec@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS フラム
 DTSTART:20260101T173000Z
 DTEND:20260101T193000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3213l7phvb9z5fvoks5hkjnkk@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
@@ -290,7 +290,7 @@ SUMMARY:ニューカッスル・ユナイテッド VS クリスタル・
  パレス
 DTSTART:20260104T150000Z
 DTEND:20260104T170000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-37l8kxo29u6vg1gozdubqpmvo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: セント ジェームズ パーク\n結果
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS アストンヴィラ
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3afrzte12aqm9s7vesbrx8h78@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:サンダーランド VS クリスタル・パレス
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3fmx6o7s1rd46n02lztt5yec4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタジアム・オブ・ライト\n結
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS チェルシー FC
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3iezhys6o0o727757ymaskwlw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
@@ -351,7 +351,7 @@ SUMMARY:ノッティンガム・フォレスト VS クリスタル・パ
  レス
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3n8x316zpoxt8khcltmh5l89g@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: The City Ground\n結果: 1 - 1
@@ -365,7 +365,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS クリスタル・
  パレス
 DTSTART:20260208T140000Z
 DTEND:20260208T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3poyrzycgl2wasnyr2oomuadw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 0 - 1
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS バーンリー
 DTSTART:20260211T194000Z
 DTEND:20260211T214000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3u2m2uopde63pu21w81iuhams@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 2 
@@ -394,7 +394,7 @@ SUMMARY:クリスタル・パレス VS ウォルヴァーハンプトン
  ・ワンダラーズ
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-3y411aqwphh2bc1zrkkr0o74k@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
@@ -410,7 +410,7 @@ SUMMARY:マンチェスター・ユナイテッド VS クリスタル・
  パレス
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-43r4me2bcvm1m5xb1vy8wosgk@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS クリスタル・パレス
 DTSTART:20260305T200000Z
 DTEND:20260305T220000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-486hxmd9rt6ysjx8cez706gpg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 3
@@ -439,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS リーズ・ユナイテッド
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4amfwj51me61h8rkeh6lfa784@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -455,7 +455,7 @@ SUMMARY:クリスタル・パレス VS ニューカッスル・ユナイ
  テッド
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4ipkr2m649qfb4g5hndblp82c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 2 
@@ -471,7 +471,7 @@ SUMMARY:クリスタル・パレス VS ウェストハム・ユナイテ
  ッド
 DTSTART:20260420T190000Z
 DTEND:20260420T210000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4mex86q98op7z0xai1087nvh0@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:リバプール VS クリスタル・パレス
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4rq7t37ngva3ecwacchy43e38@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: アンフィールド\n結果: 3 - 1
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:ボーンマス VS クリスタル・パレス
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4tpmivijir70rk0zbm2nx0xec@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: バイタリティ スタジアム
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS エヴァートン
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4ynocqqui6zcx8wrduivc11jo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク
@@ -527,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:ブレントフォード VS クリスタル・パレス
 DTSTART:20260517T140000Z
 DTEND:20260517T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-534tol61uap1u42acft5cep04@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Gtech Community Stadium
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・シティ VS クリスタル・パレス
 DTSTART:20260522T140000Z
 DTEND:20260522T160000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-4fghd8ykrqusg7duvwfkhy6fo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エティハド スタジアム
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS アーセナル
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260426T220701Z
+DTSTAMP:20260426T230938Z
 UID:fifa-56sqj49wua0241sbk71k9rdhw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク
