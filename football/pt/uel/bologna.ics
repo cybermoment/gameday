@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Bologna
 DTSTART:20250925T190000Z
 DTEND:20250925T210000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-2fyeoh98jlp4cnqexjkhuwbv8@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Vil
  la Park\nResultado: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Freiburg
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-2jepkzlt7ggmox11k2kulvqqc@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dio Renato Dall'Ara\nResultado: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Bologna
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-2qx7frk1rz3yiepzixxyvbhuc@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Are
  na Naţională\nResultado: 1 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Brann Bergen
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-30fj5ydpv1c5awa827icevh1w@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dio Renato Dall'Ara\nResultado: 0 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS FC Salzburg
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-36udcuvhox5jwatgbkoaic07o@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dio Renato Dall'Ara\nResultado: 4 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Celta de Vigo VS Bologna
 DTSTART:20251211T200000Z
 DTEND:20251211T220000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-3g2k7tcznaxk8jrftib2zh9n8@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Est
  adio Abanca-Balaídos\nResultado: 1 - 2
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Celtic
 DTSTART:20260122T174500Z
 DTEND:20260122T194500Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-3h7pzdtzfxvbuab6ayn20g8b8@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dio Renato Dall'Ara\nResultado: 2 - 2
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Maccabi Tel Aviv VS Bologna
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-3s8smtgxm4et55k3o84w2awpg@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: TSC
   Arena\nResultado: 0 - 3
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Bologna
 DTSTART:20260219T174500Z
 DTEND:20260219T194500Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-16p7vivqg0e2azmdn82ndt4pg@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs do Mata-mata\nEst
  ádio: Brann Stadion\nResultado: 0 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Brann Bergen
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-172osk3w3viqal75lkvnxve38@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs do Mata-mata\nEst
  ádio: Stadio Renato Dall'Ara\nResultado: 1 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Roma
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-6jtgjtwda7tz5zpwefarnexw4@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Oitavas de final\nEstádio: 
  Stadio Renato Dall'Ara\nResultado: 1 - 1
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Bologna
 DTSTART:20260319T200000Z
 DTEND:20260319T220000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-7552xi57ttnm7jupev95ll53o@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Oitavas de final\nEstádio: 
  Stadio Olimpico\nResultado: 3 - 4
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Aston Villa
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-3y91hnyfjh24yxjhm77a7hy50@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Quartas de final\nEstádio: 
  Stadio Renato Dall'Ara\nResultado: 1 - 3
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Bologna
 DTSTART:20260416T190000Z
 DTEND:20260416T210000Z
-DTSTAMP:20260426T151145Z
+DTSTAMP:20260426T160830Z
 UID:fifa-9ur6e6w5f4ahyxph7ef4rks2c@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Quartas de final\nEstádio: 
  Villa Park\nResultado: 4 - 0
