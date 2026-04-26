@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS أوجسبورج
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-ctiyi3fh9yo41q6wyssamhyc4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS فرايبورج
 DTSTART:20250831T173000Z
 DTEND:20250831T193000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-cz0pjg0mj1a5m91lqszpb2bkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS شتوتجارت
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS فرايبورج
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS هوفنهايم
 DTSTART:20250928T133000Z
 DTEND:20250928T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-d76yzyflinjbjue96ve9zekgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:بوروسيا مونشنجلادباخ VS فرايبورج
 DTSTART:20251005T173000Z
 DTEND:20251005T193000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-dcrccxyi2q3cw0t8hmksn3ok4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS آينرتخت فرانكفورت
 DTSTART:20251019T133000Z
 DTEND:20251019T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-dfmkm0af0rgtmxs4ow219prtg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS فرايبورج
 DTSTART:20251026T143000Z
 DTEND:20251026T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-djrsa1siv252tot4dqegveyok@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:يونيون برلين VS فرايبورج
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-dpi74rfcl5l4gor7uzfi7mot0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS سانت باولي
 DTSTART:20251109T143000Z
 DTEND:20251109T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-drwds3zpvjelfi2ne49dahous@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS فرايبورج
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-duphpfn76nnmm87fh3hkmobh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS ماينتس
 DTSTART:20251130T183000Z
 DTEND:20251130T203000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS فرايبورج
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-e478laz1p8875b08kujh0lces@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS نادي بوروسيا دورتموند
 DTSTART:20251214T143000Z
 DTEND:20251214T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-e6jj6eibzyfv0o6jmv6pdsqhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS فرايبورج
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-eaiqxd2ocdb9meu07n6figglw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS هامبورج
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-edpwo151usyqwitu53kqeobh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS فرايبورج
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-egv9ep9u1qftm8duqphe094b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS فرايبورج
 DTSTART:20260118T163000Z
 DTEND:20260118T183000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-elm64iezyo4chxb3ukcdxjl04@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS كولن
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-eof2idjdw3bvltio6b49clpuc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS فرايبورج
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS فيردر بريمن
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS فرايبورج
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-f0nyu34ar99b8yxjac3jpyolw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS بوروسيا مونشنجلادباخ
 DTSTART:20260222T143000Z
 DTEND:20260222T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-f1ud2i8b4rezfxix7czncsis4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS فرايبورج
 DTSTART:20260301T163000Z
 DTEND:20260301T183000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-f5esrxkpcocxsk0umq5p2yoes@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS باير ليفركوزن
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-3dvpg0zqnvzgoqj263zl3g9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS يونيون برلين
 DTSTART:20260315T163000Z
 DTEND:20260315T183000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-7r14isj1f999evgg9xt7ydxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS فرايبورج
 DTSTART:20260322T163000Z
 DTEND:20260322T183000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-cgq5h1fz7sm71cfnxdnn3j10@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS بايرن ميونيخ
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-ehm6p0fs4lr0jykl70umuuxg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS فرايبورج
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS هايدينهايم
 DTSTART:20260419T133000Z
 DTEND:20260419T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-m8e1thtcqeuy54l3zyouar6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS فرايبورج
 DTSTART:20260426T153000Z
 DTEND:20260426T173000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-opeabpi1vy53fxn3l5zfwt1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS فولفسبورج
 DTSTART:20260503T173000Z
 DTEND:20260503T193000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-tfbsbfqni95nhdkgdis9cd1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS فرايبورج
 DTSTART:20260510T133000Z
 DTEND:20260510T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-yyscgqr7sskeagimqimfx6hg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS لايبزيج
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260426T193122Z
+DTSTAMP:20260426T200847Z
 UID:fifa-10jnauxzq6mmvzk1xmhl552qc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
