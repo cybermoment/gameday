@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Бранн VS FC Salzburg
 DTSTART:20250723T170000Z
 DTEND:20250723T190000Z
-DTSTAMP:20260427T194331Z
+DTSTAMP:20260427T211053Z
 UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Brann Stadion\nРезультат: 1 
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS Бранн
 DTSTART:20250730T184500Z
 DTEND:20250730T204500Z
-DTSTAMP:20260427T194331Z
+DTSTAMP:20260427T211053Z
 UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Ред Булл Арена\nРезу
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS Клуб Брюгге
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260427T194331Z
+DTSTAMP:20260427T211053Z
 UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ред Булл Арена\nРезу
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS FC Salzburg
 DTSTART:20250812T173000Z
 DTEND:20250812T193000Z
-DTSTAMP:20260427T194331Z
+DTSTAMP:20260427T211053Z
 UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Jan Breydelstadion\nРезульта
