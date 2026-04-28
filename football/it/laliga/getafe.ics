@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga - Getafe //
+X-WR-CALNAME:Liga - Getafe
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Celta Vigo VS Getafe
+DTSTART:20250817T150000Z
+DTEND:20250817T170000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-z0rmb36p9jp9acw2he9dgk4@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio A
+ banca-Balaídos\nRisultato: 0 - 2
+GEO:42.211852;-8.739721
+LOCATION:Estadio Abanca-Balaídos
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Abanca-Balaídos"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadio Abanca-Balaídos":geo:42.211852,-8.739
+ 721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siviglia VS Getafe
+DTSTART:20250825T193000Z
+DTEND:20250825T213000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3677z72kaa3hckjtmi5qnb4k@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio R
+ amón Sánchez Pizjuán\nRisultato: 1 - 2
+GEO:37.384046;-5.970592
+LOCATION:Estadio Ramón Sánchez Pizjuán
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez P
+ izjuán";X-APPLE-RADIUS=70;X-TITLE="Estadio Ramón Sánchez Pizjuán":geo:
+ 37.384046,-5.970592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia VS Getafe
+DTSTART:20250829T193000Z
+DTEND:20250829T213000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-6uofyrgo5n51e1rbx8n8eeqc@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
+ e Mestalla\nRisultato: 3 - 0
+GEO:39.474602;-0.358257
+LOCATION:Estadio de Mestalla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mestalla";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Mestalla":geo:39.474602,-0.358257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Real Oviedo
+DTSTART:20250913T120000Z
+DTEND:20250913T140000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-cdmj53c561vyvy44s5q32p04@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona VS Getafe
+DTSTART:20250921T190000Z
+DTEND:20250921T210000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-ekk0usjk6blgzpziu4ho01zo@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Jo
+ han Cruyff\nRisultato: 3 - 0
+GEO:41.37422;2.050604
+LOCATION:Estadi Johan Cruyff
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Johan Cruyff";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadi Johan Cruyff":geo:41.37422,2.050604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Deportivo Alavés
+DTSTART:20250924T170000Z
+DTEND:20250924T190000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-k7c27bcujfnarux79y4ike1g@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 1 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Levante Valencia
+DTSTART:20250927T120000Z
+DTEND:20250927T140000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-n7tx1yzdm3jcvtma21rf6al0@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 1 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osasuna VS Getafe
+DTSTART:20251003T190000Z
+DTEND:20251003T210000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-s2odkp4oybdaqou9lx1fd6ok@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio E
+ l Sadar\nRisultato: 2 - 1
+GEO:42.796677;-1.637141
+LOCATION:Estadio El Sadar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Sadar";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio El Sadar":geo:42.796677,-1.637141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Real Madrid C.F.
+DTSTART:20251019T190000Z
+DTEND:20251019T210000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-uoe12e3coa1i9fov19pdukus@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Bilbao VS Getafe
+DTSTART:20251025T163000Z
+DTEND:20251025T183000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-10d1132abu0fa9xolj05top3o@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
+ e San Mamés\nRisultato: 0 - 1
+GEO:43.264173;-2.949383
+LOCATION:Estadio de San Mamés
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de San Mamés";X-
+ APPLE-RADIUS=70;X-TITLE="Estadio de San Mamés":geo:43.264173,-2.949383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Girona
+DTSTART:20251031T200000Z
+DTEND:20251031T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-11uxeay5z2isuekqd9fq0usyc@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 2 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maiorca VS Getafe
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Ma
+ llorca Son Moix\nRisultato: 1 - 0
+GEO:39.58994;2.630078
+LOCATION:Estadi Mallorca Son Moix
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Mallorca Son Moix"
+ ;X-APPLE-RADIUS=70;X-TITLE="Estadi Mallorca Son Moix":geo:39.58994,2.63007
+ 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Atlético de Madrid
+DTSTART:20251123T173000Z
+DTEND:20251123T193000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1al4jq2l4mkefxzf7iqmiledw@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Elche
+DTSTART:20251128T200000Z
+DTEND:20251128T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1eq00zu9dngz36evkyw20uw44@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 1 - 0
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal VS Getafe
+DTSTART:20251206T130000Z
+DTEND:20251206T150000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1hbkc2pl94wmoej46f3izy4gk@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
+ e la Cerámica\nRisultato: 2 - 0
+GEO:39.944119;-0.103474
+LOCATION:Estadio de la Cerámica
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de la Cerámica":geo:39.944119,-0.10347
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Espanyol
+DTSTART:20251213T200000Z
+DTEND:20251213T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1l3ezfcz5pfa7eixz6hnfmj9w@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis VS Getafe
+DTSTART:20251221T200000Z
+DTEND:20251221T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1q09wu5t41r3rdtsv757pyf4k@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio L
+ a Cartuja de Sevilla\nRisultato: 4 - 0
+GEO:37.417209;-6.004661
+LOCATION:Estadio La Cartuja de Sevilla
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Cartuja de Sev
+ illa";X-APPLE-RADIUS=70;X-TITLE="Estadio La Cartuja de Sevilla":geo:37.417
+ 209,-6.004661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano VS Getafe
+DTSTART:20260102T200000Z
+DTEND:20260102T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1sm9e25y9tbcyvop5fmwgz8k4@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
+ e Vallecas\nRisultato: 1 - 1
+GEO:40.391823;-3.658589
+LOCATION:Estadio de Vallecas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Vallecas";X-AP
+ PLE-RADIUS=70;X-TITLE="Estadio de Vallecas":geo:40.391823,-3.658589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Real Sociedad
+DTSTART:20260109T200000Z
+DTEND:20260109T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1xweeu166hhelv9hh9l8lnpjo@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 1 - 2
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Valencia
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-1yshj5s9yj440ar0xld31xxqs@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girona VS Getafe
+DTSTART:20260126T200000Z
+DTEND:20260126T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-23c7lgceh27fdelyfo5a4ygwk@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Mu
+ nicipal de Montilivi\nRisultato: 1 - 1
+GEO:41.961195;2.828495
+LOCATION:Estadi Municipal de Montilivi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi Municipal de Monti
+ livi";X-APPLE-RADIUS=70;X-TITLE="Estadi Municipal de Montilivi":geo:41.961
+ 195,2.828495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Celta Vigo
+DTSTART:20260201T173000Z
+DTEND:20260201T193000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-272epdgf25skn7iaizs21mzh0@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 0
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Alavés VS Getafe
+DTSTART:20260208T130000Z
+DTEND:20260208T150000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2cbrliiyprq7a205rp3w1qz9w@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
+ e Mendizorroza\nRisultato: 0 - 2
+GEO:42.837076;-2.688247
+LOCATION:Estadio de Mendizorroza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Mendizorroza";
+ X-APPLE-RADIUS=70;X-TITLE="Estadio de Mendizorroza":geo:42.837076,-2.68824
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Villarreal
+DTSTART:20260214T151500Z
+DTEND:20260214T171500Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2g2ynxffaiw8no1j61y45vvh0@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 2 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Siviglia
+DTSTART:20260222T130000Z
+DTEND:20260222T150000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2hktnqo0d8lx8h65s2ac67ac4@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 1
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS Getafe
+DTSTART:20260302T200000Z
+DTEND:20260302T220000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2m4sef2l4im49rda90k3p41lg@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio B
+ ernabéu\nRisultato: 0 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Real Betis
+DTSTART:20260308T151500Z
+DTEND:20260308T171500Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2s67ol8ci5kpjktfuw80c58gk@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético de Madrid VS Getafe
+DTSTART:20260314T151500Z
+DTEND:20260314T171500Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2usu4a3m9ufgguju2iqilurys@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Riyadh Ai
+ r Metropolitano\nRisultato: 1 - 0
+GEO:40.436226;-3.59946
+LOCATION:Riyadh Air Metropolitano
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
+ ;X-APPLE-RADIUS=70;X-TITLE="Riyadh Air Metropolitano":geo:40.436226,-3.599
+ 46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espanyol VS Getafe
+DTSTART:20260321T151500Z
+DTEND:20260321T171500Z
+DTSTAMP:20260428T131816Z
+UID:fifa-2yypobxbbgweakpwxt4090v10@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: RCDE Stad
+ ium\nRisultato: 1 - 2
+GEO:41.34786;2.075622
+LOCATION:RCDE Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RCDE Stadium";X-APPLE-RAD
+ IUS=70;X-TITLE="RCDE Stadium":geo:41.34786,2.075622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Athletic Bilbao
+DTSTART:20260405T120000Z
+DTEND:20260405T140000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-33vcbxcbnojlxdm39q4elkutw@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 2 - 0
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Levante Valencia VS Getafe
+DTSTART:20260413T190000Z
+DTEND:20260413T210000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-348p051ww3c5h5f7yu6puqplg@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ iudad de Valencia\nRisultato: 1 - 0
+GEO:39.494686;-0.36382
+LOCATION:Estadio Ciudad de Valencia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Valenci
+ a";X-APPLE-RADIUS=70;X-TITLE="Estadio Ciudad de Valencia":geo:39.494686,-0
+ .36382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad VS Getafe
+DTSTART:20260422T180000Z
+DTEND:20260422T200000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3bvyrbl5qq7s93s7yat969q1g@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio M
+ unicipal de Anoeta\nRisultato: 0 - 1
+GEO:43.301376;-1.973602
+LOCATION:Estadio Municipal de Anoeta
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal de Anoe
+ ta";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal de Anoeta":geo:43.301376,
+ -1.973602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Barcelona
+DTSTART:20260425T141500Z
+DTEND:20260425T161500Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3apuzcf26kfvpej8uc98l2n10@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum\nRisultato: 0 - 2
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Rayo Vallecano
+DTSTART:20260503T141500Z
+DTEND:20260503T161500Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3hwithiznhjl7ecaoxv7hemfo@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Oviedo VS Getafe
+DTSTART:20260510T163000Z
+DTEND:20260510T183000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3msszbu4fc0okhk1cy6k7f09g@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio M
+ unicipal Carlos Tartiere
+GEO:43.360762;-5.870261
+LOCATION:Estadio Municipal Carlos Tartiere
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Municipal Carlos 
+ Tartiere";X-APPLE-RADIUS=70;X-TITLE="Estadio Municipal Carlos Tartiere":ge
+ o:43.360762,-5.870261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Maiorca
+DTSTART:20260513T193000Z
+DTEND:20260513T213000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elche VS Getafe
+DTSTART:20260517T000000Z
+DTEND:20260517T020000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3s2q5sph3bm3auk1b8odb493o@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio M
+ anuel Martínez Valero
+GEO:38.267129;-0.6633
+LOCATION:Estadio Manuel Martínez Valero
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Manuel Martínez 
+ Valero";X-APPLE-RADIUS=70;X-TITLE="Estadio Manuel Martínez Valero":geo:38
+ .267129,-0.6633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe VS Osasuna
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260428T131816Z
+UID:fifa-3w881304b6s154go90fihrjtg@fifa.com
+DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
+ oliseum
+GEO:40.325729;-3.714964
+LOCATION:Estadio Coliseum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Coliseum";X-APPLE
+ -RADIUS=70;X-TITLE="Estadio Coliseum":geo:40.325729,-3.714964
+END:VEVENT
+END:VCALENDAR
