@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Fiorentina
 DTSTART:20250824T163000Z
 DTEND:20250824T183000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-ci2kxxx76lbrwh0aw8wl24avo@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Unipol Domus\nResultado: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Fiorentina
 DTSTART:20250831T163000Z
 DTEND:20250831T183000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-cpxwneowcffpmb2wvwitp8x04@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico Grande Torino\nResultado: 0 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Napoli
 DTSTART:20250913T184500Z
 DTEND:20250913T204500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-crjn81u7zfyuq3acjvddvhedw@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 3
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Como
 DTSTART:20250921T160000Z
 DTEND:20250921T180000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-cv30lveqsxxb7uod3lhwqnbx0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 2
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Fiorentina
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-d13j9w14b12tik6wf4bvy3ztg@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Arena Garibaldi - Stadio Romeo Anconetani\nResultado: 0 - 0
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Roma
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-d34dcq8pjqzraxcsk3qmbwums@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 2
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Fiorentina
 DTSTART:20251019T184500Z
 DTEND:20251019T204500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-d8rcigwrcg9hzy3pyupj4wc9g@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giuseppe Meazza\nResultado: 2 - 1
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Bologna
 DTSTART:20251026T170000Z
 DTEND:20251026T190000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-darobpsf8kt94ioyj305wq9ec@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 2 - 2
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Fiorentina
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-dggjx0pqzs2sz8zcgo7spx990@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giuseppe Meazza\nResultado: 3 - 0
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Lecce
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-diuxkzq1t6j5r3b8myu04i3h0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 0 - 1
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Fiorentina
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-dnp4q65aivoy78vun7flzhq8k@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Comunale Luigi Ferraris\nResultado: 2 - 2
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Juventus FC
 DTSTART:20251122T170000Z
 DTEND:20251122T190000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-drcehua6mov8dgeptqggfq42c@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 1
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Fiorentina
 DTSTART:20251130T170000Z
 DTEND:20251130T190000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-dukc3hs2xd16cdykyplyroidw@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   New Balance Arena\nResultado: 2 - 0
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Fiorentina
 DTSTART:20251206T140000Z
 DTEND:20251206T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-e123np88zmlm4u16ziyk1atqs@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   MAPEI Stadium - Città del Tricolore\nResultado: 3 - 1
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Verona
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-e3ijxjza9yfhg2mjkr3tqtd78@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 2
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Udinese
 DTSTART:20251221T170000Z
 DTEND:20251221T190000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-e7mnch3l1z9ja7yx9lo2ninf8@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 5 - 1
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Fiorentina
 DTSTART:20251227T113000Z
 DTEND:20251227T133000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-ecwjc630j0uezvzvfou83faj8@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Ennio Tardini\nResultado: 1 - 0
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Cremonese
 DTSTART:20260104T140000Z
 DTEND:20260104T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-eg458j2mgzjz7q5593klyutck@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 0
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Fiorentina
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-ejrea7dcgzve3s4xipdffrml0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 2
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Milan
 DTSTART:20260111T140000Z
 DTEND:20260111T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-entekp44qih1hes3mgxc4st1w@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 1
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Fiorentina
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-er0low3fcoze3d3bycpssyn84@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Renato Dall'Ara\nResultado: 1 - 2
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Cagliari
 DTSTART:20260124T170000Z
 DTEND:20260124T190000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-evv8cmnssdlr3i857zu7k7578@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 2
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Fiorentina
 DTSTART:20260131T170000Z
 DTEND:20260131T190000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-f146ajvfctngv7alhhtv7bv9w@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Diego Armando Maradona\nResultado: 2 - 1
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Torino
 DTSTART:20260207T194500Z
 DTEND:20260207T214500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-f3z7l1dghgflb3mwypyfv1tec@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 2 - 2
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Fiorentina
 DTSTART:20260214T140000Z
 DTEND:20260214T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-20kkmyjkdbijpxsku6v9ad5g@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giuseppe Sinigaglia\nResultado: 1 - 2
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Pisa
 DTSTART:20260223T173000Z
 DTEND:20260223T193000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-6t5gf31u786bqivt64dv3384@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 0
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Fiorentina
 DTSTART:20260302T194500Z
 DTEND:20260302T214500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-dk2tu4rtvmi943hn0hy8mbys@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Bluenergy Stadium\nResultado: 3 - 0
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Parma
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-fky4snxtqfviavccrzrolp1w@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 0 - 0
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Fiorentina
 DTSTART:20260316T194500Z
 DTEND:20260316T214500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-ivqibzmifihjekafqbmyo178@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giovanni Zini\nResultado: 1 - 4
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS FC Internazionale Milano
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-o6xjj7sgpd78ec9y4o77fztg@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 1
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Verona VS Fiorentina
 DTSTART:20260404T160000Z
 DTEND:20260404T180000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-u8juednow76iraa56wjiulg4@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Marcantonio Bentegodi\nResultado: 0 - 1
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Lazio
 DTSTART:20260413T184500Z
 DTEND:20260413T204500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-w8szsndsknydqz5fjj1k9ams@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 0
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Fiorentina
 DTSTART:20260420T184500Z
 DTEND:20260420T204500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-zw98chsznt1xdy1cdq20gbh0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Ettore Giardiniero - Via del Mare\nResultado: 1 - 1
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Sassuolo
 DTSTART:20260426T103000Z
 DTEND:20260426T123000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-13lq9qzrpfyj6nkj8zxocwd1w@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 0 - 0
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Fiorentina
 DTSTART:20260504T184500Z
 DTEND:20260504T204500Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-19n09ee8bgr7vwqakb773y0ic@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Genoa
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-1bmsofq1dxf9nwf8rkq89vevo@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Fiorentina
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-1gwzn2kpi7f4sxwrm770fphxw@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Allianz Stadium
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Atalanta
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260429T174726Z
+DTSTAMP:20260429T194708Z
 UID:fifa-1jw6q6ep14zm0xwub580jbcb8@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi
