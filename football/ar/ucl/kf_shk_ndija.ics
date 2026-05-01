@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:نيو سانتس VS سكنديا
 DTSTART:20250708T180000Z
 DTEND:20250708T200000Z
-DTSTAMP:20260501T184102Z
+DTSTAMP:20260501T200855Z
 UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: استاد بار
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:سكنديا VS نيو سانتس
 DTSTART:20250715T180000Z
 DTEND:20250715T200000Z
-DTSTAMP:20260501T184102Z
+DTSTAMP:20260501T200855Z
 UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: توشي بروس
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:سكنديا VS ستياوا بوخارست
 DTSTART:20250722T180000Z
 DTEND:20250722T200000Z
-DTSTAMP:20260501T184102Z
+DTSTAMP:20260501T200855Z
 UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: توشي برو
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:ستياوا بوخارست VS سكنديا
 DTSTART:20250730T173000Z
 DTEND:20250730T193000Z
-DTSTAMP:20260501T184102Z
+DTSTAMP:20260501T200855Z
 UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: الملعب ا
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:سكنديا VS كارباغ أغدام
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260501T184102Z
+DTSTAMP:20260501T200855Z
 UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: توشي برو
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:كارباغ أغدام VS سكنديا
 DTSTART:20250812T160000Z
 DTEND:20250812T180000Z
-DTSTAMP:20260501T184102Z
+DTSTAMP:20260501T200855Z
 UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: ملعب توف
