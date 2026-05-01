@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Mohammedan SC
 DTSTART:20260215T113000Z
 DTEND:20260215T133000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-8b59518froavzvtdlsbjhv7ro@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Mohammedan SC VS Goa
 DTSTART:20260220T140000Z
 DTEND:20260220T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-8e74zbgxyggkvauouhtkqj11w@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kishore Bharati Krirangan\nResult: 0 - 2
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Mohun Bagan VS Mohammedan SC
 DTSTART:20260228T140000Z
 DTEND:20260228T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-8lfxuxphzt0eg396lk1lm7m6s@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 5 - 1
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Mohammedan SC VS Bengaluru FC
 DTSTART:20260307T113000Z
 DTEND:20260307T133000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-8piwcnb779bm93cfkejgs5xqs@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kishore Bharati Krirangan\nResult: 1 - 2
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Kingfisher East Bengal VS Mohammedan SC
 DTSTART:20260323T140000Z
 DTEND:20260323T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-90xiuopkm417bz2rzj5u5zlsk@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 7 - 0
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS Mohammedan SC
 DTSTART:20260403T140000Z
 DTEND:20260403T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-95x75lhhhcz1lhv7x0654kmc4@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 2 - 1
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Inter Kashi VS Mohammedan SC
 DTSTART:20260412T113000Z
 DTEND:20260412T133000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-9gzbub7hjk19gj3zt3fbidnh0@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kishore Bharati Krirangan\nResult: 1 - 0
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Odisha FC VS Mohammedan SC
 DTSTART:20260417T140000Z
 DTEND:20260417T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-9jrqqz1d0icu7qjcyekx4u0ic@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kalinga Stadium\nResult: 1 - 1
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Chennaiyin FC VS Mohammedan SC
 DTSTART:20260421T140000Z
 DTEND:20260421T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-8sa6ut8bw4v3dt2zp8xie4qok@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 0 - 0
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Delhi VS Mohammedan SC
 DTSTART:20260426T113000Z
 DTEND:20260426T133000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-9pi3xbahrvevp3ihex7ll90yc@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 2 - 2
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Kerala Blasters VS Mohammedan SC
 DTSTART:20260510T113000Z
 DTEND:20260510T133000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-9wggw7sd2yegfo2jwub2v6r6c@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Mohammedan SC VS Mumbai City
 DTSTART:20260515T140000Z
 DTEND:20260515T160000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-9sok9bccuu6yy671e9vassw7o@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kishore Bharati Krirangan
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:NorthEast United VS Mohammedan SC
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260501T222852Z
+DTSTAMP:20260501T233225Z
 UID:fifa-becr6pjaul37rzaho2pdnz02c@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Indira Gandhi Athletic Stadium
