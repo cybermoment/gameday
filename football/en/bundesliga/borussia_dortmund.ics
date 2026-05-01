@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Borussia Dortmund
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-cvggphp44uy4gk303v3l76zv8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Mille
  rntor-Stadion\nResult: 3 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Union Berlin
 DTSTART:20250831T153000Z
 DTEND:20250831T173000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-cwbal51ih86145234mzvrfspg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 3 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim VS Borussia Dortmund
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-d2w6kloma775swp3v4vv35qtw@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Voith
  -Arena\nResult: 0 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Wolfsburg
 DTSTART:20250921T173000Z
 DTEND:20250921T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-d41owuo1u1779nt2321dpmp78@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 1 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:1. FSV Mainz 05 VS Borussia Dortmund
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-d7kwmfj2kqzufe8d3v7w4hno4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: MEWA 
  ARENA\nResult: 0 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS RB Leipzig
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-dbgrv2byy5yl05pmv9183d9uc@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 1 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Borussia Dortmund
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-deyxzy47iahr9lr8vyermy32s@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Allia
  nz Arena\nResult: 2 - 1
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS 1. FC Köln
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-dknvgto062tiwpf2rz16o8glw@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 1 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:FC Augsburg VS Borussia Dortmund
 DTSTART:20251031T193000Z
 DTEND:20251031T213000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-dp3v9drrz5r1i4w58o0ikm044@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: WWK A
  rena\nResult: 0 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS Borussia Dortmund
 DTSTART:20251108T143000Z
 DTEND:20251108T163000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-dubh9vj79dn8m8fj5skn4zi1g@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Volks
  parkstadion\nResult: 1 - 1
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS VfB Stuttgart
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-dv3pyqp0u9k0vzrwxfqyw7pqs@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 3 - 3
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Borussia Dortmund
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-dyoku4cfhpbwauq4uv4bgkljo@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: BayAr
  ena\nResult: 1 - 2
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS TSG 1899 Hoffenheim
 DTSTART:20251207T163000Z
 DTEND:20251207T183000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-e1t5modysvw955h2nzxo5lous@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 2 - 0
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Borussia Dortmund
 DTSTART:20251214T143000Z
 DTEND:20251214T163000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-e6jj6eibzyfv0o6jmv6pdsqhg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 1 - 1
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Borussia M'gladbach
 DTSTART:20251219T193000Z
 DTEND:20251219T213000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-e8yajt5o5qcb8ptm21rst2bys@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 2 - 0
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Borussia Dortmund
 DTSTART:20260109T193000Z
 DTEND:20260109T213000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-edb8gv8o2d7borbf2uy6e23v8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Deuts
  che Bank Park\nResult: 3 - 3
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Werder Bremen
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-eg32vnng1c7spei56g5ldgmc4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 3 - 0
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS St. Pauli
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-ejnb4mfhdx8ws0g0v5rwi48ic@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 3 - 2
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Union Berlin VS Borussia Dortmund
 DTSTART:20260124T173000Z
 DTEND:20260124T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-eplczkmllxiwhwcc2mccwj9ck@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Stadi
  on An der Alten Försterei\nResult: 0 - 3
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Heidenheim
 DTSTART:20260201T163000Z
 DTEND:20260201T183000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-er5y20pums8ahg9x2cuqct2j8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 3 - 2
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburg VS Borussia Dortmund
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-evxfu7jeffofa2p61io39xzbo@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Volks
  wagen Arena\nResult: 1 - 2
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS 1. FSV Mainz 05
 DTSTART:20260213T193000Z
 DTEND:20260213T213000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-eypkzcn7uvbt0uixyixwa7m6s@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 4 - 0
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS Borussia Dortmund
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-f2mhh70jo2wbshdulij5umhw4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Red B
  ull Arena\nResult: 2 - 2
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS FC Bayern München
 DTSTART:20260228T173000Z
 DTEND:20260228T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-6ya3jhmi35isdeuxvhkifbo@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 2 - 3
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Köln VS Borussia Dortmund
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-64rcfjpjgw65g6zd8iu42ot0@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Rhein
  EnergieSTADION\nResult: 1 - 2
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS FC Augsburg
 DTSTART:20260314T143000Z
 DTEND:20260314T163000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-7b0cleocj8pf0vgwpuujrd3o@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 2 - 0
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Hamburger SV
 DTSTART:20260321T173000Z
 DTEND:20260321T193000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-ahx3vefja6189aevg06cr85w@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 3 - 2
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Borussia Dortmund
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-f9p6jq6t9ykow3vrcstmoqhg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: MHPAr
  ena\nResult: 0 - 2
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Bayer Leverkusen
 DTSTART:20260411T133000Z
 DTEND:20260411T153000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-hf2d4eraf7gov01r8ysp8etw@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 0 - 1
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:TSG 1899 Hoffenheim VS Borussia Dortmund
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-oav1ohsgn89qcpi3r93qscus@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: PreZe
  ro Arena\nResult: 2 - 1
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS SC Freiburg
 DTSTART:20260426T153000Z
 DTEND:20260426T173000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-opeabpi1vy53fxn3l5zfwt1w@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 4 - 0
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS Borussia Dortmund
 DTSTART:20260503T153000Z
 DTEND:20260503T173000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-u7howlozxmh5y97vag6ndzx0@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: BORUS
  SIA-PARK
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Eintracht Frankfurt
 DTSTART:20260508T183000Z
 DTEND:20260508T203000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-vs5eskvgwsxpvt6ya55kbhn8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Bremen VS Borussia Dortmund
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260501T105507Z
+DTSTAMP:20260501T120421Z
 UID:fifa-10xtffi2776zhej0uesve88b8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Weser
  stadion
