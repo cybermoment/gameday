@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Викингур VS Lincoln Red Imps
 DTSTART:20250708T180000Z
 DTEND:20250708T200000Z
-DTSTAMP:20260502T105755Z
+DTSTAMP:20260502T115405Z
 UID:fifa-2axwif0kr7ld8vc988ji73q50@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Við Djú
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Викингур
 DTSTART:20250715T153000Z
 DTEND:20250715T173000Z
-DTSTAMP:20260502T105755Z
+DTSTAMP:20260502T115405Z
 UID:fifa-2feve63v1vjilkwh0lazcrztg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Europa Po
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Црвена Звезда
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260502T105755Z
+DTSTAMP:20260502T115405Z
 UID:fifa-46xbmy1svtjsenauhcjtorz10@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Europa Point Stadium\nРезульт
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Црвена Звезда VS Lincoln Red Imps
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260502T105755Z
+DTSTAMP:20260502T115405Z
 UID:fifa-48t6pnn4up7tu28f6swem8duc@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Stadion Rajko Mitić\nРезульт
