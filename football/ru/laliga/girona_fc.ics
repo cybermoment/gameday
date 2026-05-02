@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Райо Вальекано
 DTSTART:20250815T170000Z
 DTEND:20250815T190000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1f9e25njwyjk6ruheatqgglw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Вильярреал VS Хирона
 DTSTART:20250824T173000Z
 DTEND:20250824T193000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3j6gjjg197ssn0pvnyq37itw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Севилья
 DTSTART:20250830T173000Z
 DTEND:20250830T193000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-91dd8ia3m0bxoqzjgyo3ptsk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS Хирона
 DTSTART:20250914T120000Z
 DTEND:20250914T140000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-bn4f12euztq92l1rq86faj2s@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Леванте
 DTSTART:20250920T120000Z
 DTEND:20250920T140000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-fo7f0yq3c06q4hrw7vamnnro@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Хирона
 DTSTART:20250923T170000Z
 DTEND:20250923T190000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-ib901b3xp60cmvf9jmlupqtw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Эспаньол
 DTSTART:20250926T190000Z
 DTEND:20250926T210000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-p2nr5z25p9svx0ssxbjiprmc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Валенсия
 DTSTART:20251004T141500Z
 DTEND:20251004T161500Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-q89ix5d2x25rptwlhkq27j10@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Хирона
 DTSTART:20251018T141500Z
 DTEND:20251018T161500Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-txn45zihl3cp2bv3lj5rmot0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Реал Овьедо
 DTSTART:20251025T120000Z
 DTEND:20251025T140000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-wyrlnmec1exr7tyktusq0i6s@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Хетафе VS Хирона
 DTSTART:20251031T200000Z
 DTEND:20251031T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-11uxeay5z2isuekqd9fq0usyc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Алавес
 DTSTART:20251108T130000Z
 DTEND:20251108T150000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-16fj9cb2vp81vtnlvqdcoou1g@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Хирона
 DTSTART:20251123T151500Z
 DTEND:20251123T171500Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-18b3vyjp3y356x49ce7z1qdxw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Реал Мадрид
 DTSTART:20251130T200000Z
 DTEND:20251130T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1c2s2pxxqc6pp652crmn64etw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Эльче VS Хирона
 DTSTART:20251207T130000Z
 DTEND:20251207T150000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1fu4ltpxdb9j94v6s2kbx1puc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Сосьедад VS Хирона
 DTSTART:20251212T200000Z
 DTEND:20251212T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1lgsuqoyjxec8b0tdfgdpl15g@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Атлетико Мадрид
 DTSTART:20251221T130000Z
 DTEND:20251221T150000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1o35rsofsxiepozlbmke0wduc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Мальорка VS Хирона
 DTSTART:20260104T173000Z
 DTEND:20260104T193000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1szis91vby48oriy7er25lams@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Осасуна
 DTSTART:20260110T173000Z
 DTEND:20260110T193000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-1ydvgoo74zv2bvij485wtc93o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Эспаньол VS Хирона
 DTSTART:20260116T200000Z
 DTEND:20260116T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-226m1xys6v816jac3sck3d3is@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Хетафе
 DTSTART:20260126T200000Z
 DTEND:20260126T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-23c7lgceh27fdelyfo5a4ygwk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Овьедо VS Хирона
 DTSTART:20260131T130000Z
 DTEND:20260131T150000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-27fpawpnvii11w6oxcgm7a80k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Хирона
 DTSTART:20260208T151500Z
 DTEND:20260208T171500Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2b7m8c3nipodfdjjb4e6akqok@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Барселона
 DTSTART:20260216T200000Z
 DTEND:20260216T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2elfffvt87h2apmhh2c0et3pw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Алавес VS Хирона
 DTSTART:20260223T200000Z
 DTEND:20260223T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2j5gbrfdr52r652taci2oin84@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Сельта
 DTSTART:20260301T200000Z
 DTEND:20260301T220000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2lrcyrg6x6b1wz9q1xeyggkyc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Хирона
 DTSTART:20260307T151500Z
 DTEND:20260307T171500Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2p5lebd6sut2o58yyixozunmc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Атлетик
 DTSTART:20260314T130000Z
 DTEND:20260314T150000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2wafcyp42h9q6jqi5chgfl3x0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Осасуна VS Хирона
 DTSTART:20260321T173000Z
 DTEND:20260321T193000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-2x2xudpjc4s1hoolcluxehudw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Вильярреал
 DTSTART:20260406T190000Z
 DTEND:20260406T210000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-32qxs3ohgfo1bgb2g7k7we9zo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Хирона
 DTSTART:20260410T190000Z
 DTEND:20260410T210000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-34m6ahxmkq28k9h8al6i9gsno@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Бетис
 DTSTART:20260421T193000Z
 DTEND:20260421T213000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3eve0z8ko67bbailw6nhbl3x0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Валенсия VS Хирона
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-380ebum8hdpxn90su6vzm4bo4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Мальорка
 DTSTART:20260501T190000Z
 DTEND:20260501T210000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3i9z3nd0s3lxkt3l5hpy8wil0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Райо Вальекано VS Хирона
 DTSTART:20260511T190000Z
 DTEND:20260511T210000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3je81f1r98u8rqsk99bzjwyl0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Реал Сосьедад
 DTSTART:20260514T180000Z
 DTEND:20260514T200000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3ooiol9lfrmnu1bfpa099xhxw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Хирона
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3rbvenobhbiyu2oz1067g87x0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Эльче
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260502T094411Z
+DTSTAMP:20260502T105923Z
 UID:fifa-3y3gz2ufpcbu5vkgph7jyg74k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
