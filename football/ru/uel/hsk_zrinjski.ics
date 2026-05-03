@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Зриньски VS Брейдаблик
 DTSTART:20250807T180000Z
 DTEND:20250807T200000Z
-DTSTAMP:20260503T175736Z
+DTSTAMP:20260503T191414Z
 UID:fifa-6qkme6vyn4nl950powrwxt9g4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadion Bijeli Brijeg\nРезультат: 
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Брейдаблик VS Зриньски
 DTSTART:20250814T173000Z
 DTEND:20250814T193000Z
-DTSTAMP:20260503T175736Z
+DTSTAMP:20260503T191414Z
 UID:fifa-6se1oni96vfa56cx66tu16has@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Kópavogsvöllur\nРезультат: 1 - 2
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Зриньски VS Утрехт
 DTSTART:20250821T180000Z
 DTEND:20250821T200000Z
-DTSTAMP:20260503T175736Z
+DTSTAMP:20260503T191414Z
 UID:fifa-6yzohc7o27nrqy008agsoczdg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Stadion Bijeli Brijeg\nРезультат: 
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Утрехт VS Зриньски
 DTSTART:20250828T180000Z
 DTEND:20250828T200000Z
-DTSTAMP:20260503T175736Z
+DTSTAMP:20260503T191414Z
 UID:fifa-70srxazhtbiqm5lg2r043an10@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Stadion Galgenwaard\nРезультат: 0 
