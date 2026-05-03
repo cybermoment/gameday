@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Эспаньол VS Атлетико Мадрид
 DTSTART:20250817T193000Z
 DTEND:20250817T213000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1wwdsnnj2m9ewz1d1mgt7y8k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Эльче
 DTSTART:20250823T173000Z
 DTEND:20250823T193000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-49e80e647ljijc5bz8tqc2l0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Алавес VS Атлетико Мадрид
 DTSTART:20250830T150000Z
 DTEND:20250830T170000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-7kvwnpl7nq950703yan4bspg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Вильярреал
 DTSTART:20250913T190000Z
 DTEND:20250913T210000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-av0qyy8sbq3jo28muv6smb6c@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Мальорка VS Атлетико Мадрид
 DTSTART:20250921T141500Z
 DTEND:20250921T161500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-gg5bnkuq3inqnecavarjo3dg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Райо Вальекано
 DTSTART:20250924T193000Z
 DTEND:20250924T213000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-ioo3djrnoe5kcc2n7mypzbis@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Реал Мадрид
 DTSTART:20250927T141500Z
 DTEND:20250927T161500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-m3rr5kwhsu6s770ey69xad5g@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS Атлетико Мадрид
 DTSTART:20251005T190000Z
 DTEND:20251005T210000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-qys0flp8cpyb6p1fsjh7d1xw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Осасуна
 DTSTART:20251018T190000Z
 DTEND:20251018T210000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-tk5mkd96dh3cu38pb2k286qc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Атлетико Мадрид
 DTSTART:20251027T200000Z
 DTEND:20251027T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-ygjm4bbtl6jbrz9gsd661vys@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Севилья
 DTSTART:20251101T151500Z
 DTEND:20251101T171500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-10qg7chtpoj0knqnvx2oduot0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Леванте
 DTSTART:20251108T173000Z
 DTEND:20251108T193000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-14xa2ysiarbslbwcla4hhzqj8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Хетафе VS Атлетико Мадрид
 DTSTART:20251123T173000Z
 DTEND:20251123T193000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1al4jq2l4mkefxzf7iqmiledw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Реал Овьедо
 DTSTART:20251129T200000Z
 DTEND:20251129T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1f3hreqlw5s8sg03041v1ecyc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Атлетико Мадрид
 DTSTART:20251202T200000Z
 DTEND:20251202T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1v9qqviahmnia4ewmzd4aejv8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Атлетико Мадрид
 DTSTART:20251206T200000Z
 DTEND:20251206T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1j6l9nsawkrpvmlpb5fprga38@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Валенсия
 DTSTART:20251213T130000Z
 DTEND:20251213T150000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1mlai6ycmblrejdaxysomfw2c@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Атлетико Мадрид
 DTSTART:20251221T130000Z
 DTEND:20251221T150000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1o35rsofsxiepozlbmke0wduc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Сосьедад VS Атлетико Мадрид
 DTSTART:20260104T200000Z
 DTEND:20260104T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1rhyonqt5a171xvtvluwo5p1w@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Алавес
 DTSTART:20260118T151500Z
 DTEND:20260118T171500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-1zkz16jzrxddg9c05edk2znys@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Мальорка
 DTSTART:20260125T130000Z
 DTEND:20260125T150000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-24tv2ajrcwbqaq46kxd54mgpg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Атлетико Мадрид
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-26bsh372a4004fxjzg381qgb8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Бетис
 DTSTART:20260208T173000Z
 DTEND:20260208T193000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2d48hhckok4yi8bluy55trf2s@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Райо Вальекано VS Атлетико Мадрид
 DTSTART:20260215T151500Z
 DTEND:20260215T171500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2e85uzw4i0hdq9tlf0m02mo7o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Эспаньол
 DTSTART:20260221T200000Z
 DTEND:20260221T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2jwf7cpzm72lrajndbtk03das@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Овьедо VS Атлетико Мадрид
 DTSTART:20260228T200000Z
 DTEND:20260228T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2ldv2nafpzvwhdympdp0rff9w@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Реал Сосьедад
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2qn6lwhn5o37o0hl1unj5hl3o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Хетафе
 DTSTART:20260314T151500Z
 DTEND:20260314T171500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2usu4a3m9ufgguju2iqilurys@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Атлетико Мадрид
 DTSTART:20260322T200000Z
 DTEND:20260322T220000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-2wpgnr91h1yid0zf4zu0y5afo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -439,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Барселона
 DTSTART:20260404T190000Z
 DTEND:20260404T210000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-31zxsexwgw81km23uib95otuc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -454,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Атлетико Мадрид
 DTSTART:20260411T190000Z
 DTEND:20260411T210000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3799288svdt7jtyvzloemtt04@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Эльче VS Атлетико Мадрид
 DTSTART:20260422T170000Z
 DTEND:20260422T190000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3ehzlcos9xo56ol70wttwmu50@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Атлетик
 DTSTART:20260425T190000Z
 DTEND:20260425T210000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3achbi56yevn41ahu7amhx638@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Валенсия VS Атлетико Мадрид
 DTSTART:20260502T141500Z
 DTEND:20260502T161500Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3indehxonm3sorl5dn4ojvj84@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Сельта
 DTSTART:20260509T163000Z
 DTEND:20260509T183000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3k57p4cr98z0cknr4b39kaivo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -528,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Осасуна VS Атлетико Мадрид
 DTSTART:20260512T193000Z
 DTEND:20260512T213000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3pfak8vavaxumsfvxz2yo48wk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Хирона
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3rbvenobhbiyu2oz1067g87x0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:Вильярреал VS Атлетико Мадрид
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260503T115243Z
+DTSTAMP:20260503T132920Z
 UID:fifa-3xcjz4isjg101zf0d40lxkglw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
