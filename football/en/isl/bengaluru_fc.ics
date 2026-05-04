@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS Sporting Delhi
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-8btokgt1z8iyyrx31q110yihg@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 2 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS NorthEast United
 DTSTART:20260222T113000Z
 DTEND:20260222T133000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-8fvhimx10c4j7f3kjrfa2k9as@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 1 - 1
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS Minerva Punjab
 DTSTART:20260227T140000Z
 DTEND:20260227T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-8k3hb2v83t0f9kv3yhb37byfo@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 0 - 2
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Mohammedan SC VS Bengaluru FC
 DTSTART:20260307T113000Z
 DTEND:20260307T133000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-8piwcnb779bm93cfkejgs5xqs@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kishore Bharati Krirangan\nResult: 1 - 2
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS Mohun Bagan
 DTSTART:20260314T140000Z
 DTEND:20260314T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-8ureuv0ee1ypbypmj7advan10@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 0 - 0
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Inter Kashi VS Bengaluru FC
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-9558urfacm0je5ziziv2qrod0@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Kishore Bharati Krirangan\nResult: 1 - 3
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Goa VS Bengaluru FC
 DTSTART:20260404T140000Z
 DTEND:20260404T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-97x2tumb3dmcu81zptsxvmo0k@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium Goa\nResult: 0 - 2
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS Kerala Blasters
 DTSTART:20260411T140000Z
 DTEND:20260411T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-9g7707vk43apep595evb4qdck@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 1 - 2
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Kingfisher East Bengal VS Bengaluru FC
 DTSTART:20260416T140000Z
 DTEND:20260416T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-9im7ehasoyvdw9t3klrmmp5hw@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 3 - 3
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS Mumbai City
 DTSTART:20260425T113000Z
 DTEND:20260425T133000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-9odh7pc443wozr629786veaz8@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 0 - 0
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Odisha FC VS Bengaluru FC
 DTSTART:20260504T140000Z
 DTEND:20260504T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-9tq51juo6f2o09ubw7hyy14b8@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium Goa\nResult: 1 - 1
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Bengaluru FC
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-9vwu6uhyrbxlgc1fkj9tz88wk@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Chennaiyin FC VS Bengaluru FC
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260504T165458Z
+DTSTAMP:20260504T182228Z
 UID:fifa-bciokccdnvz58rc0t57dw7wus@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium
