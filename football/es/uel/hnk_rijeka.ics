@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Rijeka VS Shelbourne
 DTSTART:20250806T184500Z
 DTEND:20250806T204500Z
-DTSTAMP:20260505T110533Z
+DTSTAMP:20260505T125021Z
 UID:fifa-urqyhtxzw5f0e0162deegf10@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: 3ra Ronda de clasifica
  ción\nEstadio: Stadion HNK Rijeka\nResultado: 1 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS Rijeka
 DTSTART:20250812T184500Z
 DTEND:20250812T204500Z
-DTSTAMP:20260505T110533Z
+DTSTAMP:20260505T125021Z
 UID:fifa-109tzu24amo985enu2dlo1a8k@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: 3ra Ronda de clasifica
  ción\nEstadio: Tolka Park\nResultado: 1 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Rijeka VS PAOK
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260505T110533Z
+DTSTAMP:20260505T125021Z
 UID:fifa-a00stu2r9waxfjiarrmhwdj4k@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Sta
  dion HNK Rijeka\nResultado: 1 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Rijeka
 DTSTART:20250828T173000Z
 DTEND:20250828T193000Z
-DTSTAMP:20260505T110533Z
+DTSTAMP:20260505T125021Z
 UID:fifa-a12pc4txf515i4sjnu4mt7ztg@fifa.com
 DESCRIPTION:Competición: UEFA Europa League\nFase: Playoffs\nEstadio: Sta
  dio Toumbas\nResultado: 5 - 0
