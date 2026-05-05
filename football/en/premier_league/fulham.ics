@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion VS Fulham
 DTSTART:20250816T140000Z
 DTEND:20250816T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-10jpwd1x2paywtbfatjev182c@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: A
  merican Express Stadium\nResult: 1 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Manchester United
 DTSTART:20250824T153000Z
 DTEND:20250824T173000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-16ogxo1bxdi6eza02h0s9i5n8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Fulham
 DTSTART:20250830T113000Z
 DTEND:20250830T133000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1929jvcf42axkdr52hdrfuvis@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  tamford Bridge\nResult: 2 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Leeds United
 DTSTART:20250913T140000Z
 DTEND:20250913T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1ejplc4zz2mafz8ve5yaztgyc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 0
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Brentford
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1hotdoe44db3avxd1j91hxw5w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 3 - 1
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Fulham
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1k3eld3sysqfeherxz48tzoyc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: V
  illa Park\nResult: 3 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Fulham
 DTSTART:20251003T190000Z
 DTEND:20251003T210000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1o40goci4ply97jh7uhh3zq50@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: V
  itality Stadium\nResult: 3 - 1
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Arsenal
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1taq9euew4fs51eqk666nc2dw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 0 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle United VS Fulham
 DTSTART:20251025T140000Z
 DTEND:20251025T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-1zf0zsabpkibbzn05lty6cv10@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  t. James' Park\nResult: 2 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Wolverhampton Wanderers
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-21e9qf2g143huh7h7gqpcj310@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 3 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Everton VS Fulham
 DTSTART:20251108T150000Z
 DTEND:20251108T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-25soeaibarxqqknu9tqwgiqdw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: H
  ill Dickinson Stadium\nResult: 2 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Sunderland
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-29stxec16t171gwpixb6tcaok@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham Hotspur VS Fulham
 DTSTART:20251129T200000Z
 DTEND:20251129T220000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-2fe6zf414gquq687ftwrxeplg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  ottenham Hotspur Stadium\nResult: 1 - 2
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Manchester City
 DTSTART:20251202T193000Z
 DTEND:20251202T213000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-2huqn7q2qf5wv5w6t7zntjh1w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 4 - 5
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Crystal Palace
 DTSTART:20251207T163000Z
 DTEND:20251207T183000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-2luiolpt1jy5d28eus95spudw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 2
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Burnley VS Fulham
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-2p2bn6raq23z2z9d2ubzelkpg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  urf Moor\nResult: 2 - 3
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Nottingham Forest
 DTSTART:20251222T200000Z
 DTEND:20251222T220000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-2u05w864nrk2n7f7xxb2dvfo4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 0
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Fulham
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-301qv7qh7f68fs8msq82ki51w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: L
  ondon Stadium\nResult: 0 - 1
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace VS Fulham
 DTSTART:20260101T173000Z
 DTEND:20260101T193000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3213l7phvb9z5fvoks5hkjnkk@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  elhurst Park\nResult: 1 - 1
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Liverpool
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-36e9umplcfioh9jroyvcwq0pg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 2 - 2
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Chelsea FC
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3b88lgitioom79f9582v671n8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 2 - 1
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds United VS Fulham
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3e02p7upavgzcp7hlm9ie1xjo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  lland Road\nResult: 1 - 0
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Brighton & Hove Albion
 DTSTART:20260124T150000Z
 DTEND:20260124T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3j7tp9n0yhxrv1kpyax05gy6s@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 2 - 1
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Fulham
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3mupduyj99i9jq4xrg9rneoes@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 3 - 2
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Everton
 DTSTART:20260207T150000Z
 DTEND:20260207T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3qhpjpugj6pxygbjsx1afzzmc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 2
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Fulham
 DTSTART:20260211T193000Z
 DTEND:20260211T213000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3uwscuw3pka1nis987nbuotn8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland VS Fulham
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-3zqsl82hkajpz8q2ta9wz1ono@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  tadium of Light\nResult: 1 - 3
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Tottenham Hotspur
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-42jx3wx1mip1d4gb7xxr5xqms@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 2 - 1
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS West Ham United
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-46l5tcessu8s61wzg7lfykob8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 0 - 1
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Fulham
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4btd13vohred1mnqymrbxt72s@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  he City Ground\nResult: 0 - 0
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Burnley
 DTSTART:20260321T150000Z
 DTEND:20260321T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4eljvcto747n3og5zxhsgn4es@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 3 - 1
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Fulham
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4j6ivw9f5me8lnzenpp7vnuok@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: A
  nfield\nResult: 2 - 0
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Brentford VS Fulham
 DTSTART:20260418T113000Z
 DTEND:20260418T133000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4lm557n5sh5s5bv94m63lgj6c@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: G
  tech Community Stadium\nResult: 0 - 0
@@ -439,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Aston Villa
 DTSTART:20260425T113000Z
 DTEND:20260425T133000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4rb4ziwutw24zx7ni67cnask4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 0
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Fulham
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4u45d36alhjxa1qxmvmzja80k@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  mirates Stadium\nResult: 3 - 0
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Bournemouth
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-4z1zxqksc6bleu9a1009ng7pw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Wolverhampton Wanderers VS Fulham
 DTSTART:20260517T140000Z
 DTEND:20260517T160000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-55j21gxnbt3gda8onzs81rf2s@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: M
  olineux Stadium
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Newcastle United
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260505T093030Z
+DTSTAMP:20260505T110556Z
 UID:fifa-5770cell6dg85i03xfikgnwus@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage
