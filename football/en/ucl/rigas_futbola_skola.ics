@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Levadia Tallinn VS Rigas Futbola skola
 DTSTART:20250708T163000Z
 DTEND:20250708T183000Z
-DTSTAMP:20260506T011220Z
+DTSTAMP:20260506T045836Z
 UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: A. Le Coq Arena\nResult: 0 - 1
@@ -20,35 +20,35 @@ BEGIN:VEVENT
 SUMMARY:Rigas Futbola skola VS FC Levadia Tallinn
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260506T011220Z
+DTSTAMP:20260506T045836Z
 UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
- d\nStadium: LNK Sporta Parks (dabīgais)\nResult: 1 - 0
+ d\nStadium: LNK Sporta Parks dabīgais\nResult: 1 - 0
 GEO:56.90796;24.1553
-LOCATION:LNK Sporta Parks (dabīgais)
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
- is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
- ,24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rigas Futbola skola VS Malmö FF
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260506T011220Z
+DTSTAMP:20260506T045836Z
 UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
- d\nStadium: LNK Sporta Parks (dabīgais)\nResult: 1 - 4
+ d\nStadium: LNK Sporta Parks dabīgais\nResult: 1 - 4
 GEO:56.90796;24.1553
-LOCATION:LNK Sporta Parks (dabīgais)
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
- is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
- ,24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malmö FF VS Rigas Futbola skola
 DTSTART:20250730T170000Z
 DTEND:20250730T190000Z
-DTSTAMP:20260506T011220Z
+DTSTAMP:20260506T045836Z
 UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Eleda Stadion\nResult: 1 - 0

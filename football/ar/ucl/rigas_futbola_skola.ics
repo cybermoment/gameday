@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ليفاديا تالين VS داوغافا ريغا
 DTSTART:20250708T163000Z
 DTEND:20250708T183000Z
-DTSTAMP:20260506T011237Z
+DTSTAMP:20260506T045848Z
 UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: أ. لي كوك أ
@@ -23,37 +23,37 @@ BEGIN:VEVENT
 SUMMARY:داوغافا ريغا VS ليفاديا تالين
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260506T011237Z
+DTSTAMP:20260506T045848Z
 UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
- لة: دور التصفيات الأول\nالملعب: LNK Sporta Parks (
- dabīgais)\nالنتيجة: 1 - 0
+ لة: دور التصفيات الأول\nالملعب: LNK Sporta Parks d
+ abīgais\nالنتيجة: 1 - 0
 GEO:56.90796;24.1553
-LOCATION:LNK Sporta Parks (dabīgais)
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
- is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
- ,24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:داوغافا ريغا VS مالمو
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260506T011237Z
+DTSTAMP:20260506T045848Z
 UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: LNK Sporta Parks
-  (dabīgais)\nالنتيجة: 1 - 4
+  dabīgais\nالنتيجة: 1 - 4
 GEO:56.90796;24.1553
-LOCATION:LNK Sporta Parks (dabīgais)
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
- is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
- ,24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:مالمو VS داوغافا ريغا
 DTSTART:20250730T170000Z
 DTEND:20250730T190000Z
-DTSTAMP:20260506T011237Z
+DTSTAMP:20260506T045848Z
 UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: استاد سو
