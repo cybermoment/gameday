@@ -8,22 +8,22 @@ BEGIN:VEVENT
 SUMMARY:داوغافا ريغا VS كوبيون بالوسورا
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260506T045853Z
+DTSTAMP:20260506T102517Z
 UID:fifa-258eswpmjkvdk07riloeuzdp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
- ة: دور التصفيات الثالث\nالملعب: LNK Sporta Parks (
- dabīgais)\nالنتيجة: 1 - 2
+ ة: دور التصفيات الثالث\nالملعب: LNK Sporta Parks d
+ abīgais\nالنتيجة: 1 - 2
 GEO:56.90796;24.1553
-LOCATION:LNK Sporta Parks (dabīgais)
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks (dabīga
- is)";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks (dabīgais)":geo:56.90796
- ,24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:كوبيون بالوسورا VS داوغافا ريغا
 DTSTART:20250814T150000Z
 DTEND:20250814T170000Z
-DTSTAMP:20260506T045853Z
+DTSTAMP:20260506T102517Z
 UID:fifa-28abhiz0drasfw8sbk05iwnpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الثالث\nالملعب: سافون سان
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:ميتلاند VS كوبيون بالوسورا
 DTSTART:20250821T163000Z
 DTEND:20250821T183000Z
-DTSTAMP:20260506T045853Z
+DTSTAMP:20260506T102517Z
 UID:fifa-1hrz06s9q780z4e4ujqya4ob8@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: المبارايات الاختتامية\nالملعب: إم سي إ
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:كوبيون بالوسورا VS ميتلاند
 DTSTART:20250828T150000Z
 DTEND:20250828T170000Z
-DTSTAMP:20260506T045853Z
+DTSTAMP:20260506T102517Z
 UID:fifa-1kfkp6eshi7hkko3c10xhc7is@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: المبارايات الاختتامية\nالملعب: سافون س
