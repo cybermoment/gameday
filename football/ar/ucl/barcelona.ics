@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:نيوكاسل VS برشلونة
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-4x2w9j51dk7kc90orh6vkm2hg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS باريس سان جيرمان
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-535v16ejka2ckhekin6euxg5w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب لويس كومبا
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS أولمبياكوس بيرايوس
 DTSTART:20251021T164500Z
 DTEND:20251021T184500Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-547fv6pkd98zbsl3ha92ih0d0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب لويس كومبا
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS برشلونة
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-5fbfmxmdror7xvtcq3a41pkpg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:تشيلسي VS برشلونة
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-5iss7tc562nnymg0uiewtt0r8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS آينرتخت فرانكفورت
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-5q05t4o4el0d6rhmncz6pxqms@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: كامب نو\nالنتيجة
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:سلافيا براغ VS برشلونة
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-61upafdbc4mwkdmp1k5ajqu50@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد سينوبو\nال
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS كوبنهاجن
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: كامب نو\nالنتيجة
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:نيوكاسل VS برشلونة
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-cy57racub2br10hm6bcv5y39w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: سينت جيمس بارك\nالنت
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS نيوكاسل
 DTSTART:20260318T174500Z
 DTEND:20260318T194500Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-d3utvvilysz7lkewu7ylnqntg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: كامب نو\nالنتيجة: 7 - 2
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS أتلتيكو مدريد
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: ربع النهائي\nالملعب: كامب نو\nالنتيجة: 
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS برشلونة
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260506T102459Z
+DTSTAMP:20260506T121708Z
 UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: ربع النهائي\nالملعب: ملعب واندا ميترو
