@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Жальгирис VS Хамрун Спартанс
 DTSTART:20250709T160000Z
 DTEND:20250709T180000Z
-DTSTAMP:20260507T175512Z
+DTSTAMP:20260507T194950Z
 UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: FK Žalgi
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Хамрун Спартанс VS Жальгирис
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260507T175512Z
+DTSTAMP:20260507T194950Z
 UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Наци
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Хамрун Спартанс VS Динамо Киев
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260507T175512Z
+DTSTAMP:20260507T194950Z
 UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: MFA Centenary Stadium\nРезульт
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Динамо Киев VS Хамрун Спартанс
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260507T175512Z
+DTSTAMP:20260507T194950Z
 UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Motor Lublin Arena\nРезульта
