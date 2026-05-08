@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Strasbourg
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-75vj2kkzx3rsh4sljwh5yv2tw@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Saint-Symphorien\nResultado: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Nantes
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-79oyk2qmf1t5auscpyaavyrdg@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Monaco VS Strasbourg
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7as416n51kwznt2k62e2o0178@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Louis-II\nResultado: 3 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Le Havre
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7fxlfaq79j9fhu0z0tywm036c@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Strasbourg
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7hqfsp9wwps1370c6rgriitxw@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Jean Bouin\nResultado: 2 - 3
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Olympique de Marseille
 DTSTART:20250926T184500Z
 DTEND:20250926T204500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7k9jcd1dxbz7xnp5qbhjbqiac@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 2
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Angers
 DTSTART:20251005T151500Z
 DTEND:20251005T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7pj6sxncv64nf54kv4x0c795g@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 5 - 0
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Strasbourg
 DTSTART:20251017T184500Z
 DTEND:20251017T204500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7rqqx5f5hg6r0w0ixflxjncic@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Par
  que dos Príncipes\nResultado: 3 - 3
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon VS Strasbourg
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7uez0go2lksfpxv0envcy2txw@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Gro
  upama Stadium\nResultado: 2 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Auxerre
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-7yvumhtfkzi2mp08th02rzhg4@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 3 - 0
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Strasbourg
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-82ebxmrmqgkws56fj9x5otq8k@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Roa
  zhon Park\nResultado: 4 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Lille
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-87nkivfh38imdea2mlokcvu38@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 2 - 0
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Strasbourg
 DTSTART:20251122T160000Z
 DTEND:20251122T180000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-880t6lepwo7xf1dbsudept6ac@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Bollaert-Delelis\nResultado: 1 - 0
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Brestois
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8d863d4hukktuken9r5812qz8@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 2
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse VS Strasbourg
 DTSTART:20251206T180000Z
 DTEND:20251206T200000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8hcfr8w41pqptnf955zxsubkk@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  dium de Toulouse\nResultado: 1 - 0
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Lorient
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8jzwdz729b6d3cina9j0g4ljo@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 0 - 0
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Nice VS Strasbourg
 DTSTART:20260103T180000Z
 DTEND:20260103T200000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8lgxl8h25a3htyni3vsao83ys@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: All
  ianz Riviera\nResultado: 1 - 1
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Metz
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8p7bz5si0ywkxxrzfe5d1007o@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 2 - 1
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Strasbourg
 DTSTART:20260125T194500Z
 DTEND:20260125T214500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8sbt68kf1vu4u298a2b8a08pg@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Dec
  athlon Arena - Stade Pierre-Mauroy\nResultado: 1 - 4
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Paris Saint-Germain
 DTSTART:20260201T194500Z
 DTEND:20260201T214500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-8wh6w0enqn5gxvuqelm0078d0@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 2
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Strasbourg
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-909n78etc7zwg4afsvra5kro4@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Océane\nResultado: 2 - 1
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique de Marseille VS Strasbourg
 DTSTART:20260214T160000Z
 DTEND:20260214T180000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-92w3v1zmovn1e6fdahj11l5w4@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Ora
  nge Vélodrome\nResultado: 2 - 2
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Lyon
 DTSTART:20260222T194500Z
 DTEND:20260222T214500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-95up16y21d8pfupfkyzapqmms@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 3 - 1
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Lens
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9bvvo7fe784553nbrum8q67mc@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 1
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Strasbourg
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9ewdmzregj6oqyc4h5wd30fmc@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de l'Abbé Deschamps\nResultado: 0 - 0
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Paris FC
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9h5ymyb7mkj2jvirmscchc55g@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 0 - 0
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Strasbourg
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9kq8x7m65ajep26bou4lcqpzo@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Beaujoire - Louis Fonteneau\nResultado: 2 - 3
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Nice
 DTSTART:20260404T150000Z
 DTEND:20260404T170000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9pz0g8650jfcdtp974lo02xhw@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 3 - 1
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Rennes
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9u93mskgb139cu0hd7vu9sduc@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 0 - 3
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Strasbourg
 DTSTART:20260426T130000Z
 DTEND:20260426T150000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9ytna8swoqeiuqmwdflakxbtg@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de du Moustoir - Yves Allainmat\nResultado: 2 - 3
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Toulouse
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-a28gzkojrp8r88cffl82o9c7o@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau\nResultado: 1 - 2
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Strasbourg
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-a6osea7is20zcww5b85r08npw@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Raymond Kopa
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Brestois VS Strasbourg
 DTSTART:20260513T170000Z
 DTEND:20260513T190000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-9rwlcosdmxen4l8qu9x0kdvro@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de Francis-Le Blé
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Monaco
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260508T100625Z
+DTSTAMP:20260508T115838Z
 UID:fifa-aa0fiz57iyc7rhjtg47ul2olw@fifa.com
 DESCRIPTION:Competição: Ligue 1\nEtapa: Temporada regular\nEstádio: Sta
  de de la Meinau
