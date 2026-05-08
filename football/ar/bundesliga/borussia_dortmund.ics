@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS نادي بوروسيا دورتموند
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-cvggphp44uy4gk303v3l76zv8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -25,7 +25,7 @@ SUMMARY:نادي بوروسيا دورتموند VS يونيون برلي
  ن
 DTSTART:20250831T153000Z
 DTEND:20250831T173000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-cwbal51ih86145234mzvrfspg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS نادي بوروسيا دورتموند
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-d2w6kloma775swp3v4vv35qtw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS فولفسبورج
 DTSTART:20250921T173000Z
 DTEND:20250921T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-d41owuo1u1779nt2321dpmp78@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS نادي بوروسيا دورتموند
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-d7kwmfj2kqzufe8d3v7w4hno4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS لايبزيج
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-dbgrv2byy5yl05pmv9183d9uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -99,7 +99,7 @@ SUMMARY:بايرن ميونيخ VS نادي بوروسيا دورتمون
  د
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-deyxzy47iahr9lr8vyermy32s@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS كولن
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-dknvgto062tiwpf2rz16o8glw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS نادي بوروسيا دورتموند
 DTSTART:20251031T193000Z
 DTEND:20251031T213000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-dp3v9drrz5r1i4w58o0ikm044@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS نادي بوروسيا دورتموند
 DTSTART:20251108T143000Z
 DTEND:20251108T163000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-dubh9vj79dn8m8fj5skn4zi1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS شتوتجارت
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-dv3pyqp0u9k0vzrwxfqyw7pqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -174,7 +174,7 @@ SUMMARY:باير ليفركوزن VS نادي بوروسيا دورتمو
  ند
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-dyoku4cfhpbwauq4uv4bgkljo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS هوفنهايم
 DTSTART:20251207T163000Z
 DTEND:20251207T183000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-e1t5modysvw955h2nzxo5lous@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS نادي بوروسيا دورتموند
 DTSTART:20251214T143000Z
 DTEND:20251214T163000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-e6jj6eibzyfv0o6jmv6pdsqhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -220,7 +220,7 @@ SUMMARY:نادي بوروسيا دورتموند VS بوروسيا مون
  شنجلادباخ
 DTSTART:20251219T193000Z
 DTEND:20251219T213000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-e8yajt5o5qcb8ptm21rst2bys@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -236,7 +236,7 @@ SUMMARY:آينرتخت فرانكفورت VS نادي بوروسيا دو
  رتموند
 DTSTART:20260109T193000Z
 DTEND:20260109T213000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-edb8gv8o2d7borbf2uy6e23v8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS فيردر بريمن
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-eg32vnng1c7spei56g5ldgmc4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS سانت باولي
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-ejnb4mfhdx8ws0g0v5rwi48ic@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -282,7 +282,7 @@ SUMMARY:يونيون برلين VS نادي بوروسيا دورتمون
  د
 DTSTART:20260124T173000Z
 DTEND:20260124T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-eplczkmllxiwhwcc2mccwj9ck@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS هايدينهايم
 DTSTART:20260201T163000Z
 DTEND:20260201T183000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-er5y20pums8ahg9x2cuqct2j8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS نادي بوروسيا دورتموند
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-evxfu7jeffofa2p61io39xzbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS ماينتس
 DTSTART:20260213T193000Z
 DTEND:20260213T213000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-eypkzcn7uvbt0uixyixwa7m6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS نادي بوروسيا دورتموند
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-f2mhh70jo2wbshdulij5umhw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -358,7 +358,7 @@ SUMMARY:نادي بوروسيا دورتموند VS بايرن ميوني
  خ
 DTSTART:20260228T173000Z
 DTEND:20260228T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-6ya3jhmi35isdeuxvhkifbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS نادي بوروسيا دورتموند
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-64rcfjpjgw65g6zd8iu42ot0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS أوجسبورج
 DTSTART:20260314T143000Z
 DTEND:20260314T163000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-7b0cleocj8pf0vgwpuujrd3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS هامبورج
 DTSTART:20260321T173000Z
 DTEND:20260321T193000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-ahx3vefja6189aevg06cr85w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS نادي بوروسيا دورتموند
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-f9p6jq6t9ykow3vrcstmoqhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -434,7 +434,7 @@ SUMMARY:نادي بوروسيا دورتموند VS باير ليفركو
  زن
 DTSTART:20260411T133000Z
 DTEND:20260411T153000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-hf2d4eraf7gov01r8ysp8etw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS نادي بوروسيا دورتموند
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-oav1ohsgn89qcpi3r93qscus@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS فرايبورج
 DTSTART:20260426T153000Z
 DTEND:20260426T173000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-opeabpi1vy53fxn3l5zfwt1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -480,7 +480,7 @@ SUMMARY:بوروسيا مونشنجلادباخ VS نادي بوروسيا
   دورتموند
 DTSTART:20260503T154000Z
 DTEND:20260503T174000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-u7howlozxmh5y97vag6ndzx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -496,7 +496,7 @@ SUMMARY:نادي بوروسيا دورتموند VS آينرتخت فرا
  نكفورت
 DTSTART:20260508T183000Z
 DTEND:20260508T203000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-vs5eskvgwsxpvt6ya55kbhn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS نادي بوروسيا دورتموند
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260508T060455Z
+DTSTAMP:20260508T081323Z
 UID:fifa-10xtffi2776zhej0uesve88b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
