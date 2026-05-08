@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Borussia Dortmund
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-cvggphp44uy4gk303v3l76zv8@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 3 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburgo VS St. Pauli
 DTSTART:20250829T183000Z
 DTEND:20250829T203000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-czecv5d6tng8zqjxyypnoqivo@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Vo
  lksparkstadion\nResultado: 0 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Augsburgo
 DTSTART:20250914T133000Z
 DTEND:20250914T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-d2iaj7c1ceujevgcujayjj76c@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 2 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS St. Pauli
 DTSTART:20250919T183000Z
 DTEND:20250919T203000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-d57dyecge1gksxij76pexjndg@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: MH
  PArena\nResultado: 2 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Bayer Leverkusen
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-d951p42dv9nyvc9gasf9w44yc@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 1 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Bremen VS St. Pauli
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-dbw5g0o17tchoakvvzrwgkr2s@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: We
  serstadion\nResultado: 1 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS 1899 Hoffenheim
 DTSTART:20251019T153000Z
 DTEND:20251019T173000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-die90o6ovr9ay6t0a3xjtetjo@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 0 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS St. Pauli
 DTSTART:20251025T133000Z
 DTEND:20251025T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-dk8j6m6bzdh1wrho4z6p3dous@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: De
  utsche Bank Park\nResultado: 2 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Borussia Mönchengladbach
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-dpwi5g1hf4d8uko7141ze232s@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 0 - 4
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Friburgo VS St. Pauli
 DTSTART:20251109T143000Z
 DTEND:20251109T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-drwds3zpvjelfi2ne49dahous@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Eu
  ropa-Park Stadion\nResultado: 2 - 1
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Unión Berlín
 DTSTART:20251123T163000Z
 DTEND:20251123T183000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-dx2engg3jd68hfgb9rrra82s4@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 0 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS St. Pauli
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-dyalaw5wpqt3oc08q8y1ij85w@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Al
  lianz Arena\nResultado: 3 - 1
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Colonia VS St. Pauli
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-e4l7iypbteclzdreve2im2i38@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Rh
  einEnergieSTADION\nResultado: 1 - 1
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Heidenheim 1846
 DTSTART:20251213T143000Z
 DTEND:20251213T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-e866qiuljadi72styl1yu9kic@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 2 - 1
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Mainz 05 VS St. Pauli
 DTSTART:20251221T143000Z
 DTEND:20251221T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-e9cdd7a7r1bs45h5pugf0yn84@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: ME
  WA ARENA\nResultado: 0 - 0
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburgo VS St. Pauli
 DTSTART:20260114T173000Z
 DTEND:20260114T193000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-ehnk7710bgx3t9asqqg1jq8t0@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Vo
  lkswagen Arena\nResultado: 2 - 1
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS St. Pauli
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-ejnb4mfhdx8ws0g0v5rwi48ic@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: SI
  GNAL IDUNA PARK\nResultado: 3 - 2
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Hamburgo
 DTSTART:20260123T193000Z
 DTEND:20260123T213000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-epzfkmbvlvgcvrbrijgpvlses@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 0 - 0
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS RB Leipzig
 DTSTART:20260127T193000Z
 DTEND:20260127T213000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-efatr9ob12zmdu8ywkny5btas@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 1 - 1
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS St. Pauli
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-ess18xzk8in35aws8a2xj9wyc@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 1
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Stuttgart
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-ewpv0e762q6h7lgsj9ttp6710@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 2 - 1
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS St. Pauli
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-exxfwsu2ts2rnjmk03l5cp89g@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Ba
  yArena\nResultado: 4 - 0
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Werder Bremen
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-f3u9vmz1e5404zt2x54ye6l1w@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 2 - 1
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:1899 Hoffenheim VS St. Pauli
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-262mxsfm5eii4wknvhd405xw@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Pr
  eZero Arena\nResultado: 0 - 1
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Eintracht Frankfurt
 DTSTART:20260308T143000Z
 DTEND:20260308T163000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-5cg2ogliqetb62pda6x9pf6c@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 0 - 0
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Mönchengladbach VS St. Pauli
 DTSTART:20260313T193000Z
 DTEND:20260313T213000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-8xuj6g94l6vcnuong5l3l8no@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: BO
  RUSSIA-PARK\nResultado: 2 - 0
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Friburgo
 DTSTART:20260322T163000Z
 DTEND:20260322T183000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-cgq5h1fz7sm71cfnxdnn3j10@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 1 - 2
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Unión Berlín VS St. Pauli
 DTSTART:20260405T133000Z
 DTEND:20260405T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-g2e9l56j5uracp5d1dc17kt0@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: St
  adion An der Alten Försterei\nResultado: 1 - 1
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS FC Bayern München
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-jvg6odtsv7dw6yzkkahhual0@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 0 - 5
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Colonia
 DTSTART:20260417T183000Z
 DTEND:20260417T203000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-nwf29q4zuasdvlj6zn0gyg44@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 1 - 1
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim 1846 VS St. Pauli
 DTSTART:20260425T133000Z
 DTEND:20260425T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-r1lhelx6hqeex0h9l15zsftg@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Vo
  ith-Arena\nResultado: 2 - 0
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Mainz 05
 DTSTART:20260503T133000Z
 DTEND:20260503T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-uzzly9hzyjl74d9z6bborbbo@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 1 - 2
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS St. Pauli
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-wkn5bqxml024y6uxcjfnq044@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Re
  d Bull Arena
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Wolfsburgo
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260508T081320Z
+DTSTAMP:20260508T100601Z
 UID:fifa-1248xmgqa0huhvgmk7x80gmj8@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion
