@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Olympique Marseille
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-4sffoari6ugnp3roi1m3k7xn8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 2 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:FC Kairat VS Real Madrid C.F.
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-4y59n6hs1chc516v7tjoivswk@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Ortalyq stadıon\nResult: 0 - 5
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Juventus FC
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-5a1g6r8o0nw2fuy68ka0ls0es@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 1 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Real Madrid C.F.
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-5cldkwitxdgvsmr4erkx8zyms@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Anfield\nResult: 1 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiakos Piraeus VS Real Madrid C.F.
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-5nge0lsbrt22h9uycxvj2wiz8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Stadio Georgios Karaiskáki\nResult: 3 - 4
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Manchester City
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 1 - 2
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS AS Monaco
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-5xf3kaeavedi0z5fyjm6llwr8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 6 - 1
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Real Madrid C.F.
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estádio do Sport Lisboa e Benfica (da Luz)\nResult: 4 - 2
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Real Madrid C.F.
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Knockout Round Play
  -offs\nStadium: Estádio do Sport Lisboa e Benfica (da Luz)\nResult: 0 - 1
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS SL Benfica
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Knockout Round Play
  -offs\nStadium: Estadio Bernabéu\nResult: 2 - 1
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Manchester City
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 8th Finals\nStadium
  : Estadio Bernabéu\nResult: 3 - 0
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Real Madrid C.F.
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 8th Finals\nStadium
  : Etihad Stadium\nResult: 1 - 2
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS FC Bayern München
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-9vufgb7gp2kyxzv8ftvwcesyc@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Quarter-finals\nSta
  dium: Estadio Bernabéu\nResult: 1 - 2
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Real Madrid C.F.
 DTSTART:20260415T190000Z
 DTEND:20260415T210000Z
-DTSTAMP:20260509T000155Z
+DTSTAMP:20260509T040443Z
 UID:fifa-27wrp262d2qdqseiunjrk8dg4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Quarter-finals\nSta
  dium: Allianz Arena\nResult: 4 - 3
