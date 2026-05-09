@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps FC VS Noah
 DTSTART:20250807T160000Z
 DTEND:20250807T180000Z
-DTSTAMP:20260509T112735Z
+DTSTAMP:20260509T123524Z
 UID:fifa-eoqshsmskknd9bddokrgierro@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Europa Point Stadium\nResult: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Noah VS Lincoln Red Imps FC
 DTSTART:20250814T170000Z
 DTEND:20250814T190000Z
-DTSTAMP:20260509T112735Z
+DTSTAMP:20260509T123524Z
 UID:fifa-erdivs2ncmvdqfe3a8iw2426s@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Kotaik Stadium\nResult: 0 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps FC VS Sporting Braga
 DTSTART:20250821T190000Z
 DTEND:20250821T210000Z
-DTSTAMP:20260509T112735Z
+DTSTAMP:20260509T123524Z
 UID:fifa-5a5u4m7vd2dmxo385kgm3ay38@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: Es
  tádio do Algarve\nResult: 0 - 4
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Braga VS Lincoln Red Imps FC
 DTSTART:20250828T190000Z
 DTEND:20250828T210000Z
-DTSTAMP:20260509T112735Z
+DTSTAMP:20260509T123524Z
 UID:fifa-5c1m5vy1th8dptbzx60xv7x1w@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: Es
  tádio Municipal de Braga\nResult: 5 - 1
