@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Виртус VS Зриньски
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
-DTSTAMP:20260509T183300Z
+DTSTAMP:20260509T195911Z
 UID:fifa-8tul8117rp7ojznms19n6da1g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Олим
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Зриньски VS Виртус
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260509T183300Z
+DTSTAMP:20260509T195911Z
 UID:fifa-8w7j987hlwpkdty1yzefylafo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Stadion B
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Слован Братислава VS Зриньски
 DTSTART:20250722T181500Z
 DTEND:20250722T201500Z
-DTSTAMP:20260509T183300Z
+DTSTAMP:20260509T195911Z
 UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Зриньски VS Слован Братислава
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260509T183300Z
+DTSTAMP:20260509T195911Z
 UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Stadion Bijeli Brijeg\nРезульт
