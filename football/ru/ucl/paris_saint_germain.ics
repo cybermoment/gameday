@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Аталанта
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-4vah0y57kbchzjav53h65uv4k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Парк де Пренс\nРезульт
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Paris Saint-Germain
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-535v16ejka2ckhekin6euxg5w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadi Olímpic Lluís Companys\nРез
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Paris Saint-Germain
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: BayArena\nРезультат: 2 - 7
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Бавария Мюнхен
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Парк де Пренс\nРезульт
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Тоттенхэм
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-5ntaf1zmqcikn6d7tcxfhd7v8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Парк де Пренс\nРезульт
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Paris Saint-Germain
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Лиссабон VS Paris Saint-Germain
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Ньюкасл
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-674bu4uhq50y41dpeizevncic@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Парк де Пренс\nРезульт
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Paris Saint-Germain
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Stade Louis-II\nРезуль
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Монако
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Парк де Пренс\nР
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Челси
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-2bhi66etavhwksr15mtds3jmc@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Парк де Пренс\nРезул
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Челси VS Paris Saint-Germain
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-2nekushi1t6nmi7ecukkoza50@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Stamford Bridge\nРезультат:
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Ливерпуль
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-7om4mss983m7d0dadr87xfuok@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Парк де Пренс\nРезул
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Ливерпуль VS Paris Saint-Germain
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-ek0bykzmr876s0vcbxdqua3h0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Anfield\nРезультат: 0 - 2
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Бавария Мюнхен
 DTSTART:20260428T190000Z
 DTEND:20260428T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-b5v1bdk3yghbdtgjwyqyjz02c@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Парк де Пренс\nРезул
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Paris Saint-Germain
 DTSTART:20260506T190000Z
 DTEND:20260506T210000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-dkvlgk22rlyecfay5qgz48wes@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Allianz Arena\nРезультат: 1
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Арсенал
 DTSTART:20260530T160000Z
 DTEND:20260530T180000Z
-DTSTAMP:20260510T040654Z
+DTSTAMP:20260510T071326Z
 UID:fifa-6sb5ga83yrll15624x1z0gwt0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Финал\nСтадион: Puskás Aréna
