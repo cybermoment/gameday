@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Ноттингем Форест
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-2cyfpiu9c3kowfard5ahjl5hw@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estadio La Cartuja de Sevilla\nРезульт
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:ФК Разград 2000 VS Бетис
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-2llosqn5lakiqll1ij7tjxslw@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Huvepharma Arena\nРезультат: 0 - 2
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Генк VS Бетис
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-2rojxj4zaqw1zed2phgqlklck@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Cegeka Arena\nРезультат: 0 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Олимпик Лион
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-32anu8hlalhsra1ksbq6ef3mc@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estadio La Cartuja de Sevilla\nРезульт
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Утрехт
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-39vfjmatv0hh73j5dxaz33mz8@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estadio La Cartuja de Sevilla\nРезульт
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Динамо Загреб VS Бетис
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-3bt2gdt7p0qmlvkcbxxar1ic4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Стадион Максимир\nРезуль
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Бетис
 DTSTART:20260122T174500Z
 DTEND:20260122T194500Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-3jjwsgbtga3y1m8paorwbc6c4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Stadio Toumbas\nРезультат: 2 - 0
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Фейеноорд
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-3u3qv7pqfvwq5amuwc3uz1wk4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estadio La Cartuja de Sevilla\nРезульт
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Панатинаикос VS Бетис
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-c2m176bl9e7q8prubwjj16pzo@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  8 финала\nСтадион: Olympiako Stadio Spyros Louis\nРезул
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Панатинаикос
 DTSTART:20260319T200000Z
 DTEND:20260319T220000Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-cn85d3iowgaxev6zxod0zdz4k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  8 финала\nСтадион: Estadio La Cartuja de Sevilla\nРезул
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Бетис
 DTSTART:20260408T164500Z
 DTEND:20260408T184500Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-5sb3nsdbez1j927jb73rc74k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  4 финала\nСтадион: Estádio Municipal de Braga\nРезуль
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Спортинг Брага
 DTSTART:20260416T190000Z
 DTEND:20260416T210000Z
-DTSTAMP:20260512T050706Z
+DTSTAMP:20260512T081045Z
 UID:fifa-5adlvuesdb4axljrp95addixg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  4 финала\nСтадион: Estadio La Cartuja de Sevilla\nРезул
