@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS باير ليفركوزن
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS ايندهوفن
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS باريس سان جيرمان
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS باير ليفركوزن
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:مانشستر سيتي VS باير ليفركوزن
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS نيوكاسل
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS فياريال
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب باي أرينا\n
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:أولمبياكوس بيرايوس VS باير ليفركوزن
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: استاد جورجي
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS أولمبياكوس بيرايوس
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب باي أر
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS أرسنال
 DTSTART:20260311T174500Z
 DTEND:20260311T194500Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: ملعب باي أرينا\nالنت
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:أرسنال VS باير ليفركوزن
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260512T160404Z
+DTSTAMP:20260512T182318Z
 UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: استاد الإمارات\nالنت
