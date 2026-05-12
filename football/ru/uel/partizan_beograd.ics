@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:АЕК VS Партизан
 DTSTART:20250710T163000Z
 DTEND:20250710T183000Z
-DTSTAMP:20260512T081045Z
+DTSTAMP:20260512T110056Z
 UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: AEK Arena - Geo
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Партизан VS АЕК
 DTSTART:20250717T190000Z
 DTEND:20250717T210000Z
-DTSTAMP:20260512T081045Z
+DTSTAMP:20260512T110056Z
 UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Стадион 
