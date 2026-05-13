@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Nápoles
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-cli1lgf9lcih5ons3pft9iqz8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 2
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Sassuolo
 DTSTART:20250829T163000Z
 DTEND:20250829T183000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-cmrzazt4puvob6i3e8792zk0k@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giovanni Zini\nResultado: 3 - 2
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Lazio
 DTSTART:20250914T160000Z
 DTEND:20250914T180000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-ctirptm06szy6db17n31sdgr8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 1 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Sassuolo
 DTSTART:20250921T184500Z
 DTEND:20250921T204500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-cvinn2fcsyfjax1uwdda87eok@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Meazza\nResultado: 2 - 1
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Udinese
 DTSTART:20250928T103000Z
 DTEND:20250928T123000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-d1x445mhky7hc1p6jeeifhgr8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 3 - 1
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Verona VS Sassuolo
 DTSTART:20251003T184500Z
 DTEND:20251003T204500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-d5z6nojyvxc2hymcp71tmj11w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Marcantonio Bentegodi\nResultado: 0 - 1
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Sassuolo
 DTSTART:20251018T130000Z
 DTEND:20251018T150000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-d8d1t5jcq22vyydtoit9n4jdg@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 0
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Roma
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-dctctwsjvrck5r6q08o0intas@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 1
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Sassuolo
 DTSTART:20251030T173000Z
 DTEND:20251030T193000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-df7pc4tsmi40f808ft7kkvvo4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Unipo
  l Domus\nResultado: 1 - 2
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Génova
 DTSTART:20251103T173000Z
 DTEND:20251103T193000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-dkulf66kq04h9lzqdtjkqpixg@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 1 - 2
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Sassuolo
 DTSTART:20251109T113000Z
 DTEND:20251109T133000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-dmi121gv0qj4x1w693cvie6fo@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: New B
  alance Arena\nResultado: 0 - 3
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Pisa
 DTSTART:20251124T194500Z
 DTEND:20251124T214500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-dsyfzer3u4sczqe32ahodc5xw@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 2 - 2
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Sassuolo
 DTSTART:20251128T194500Z
 DTEND:20251128T214500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-dvd1bi000q9cija2e8ob7xgr8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Sinigaglia\nResultado: 2 - 0
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Fiorentina
 DTSTART:20251206T140000Z
 DTEND:20251206T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-e123np88zmlm4u16ziyk1atqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 3 - 1
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan VS Sassuolo
 DTSTART:20251214T113000Z
 DTEND:20251214T133000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-e4qbgxvs3csynq5ak8yasgc9g@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Meazza\nResultado: 2 - 2
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Torino
 DTSTART:20251221T140000Z
 DTEND:20251221T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-ea1qy46mwfvqufnf1gif5p4wk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 1
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Bolonia VS Sassuolo
 DTSTART:20251228T170000Z
 DTEND:20251228T190000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-eb95ok4yqqkuy9i4cavv9ru38@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Renato Dall'Ara\nResultado: 1 - 1
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Parma
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-ei5v3fz0l6xr7nh933s8db76c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 1 - 1
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Juventus FC
 DTSTART:20260106T194500Z
 DTEND:20260106T214500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-em5sawp2n1ma8ix5uvoarjuvo@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 3
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Sassuolo
 DTSTART:20260110T170000Z
 DTEND:20260110T190000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-eptf02fop6zlcshf1m1sd75sk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico\nResultado: 2 - 0
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Sassuolo
 DTSTART:20260117T170000Z
 DTEND:20260117T190000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-et2geg4x7h15khe3ul40v845w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 1 - 0
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Cremonese
 DTSTART:20260125T113000Z
 DTEND:20260125T133000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-eybhwt9xvz6mqs6opedh2txqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 1 - 0
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Sassuolo
 DTSTART:20260131T140000Z
 DTEND:20260131T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-f1xe9okjrzzi578py4d9ey9ec@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Arena
   Garibaldi - Stadio Romeo Anconetani\nResultado: 1 - 3
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS FC Internazionale Milano
 DTSTART:20260208T170000Z
 DTEND:20260208T190000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-rjr6px2dfdiphj8d90yub6c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 5
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Sassuolo
 DTSTART:20260215T113000Z
 DTEND:20260215T133000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-575yfou42m4rpnw9fiv8i9sk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Bluen
  ergy Stadium\nResultado: 1 - 2
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Hellas Verona
 DTSTART:20260220T194500Z
 DTEND:20260220T214500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-9bj4tm26yozynqtq2du8wlqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 3 - 0
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Atalanta
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-cph2hiwqroatsk49tp9lcmj8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 2 - 1
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Sassuolo
 DTSTART:20260309T194500Z
 DTEND:20260309T214500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-gsljes6y6ccnrm2sfii6lwk4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico\nResultado: 2 - 1
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Bolonia
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-kwxxdta13j5h3qr7ema9f7ro@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 1
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Sassuolo
 DTSTART:20260321T194500Z
 DTEND:20260321T214500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-ozxd45mht6z40uyjye0kktg4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Allia
  nz Stadium\nResultado: 1 - 1
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Cagliari
 DTSTART:20260404T130000Z
 DTEND:20260404T150000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-tfoo35e6mvmhfnryoh0dn85w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 2 - 1
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Génova VS Sassuolo
 DTSTART:20260412T103000Z
 DTEND:20260412T123000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-wna0y5ja9n6hce0ih97dk36c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Comunale Luigi Ferraris\nResultado: 2 - 1
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Como
 DTSTART:20260417T163000Z
 DTEND:20260417T183000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-11hvepm33ym92otcgxxrnj8r8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 2 - 1
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Sassuolo
 DTSTART:20260426T103000Z
 DTEND:20260426T123000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-13lq9qzrpfyj6nkj8zxocwd1w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Artemio Franchi\nResultado: 0 - 0
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS AC Milan
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-1a1bt0aqwizlaznra1gs2lj4k@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 2 - 0
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Sassuolo
 DTSTART:20260508T184500Z
 DTEND:20260508T204500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-1e38gvt3r86ce8b1azvpp4pas@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico Grande Torino\nResultado: 2 - 1
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Lecce
 DTSTART:20260517T184500Z
 DTEND:20260517T204500Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-1i4vbddsnmqmht6b1kxeqadqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Sassuolo
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260513T082010Z
+DTSTAMP:20260513T111117Z
 UID:fifa-1m0tb8uc3apsaakqsjlz6stg4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ennio Tardini

@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:نادي ميلان VS كريمونيزي
 DTSTART:20250823T184500Z
 DTEND:20250823T204500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ckhlsqn997c1wwypjh8jsbkt0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS ساسوولو
 DTSTART:20250829T163000Z
 DTEND:20250829T183000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-cmrzazt4puvob6i3e8792zk0k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:هيلاس VS كريمونيزي
 DTSTART:20250915T163000Z
 DTEND:20250915T183000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ctwudwrsdua0zffrszke1fp5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مارك أنطو
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS بارما
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-cuoyvh94watus9uvz0po9sc9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:كومو VS كريمونيزي
 DTSTART:20250927T130000Z
 DTEND:20250927T150000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-cyny4dfagllz9a2qd6jfoptlg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:إنتر ميلان VS كريمونيزي
 DTSTART:20251004T160000Z
 DTEND:20251004T180000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-d3iq0zn8rncwijul121qytqms@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS أودينيزي
 DTSTART:20251020T184500Z
 DTEND:20251020T204500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-d7kgfsvp8vyro7n0492ezd89g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS أتالانتا
 DTSTART:20251025T184500Z
 DTEND:20251025T204500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-dad6y4ul99an1ydnjuwqf09as@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:جنوى VS كريمونيزي
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-dg0jqjxvhdlvm17zu5lxdb384@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميونالي
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS نادي يوفنتوس
 DTSTART:20251101T194500Z
 DTEND:20251101T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-digmzny5no6kxh6hfopalgahg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS كريمونيزي
 DTSTART:20251107T194500Z
 DTEND:20251107T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-dpp84bygkdgyg0sajw9uj1gr8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS روما
 DTSTART:20251123T140000Z
 DTEND:20251123T160000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-dqy2r61k7vty81i3wioak13x0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:بولونيا VS كريمونيزي
 DTSTART:20251201T194500Z
 DTEND:20251201T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-duyr0a0pw22aug9rjvf5vwums@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS ليتشي
 DTSTART:20251207T113000Z
 DTEND:20251207T133000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-dz0y3waleoh6j2ih9chxlmzh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:تورينو VS كريمونيزي
 DTSTART:20251213T140000Z
 DTEND:20251213T160000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-e5xznov5gl96vdg6fb673h8us@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS كريمونيزي
 DTSTART:20251220T170000Z
 DTEND:20251220T190000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-e98iaxuhnp31i9wwzo57upfro@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS نابولي
 DTSTART:20251228T140000Z
 DTEND:20251228T160000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ebnmnf2geg6rtju8p1g0zyfis@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:فيورنتينا VS كريمونيزي
 DTSTART:20260104T140000Z
 DTEND:20260104T160000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-eg458j2mgzjz7q5593klyutck@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS كالياري
 DTSTART:20260108T173000Z
 DTEND:20260108T193000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ejcqsnfujvrrjh1eu3qq8xb10@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS كريمونيزي
 DTSTART:20260112T194500Z
 DTEND:20260112T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ep0g9l3db3avpnzfq7c5i11xw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS هيلاس
 DTSTART:20260119T173000Z
 DTEND:20260119T193000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ervdtlo4o4pdk761rs21js6c4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:ساسوولو VS كريمونيزي
 DTSTART:20260125T113000Z
 DTEND:20260125T133000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-eybhwt9xvz6mqs6opedh2txqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS إنتر ميلان
 DTSTART:20260201T170000Z
 DTEND:20260201T190000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-f0bbqrg3b3tex4m38iihdgyz8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS كريمونيزي
 DTSTART:20260209T173000Z
 DTEND:20260209T193000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-f36etfb7jk4lomrlsmse80qhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أتليتي أز
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS جنوى
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-2esqb01tsyp51smieiu1bnro@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:روما VS كريمونيزي
 DTSTART:20260222T194500Z
 DTEND:20260222T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-8x5ck6g9yj1vd43br6onqf4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS نادي ميلان
 DTSTART:20260301T113000Z
 DTEND:20260301T133000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-a7tuveijvpz33j2ungbb5p90@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:ليتشي VS كريمونيزي
 DTSTART:20260308T113000Z
 DTEND:20260308T133000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-h79yjvlodruaaas0ro64o3ys@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS فيورنتينا
 DTSTART:20260316T194500Z
 DTEND:20260316T214500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-ivqibzmifihjekafqbmyo178@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:بارما VS كريمونيزي
 DTSTART:20260321T140000Z
 DTEND:20260321T160000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-psm3jqhx8gi7qcbean0x1iqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إنيو تارد
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS بولونيا
 DTSTART:20260405T130000Z
 DTEND:20260405T150000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-qldc2yg8qvgpookafhb301ec@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:كالياري VS كريمونيزي
 DTSTART:20260411T130000Z
 DTEND:20260411T150000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-vg5aklozj6dgt6a67jemcopg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS تورينو
 DTSTART:20260419T103000Z
 DTEND:20260419T123000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-yowks8zh3p4jxlbuoxyhr0us@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:نابولي VS كريمونيزي
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-1576pjjsr7mcnv5p5fnbs8bv8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان باولو\
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS لاتسيو
 DTSTART:20260504T163000Z
 DTEND:20260504T183000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-1800klupn4itbmreau5ofcutw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -538,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS بيزا
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-1b8kjyzu1m6z3o8jqjli6wvmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:أودينيزي VS كريمونيزي
 DTSTART:20260517T184500Z
 DTEND:20260517T204500Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-1iknaggv0yd9l6khq8maxk00k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد فريولي
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS كومو
 DTSTART:20260524T000000Z
 DTEND:20260524T020000Z
-DTSTAMP:20260513T082013Z
+DTSTAMP:20260513T111119Z
 UID:fifa-1jfycik4pgddfaj8rnpqp1iqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
