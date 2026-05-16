@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Egnatia Rrogozhinë VS Breidablik
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
-DTSTAMP:20260516T212630Z
+DTSTAMP:20260516T222529Z
 UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Arena Egnatia\nRésultat: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Breidablik VS Egnatia Rrogozhinë
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260516T212630Z
+DTSTAMP:20260516T222529Z
 UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Kópavogsvöllur\nRésultat: 5 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:KKS Lech Poznan VS Breidablik
 DTSTART:20250722T183000Z
 DTEND:20250722T203000Z
-DTSTAMP:20260516T212630Z
+DTSTAMP:20260516T222529Z
 UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Enea Stadion\nRésultat: 7 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Breidablik VS KKS Lech Poznan
 DTSTART:20250730T183000Z
 DTEND:20250730T203000Z
-DTSTAMP:20260516T212630Z
+DTSTAMP:20260516T222529Z
 UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Kópavogsvöllur\nRésultat: 0 - 1
