@@ -17,12 +17,12 @@
     {
       "id": "3xcg7xikgrn2x8oa65sopb2is",
       "name": "Heidenheim 1846",
-      "filename": "heidenheim_1846"
+      "filename": "heidenheim"
     },
     {
       "id": "44144",
       "name": "Wolfsburgo",
-      "filename": "wolfsburgo"
+      "filename": "wolfsburg"
     },
     {
       "id": "31023",
@@ -37,12 +37,12 @@
     {
       "id": "400081595",
       "name": "Unión Berlín",
-      "filename": "uni_n_berl_n"
+      "filename": "union_berlin"
     },
     {
       "id": "31053",
       "name": "Stuttgart",
-      "filename": "stuttgart"
+      "filename": "vfb_stuttgart"
     },
     {
       "id": "31055",
@@ -52,17 +52,17 @@
     {
       "id": "2000000593",
       "name": "1899 Hoffenheim",
-      "filename": "1899_hoffenheim"
+      "filename": "tsg_1899_hoffenheim"
     },
     {
       "id": "1882249",
       "name": "Friburgo",
-      "filename": "friburgo"
+      "filename": "sc_freiburg"
     },
     {
       "id": "2000012821",
       "name": "Augsburgo",
-      "filename": "augsburgo"
+      "filename": "fc_augsburg"
     },
     {
       "id": "1955632",
@@ -77,22 +77,22 @@
     {
       "id": "2000002605",
       "name": "Mainz 05",
-      "filename": "mainz_05"
+      "filename": "1_fsv_mainz_05"
     },
     {
       "id": "2000000591",
       "name": "Colonia",
-      "filename": "colonia"
+      "filename": "1_fc_k_ln"
     },
     {
       "id": "33198",
       "name": "Borussia Mönchengladbach",
-      "filename": "borussia_m_nchengladbach"
+      "filename": "borussia_m_gladbach"
     },
     {
       "id": "1914828",
       "name": "Hamburgo",
-      "filename": "hamburgo"
+      "filename": "hamburger_sv"
     }
   ]
 }

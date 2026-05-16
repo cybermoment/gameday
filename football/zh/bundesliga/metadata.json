@@ -12,7 +12,7 @@
     {
       "id": "2000019394",
       "name": "RB莱比锡",
-      "filename": "leipzig"
+      "filename": "rb_leipzig"
     },
     {
       "id": "3xcg7xikgrn2x8oa65sopb2is",
@@ -27,12 +27,12 @@
     {
       "id": "31023",
       "name": "法兰克福",
-      "filename": "frankfurt"
+      "filename": "eintracht_frankfurt"
     },
     {
       "id": "30995",
       "name": "不来梅",
-      "filename": "bremen"
+      "filename": "werder_bremen"
     },
     {
       "id": "400081595",
@@ -42,27 +42,27 @@
     {
       "id": "31053",
       "name": "斯图加特",
-      "filename": "stuttgart"
+      "filename": "vfb_stuttgart"
     },
     {
       "id": "31055",
       "name": "勒沃库森",
-      "filename": "leverkusen"
+      "filename": "bayer_leverkusen"
     },
     {
       "id": "2000000593",
       "name": "霍芬海姆",
-      "filename": "hoffenheim"
+      "filename": "tsg_1899_hoffenheim"
     },
     {
       "id": "1882249",
       "name": "弗赖堡",
-      "filename": "freiburg"
+      "filename": "sc_freiburg"
     },
     {
       "id": "2000012821",
       "name": "奥格斯堡",
-      "filename": "augsburg"
+      "filename": "fc_augsburg"
     },
     {
       "id": "1955632",
@@ -77,22 +77,22 @@
     {
       "id": "2000002605",
       "name": "美因茨",
-      "filename": "mainz_05"
+      "filename": "1_fsv_mainz_05"
     },
     {
       "id": "2000000591",
       "name": "科隆",
-      "filename": "k_ln"
+      "filename": "1_fc_k_ln"
     },
     {
       "id": "33198",
       "name": "门兴格拉德巴赫",
-      "filename": "m_gladbach"
+      "filename": "borussia_m_gladbach"
     },
     {
       "id": "1914828",
       "name": "汉堡",
-      "filename": "hamburg"
+      "filename": "hamburger_sv"
     }
   ]
 }

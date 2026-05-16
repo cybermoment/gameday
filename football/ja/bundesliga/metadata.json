@@ -7,92 +7,92 @@
     {
       "id": "1914810",
       "name": "FC バイエルン・ミュンヘン",
-      "filename": "fc"
+      "filename": "fc_bayern_m_nchen"
     },
     {
       "id": "2000019394",
       "name": "RBライプツィヒ",
-      "filename": "rb"
+      "filename": "rb_leipzig"
     },
     {
       "id": "3xcg7xikgrn2x8oa65sopb2is",
       "name": "ハイデンハイム",
-      "filename": ""
+      "filename": "heidenheim"
     },
     {
       "id": "44144",
       "name": "ヴォルフスブルク",
-      "filename": ""
+      "filename": "wolfsburg"
     },
     {
       "id": "31023",
       "name": "フランクフルト",
-      "filename": ""
+      "filename": "eintracht_frankfurt"
     },
     {
       "id": "30995",
       "name": "ヴェルダー・ブレーメン",
-      "filename": ""
+      "filename": "werder_bremen"
     },
     {
       "id": "400081595",
       "name": "ウニオン・ベルリン",
-      "filename": ""
+      "filename": "union_berlin"
     },
     {
       "id": "31053",
       "name": "シュトゥットガルト",
-      "filename": ""
+      "filename": "vfb_stuttgart"
     },
     {
       "id": "31055",
       "name": "レヴァークーゼン",
-      "filename": ""
+      "filename": "bayer_leverkusen"
     },
     {
       "id": "2000000593",
       "name": "ホッフェンハイム",
-      "filename": ""
+      "filename": "tsg_1899_hoffenheim"
     },
     {
       "id": "1882249",
       "name": "フライブルク",
-      "filename": ""
+      "filename": "sc_freiburg"
     },
     {
       "id": "2000012821",
       "name": "アウクスブルク",
-      "filename": ""
+      "filename": "fc_augsburg"
     },
     {
       "id": "1955632",
       "name": "ザンクト・パウリ",
-      "filename": ""
+      "filename": "st_pauli"
     },
     {
       "id": "1914854",
       "name": "ボルシア・ドルトムント",
-      "filename": ""
+      "filename": "borussia_dortmund"
     },
     {
       "id": "2000002605",
       "name": "マインツ",
-      "filename": ""
+      "filename": "1_fsv_mainz_05"
     },
     {
       "id": "2000000591",
       "name": "ケルン",
-      "filename": ""
+      "filename": "1_fc_k_ln"
     },
     {
       "id": "33198",
       "name": "ボルシアMG",
-      "filename": "mg"
+      "filename": "borussia_m_gladbach"
     },
     {
       "id": "1914828",
       "name": "ハンブルガーSV",
-      "filename": "sv"
+      "filename": "hamburger_sv"
     }
   ]
 }
