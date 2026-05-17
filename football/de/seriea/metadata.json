@@ -7,32 +7,32 @@
     {
       "id": "2000006977",
       "name": "Sassuolo Calcio",
-      "filename": "sassuolo"
+      "filename": "sassuolo_calcio"
     },
     {
       "id": "2147481899",
       "name": "SSC Neapel",
-      "filename": "napoli"
+      "filename": "ssc_neapel"
     },
     {
       "id": "1887644",
       "name": "FC Genua",
-      "filename": "genoa"
+      "filename": "fc_genua"
     },
     {
       "id": "400086390",
       "name": "US Lecce",
-      "filename": "lecce"
+      "filename": "us_lecce"
     },
     {
       "id": "31083",
       "name": "AS Rom",
-      "filename": "as_roma"
+      "filename": "as_rom"
     },
     {
       "id": "33387",
       "name": "FC Bologna",
-      "filename": "bologna"
+      "filename": "fc_bologna"
     },
     {
       "id": "1907169",
@@ -42,27 +42,27 @@
     {
       "id": "af91jdcs6x0bqkmdb78rokod2",
       "name": "US Cremonese",
-      "filename": "cremonese"
+      "filename": "us_cremonese"
     },
     {
       "id": "6uzfw7ahyxg4wrrfxo5u7qt0n",
       "name": "Calcio Como",
-      "filename": "como"
+      "filename": "calcio_como"
     },
     {
       "id": "1890313",
       "name": "Lazio Rom",
-      "filename": "lazio"
+      "filename": "lazio_rom"
     },
     {
       "id": "451",
       "name": "Cagliari Calcio",
-      "filename": "cagliari"
+      "filename": "cagliari_calcio"
     },
     {
       "id": "44331",
       "name": "AC Florenz",
-      "filename": "fiorentina"
+      "filename": "ac_florenz"
     },
     {
       "id": "1914806",
@@ -72,27 +72,27 @@
     {
       "id": "34551",
       "name": "Parma FC",
-      "filename": "parma"
+      "filename": "parma_fc"
     },
     {
       "id": "2147482134",
       "name": "Atalanta Bergamo",
-      "filename": "atalanta"
+      "filename": "atalanta_bergamo"
     },
     {
       "id": "bfztlrr6176xsdt2bmp0u1d2d",
       "name": "Pisa Calcio",
-      "filename": "pisa"
+      "filename": "pisa_calcio"
     },
     {
       "id": "32060",
       "name": "Udinese Calcio",
-      "filename": "udinese"
+      "filename": "udinese_calcio"
     },
     {
       "id": "30986",
       "name": "Hellas Verona FC",
-      "filename": "hellas_verona"
+      "filename": "hellas_verona_fc"
     },
     {
       "id": "1914619",
@@ -102,7 +102,7 @@
     {
       "id": "2147482132",
       "name": "FC Turin",
-      "filename": "torino"
+      "filename": "fc_turin"
     }
   ]
 }

@@ -1,0 +1,581 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// الدوري الإيطالي - سيري آ - تور
+ ينو //
+X-WR-CALNAME:الدوري الإيطالي - سيري آ - تورينو
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:إنتر ميلان VS تورينو
+DTSTART:20250825T184500Z
+DTEND:20250825T204500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-cjir7ivrn1ol4vwld9wfrfcwk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 5 - 0
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS فيورنتينا
+DTSTART:20250831T163000Z
+DTEND:20250831T183000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-cpxwneowcffpmb2wvwitp8x04@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 0 - 0
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:روما VS تورينو
+DTSTART:20250914T103000Z
+DTEND:20250914T123000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-ct4pr9n90ljgamkcw2r4qdl3o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 0 - 1
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS أتالانتا
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-cx3go6z9ruqo169jvzbwtq4gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 0 - 3
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بارما VS تورينو
+DTSTART:20250929T163000Z
+DTEND:20250929T183000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-d0p9a2knjp3jb4mdfk6zz2rdg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد إنيو تارد
+ يني\nالنتيجة: 2 - 1
+GEO:44.794905;10.338387
+LOCATION:استاد إنيو تارديني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد إنيو تا
+ رديني";X-APPLE-RADIUS=70;X-TITLE="استاد إنيو تارديني"
+ :geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:لاتسيو VS تورينو
+DTSTART:20251004T130000Z
+DTEND:20251004T150000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-d4bf8awg8k155fyjhvi6qov84@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاديو أولمبيك
+ و\nالنتيجة: 3 - 3
+GEO:41.933948;12.454757
+LOCATION:استاديو أولمبيكو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاديو أولمب
+ يكو";X-APPLE-RADIUS=70;X-TITLE="استاديو أولمبيكو":geo:41
+ .933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS نابولي
+DTSTART:20251018T160000Z
+DTEND:20251018T180000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-d9ymqc53t61s1cxt7tau89c7o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 0
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS جنوى
+DTSTART:20251026T113000Z
+DTEND:20251026T133000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-dd7pxcuki8noxhspqtl0pdbtg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 1
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بولونيا VS تورينو
+DTSTART:20251029T194500Z
+DTEND:20251029T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-det3s3pww7gsva0v1edvi37dg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
+ ارا\nالنتيجة: 0 - 0
+GEO:44.49229;11.309957
+LOCATION:ملعب ريناتو دالارا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب ريناتو د
+ الارا";X-APPLE-RADIUS=70;X-TITLE="ملعب ريناتو دالارا"
+ :geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS بيزا
+DTSTART:20251102T140000Z
+DTEND:20251102T160000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-dl8z0whe7rrb6x9q5t2ujr0gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي يوفنتوس VS تورينو
+DTSTART:20251108T170000Z
+DTEND:20251108T190000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-dohyl0ad5ysvxd4ai8yzzmrys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
+ لنتيجة: 0 - 0
+GEO:45.109527;7.641302
+LOCATION:يوفنتوس أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="يوفنتوس أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="يوفنتوس أرينا":geo:45.109527,7.64
+ 1302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS كومو
+DTSTART:20251124T173000Z
+DTEND:20251124T193000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-dtct334p03m4xw2l4fxzg6adw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 5
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ليتشي VS تورينو
+DTSTART:20251130T113000Z
+DTEND:20251130T133000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-dwm79w7tnuve8xn9ietkl0mc4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
+ ل مير\nالنتيجة: 2 - 1
+GEO:40.365103;18.208852
+LOCATION:استاد مجمع فيا دل مير
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مجمع في
+ ا دل مير";X-APPLE-RADIUS=70;X-TITLE="استاد مجمع فيا دل
+  مير":geo:40.365103,18.208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS نادي ميلان
+DTSTART:20251208T194500Z
+DTEND:20251208T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-e1i36p26rp3mmmepqw1pdu87o@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 3
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS كريمونيزي
+DTSTART:20251213T140000Z
+DTEND:20251213T160000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-e5xznov5gl96vdg6fb673h8us@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 0
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ساسوولو VS تورينو
+DTSTART:20251221T140000Z
+DTEND:20251221T160000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-ea1qy46mwfvqufnf1gif5p4wk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
+ ريكولوري\nالنتيجة: 0 - 1
+GEO:44.714637;10.649711
+LOCATION:استاد ديل سيتا تريكولوري
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ديل سيت
+ ا تريكولوري";X-APPLE-RADIUS=70;X-TITLE="استاد ديل سيت
+ ا تريكولوري":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS كالياري
+DTSTART:20251227T140000Z
+DTEND:20251227T160000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-ee3xl5vlrk8rwfcvjvrhyuzo4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:هيلاس VS تورينو
+DTSTART:20260104T170000Z
+DTEND:20260104T190000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-eik42z6kw37nxznbrxsyiarys@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد مارك أنطو
+ نيو بنتيغودي\nالنتيجة: 0 - 3
+GEO:45.435324;10.968585
+LOCATION:استاد مارك أنطونيو بنتيغودي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد مارك أن
+ طونيو بنتيغودي";X-APPLE-RADIUS=70;X-TITLE="استاد مار
+ ك أنطونيو بنتيغودي":geo:45.435324,10.968585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS أودينيزي
+DTSTART:20260107T194500Z
+DTEND:20260107T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-emlr65k1xlt2jgir4u6ozg650@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أتالانتا VS تورينو
+DTSTART:20260110T194500Z
+DTEND:20260110T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-en04mux4sa2tpto1gmkpy7wgk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أتليتي أز
+ وري إيطاليا\nالنتيجة: 2 - 0
+GEO:45.709236;9.680693
+LOCATION:استاد أتليتي أزوري إيطاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أتليتي 
+ أزوري إيطاليا";X-APPLE-RADIUS=70;X-TITLE="استاد أتلي
+ تي أزوري إيطاليا":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS روما
+DTSTART:20260118T170000Z
+DTEND:20260118T190000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-eu9yf1tlc5l8eln0irxgz3sic@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 0 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كومو VS تورينو
+DTSTART:20260124T140000Z
+DTEND:20260124T160000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-evgz6zohzg7rg9lnkyu5r0avo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
+ يجاليا\nالنتيجة: 6 - 0
+GEO:45.813857;9.072376
+LOCATION:ملعب جوزيبي سينيجاليا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جوزيبي س
+ ينيجاليا";X-APPLE-RADIUS=70;X-TITLE="ملعب جوزيبي سين
+ يجاليا":geo:45.813857,9.072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS ليتشي
+DTSTART:20260201T113000Z
+DTEND:20260201T133000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-f2diu7wmdh2kczfhftc1it8gk@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 0
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:فيورنتينا VS تورينو
+DTSTART:20260207T194500Z
+DTEND:20260207T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-f3z7l1dghgflb3mwypyfv1tec@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
+ رانكي، فيرنزي\nالنتيجة: 2 - 2
+GEO:43.780788;11.282712
+LOCATION:استاد أرتيميو فرانكي، فيرنزي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أرتيميو
+  فرانكي، فيرنزي";X-APPLE-RADIUS=70;X-TITLE="استاد أرت
+ يميو فرانكي، فيرنزي":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS بولونيا
+DTSTART:20260215T170000Z
+DTEND:20260215T190000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-4spec9ggp4vq333o0yd88u1g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 1 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:جنوى VS تورينو
+DTSTART:20260222T113000Z
+DTEND:20260222T133000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-7bf4wiumx7xdelasktgf1slw@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد كوميونالي
+  لويجي فيراريس، جينوفا\nالنتيجة: 3 - 0
+GEO:44.416467;8.952527
+LOCATION:استاد كوميونالي لويجي فيراريس، جين
+ وفا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد كوميونا
+ لي لويجي فيراريس، جينوفا";X-APPLE-RADIUS=70;X-TITLE="
+ استاد كوميونالي لويجي فيراريس، جينوفا":ge
+ o:44.416467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS لاتسيو
+DTSTART:20260301T170000Z
+DTEND:20260301T190000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-d5pt6kna4c869xy8s7llm0pg@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 0
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نابولي VS تورينو
+DTSTART:20260306T194500Z
+DTEND:20260306T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-i0vew24dsk4vfoxr3x0p8rh0@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد سان باولو\
+ nالنتيجة: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:استاد سان باولو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سان باو
+ لو";X-APPLE-RADIUS=70;X-TITLE="استاد سان باولو":geo:40.8279
+ 74,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS بارما
+DTSTART:20260313T194500Z
+DTEND:20260313T214500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-lbj87rsbmaa1b9d1oilvj8r8@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 4 - 1
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:نادي ميلان VS تورينو
+DTSTART:20260321T170000Z
+DTEND:20260321T190000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-pebva0i38kg7gdl9trqo7578@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
+ اتزا\nالنتيجة: 3 - 2
+GEO:45.478084;9.123979
+LOCATION:استاد جوزيبي مياتزا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد جوزيبي 
+ مياتزا";X-APPLE-RADIUS=70;X-TITLE="استاد جوزيبي ميات
+ زا":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:بيزا VS تورينو
+DTSTART:20260405T160000Z
+DTEND:20260405T180000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-t1gsmyfyaufvj6xgw933og0k@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
+  - ملعب روميو أنكونيتاني\nالنتيجة: 0 - 1
+GEO:43.725293;10.40019
+LOCATION:أرينا غاريبالدي - ملعب روميو أنكوني
+ تاني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="أرينا غاريبال
+ دي - ملعب روميو أنكونيتاني";X-APPLE-RADIUS=70;X-TITLE
+ ="أرينا غاريبالدي - ملعب روميو أنكونيتاني
+ ":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS هيلاس
+DTSTART:20260411T130000Z
+DTEND:20260411T150000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-yan66fvrvxp3dkkz3ju4055g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 1
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كريمونيزي VS تورينو
+DTSTART:20260419T103000Z
+DTEND:20260419T123000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-yowks8zh3p4jxlbuoxyhr0us@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
+ ني\nالنتيجة: 0 - 0
+GEO:45.140164;10.034831
+LOCATION:ملعب جيوفاني زيني
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="ملعب جيوفاني 
+ زيني";X-APPLE-RADIUS=70;X-TITLE="ملعب جيوفاني زيني":geo
+ :45.140164,10.034831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS إنتر ميلان
+DTSTART:20260426T160000Z
+DTEND:20260426T180000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-1602c2k3bat8a8wisw032q49g@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 2
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:أودينيزي VS تورينو
+DTSTART:20260502T130000Z
+DTEND:20260502T150000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-1afjrc6t4039d6osjpah32z9w@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد فريولي\nال
+ نتيجة: 2 - 0
+GEO:46.081644;13.200063
+LOCATION:استاد فريولي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد فريولي";
+ X-APPLE-RADIUS=70;X-TITLE="استاد فريولي":geo:46.081644,13.20006
+ 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS ساسوولو
+DTSTART:20260508T184500Z
+DTEND:20260508T204500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-1e38gvt3r86ce8b1azvpp4pas@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو\nالنتيجة: 2 - 1
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:كالياري VS تورينو
+DTSTART:20260517T184500Z
+DTEND:20260517T204500Z
+DTSTAMP:20260517T223058Z
+UID:fifa-1fainz3780yrnmdbbjyc7cdg4@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
+ لنتيجة: 2 - 1
+GEO:39.199802;9.137473
+LOCATION:سردينيا أرينا
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="سردينيا أرينا
+ ";X-APPLE-RADIUS=70;X-TITLE="سردينيا أرينا":geo:39.199802,9.13
+ 7473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:تورينو VS نادي يوفنتوس
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260517T223058Z
+UID:fifa-1mirtl64axmc9us45pzzojevo@fifa.com
+DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
+ ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
+ جراند تورينو
+GEO:45.041752;7.650016
+LOCATION:استاد أولمبيكو جراند تورينو
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد أولمبيك
+ و جراند تورينو";X-APPLE-RADIUS=70;X-TITLE="استاد أولم
+ بيكو جراند تورينو":geo:45.041752,7.650016
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,526 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Serie A - FC Genua //
+X-WR-CALNAME:Serie A - FC Genua
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Genua VS US Lecce
+DTSTART:20250823T163000Z
+DTEND:20250823T183000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-cj1crau6yj93nnyk80lzjpes4@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 0
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Juventus FC
+DTSTART:20250831T163000Z
+DTEND:20250831T183000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-cn63x2v18luvioyw8kovsgkyc@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 1
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calcio Como VS FC Genua
+DTSTART:20250915T184500Z
+DTEND:20250915T204500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-cr5ncddam0hu23i7vmkh4syl0@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Giuseppe Sinigaglia\nErgebnis: 1 - 1
+GEO:45.813857;9.072376
+LOCATION:Stadio Giuseppe Sinigaglia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Sinigagli
+ a";X-APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Sinigaglia":geo:45.813857,9.
+ 072376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Bologna VS FC Genua
+DTSTART:20250920T130000Z
+DTEND:20250920T150000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-cuawxsnj5e0jykj7h7xw9t7v8@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Renato Dall'Ara\nErgebnis: 2 - 1
+GEO:44.49229;11.309957
+LOCATION:Stadio Renato Dall'Ara
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Renato Dall'Ara";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Renato Dall'Ara":geo:44.49229,11.309957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Lazio Rom
+DTSTART:20250929T184500Z
+DTEND:20250929T204500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-cz23urlp2fqu90rtkbatvaadw@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 3
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SSC Neapel VS FC Genua
+DTSTART:20251005T160000Z
+DTEND:20251005T180000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-d4pwyiyho3sntimg7gb5yssno@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Diego Armando Maradona\nErgebnis: 2 - 1
+GEO:40.827974;14.19293
+LOCATION:Stadio Diego Armando Maradona
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
+ dona";X-APPLE-RADIUS=70;X-TITLE="Stadio Diego Armando Maradona":geo:40.827
+ 974,14.19293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Parma FC
+DTSTART:20251019T130000Z
+DTEND:20251019T150000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-d7yrxii7ad8bixosyqiukk5qs@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 0
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Turin VS FC Genua
+DTSTART:20251026T113000Z
+DTEND:20251026T133000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-dd7pxcuki8noxhspqtl0pdbtg@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Olimpico Grande Torino\nErgebnis: 2 - 1
+GEO:45.041752;7.650016
+LOCATION:Stadio Olimpico Grande Torino
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Olimpico Grande To
+ rino";X-APPLE-RADIUS=70;X-TITLE="Stadio Olimpico Grande Torino":geo:45.041
+ 752,7.650016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS US Cremonese
+DTSTART:20251029T194500Z
+DTEND:20251029T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-dg0jqjxvhdlvm17zu5lxdb384@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sassuolo Calcio VS FC Genua
+DTSTART:20251103T173000Z
+DTEND:20251103T193000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-dkulf66kq04h9lzqdtjkqpixg@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: MAPEI S
+ tadium - Città del Tricolore\nErgebnis: 1 - 2
+GEO:44.714637;10.649711
+LOCATION:MAPEI Stadium - Città del Tricolore
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MAPEI Stadium - Città de
+ l Tricolore";X-APPLE-RADIUS=70;X-TITLE="MAPEI Stadium - Città del Tricolo
+ re":geo:44.714637,10.649711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS AC Florenz
+DTSTART:20251109T140000Z
+DTEND:20251109T160000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-dnp4q65aivoy78vun7flzhq8k@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 2 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cagliari Calcio VS FC Genua
+DTSTART:20251122T140000Z
+DTEND:20251122T160000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-dqi2afpogoxcqe16jjfngwpp0@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Unipol 
+ Domus\nErgebnis: 3 - 3
+GEO:39.199802;9.137473
+LOCATION:Unipol Domus
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Unipol Domus";X-APPLE-RAD
+ IUS=70;X-TITLE="Unipol Domus":geo:39.199802,9.137473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Hellas Verona FC
+DTSTART:20251129T140000Z
+DTEND:20251129T160000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-dvrjf79b61apqegvoxcxk4ahg@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 2 - 1
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Udinese Calcio VS FC Genua
+DTSTART:20251208T170000Z
+DTEND:20251208T190000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-e1wg402dqdofdpblk9lc80owk@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Bluener
+ gy Stadium\nErgebnis: 1 - 2
+GEO:46.081644;13.200063
+LOCATION:Bluenergy Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bluenergy Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Bluenergy Stadium":geo:46.081644,13.200063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS FC Internazionale Milano
+DTSTART:20251214T170000Z
+DTEND:20251214T190000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-e3x5gndisdsp938zd7nmozod0@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 1 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Atalanta Bergamo
+DTSTART:20251221T194500Z
+DTEND:20251221T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-e810e1xzrome2qehy43mv1edw@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 1
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AS Rom VS FC Genua
+DTSTART:20251229T194500Z
+DTEND:20251229T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-edpgvib62l4nji0yx471zf09g@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Olimpico\nErgebnis: 3 - 1
+GEO:41.933948;12.454757
+LOCATION:Stadio Olimpico
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Olimpico";X-APPLE-
+ RADIUS=70;X-TITLE="Stadio Olimpico":geo:41.933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Pisa Calcio
+DTSTART:20260103T140000Z
+DTEND:20260103T160000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-egikby2mt9d9oezp7s5hm58us@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 1 - 1
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milan VS FC Genua
+DTSTART:20260108T194500Z
+DTEND:20260108T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-ekk7jwulff7ebsdvjh2trdtlg@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Giuseppe Meazza\nErgebnis: 1 - 1
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Cagliari Calcio
+DTSTART:20260112T173000Z
+DTEND:20260112T193000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-eo7rchwee8ucktswv023iaej8@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 3 - 0
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parma FC VS FC Genua
+DTSTART:20260118T113000Z
+DTEND:20260118T133000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-etgr2t5n144nao4q1gjde7nro@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Ennio Tardini\nErgebnis: 0 - 0
+GEO:44.794905;10.338387
+LOCATION:Stadio Ennio Tardini
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Ennio Tardini";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadio Ennio Tardini":geo:44.794905,10.338387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS FC Bologna
+DTSTART:20260125T140000Z
+DTEND:20260125T160000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-ew9qgc4sgn8ttzyeoil66fxn8@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 3 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lazio Rom VS FC Genua
+DTSTART:20260130T194500Z
+DTEND:20260130T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-f0prwprw92hfgu5p39x4zji8k@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Olimpico\nErgebnis: 3 - 2
+GEO:41.933948;12.454757
+LOCATION:Stadio Olimpico
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Olimpico";X-APPLE-
+ RADIUS=70;X-TITLE="Stadio Olimpico":geo:41.933948,12.454757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS SSC Neapel
+DTSTART:20260207T170000Z
+DTEND:20260207T190000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-f4dpn9pt0dx67oue2aigxphjo@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 2 - 3
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Cremonese VS FC Genua
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-2esqb01tsyp51smieiu1bnro@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Giovanni Zini\nErgebnis: 0 - 0
+GEO:45.140164;10.034831
+LOCATION:Stadio Giovanni Zini
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Zini";X-A
+ PPLE-RADIUS=70;X-TITLE="Stadio Giovanni Zini":geo:45.140164,10.034831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS FC Turin
+DTSTART:20260222T113000Z
+DTEND:20260222T133000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-7bf4wiumx7xdelasktgf1slw@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 3 - 0
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Internazionale Milano VS FC Genua
+DTSTART:20260228T194500Z
+DTEND:20260228T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-aq7zgsvmbroypvcgivmp4xzo@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Giuseppe Meazza\nErgebnis: 2 - 0
+GEO:45.478084;9.123979
+LOCATION:Stadio Giuseppe Meazza
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giuseppe Meazza";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Giuseppe Meazza":geo:45.478084,9.123979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS AS Rom
+DTSTART:20260308T170000Z
+DTEND:20260308T190000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-fzjidmki8zw5129ek2cw16ac@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 2 - 1
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hellas Verona FC VS FC Genua
+DTSTART:20260315T113000Z
+DTEND:20260315T133000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-m4iui9mige7it9uaa8vpjxn8@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Marcantonio Bentegodi\nErgebnis: 0 - 2
+GEO:45.435324;10.968585
+LOCATION:Stadio Marcantonio Bentegodi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Marcantonio Benteg
+ odi";X-APPLE-RADIUS=70;X-TITLE="Stadio Marcantonio Bentegodi":geo:45.43532
+ 4,10.968585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Udinese Calcio
+DTSTART:20260320T194500Z
+DTEND:20260320T214500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-olfseyjy3g2nhpgwq6xnbndg@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus FC VS FC Genua
+DTSTART:20260406T160000Z
+DTEND:20260406T180000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-re64kdulxtne6yvaa7hs1vkk@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Allianz
+  Stadium\nErgebnis: 2 - 0
+GEO:45.109527;7.641302
+LOCATION:Allianz Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Stadium";X-APPLE-
+ RADIUS=70;X-TITLE="Allianz Stadium":geo:45.109527,7.641302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Sassuolo Calcio
+DTSTART:20260412T103000Z
+DTEND:20260412T123000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-wna0y5ja9n6hce0ih97dk36c@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 2 - 1
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pisa Calcio VS FC Genua
+DTSTART:20260419T160000Z
+DTEND:20260419T180000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-10p02pjryye8cajuop2sdy42c@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Arena G
+ aribaldi - Stadio Romeo Anconetani\nErgebnis: 1 - 2
+GEO:43.725293;10.40019
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Garibaldi - Stadio 
+ Romeo Anconetani";X-APPLE-RADIUS=70;X-TITLE="Arena Garibaldi - Stadio Rome
+ o Anconetani":geo:43.725293,10.40019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Calcio Como
+DTSTART:20260426T130000Z
+DTEND:20260426T150000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-1401o1xiw8hijcz6w9zzcpst0@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 0 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta Bergamo VS FC Genua
+DTSTART:20260502T184500Z
+DTEND:20260502T204500Z
+DTSTAMP:20260517T223031Z
+UID:fifa-16st24hrdt03jyqyb22uejuac@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: New Bal
+ ance Arena\nErgebnis: 0 - 0
+GEO:45.709236;9.680693
+LOCATION:New Balance Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New Balance Arena";X-APPL
+ E-RADIUS=70;X-TITLE="New Balance Arena":geo:45.709236,9.680693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AC Florenz VS FC Genua
+DTSTART:20260510T130000Z
+DTEND:20260510T150000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-1bmsofq1dxf9nwf8rkq89vevo@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Artemio Franchi\nErgebnis: 0 - 0
+GEO:43.780788;11.282712
+LOCATION:Stadio Artemio Franchi
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Artemio Franchi";X
+ -APPLE-RADIUS=70;X-TITLE="Stadio Artemio Franchi":geo:43.780788,11.282712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Genua VS Milan
+DTSTART:20260517T100000Z
+DTEND:20260517T120000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-1g3sxndqzrlhnkcx66644w1zo@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Comunale Luigi Ferraris\nErgebnis: 1 - 2
+GEO:44.416467;8.952527
+LOCATION:Stadio Comunale Luigi Ferraris
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Comunale Luigi Fer
+ raris";X-APPLE-RADIUS=70;X-TITLE="Stadio Comunale Luigi Ferraris":geo:44.4
+ 16467,8.952527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Lecce VS FC Genua
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20260517T223031Z
+UID:fifa-1kphzdmxua4z9u5fpl8ajx8us@fifa.com
+DESCRIPTION:Wettbewerb: Serie A\nPhase: Reguläre Saison\nStadion: Stadio 
+ Ettore Giardiniero - Via del Mare
+GEO:40.365103;18.208852
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Ettore Giardiniero
+  - Via del Mare";X-APPLE-RADIUS=70;X-TITLE="Stadio Ettore Giardiniero - Vi
+ a del Mare":geo:40.365103,18.208852
+END:VEVENT
+END:VCALENDAR
