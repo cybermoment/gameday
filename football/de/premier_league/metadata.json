@@ -12,7 +12,7 @@
     {
       "id": "2000006909",
       "name": "AFC Bournemouth",
-      "filename": "afc_bournemouth"
+      "filename": "bournemouth"
     },
     {
       "id": "400078460",
@@ -27,7 +27,7 @@
     {
       "id": "1r3545b2dzan8yqa80gtmcjch",
       "name": "AFC Sunderland",
-      "filename": "afc_sunderland"
+      "filename": "sunderland"
     },
     {
       "id": "33741",
@@ -42,7 +42,7 @@
     {
       "id": "44262",
       "name": "FC Fulham",
-      "filename": "fc_fulham"
+      "filename": "fulham"
     },
     {
       "id": "23437",
@@ -52,7 +52,7 @@
     {
       "id": "1882935",
       "name": "FC Burnley",
-      "filename": "fc_burnley"
+      "filename": "burnley"
     },
     {
       "id": "29110",
@@ -82,7 +82,7 @@
     {
       "id": "400190337",
       "name": "FC Brentford",
-      "filename": "fc_brentford"
+      "filename": "brentford"
     },
     {
       "id": "33161",
@@ -92,7 +92,7 @@
     {
       "id": "32847",
       "name": "FC Arsenal",
-      "filename": "fc_arsenal"
+      "filename": "arsenal"
     },
     {
       "id": "400138227",
@@ -102,7 +102,7 @@
     {
       "id": "32848",
       "name": "FC Everton",
-      "filename": "fc_everton"
+      "filename": "everton"
     }
   ]
 }
