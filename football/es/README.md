@@ -266,12 +266,12 @@ Idiomas:  [English](../en/README.md) | [简体中文](../zh/README.md) | **Espa�
 <summary>Serie A (20)</summary>
 
 - [Sassuolo](https://cybermoment.app/gameday/football/es/seriea/sassuolo)
-- [Nápoles](https://cybermoment.app/gameday/football/es/seriea/n_poles)
-- [Génova](https://cybermoment.app/gameday/football/es/seriea/g_nova)
+- [Nápoles](https://cybermoment.app/gameday/football/es/seriea/napoli)
+- [Génova](https://cybermoment.app/gameday/football/es/seriea/genoa)
 - [Lecce](https://cybermoment.app/gameday/football/es/seriea/lecce)
-- [Roma](https://cybermoment.app/gameday/football/es/seriea/roma)
-- [Bolonia](https://cybermoment.app/gameday/football/es/seriea/bolonia)
-- [AC Milan](https://cybermoment.app/gameday/football/es/seriea/ac_milan)
+- [Roma](https://cybermoment.app/gameday/football/es/seriea/as_roma)
+- [Bolonia](https://cybermoment.app/gameday/football/es/seriea/bologna)
+- [AC Milan](https://cybermoment.app/gameday/football/es/seriea/milan)
 - [Cremonese](https://cybermoment.app/gameday/football/es/seriea/cremonese)
 - [Como](https://cybermoment.app/gameday/football/es/seriea/como)
 - [Lazio](https://cybermoment.app/gameday/football/es/seriea/lazio)
