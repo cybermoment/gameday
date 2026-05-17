@@ -7,102 +7,102 @@
     {
       "id": "2000019642",
       "name": "ジローナ",
-      "filename": ""
+      "filename": "girona_fc"
     },
     {
       "id": "2000006891",
       "name": "ラージョ・バジェカーノ",
-      "filename": ""
+      "filename": "rayo_vallecano"
     },
     {
       "id": "1882482",
       "name": "ビジャレアル",
-      "filename": ""
+      "filename": "villarreal"
     },
     {
       "id": "clo928vcczjp0mczavs5o7p5k",
       "name": "レアル・オビエド",
-      "filename": ""
+      "filename": "real_oviedo"
     },
     {
       "id": "400074602",
       "name": "マジョルカ",
-      "filename": ""
+      "filename": "rcd_mallorca"
     },
     {
       "id": "1903416",
       "name": "バルセロナ",
-      "filename": ""
+      "filename": "barcelona"
     },
     {
       "id": "356",
       "name": "アラべス",
-      "filename": ""
+      "filename": "deportivo_alav_s"
     },
     {
       "id": "1883309",
       "name": "レバンテ",
-      "filename": ""
+      "filename": "levante_ud"
     },
     {
       "id": "32840",
       "name": "バレンシア",
-      "filename": ""
+      "filename": "valencia_cf"
     },
     {
       "id": "31069",
       "name": "レアル・ソシエダ",
-      "filename": ""
+      "filename": "real_sociedad"
     },
     {
       "id": "2000006874",
       "name": "セルタ・デ・ビーゴ",
-      "filename": ""
+      "filename": "rc_celta"
     },
     {
       "id": "1884966",
       "name": "ヘタフェ",
-      "filename": ""
+      "filename": "getafe_cf"
     },
     {
       "id": "31071",
       "name": "アトレティック・クルブ",
-      "filename": ""
+      "filename": "athletic_club"
     },
     {
       "id": "358",
       "name": "セビージャ",
-      "filename": ""
+      "filename": "sevilla"
     },
     {
       "id": "44229",
       "name": "エスパニョール",
-      "filename": ""
+      "filename": "rcd_espanyol"
     },
     {
       "id": "1914808",
       "name": "アトレティコ・マドリード",
-      "filename": ""
+      "filename": "atl_tico_de_madrid"
     },
     {
       "id": "400139932",
       "name": "エルチェ",
-      "filename": ""
+      "filename": "elche_cf"
     },
     {
       "id": "32838",
       "name": "ベティス",
-      "filename": ""
+      "filename": "real_betis"
     },
     {
       "id": "30504",
       "name": "レアル・マドリード CF",
-      "filename": "cf"
+      "filename": "real_madrid_c_f"
     },
     {
       "id": "400074600",
       "name": "オサスナ",
-      "filename": ""
+      "filename": "ca_osasuna"
     }
   ]
 }
