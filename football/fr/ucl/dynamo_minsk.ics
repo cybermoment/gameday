@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - Dynamo Minsk //
+X-WR-CALNAME:Ligue des champions - Dynamo Minsk
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Ludogorets VS Dynamo Minsk
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260517T180345Z
+UID:fifa-byxwrb3zraa87jwdky8998x04@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Huvepharma Arena\nRésultat: 1 - 0
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Minsk VS Ludogorets
+DTSTART:20250716T184500Z
+DTEND:20250716T204500Z
+DTSTAMP:20260517T180345Z
+UID:fifa-c1usp3qcw3ovrey4e9ls3n0no@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Városi Stadion\nRésultat: 2 - 2
+GEO:47.80213;20.567334
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.80213,20.567334
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Panathinaikos Athens //
+X-WR-CALNAME:UEFA Champions League - Panathinaikos Athens
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Glasgow Rangers VS Panathinaikos Athens
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260517T180346Z
+UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Ibrox Stadium\nErgebnis: 2 - 0
+GEO:55.853211;-4.309283
+LOCATION:Ibrox Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ibrox Stadium";X-APPLE-RA
+ DIUS=70;X-TITLE="Ibrox Stadium":geo:55.853211,-4.309283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panathinaikos Athens VS Glasgow Rangers
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Olympiako Stadio Spyros Louis\nErgebnis: 1 - 1
+GEO:38.036135;23.787584
+LOCATION:Olympiako Stadio Spyros Louis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiako Stadio Spyros L
+ ouis";X-APPLE-RADIUS=70;X-TITLE="Olympiako Stadio Spyros Louis":geo:38.036
+ 135,23.787584
+END:VEVENT
+END:VCALENDAR

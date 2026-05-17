@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Dynamo Kiev //
+X-WR-CALNAME:UEFA Champions League - Dynamo Kiev
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Hamrun Spartans VS Dynamo Kiev
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
+ zioni\nStadio: MFA Centenary Stadium\nRisultato: 0 - 3
+GEO:35.896638;14.415425
+LOCATION:MFA Centenary Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MFA Centenary Stadium";X-
+ APPLE-RADIUS=70;X-TITLE="MFA Centenary Stadium":geo:35.896638,14.415425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Kiev VS Hamrun Spartans
+DTSTART:20250729T180000Z
+DTEND:20250729T200000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
+ zioni\nStadio: Motor Lublin Arena\nRisultato: 3 - 0
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Kiev VS Pafos
+DTSTART:20250805T180000Z
+DTEND:20250805T200000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 3° Turno Qualifica
+ zioni\nStadio: Motor Lublin Arena\nRisultato: 0 - 1
+GEO:51.232419;22.557464
+LOCATION:Motor Lublin Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Motor Lublin Arena";X-APP
+ LE-RADIUS=70;X-TITLE="Motor Lublin Arena":geo:51.232419,22.557464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos VS Dynamo Kiev
+DTSTART:20250812T170000Z
+DTEND:20250812T190000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 3° Turno Qualifica
+ zioni\nStadio: Alphamega Stadium\nRisultato: 2 - 0
+GEO:34.693475;32.93919
+LOCATION:Alphamega Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Alphamega Stadium";X-APPL
+ E-RADIUS=70;X-TITLE="Alphamega Stadium":geo:34.693475,32.93919
+END:VEVENT
+END:VCALENDAR

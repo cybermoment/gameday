@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga dos Campeões da UEFA - Rijeka //
+X-WR-CALNAME:Liga dos Campeões da UEFA - Rijeka
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Rijeka VS Ludogorets Razgrad
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260517T180347Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 2ª rodada cl
+ assificatória\nEstádio: Stadion HNK Rijeka\nResultado: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:Stadion HNK Rijeka
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HNK Rijeka";X-APP
+ LE-RADIUS=70;X-TITLE="Stadion HNK Rijeka":geo:45.347873,14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludogorets Razgrad VS Rijeka
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260517T180347Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 2ª rodada cl
+ assificatória\nEstádio: Huvepharma Arena\nResultado: 3 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR

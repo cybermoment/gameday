@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Breidablik //
+X-WR-CALNAME:UEFA Champions League - Breidablik
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Egnatia Rrogozhinë VS Breidablik
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 1° Turno Qualifica
+ zioni\nStadio: Arena Egnatia\nRisultato: 1 - 0
+GEO:41.07666;19.661713
+LOCATION:Arena Egnatia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Egnatia";X-APPLE-RA
+ DIUS=70;X-TITLE="Arena Egnatia":geo:41.07666,19.661713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breidablik VS Egnatia Rrogozhinë
+DTSTART:20250715T190000Z
+DTEND:20250715T210000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 1° Turno Qualifica
+ zioni\nStadio: Kópavogsvöllur\nRisultato: 5 - 0
+GEO:64.104104;-21.896889
+LOCATION:Kópavogsvöllur
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kópavogsvöllur";X-APPLE
+ -RADIUS=70;X-TITLE="Kópavogsvöllur":geo:64.104104,-21.896889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lech Poznan VS Breidablik
+DTSTART:20250722T183000Z
+DTEND:20250722T203000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
+ zioni\nStadio: Enea Stadion\nRisultato: 7 - 1
+GEO:52.397679;16.858161
+LOCATION:Enea Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Enea Stadion";X-APPLE-RAD
+ IUS=70;X-TITLE="Enea Stadion":geo:52.397679,16.858161
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breidablik VS Lech Poznan
+DTSTART:20250730T183000Z
+DTEND:20250730T203000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
+ zioni\nStadio: Kópavogsvöllur\nRisultato: 0 - 1
+GEO:64.104104;-21.896889
+LOCATION:Kópavogsvöllur
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kópavogsvöllur";X-APPLE
+ -RADIUS=70;X-TITLE="Kópavogsvöllur":geo:64.104104,-21.896889
+END:VEVENT
+END:VCALENDAR

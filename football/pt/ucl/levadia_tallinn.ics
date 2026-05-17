@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga dos Campeões da UEFA - Levadia Tallinn //
+X-WR-CALNAME:Liga dos Campeões da UEFA - Levadia Tallinn
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Levadia Tallinn VS RFS
+DTSTART:20250708T163000Z
+DTEND:20250708T183000Z
+DTSTAMP:20260517T180347Z
+UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 1ª rodada cl
+ assificatória\nEstádio: A. Le Coq Arena\nResultado: 0 - 1
+GEO:59.421303;24.732022
+LOCATION:A. Le Coq Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="A. Le Coq Arena";X-APPLE-
+ RADIUS=70;X-TITLE="A. Le Coq Arena":geo:59.421303,24.732022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RFS VS Levadia Tallinn
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260517T180347Z
+UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
+DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 1ª rodada cl
+ assificatória\nEstádio: LNK Sporta Parks dabīgais\nResultado: 1 - 0
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
+END:VEVENT
+END:VCALENDAR

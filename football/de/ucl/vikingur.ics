@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Vikingur //
+X-WR-CALNAME:UEFA Champions League - Vikingur
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Vikingur VS Lincoln Red Imps
+DTSTART:20250708T180000Z
+DTEND:20250708T200000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-2axwif0kr7ld8vc988ji73q50@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: Við Djúpumýrar\nErgebnis: 2 - 3
+GEO:62.224654;-6.580154
+LOCATION:Við Djúpumýrar
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Við Djúpumýrar";X-APPL
+ E-RADIUS=70;X-TITLE="Við Djúpumýrar":geo:62.224654,-6.580154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Red Imps VS Vikingur
+DTSTART:20250715T153000Z
+DTEND:20250715T173000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-2feve63v1vjilkwh0lazcrztg@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: Europa Point Stadium\nErgebnis: 1 - 0
+GEO:36.110714;-5.347034
+LOCATION:Europa Point Stadium
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Europa Point Stadium";X-A
+ PPLE-RADIUS=70;X-TITLE="Europa Point Stadium":geo:36.110714,-5.347034
+END:VEVENT
+END:VCALENDAR

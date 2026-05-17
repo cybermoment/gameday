@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Rīgas FS //
+X-WR-CALNAME:UEFA Champions League - Rīgas FS
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FCI Levadia VS Rīgas FS
+DTSTART:20250708T163000Z
+DTEND:20250708T183000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: A. Le Coq Arena\nErgebnis: 0 - 1
+GEO:59.421303;24.732022
+LOCATION:A. Le Coq Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="A. Le Coq Arena";X-APPLE-
+ RADIUS=70;X-TITLE="A. Le Coq Arena":geo:59.421303,24.732022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rīgas FS VS FCI Levadia
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
+ de\nStadion: LNK Sporta Parks dabīgais\nErgebnis: 1 - 0
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rīgas FS VS Malmö FF
+DTSTART:20250722T170000Z
+DTEND:20250722T190000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: LNK Sporta Parks dabīgais\nErgebnis: 1 - 4
+GEO:56.90796;24.1553
+LOCATION:LNK Sporta Parks dabīgais
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="LNK Sporta Parks dabīgai
+ s";X-APPLE-RADIUS=70;X-TITLE="LNK Sporta Parks dabīgais":geo:56.90796,24.
+ 1553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malmö FF VS Rīgas FS
+DTSTART:20250730T170000Z
+DTEND:20250730T190000Z
+DTSTAMP:20260517T180346Z
+UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
+ de\nStadion: Eleda Stadion\nErgebnis: 1 - 0
+GEO:55.583646;12.987815
+LOCATION:Eleda Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Eleda Stadion";X-APPLE-RA
+ DIUS=70;X-TITLE="Eleda Stadion":geo:55.583646,12.987815
+END:VEVENT
+END:VCALENDAR

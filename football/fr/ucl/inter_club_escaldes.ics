@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue des champions - Inter Club Escaldes //
+X-WR-CALNAME:Ligue des champions - Inter Club Escaldes
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Steaua Bucarest VS Inter Club Escaldes
+DTSTART:20250709T173000Z
+DTEND:20250709T193000Z
+DTSTAMP:20260517T180345Z
+UID:fifa-63wi7u2dyddcx22dn3xlcxno4@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Stadionul Steaua\nRésultat: 3 - 1
+GEO:44.412846;26.040468
+LOCATION:Stadionul Steaua
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Steaua";X-APPLE
+ -RADIUS=70;X-TITLE="Stadionul Steaua":geo:44.412846,26.040468
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Club Escaldes VS FC Steaua Bucarest
+DTSTART:20250715T183000Z
+DTEND:20250715T203000Z
+DTSTAMP:20260517T180345Z
+UID:fifa-680o3jgip3hhagbzecne30ob8@fifa.com
+DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
+ ation\nStade: Estadi de la FAF d'Encamp\nRésultat: 2 - 1
+GEO:42.533481;1.575929
+LOCATION:Estadi de la FAF d'Encamp
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadi de la FAF d'Encamp
+ ";X-APPLE-RADIUS=70;X-TITLE="Estadi de la FAF d'Encamp":geo:42.533481,1.57
+ 5929
+END:VEVENT
+END:VCALENDAR

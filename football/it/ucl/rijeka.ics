@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Rijeka //
+X-WR-CALNAME:UEFA Champions League - Rijeka
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Rijeka VS Ludogorets
+DTSTART:20250722T184500Z
+DTEND:20250722T204500Z
+DTSTAMP:20260517T180350Z
+UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
+ zioni\nStadio: Stadion HNK Rijeka\nRisultato: 0 - 0
+GEO:45.347873;14.402203
+LOCATION:Stadion HNK Rijeka
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HNK Rijeka";X-APP
+ LE-RADIUS=70;X-TITLE="Stadion HNK Rijeka":geo:45.347873,14.402203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludogorets VS Rijeka
+DTSTART:20250730T173000Z
+DTEND:20250730T193000Z
+DTSTAMP:20260517T180350Z
+UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
+DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
+ zioni\nStadio: Huvepharma Arena\nRisultato: 3 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR
