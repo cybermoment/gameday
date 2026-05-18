@@ -291,7 +291,7 @@
 - [那不勒斯](https://cybermoment.app/gameday/football/zh/seriea/napoli)
 - [热那亚](https://cybermoment.app/gameday/football/zh/seriea/genoa)
 - [莱切](https://cybermoment.app/gameday/football/zh/seriea/lecce)
-- [罗马](https://cybermoment.app/gameday/football/zh/seriea/as_roma)
+- [罗马](https://cybermoment.app/gameday/football/zh/seriea/roma)
 - [博洛尼亚](https://cybermoment.app/gameday/football/zh/seriea/bologna)
 - [米兰](https://cybermoment.app/gameday/football/zh/seriea/milan)
 - [克雷莫纳](https://cybermoment.app/gameday/football/zh/seriea/cremonese)
@@ -304,7 +304,7 @@
 - [亚特兰大](https://cybermoment.app/gameday/football/zh/seriea/atalanta)
 - [比萨](https://cybermoment.app/gameday/football/zh/seriea/pisa)
 - [乌迪内斯](https://cybermoment.app/gameday/football/zh/seriea/udinese)
-- [维罗纳](https://cybermoment.app/gameday/football/zh/seriea/hellas_verona)
+- [维罗纳](https://cybermoment.app/gameday/football/zh/seriea/verona)
 - [国际米兰](https://cybermoment.app/gameday/football/zh/seriea/fc_internazionale_milano)
 - [都灵](https://cybermoment.app/gameday/football/zh/seriea/torino)
 

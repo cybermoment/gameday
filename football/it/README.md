@@ -269,7 +269,7 @@ Lingue:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Españo
 - [Napoli](https://cybermoment.app/gameday/football/it/seriea/napoli)
 - [Genoa](https://cybermoment.app/gameday/football/it/seriea/genoa)
 - [Lecce](https://cybermoment.app/gameday/football/it/seriea/lecce)
-- [Roma](https://cybermoment.app/gameday/football/it/seriea/as_roma)
+- [Roma](https://cybermoment.app/gameday/football/it/seriea/roma)
 - [Bologna](https://cybermoment.app/gameday/football/it/seriea/bologna)
 - [Milan](https://cybermoment.app/gameday/football/it/seriea/milan)
 - [Cremonese](https://cybermoment.app/gameday/football/it/seriea/cremonese)
