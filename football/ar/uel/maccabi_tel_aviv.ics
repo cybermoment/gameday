@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:حمرون سبارتانس VS مكابي تل أبيب
 DTSTART:20250805T170000Z
 DTEND:20250805T190000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-56ndamjc2fan2ehkl2dfwyqdw@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الثالث\nالملعب: استاد تكا
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS حمرون سبارتانس
 DTSTART:20250814T180000Z
 DTEND:20250814T200000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-5dnzyp0rv11vgiw4x1zh81zis@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الثالث\nالملعب: استاد جرا
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS دينامو كييف
 DTSTART:20250821T181500Z
 DTEND:20250821T201500Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-54rk1kg28ge28wmz10n2psk5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: المبارايات الاختتامية\nالملعب: استاد ج
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:دينامو كييف VS مكابي تل أبيب
 DTSTART:20250828T180000Z
 DTEND:20250828T200000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-577d7etyg53p2y824zylrlq1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: المبارايات الاختتامية\nالملعب: Motor Lublin 
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:باوك سالونيكي VS مكابي تل أبيب
 DTSTART:20250924T164500Z
 DTEND:20250924T184500Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-2aobbvijozeza0rc41sx45s7o@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: استاد تومباس\nالن
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS دينامو زغرب
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-2nszpqp0n3wtwzrhnptj04yz8@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: استاد جرادسكي\nال
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS ميتلاند
 DTSTART:20251023T190000Z
 DTEND:20251023T210000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-2up4pafkez1zvsq4q8lozz7ys@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: استاد جرادسكي\nال
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:أستون فيلا VS مكابي تل أبيب
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-302980c1b8ns45smrpnbueadw@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: فيلا بارك\nالنتيج
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS ليون
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-38dmhcb811fmnwlkdrwfqxst0@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: استاد جرادسكي\nال
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS مكابي تل أبيب
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-3deg5dac4pern2o42rim2q1w4@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: استاد مرسيدس بنز 
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS مكابي تل أبيب
 DTSTART:20260122T174500Z
 DTEND:20260122T194500Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-3jx7foe8dkoewqw1w1zo2j8yc@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: ملعب أوروبا بارك\
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS بولونيا
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260519T165322Z
+DTSTAMP:20260519T190729Z
 UID:fifa-3s8smtgxm4et55k3o84w2awpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: مرحلة الدوري\nالملعب: استاد جرادسكي\nال
