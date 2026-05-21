@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Brann VS FC Salzburg
 DTSTART:20250723T170000Z
 DTEND:20250723T190000Z
-DTSTAMP:20260521T180514Z
+DTSTAMP:20260521T202230Z
 UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Brann Stadion\nRésultat: 1 - 4
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS Brann
 DTSTART:20250730T184500Z
 DTEND:20250730T204500Z
-DTSTAMP:20260521T180514Z
+DTSTAMP:20260521T202230Z
 UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Red Bull Arena\nRésultat: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS Club Bruges
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260521T180514Z
+DTSTAMP:20260521T202230Z
 UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Red Bull Arena\nRésultat: 0 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Club Bruges VS FC Salzburg
 DTSTART:20250812T173000Z
 DTEND:20250812T193000Z
-DTSTAMP:20260521T180514Z
+DTSTAMP:20260521T202230Z
 UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Jan Breydelstadion\nRésultat: 3 - 2
