@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:КуПС VS Милсами Орхей
 DTSTART:20250708T150000Z
 DTEND:20250708T170000Z
-DTSTAMP:20260522T041752Z
+DTSTAMP:20260522T075933Z
 UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Väre Are
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Милсами Орхей VS КуПС
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260522T041752Z
+DTSTAMP:20260522T075933Z
 UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Complexul
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:КуПС VS Кайрат
 DTSTART:20250722T150000Z
 DTEND:20250722T170000Z
-DTSTAMP:20260522T041752Z
+DTSTAMP:20260522T075933Z
 UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Väre Areena\nРезультат: 2 -
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS КуПС
 DTSTART:20250729T150000Z
 DTEND:20250729T170000Z
-DTSTAMP:20260522T041752Z
+DTSTAMP:20260522T075933Z
 UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:

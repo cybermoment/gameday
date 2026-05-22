@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS アウクスブルク
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-ctiyi3fh9yo41q6wyssamhyc4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 1 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:ケルン VS フライブルク
 DTSTART:20250831T173000Z
 DTEND:20250831T193000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-cz0pjg0mj1a5m91lqszpb2bkk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ラインエネルギーシュタディオ
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS シュトゥットガルト
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 3 - 1
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS フライブルク
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ホッフェンハイム
 DTSTART:20250928T133000Z
 DTEND:20250928T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-d76yzyflinjbjue96ve9zekgk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 1 - 1
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシアMG VS フライブルク
 DTSTART:20251005T173000Z
 DTEND:20251005T193000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-dcrccxyi2q3cw0t8hmksn3ok4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ボルシアパルク\n結果: 0 - 0
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS フランクフルト
 DTSTART:20251019T133000Z
 DTEND:20251019T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-dfmkm0af0rgtmxs4ow219prtg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 2
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:レヴァークーゼン VS フライブルク
 DTSTART:20251026T143000Z
 DTEND:20251026T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-djrsa1siv252tot4dqegveyok@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: バイアレーナ\n結果: 2 - 0
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:ウニオン・ベルリン VS フライブルク
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-dpi74rfcl5l4gor7uzfi7mot0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: シュタディオン・アン・デア・
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ザンクト・パウリ
 DTSTART:20251109T143000Z
 DTEND:20251109T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-drwds3zpvjelfi2ne49dahous@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 1
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:FC バイエルン・ミュンヘン VS フライブルク
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-duphpfn76nnmm87fh3hkmobh0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: アリアンツ・アレーナ\n結果: 6 -
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS マインツ
 DTSTART:20251130T183000Z
 DTEND:20251130T203000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 4 - 0
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:ハイデンハイム VS フライブルク
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-e478laz1p8875b08kujh0lces@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴォイト・アレーナ\n結果: 2 - 1
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ボルシア・ドルトムント
 DTSTART:20251214T143000Z
 DTEND:20251214T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-e6jj6eibzyfv0o6jmv6pdsqhg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 1 - 1
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:ヴォルフスブルク VS フライブルク
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-eaiqxd2ocdb9meu07n6figglw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: フォルクスワーゲン・アレーナ\
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ハンブルガーSV
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-edpwo151usyqwitu53kqeobh0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 1
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:RBライプツィヒ VS フライブルク
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-egv9ep9u1qftm8duqphe094b8@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: レッドブル・アレーナ\n結果: 2 -
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:アウクスブルク VS フライブルク
 DTSTART:20260118T163000Z
 DTEND:20260118T183000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-elm64iezyo4chxb3ukcdxjl04@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: WWKアレーナ\n結果: 2 - 2
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ケルン
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-eof2idjdw3bvltio6b49clpuc@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 1
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS フライブルク
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ヴェルダー・ブレーメン
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 1 - 0
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:ホッフェンハイム VS フライブルク
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-f0nyu34ar99b8yxjac3jpyolw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ライン・ネッカー・アレーナ\n
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ボルシアMG
 DTSTART:20260222T143000Z
 DTEND:20260222T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-f1ud2i8b4rezfxix7czncsis4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 1
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:フランクフルト VS フライブルク
 DTSTART:20260301T163000Z
 DTEND:20260301T183000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-f5esrxkpcocxsk0umq5p2yoes@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: コメルツバンク・アレーナ\n結
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS レヴァークーゼン
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-3dvpg0zqnvzgoqj263zl3g9g@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 3 - 3
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ウニオン・ベルリン
 DTSTART:20260315T163000Z
 DTEND:20260315T183000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-7r14isj1f999evgg9xt7ydxw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 0 - 1
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:ザンクト・パウリ VS フライブルク
 DTSTART:20260322T163000Z
 DTEND:20260322T183000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-cgq5h1fz7sm71cfnxdnn3j10@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ミレントア・シュタディオン\n
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS FC バイエルン・ミュンヘン
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-ehm6p0fs4lr0jykl70umuuxg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 3
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:マインツ VS フライブルク
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: OPELアレーナ\n結果: 0 - 1
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ハイデンハイム
 DTSTART:20260419T133000Z
 DTEND:20260419T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-m8e1thtcqeuy54l3zyouar6c@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 2 - 1
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシア・ドルトムント VS フライブルク
 DTSTART:20260426T153000Z
 DTEND:20260426T173000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-opeabpi1vy53fxn3l5zfwt1w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ジグナル・イドゥナ・パルク\n
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ヴォルフスブルク
 DTSTART:20260503T173000Z
 DTEND:20260503T193000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-tfbsbfqni95nhdkgdis9cd1w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 1 - 1
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:ハンブルガーSV VS フライブルク
 DTSTART:20260510T133000Z
 DTEND:20260510T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-yyscgqr7sskeagimqimfx6hg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: フォルクスパルクシュタディオ
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS RBライプツィヒ
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260522T041924Z
+DTSTAMP:20260522T080052Z
 UID:fifa-10jnauxzq6mmvzk1xmhl552qc@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 4 - 1
