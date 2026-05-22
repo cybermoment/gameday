@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS バーンリー
 DTSTART:20250816T140000Z
 DTEND:20250816T160000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-11zdrikme887aispxmcu1ug44@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 3 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・シティ VS トッテナム
 DTSTART:20250823T113000Z
 DTEND:20250823T133000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-172cmeucd0eh693911rgimuj8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エティハド スタジアム\n結果: 0 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ボーンマス
 DTSTART:20250830T140000Z
 DTEND:20250830T160000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1be5lxo9q7ko4pm8exaozvmdw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 0 - 1
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:ウェストハム・ユナイテッド VS トッテナム
 DTSTART:20250913T163000Z
 DTEND:20250913T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1fqalgzy8x2hswuyc4w36cr2s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ロンドン スタジアム\n結果: 0 - 3
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS トッテナム
 DTSTART:20250920T140000Z
 DTEND:20250920T160000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1gwmyqujn1kzgkz7yv1yp0n4k@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 2
@@ -78,7 +78,7 @@ SUMMARY:トッテナム VS ウォルヴァーハンプトン・ワンダ
  ラーズ
 DTSTART:20250927T190000Z
 DTEND:20250927T210000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1npwac7t1uv2raij1gs4hhxqs@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 1
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:リーズ・ユナイテッド VS トッテナム
 DTSTART:20251004T113000Z
 DTEND:20251004T133000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1qh7qazdiffxkrafk41ewncb8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Elland Road\n結果: 1 - 2
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS アストンヴィラ
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1vdtp9f8cyblesdc3cpw8dlhw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 2
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:エヴァートン VS トッテナム
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-1y8dmrju1hkfvsl3srj1ycdn8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Hill Dickinson Stadium\n結果: 0 - 3
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS チェルシー FC
 DTSTART:20251101T173000Z
 DTEND:20251101T193000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-23f8sz2bv6v5zzsc5k00guhw4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 0 - 1
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS マンチェスター・ユナイテッド
 DTSTART:20251108T123000Z
 DTEND:20251108T143000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-27dsai0y163f2lmufao3yg3ys@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 2
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:アーセナル VS トッテナム
 DTSTART:20251123T163000Z
 DTEND:20251123T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-28m9dl3dg3b2kv50yxgrt2sk4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エミレーツ スタジアム\n結果: 4 
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS フラム
 DTSTART:20251129T200000Z
 DTEND:20251129T220000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-2fe6zf414gquq687ftwrxeplg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 2
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:ニューカッスル・ユナイテッド VS トッテナム
 DTSTART:20251202T201500Z
 DTEND:20251202T221500Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-2jhdb63xvcht5ml1hmxtjvv2s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: セント ジェームズ パーク\n結果
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ブレントフォード
 DTSTART:20251206T150000Z
 DTEND:20251206T170000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-2nfh5mrn0tysgea5b9nvvrpqs@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 0
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:ノッティンガム・フォレスト VS トッテナム
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-2r1kc0oaxedob4lcuth1o6n10@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: The City Ground\n結果: 3 - 0
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS リバプール
 DTSTART:20251220T173000Z
 DTEND:20251220T193000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-2vllrascd71vbiav6po9eg36c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 2
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:クリスタル・パレス VS トッテナム
 DTSTART:20251228T163000Z
 DTEND:20251228T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-2y0iw6uupiyuw2f7smry1v5ec@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:ブレントフォード VS トッテナム
 DTSTART:20260101T200000Z
 DTEND:20260101T220000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-30u45n5nmbx3jivwb5yg3y2vo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Gtech Community Stadium\n結果: 0 - 0
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS サンダーランド
 DTSTART:20260104T150000Z
 DTEND:20260104T170000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-37zge870saq1q1a4h6e3ctedw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 1
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:ボーンマス VS トッテナム
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-38s04imjp5pt7ig6ua3yuu42c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: バイタリティ スタジアム\n結果:
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ウェストハム・ユナイテッド
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-3g18illc142v29rp9dtc5w4yc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 2
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:バーンリー VS トッテナム
 DTSTART:20260124T150000Z
 DTEND:20260124T170000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-3i0jjy5mz3gaav1oegad5km50@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ターフ モア\n結果: 2 - 2
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS マンチェスター・シティ
 DTSTART:20260201T163000Z
 DTEND:20260201T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-3o1on3ufinfu3kop2z2v3sb2s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 2
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS トッテナム
 DTSTART:20260207T123000Z
 DTEND:20260207T143000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-3rou9cxtiqeutcjm1moskftas@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ニューカッスル・ユナイテッド
 DTSTART:20260210T193000Z
 DTEND:20260210T213000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-3w40rqqpfqiv06c3cp8wrsutw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 2
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS アーセナル
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-405a2do557or1ct3j3l0vo6j8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 4
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:フラム VS トッテナム
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-42jx3wx1mip1d4gb7xxr5xqms@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: クレイヴン・コテージ\n結果: 2 -
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS クリスタル・パレス
 DTSTART:20260305T200000Z
 DTEND:20260305T220000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-486hxmd9rt6ysjx8cez706gpg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 3
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:リバプール VS トッテナム
 DTSTART:20260315T163000Z
 DTEND:20260315T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-4b0vkliozgwujbu92sbu4odg4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: アンフィールド\n結果: 1 - 1
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ノッティンガム・フォレスト
 DTSTART:20260322T141500Z
 DTEND:20260322T161500Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-4g9df2gm7puexyyyq0kcd7y8k@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 0 - 3
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:サンダーランド VS トッテナム
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-4kddvp87omo9dy1dpaxspetjo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタジアム・オブ・ライト\n結
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ブライトン&ホーヴ・アルビオン
 DTSTART:20260418T163000Z
 DTEND:20260418T183000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-4p3u05341oavttuq79gix5yc4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 2
@@ -473,7 +473,7 @@ SUMMARY:ウォルヴァーハンプトン・ワンダラーズ VS トッ
  テナム
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-4tbi56lct23i6mjvzto0otedw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: モリニュー・スタジアム\n結果: 
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:アストンヴィラ VS トッテナム
 DTSTART:20260503T180000Z
 DTEND:20260503T200000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-4uj53u3vj024zyelxg271vnkk@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴィラ・パーク\n結果: 1 - 2
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS リーズ・ユナイテッド
 DTSTART:20260511T190000Z
 DTEND:20260511T210000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-5146m7fbdoj5d8sab8d7gsob8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 1 - 1
@@ -515,7 +515,7 @@ BEGIN:VEVENT
 SUMMARY:チェルシー FC VS トッテナム
 DTSTART:20260519T191500Z
 DTEND:20260519T211500Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-53j6evjl6xalzvbm90cxhzdw4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタンフォード ブリッジ\n結果:
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS エヴァートン
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260522T111330Z
+DTSTAMP:20260522T135543Z
 UID:fifa-59d9ayrqml4blmyr6tibd1nh0@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium
