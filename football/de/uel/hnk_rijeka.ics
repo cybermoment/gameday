@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:HNK Rijeka VS Shelbourne
 DTSTART:20250806T184500Z
 DTEND:20250806T204500Z
-DTSTAMP:20260522T185828Z
+DTSTAMP:20260522T204524Z
 UID:fifa-urqyhtxzw5f0e0162deegf10@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Stadion HNK Rijeka\nErgebnis: 1 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS HNK Rijeka
 DTSTART:20250812T184500Z
 DTEND:20250812T204500Z
-DTSTAMP:20260522T185828Z
+DTSTAMP:20260522T204524Z
 UID:fifa-109tzu24amo985enu2dlo1a8k@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Tolka Park\nErgebnis: 1 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:HNK Rijeka VS PAOK Saloniki
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260522T185828Z
+DTSTAMP:20260522T204524Z
 UID:fifa-a00stu2r9waxfjiarrmhwdj4k@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Stad
  ion HNK Rijeka\nErgebnis: 1 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK Saloniki VS HNK Rijeka
 DTSTART:20250828T173000Z
 DTEND:20250828T193000Z
-DTSTAMP:20260522T185828Z
+DTSTAMP:20260522T204524Z
 UID:fifa-a12pc4txf515i4sjnu4mt7ztg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Stad
  io Toumbas\nErgebnis: 5 - 0

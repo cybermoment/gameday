@@ -7,12 +7,12 @@
     {
       "id": "2000019642",
       "name": "赫罗纳",
-      "filename": "girona_fc"
+      "filename": "girona"
     },
     {
       "id": "2000006891",
       "name": "巴列卡诺",
-      "filename": "rayo_vallecano"
+      "filename": "rayo"
     },
     {
       "id": "1882482",
@@ -22,12 +22,12 @@
     {
       "id": "clo928vcczjp0mczavs5o7p5k",
       "name": "皇家奥维耶多",
-      "filename": "real_oviedo"
+      "filename": "oviedo"
     },
     {
       "id": "400074602",
       "name": "马略卡",
-      "filename": "rcd_mallorca"
+      "filename": "mallorca"
     },
     {
       "id": "1903416",
@@ -37,17 +37,17 @@
     {
       "id": "356",
       "name": "阿拉维斯",
-      "filename": "deportivo_alav_s"
+      "filename": "alav_s"
     },
     {
       "id": "1883309",
       "name": "莱万特",
-      "filename": "levante_ud"
+      "filename": "levante"
     },
     {
       "id": "32840",
       "name": "瓦伦西亚",
-      "filename": "valencia_cf"
+      "filename": "valencia"
     },
     {
       "id": "31069",
@@ -57,17 +57,17 @@
     {
       "id": "2000006874",
       "name": "塞尔塔",
-      "filename": "rc_celta"
+      "filename": "celta"
     },
     {
       "id": "1884966",
       "name": "赫塔费",
-      "filename": "getafe_cf"
+      "filename": "getafe"
     },
     {
       "id": "31071",
       "name": "毕尔巴鄂竞技",
-      "filename": "athletic_club"
+      "filename": "athletic"
     },
     {
       "id": "358",
@@ -77,7 +77,7 @@
     {
       "id": "44229",
       "name": "西班牙人",
-      "filename": "rcd_espanyol"
+      "filename": "espanyol"
     },
     {
       "id": "1914808",
@@ -87,12 +87,12 @@
     {
       "id": "400139932",
       "name": "埃尔切",
-      "filename": "elche_cf"
+      "filename": "elche"
     },
     {
       "id": "32838",
       "name": "皇家贝蒂斯",
-      "filename": "real_betis"
+      "filename": "betis"
     },
     {
       "id": "30504",
@@ -102,7 +102,7 @@
     {
       "id": "400074600",
       "name": "奥萨苏纳",
-      "filename": "ca_osasuna"
+      "filename": "osasuna"
     }
   ]
 }
