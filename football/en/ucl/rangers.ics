@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Rangers VS Panathinaikos
 DTSTART:20250722T184500Z
 DTEND:20250722T204500Z
-DTSTAMP:20260523T183434Z
+DTSTAMP:20260523T200924Z
 UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Ibrox Stadium\nResult: 2 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Panathinaikos VS Rangers
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260523T183434Z
+DTSTAMP:20260523T200924Z
 UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Olympiako Stadio Spyros Louis\nResult: 1 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Rangers VS Viktoria Plzeň
 DTSTART:20250805T184500Z
 DTEND:20250805T204500Z
-DTSTAMP:20260523T183434Z
+DTSTAMP:20260523T200924Z
 UID:fifa-65e2eplopyl0nal1t4z2dv310@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Ibrox Stadium\nResult: 3 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzeň VS Rangers
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260523T183434Z
+DTSTAMP:20260523T200924Z
 UID:fifa-67ynklkwlxs648jughhfz9lw4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Doosan Aréna\nResult: 2 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Rangers VS Club Brugge
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260523T183434Z
+DTSTAMP:20260523T200924Z
 UID:fifa-83509np6cybipasjyz6nbxpg4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   Ibrox Stadium\nResult: 1 - 3
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge VS Rangers
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260523T183434Z
+DTSTAMP:20260523T200924Z
 UID:fifa-847pdw2q6zi71o572y4xmmjh0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   Jan Breydelstadion\nResult: 6 - 0
