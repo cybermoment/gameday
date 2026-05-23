@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzeň VS Servette
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260523T090710Z
+DTSTAMP:20260523T105504Z
 UID:fifa-5e2frjzta6hz8dzngz5upawwk@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Doosan Aréna\nRésultat: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Servette VS Viktoria Plzeň
 DTSTART:20250730T190000Z
 DTEND:20250730T210000Z
-DTSTAMP:20260523T090710Z
+DTSTAMP:20260523T105504Z
 UID:fifa-5fqhce7srss8hywz4ujj3nx1w@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Stade de Genève\nRésultat: 1 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Glasgow Rangers VS Viktoria Plzeň
 DTSTART:20250805T184500Z
 DTEND:20250805T204500Z
-DTSTAMP:20260523T090710Z
+DTSTAMP:20260523T105504Z
 UID:fifa-65e2eplopyl0nal1t4z2dv310@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Ibrox Stadium\nRésultat: 3 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Viktoria Plzeň VS Glasgow Rangers
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260523T090710Z
+DTSTAMP:20260523T105504Z
 UID:fifa-67ynklkwlxs648jughhfz9lw4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Doosan Aréna\nRésultat: 2 - 1
