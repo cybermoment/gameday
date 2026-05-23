@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:أولمبيا ليوبليانا VS قايرات ألماته
 DTSTART:20250708T170000Z
 DTEND:20250708T190000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-a9aiop7i6u9lkj6zor7b0kf84@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: استاد ستو
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS أولمبيا ليوبليانا
 DTSTART:20250715T150000Z
 DTEND:20250715T170000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-abgirlxxnvpt0vh19dzb25nv8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: استاد أور
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:كوبيون بالوسورا VS قايرات ألماته
 DTSTART:20250722T150000Z
 DTEND:20250722T170000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: سافون سا
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS كوبيون بالوسورا
 DTSTART:20250729T150000Z
 DTEND:20250729T170000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: استاد أو
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS سلوفان براتيسلافا
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: استاد أو
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:سلوفان براتيسلافا VS قايرات ألماته
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: ملعب تيه
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:نادي سلتيك VS قايرات ألماته
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: سلتيك 
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS نادي سلتيك
 DTSTART:20250826T164500Z
 DTEND:20250826T184500Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: استاد 
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:سبورتينغ لشبونة VS قايرات ألماته
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS ريال مدريد
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-4y59n6hs1chc516v7tjoivswk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS نادي بافوس
 DTSTART:20251021T164500Z
 DTEND:20251021T184500Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:إنتر ميلان VS قايرات ألماته
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-5fofplo2ckg0386q0t12xen84@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS قايرات ألماته
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS أولمبياكوس بيرايوس
 DTSTART:20251209T153000Z
 DTEND:20251209T173000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS كلوب بروج
 DTSTART:20260120T153000Z
 DTEND:20260120T173000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:أرسنال VS قايرات ألماته
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260523T035543Z
+DTSTAMP:20260523T063953Z
 UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد الإمارات\n
