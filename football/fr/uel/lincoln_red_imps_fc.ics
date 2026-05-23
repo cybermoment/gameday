@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS FC Noah
 DTSTART:20250807T160000Z
 DTEND:20250807T180000Z
-DTSTAMP:20260523T141125Z
+DTSTAMP:20260523T154403Z
 UID:fifa-eoqshsmskknd9bddokrgierro@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
  \nStade: Europa Point Stadium\nRésultat: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:FC Noah VS Lincoln Red Imps
 DTSTART:20250814T170000Z
 DTEND:20250814T190000Z
-DTSTAMP:20260523T141125Z
+DTSTAMP:20260523T154403Z
 UID:fifa-erdivs2ncmvdqfe3a8iw2426s@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
  \nStade: Kotaik Stadium\nRésultat: 0 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Sporting Braga
 DTSTART:20250821T190000Z
 DTEND:20250821T210000Z
-DTSTAMP:20260523T141125Z
+DTSTAMP:20260523T154403Z
 UID:fifa-5a5u4m7vd2dmxo385kgm3ay38@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: Barrages\nStade: Estádio d
  o Algarve\nRésultat: 0 - 4
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Braga VS Lincoln Red Imps
 DTSTART:20250828T190000Z
 DTEND:20250828T210000Z
-DTSTAMP:20260523T141125Z
+DTSTAMP:20260523T154403Z
 UID:fifa-5c1m5vy1th8dptbzx60xv7x1w@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: Barrages\nStade: Estádio M
  unicipal de Braga\nRésultat: 5 - 1
