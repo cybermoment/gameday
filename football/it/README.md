@@ -195,7 +195,7 @@ Lingue:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Españo
 - [Liverpool](https://cybermoment.app/gameday/football/it/premier_league/liverpool)
 - [Bournemouth](https://cybermoment.app/gameday/football/it/premier_league/bournemouth)
 - [Aston Villa](https://cybermoment.app/gameday/football/it/premier_league/aston_villa)
-- [Newcastle](https://cybermoment.app/gameday/football/it/premier_league/newcastle)
+- [Newcastle](https://cybermoment.app/gameday/football/it/premier_league/newcastle_united)
 - [Sunderland](https://cybermoment.app/gameday/football/it/premier_league/sunderland)
 - [West Ham United](https://cybermoment.app/gameday/football/it/premier_league/west_ham_united)
 - [Brighton & Hove Albion](https://cybermoment.app/gameday/football/it/premier_league/brighton_hove_albion)

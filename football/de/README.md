@@ -193,25 +193,25 @@ Sprachen:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Espa�
 <summary>Premier League (20)</summary>
 
 - [Liverpool](https://cybermoment.app/gameday/football/de/premier_league/liverpool)
-- [AFC Bournemouth](https://cybermoment.app/gameday/football/de/premier_league/afc_bournemouth)
+- [AFC Bournemouth](https://cybermoment.app/gameday/football/de/premier_league/bournemouth)
 - [Aston Villa](https://cybermoment.app/gameday/football/de/premier_league/aston_villa)
 - [Newcastle United](https://cybermoment.app/gameday/football/de/premier_league/newcastle_united)
-- [AFC Sunderland](https://cybermoment.app/gameday/football/de/premier_league/afc_sunderland)
+- [AFC Sunderland](https://cybermoment.app/gameday/football/de/premier_league/sunderland)
 - [West Ham United](https://cybermoment.app/gameday/football/de/premier_league/west_ham_united)
 - [Brighton & Hove Albion](https://cybermoment.app/gameday/football/de/premier_league/brighton_hove_albion)
-- [FC Fulham](https://cybermoment.app/gameday/football/de/premier_league/fc_fulham)
+- [FC Fulham](https://cybermoment.app/gameday/football/de/premier_league/fulham)
 - [Tottenham Hotspur](https://cybermoment.app/gameday/football/de/premier_league/tottenham_hotspur)
-- [FC Burnley](https://cybermoment.app/gameday/football/de/premier_league/fc_burnley)
+- [FC Burnley](https://cybermoment.app/gameday/football/de/premier_league/burnley)
 - [Wolverhampton Wanderers](https://cybermoment.app/gameday/football/de/premier_league/wolverhampton_wanderers)
 - [Manchester City](https://cybermoment.app/gameday/football/de/premier_league/manchester_city)
 - [Chelsea FC](https://cybermoment.app/gameday/football/de/premier_league/chelsea_fc)
 - [Crystal Palace](https://cybermoment.app/gameday/football/de/premier_league/crystal_palace)
 - [Nottingham Forest](https://cybermoment.app/gameday/football/de/premier_league/nottingham_forest)
-- [FC Brentford](https://cybermoment.app/gameday/football/de/premier_league/fc_brentford)
+- [FC Brentford](https://cybermoment.app/gameday/football/de/premier_league/brentford)
 - [Manchester United](https://cybermoment.app/gameday/football/de/premier_league/manchester_united)
-- [FC Arsenal](https://cybermoment.app/gameday/football/de/premier_league/fc_arsenal)
+- [FC Arsenal](https://cybermoment.app/gameday/football/de/premier_league/arsenal)
 - [Leeds United](https://cybermoment.app/gameday/football/de/premier_league/leeds_united)
-- [FC Everton](https://cybermoment.app/gameday/football/de/premier_league/fc_everton)
+- [FC Everton](https://cybermoment.app/gameday/football/de/premier_league/everton)
 
 </details>
 <details>
