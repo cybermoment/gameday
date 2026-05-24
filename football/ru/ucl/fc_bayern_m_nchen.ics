@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Челси
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-4ul6yr2fksq114k3r287afg9g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Allianz Arena\nРезультат: 3 - 1
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos VS Бавария Мюнхен
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Alphamega Stadium\nРезультат: 1
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Клуб Брюгге
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Allianz Arena\nРезультат: 4 - 0
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Бавария Мюнхен
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Парк де Пренс\nРезульт
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Бавария Мюнхен
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 3 
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Спортинг Лиссабон
 DTSTART:20251209T174500Z
 DTEND:20251209T194500Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Allianz Arena\nРезультат: 3 - 1
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Юнион Сент-Жиллуаз
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-60cf47tmbsv54dj3ruq6r5dec@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Allianz Arena\nРезультат: 2 - 0
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:ПСВ VS Бавария Мюнхен
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-67h5xtrudih8xgebmw0ni8178@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Филипс\nРезул
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Бавария Мюнхен
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: New Balance Arena\nРезульта
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Аталанта
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Allianz Arena\nРезультат: 4
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Бавария Мюнхен
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-9vufgb7gp2kyxzv8ftvwcesyc@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Estadio Bernabéu\nРезульта
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Реал Мадрид
 DTSTART:20260415T190000Z
 DTEND:20260415T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-27wrp262d2qdqseiunjrk8dg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Allianz Arena\nРезультат: 4
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Бавария Мюнхен
 DTSTART:20260428T190000Z
 DTEND:20260428T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-b5v1bdk3yghbdtgjwyqyjz02c@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Парк де Пренс\nРезул
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Paris Saint-Germain
 DTSTART:20260506T190000Z
 DTEND:20260506T210000Z
-DTSTAMP:20260523T233717Z
+DTSTAMP:20260524T041549Z
 UID:fifa-dkvlgk22rlyecfay5qgz48wes@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Allianz Arena\nРезультат: 1
