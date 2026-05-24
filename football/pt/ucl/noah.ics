@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Noah VS Buducnost Podgorica
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
-DTSTAMP:20260524T100115Z
+DTSTAMP:20260524T115017Z
 UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 1ª rodada cl
  assificatória\nEstádio: Kotaik Stadium\nResultado: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Buducnost Podgorica VS Noah
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260524T100115Z
+DTSTAMP:20260524T115017Z
 UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 1ª rodada cl
  assificatória\nEstádio: Stadion Pod Goricom\nResultado: 2 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Noah VS Ferencvárosi
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260524T100115Z
+DTSTAMP:20260524T115017Z
 UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 2ª rodada cl
  assificatória\nEstádio: Kotaik Stadium\nResultado: 1 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvárosi VS Noah
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260524T100115Z
+DTSTAMP:20260524T115017Z
 UID:fifa-701azda2tmhto993kf731cowk@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: 2ª rodada cl
  assificatória\nEstádio: Groupama Aréna\nResultado: 4 - 3
