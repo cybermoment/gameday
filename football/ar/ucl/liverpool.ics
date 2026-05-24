@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS أتلتيكو مدريد
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS ليفربول
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-4zy839pwz57fo6s7vmh7ntv6c@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS ليفربول
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-59bpikh36bw9pwdd7xuyp30gk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS ريال مدريد
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-5cldkwitxdgvsmr4erkx8zyms@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS ايندهوفن
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-5n3jb853xf57iw2n1sw8ioc9g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:إنتر ميلان VS ليفربول
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-5qd2von9gayml36rbaib0bdp0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد جوزيبي مي
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS ليفربول
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-61hsz6689o7g9ybeya58oox78@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد فيلودروم\n
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS كارباغ أغدام
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-65yo7coecrnl1gwgkdatt2xas@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أنفيلد\nالنتيجة:
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS ليفربول
 DTSTART:20260310T174500Z
 DTEND:20260310T194500Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-4mgtzo7ycptzkfyv1top89st0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: ملعب تورك تليكوم\nال
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS غلطة سراي
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-4p8fjg0wpd5eyaa0t0mv8pzx0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: أنفيلد\nالنتيجة: 4 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS ليفربول
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-7om4mss983m7d0dadr87xfuok@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: ربع النهائي\nالملعب: بارك دي برينس\nال
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS باريس سان جيرمان
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260524T134954Z
+DTSTAMP:20260524T151200Z
 UID:fifa-ek0bykzmr876s0vcbxdqua3h0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: ربع النهائي\nالملعب: أنفيلد\nالنتيجة: 0
