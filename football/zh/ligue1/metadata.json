@@ -12,7 +12,7 @@
     {
       "id": "33192",
       "name": "马赛",
-      "filename": "marseille"
+      "filename": "olympique_marseille"
     },
     {
       "id": "400129932",
@@ -22,12 +22,12 @@
     {
       "id": "26230",
       "name": "里昂",
-      "filename": "lyon"
+      "filename": "olympique_lyonnais"
     },
     {
       "id": "30983",
       "name": "摩纳哥",
-      "filename": "monaco"
+      "filename": "as_monaco"
     },
     {
       "id": "1955644",
@@ -37,17 +37,17 @@
     {
       "id": "44203",
       "name": "尼斯",
-      "filename": "nice"
+      "filename": "ogc_nice"
     },
     {
       "id": "33352",
       "name": "图卢兹",
-      "filename": "toulouse"
+      "filename": "toulouse_fc"
     },
     {
       "id": "400079771",
       "name": "布雷斯特",
-      "filename": "brest"
+      "filename": "stade_brestois"
     },
     {
       "id": "33350",
@@ -57,17 +57,17 @@
     {
       "id": "31032",
       "name": "梅斯",
-      "filename": "metz"
+      "filename": "fc_metz"
     },
     {
       "id": "44239",
       "name": "斯特拉斯堡",
-      "filename": "strasbourg"
+      "filename": "rc_strasbourg_alsace"
     },
     {
       "id": "2000019156",
       "name": "昂热",
-      "filename": "angers"
+      "filename": "angers_sco"
     },
     {
       "id": "8v00fx2zwhiwm05tqqkt122p5",
@@ -82,12 +82,12 @@
     {
       "id": "400129931",
       "name": "洛里昂",
-      "filename": "lorient"
+      "filename": "fc_lorient"
     },
     {
       "id": "2000000574",
       "name": "南特",
-      "filename": "nantes"
+      "filename": "fc_nantes"
     },
     {
       "id": "1956449",
