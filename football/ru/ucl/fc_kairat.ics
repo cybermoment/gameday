@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпия VS Кайрат
 DTSTART:20250708T170000Z
 DTEND:20250708T190000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-a9aiop7i6u9lkj6zor7b0kf84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Стад
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Олимпия
 DTSTART:20250715T150000Z
 DTEND:20250715T170000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-abgirlxxnvpt0vh19dzb25nv8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Ortalyq s
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:КуПС VS Кайрат
 DTSTART:20250722T150000Z
 DTEND:20250722T170000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Väre Areena\nРезультат: 2 -
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS КуПС
 DTSTART:20250729T150000Z
 DTEND:20250729T170000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Слован Братислава
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Слован Братислава VS Кайрат
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Селтик VS Кайрат
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-1u9jax6i0ynm3s9mwmfanvk0k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Celtic Park\nРезультат: 0 - 
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Селтик
 DTSTART:20250826T164500Z
 DTEND:20250826T184500Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-1xzbxz6fpa09fpl2m14lzcdg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Ortalyq stadıon\nРезультат:
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Лиссабон VS Кайрат
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Реал Мадрид
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-4y59n6hs1chc516v7tjoivswk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Ortalyq stadıon\nРезультат: 0 
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Pafos
 DTSTART:20251021T164500Z
 DTEND:20251021T184500Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Ortalyq stadıon\nРезультат: 0 
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Кайрат
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-5fofplo2ckg0386q0t12xen84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stadio Giuseppe Meazza\nРезульта
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Копенгаген VS Кайрат
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Паркен\nРезул
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Олимпиакос Пирей
 DTSTART:20251209T153000Z
 DTEND:20251209T173000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-5oj283apl8jj8cc5xrjaa4etw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Астана Арена\n
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Клуб Брюгге
 DTSTART:20260120T153000Z
 DTEND:20260120T173000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Астана Арена\n
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Кайрат
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260526T192637Z
+DTSTAMP:20260526T211357Z
 UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 3 
