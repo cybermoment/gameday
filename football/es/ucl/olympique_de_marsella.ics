@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Champions League - Olympique de Marsella //
+X-WR-CALNAME:UEFA Champions League - Olympique de Marsella
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Real Madrid C.F. VS Olympique de Marsella
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-4sffoari6ugnp3roi1m3k7xn8@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Estadio Bernabéu\nResultado: 2 - 1
+GEO:40.453068;-3.688354
+LOCATION:Estadio Bernabéu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
+ E-RADIUS=70;X-TITLE="Estadio Bernabéu":geo:40.453068,-3.688354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympique de Marsella VS Ajax
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-50aybm4aduzr2y0na0l1tj2tw@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Orange Vélodrome\nResultado: 4 - 0
+GEO:43.26987;5.395854
+LOCATION:Orange Vélodrome
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Orange Vélodrome";X-APPL
+ E-RADIUS=70;X-TITLE="Orange Vélodrome":geo:43.26987,5.395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting de Lisboa VS Olympique de Marsella
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Estádio José Alvalade\nResultado: 2 - 1
+GEO:38.761207;-9.160876
+LOCATION:Estádio José Alvalade
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio José Alvalade";
+ X-APPLE-RADIUS=70;X-TITLE="Estádio José Alvalade":geo:38.761207,-9.16087
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympique de Marsella VS Atalanta
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-5gvvzdmzgkymkhsskiiyiwdg4@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Orange Vélodrome\nResultado: 0 - 1
+GEO:43.26987;5.395854
+LOCATION:Orange Vélodrome
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Orange Vélodrome";X-APPL
+ E-RADIUS=70;X-TITLE="Orange Vélodrome":geo:43.26987,5.395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympique de Marsella VS Newcastle United
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-5jvxlvcsjl7gv4i0tj10rqntg@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Orange Vélodrome\nResultado: 2 - 1
+GEO:43.26987;5.395854
+LOCATION:Orange Vélodrome
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Orange Vélodrome";X-APPL
+ E-RADIUS=70;X-TITLE="Orange Vélodrome":geo:43.26987,5.395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Saint-Gilloise VS Olympique de Marsella
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-5r3sfsleiu2c82yuruwzhcv84@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Lotto Park\nResultado: 2 - 3
+GEO:50.834182;4.298353
+LOCATION:Lotto Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lotto Park";X-APPLE-RADIU
+ S=70;X-TITLE="Lotto Park":geo:50.834182,4.298353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympique de Marsella VS Liverpool
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-61hsz6689o7g9ybeya58oox78@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Orange Vélodrome\nResultado: 0 - 3
+GEO:43.26987;5.395854
+LOCATION:Orange Vélodrome
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Orange Vélodrome";X-APPL
+ E-RADIUS=70;X-TITLE="Orange Vélodrome":geo:43.26987,5.395854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brujas VS Olympique de Marsella
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DTSTAMP:20260526T165939Z
+UID:fifa-64sx5q7qlo1ahz8cb3ss3lp90@fifa.com
+DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
+ io: Jan Breydelstadion\nResultado: 3 - 0
+GEO:51.193451;3.180542
+LOCATION:Jan Breydelstadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jan Breydelstadion";X-APP
+ LE-RADIUS=70;X-TITLE="Jan Breydelstadion":geo:51.193451,3.180542
+END:VEVENT
+END:VCALENDAR

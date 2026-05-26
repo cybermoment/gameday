@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// دوري أبطال أوروبا - ايبيريا 199
+ 9 //
+X-WR-CALNAME:دوري أبطال أوروبا - ايبيريا 1999
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ايبيريا 1999 VS مالمو
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DTSTAMP:20260526T165942Z
+UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد ميخ
+ ائيل ميسخي\nالنتيجة: 1 - 3
+GEO:41.709809;44.746183
+LOCATION:استاد ميخائيل ميسخي
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد ميخائيل
+  ميسخي";X-APPLE-RADIUS=70;X-TITLE="استاد ميخائيل ميسخ
+ ي":geo:41.709809,44.746183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:مالمو VS ايبيريا 1999
+DTSTART:20250715T170000Z
+DTEND:20250715T190000Z
+DTSTAMP:20260526T165942Z
+UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
+DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
+ لة: دور التصفيات الأول\nالملعب: استاد سوي
+ دبانك\nالنتيجة: 3 - 1
+GEO:55.583646;12.987815
+LOCATION:استاد سويدبانك
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="استاد سويدبان
+ ك";X-APPLE-RADIUS=70;X-TITLE="استاد سويدبانك":geo:55.583646,
+ 12.987815
+END:VEVENT
+END:VCALENDAR

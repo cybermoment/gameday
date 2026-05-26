@@ -12,17 +12,17 @@
     {
       "id": "2000002596",
       "name": "维托鲁尔",
-      "filename": "milsami_orhei"
+      "filename": "milsami"
     },
     {
       "id": "2000019195",
       "name": "伊比利亚俱乐部 1999",
-      "filename": "fc_saburtalo"
+      "filename": "iberia"
     },
     {
       "id": "31098",
       "name": "马尔默",
-      "filename": "malm_ff"
+      "filename": "malm"
     },
     {
       "id": "e9x62jymlef5ugsrijq19ur8q",
@@ -32,27 +32,27 @@
     {
       "id": "2000000725",
       "name": "布度诺斯特",
-      "filename": "buducnost_podgorica"
+      "filename": "budu_nost"
     },
     {
       "id": "1885459",
       "name": "利华迪亚",
-      "filename": "fc_levadia_tallinn"
+      "filename": "levadia"
     },
     {
       "id": "2000019334",
       "name": "道加瓦",
-      "filename": "rigas_futbola_skola"
+      "filename": "rfs"
     },
     {
       "id": "2000002626",
       "name": "卢布尔雅那奥林匹亚",
-      "filename": "olimpija_ljubljana"
+      "filename": "olimpija"
     },
     {
       "id": "482",
       "name": "凯拉特",
-      "filename": "fc_kairat"
+      "filename": "kairat"
     },
     {
       "id": "2000019538",
@@ -62,17 +62,17 @@
     {
       "id": "2147482830",
       "name": "迪费丹格03",
-      "filename": "fc_differdange_03"
+      "filename": "differdange"
     },
     {
       "id": "2147482183",
       "name": "新圣徒",
-      "filename": "the_new_saints"
+      "filename": "tns"
     },
     {
       "id": "1885492",
       "name": "舒肯迪加79",
-      "filename": "kf_shk_ndija"
+      "filename": "shkendija"
     },
     {
       "id": "2000000467",
@@ -82,7 +82,7 @@
     {
       "id": "2000019171",
       "name": "林肯红魔",
-      "filename": "lincoln_red_imps_fc"
+      "filename": "red_imps"
     },
     {
       "id": "400197961",
@@ -92,7 +92,7 @@
     {
       "id": "446",
       "name": "布雷达比利克",
-      "filename": "brei_ablik"
+      "filename": "breidablik"
     },
     {
       "id": "2147481404",
@@ -102,17 +102,17 @@
     {
       "id": "1885396",
       "name": "兹林伊斯基",
-      "filename": "hsk_zrinjski"
+      "filename": "zrinjski"
     },
     {
       "id": "1885554",
       "name": "萨拉基利斯",
-      "filename": "zalgiris_vilnius"
+      "filename": "algiris"
     },
     {
       "id": "1885581",
       "name": "哈姆伦斯巴坦斯",
-      "filename": "hamrun_spartans"
+      "filename": "hamrun"
     },
     {
       "id": "2000012840",
@@ -132,7 +132,7 @@
     {
       "id": "2000000058",
       "name": "伊斯卡尔德斯",
-      "filename": "inter_d_escaldes"
+      "filename": "inter_club"
     },
     {
       "id": "400108464",
@@ -142,7 +142,7 @@
     {
       "id": "1885604",
       "name": "连菲特",
-      "filename": "linfield_fc"
+      "filename": "linfield"
     },
     {
       "id": "1885747",
@@ -162,12 +162,12 @@
     {
       "id": "2147483300",
       "name": "比尔森胜利",
-      "filename": "viktoria_plze"
+      "filename": "plze"
     },
     {
       "id": "400068644",
       "name": "塞尔维特",
-      "filename": "servette_fc"
+      "filename": "servette"
     },
     {
       "id": "44323",
@@ -177,22 +177,22 @@
     {
       "id": "2000000641",
       "name": "Pafos",
-      "filename": "pafos_fc"
+      "filename": "pafos"
     },
     {
       "id": "1885529",
       "name": "特拉维夫马卡比",
-      "filename": "maccabi_tel_aviv"
+      "filename": "maccabi_ta"
     },
     {
       "id": "674",
       "name": "斯洛文巴拉迪斯拉法",
-      "filename": "slovan_bratislava"
+      "filename": "slovan"
     },
     {
       "id": "1884654",
       "name": "莱克普斯纳",
-      "filename": "lech_poznan"
+      "filename": "lech"
     },
     {
       "id": "31067",
@@ -207,12 +207,12 @@
     {
       "id": "310",
       "name": "里杰卡",
-      "filename": "hnk_rijeka"
+      "filename": "rijeka"
     },
     {
       "id": "1885332",
       "name": "布兰恩",
-      "filename": "sk_brann"
+      "filename": "brann"
     },
     {
       "id": "1956494",
@@ -222,7 +222,7 @@
     {
       "id": "2147483549",
       "name": "卡拉巴赫",
-      "filename": "qarabag_fk"
+      "filename": "qaraba"
     },
     {
       "id": "30997",
@@ -242,7 +242,7 @@
     {
       "id": "44203",
       "name": "尼斯",
-      "filename": "ogc_nice"
+      "filename": "nice"
     },
     {
       "id": "1914613",
@@ -252,17 +252,17 @@
     {
       "id": "655",
       "name": "巴塞尔",
-      "filename": "fc_basel"
+      "filename": "basel"
     },
     {
       "id": "2000000083",
       "name": "波德格里姆特",
-      "filename": "fk_bod_glimt"
+      "filename": "bod_glimt"
     },
     {
       "id": "31057",
       "name": "格拉茨飓风",
-      "filename": "sturm_graz"
+      "filename": "sturm"
     },
     {
       "id": "1914704",
@@ -277,12 +277,12 @@
     {
       "id": "2000019580",
       "name": "圣吉罗斯联合",
-      "filename": "union"
+      "filename": "r_union_sg"
     },
     {
       "id": "31071",
       "name": "毕尔巴鄂竞技",
-      "filename": "athletic_club"
+      "filename": "athletic"
     },
     {
       "id": "32847",
@@ -292,7 +292,7 @@
     {
       "id": "23437",
       "name": "托特纳姆热刺",
-      "filename": "tottenham_hotspur"
+      "filename": "spurs"
     },
     {
       "id": "1882482",
@@ -317,22 +317,22 @@
     {
       "id": "33192",
       "name": "马赛",
-      "filename": "olympique_marseille"
+      "filename": "marseille"
     },
     {
       "id": "420",
       "name": "奥林匹亚科斯",
-      "filename": "olympiakos_piraeus"
+      "filename": "olympiakos"
     },
     {
       "id": "323",
       "name": "布拉格斯拉维亚",
-      "filename": "slavia_praha"
+      "filename": "slavia"
     },
     {
       "id": "1896634",
       "name": "利物浦",
-      "filename": "liverpool"
+      "filename": "liverpool_fc"
     },
     {
       "id": "1914808",
@@ -372,17 +372,17 @@
     {
       "id": "30983",
       "name": "摩纳哥",
-      "filename": "as_monaco"
+      "filename": "monaco"
     },
     {
       "id": "31055",
       "name": "勒沃库森",
-      "filename": "bayer_leverkusen"
+      "filename": "leverkusen"
     },
     {
       "id": "44136",
       "name": "纽卡斯尔联",
-      "filename": "newcastle_united"
+      "filename": "newcastle"
     },
     {
       "id": "1903416",
@@ -402,7 +402,7 @@
     {
       "id": "31023",
       "name": "法兰克福",
-      "filename": "eintracht_frankfurt"
+      "filename": "frankfurt"
     },
     {
       "id": "31018",
@@ -412,7 +412,7 @@
     {
       "id": "1939310",
       "name": "葡萄牙体育",
-      "filename": "sporting_cp"
+      "filename": "sporting"
     }
   ]
 }
