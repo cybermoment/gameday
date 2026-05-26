@@ -7,7 +7,7 @@
     {
       "id": "1885177",
       "name": "KuPS Kuopio",
-      "filename": "kups_kuopio"
+      "filename": "kups"
     },
     {
       "id": "2000002596",
@@ -17,17 +17,17 @@
     {
       "id": "2000019195",
       "name": "Iberia 1999",
-      "filename": "iberia_1999"
+      "filename": "fc_saburtalo"
     },
     {
       "id": "31098",
       "name": "Malmoe",
-      "filename": "malmoe"
+      "filename": "malm_ff"
     },
     {
       "id": "e9x62jymlef5ugsrijq19ur8q",
       "name": "FC Noah",
-      "filename": "fc_noah"
+      "filename": "noah"
     },
     {
       "id": "2000000725",
@@ -37,12 +37,12 @@
     {
       "id": "1885459",
       "name": "FCI Levadia",
-      "filename": "fci_levadia"
+      "filename": "fc_levadia_tallinn"
     },
     {
       "id": "2000019334",
       "name": "Rigas FS",
-      "filename": "rigas_fs"
+      "filename": "rigas_futbola_skola"
     },
     {
       "id": "2000002626",
@@ -52,17 +52,17 @@
     {
       "id": "482",
       "name": "Qairat Almaty",
-      "filename": "qairat_almaty"
+      "filename": "fc_kairat"
     },
     {
       "id": "2000019538",
       "name": "KF Drita",
-      "filename": "kf_drita"
+      "filename": "drita"
     },
     {
       "id": "2147482830",
       "name": "Differdange 03",
-      "filename": "differdange_03"
+      "filename": "fc_differdange_03"
     },
     {
       "id": "2147482183",
@@ -72,7 +72,7 @@
     {
       "id": "1885492",
       "name": "Shkendija Tetovo",
-      "filename": "shkendija_tetovo"
+      "filename": "kf_shk_ndija"
     },
     {
       "id": "2000000467",
@@ -82,17 +82,17 @@
     {
       "id": "2000019171",
       "name": "Lincoln Red Imps",
-      "filename": "lincoln_red_imps"
+      "filename": "lincoln_red_imps_fc"
     },
     {
       "id": "400197961",
       "name": "Egnatia Rrogozhinë",
-      "filename": "egnatia_rrogozhin"
+      "filename": "egnatia"
     },
     {
       "id": "446",
       "name": "Breidablik",
-      "filename": "breidablik"
+      "filename": "brei_ablik"
     },
     {
       "id": "2147481404",
@@ -102,12 +102,12 @@
     {
       "id": "1885396",
       "name": "Zrinjski",
-      "filename": "zrinjski"
+      "filename": "hsk_zrinjski"
     },
     {
       "id": "1885554",
       "name": "Zalgiris Vilna",
-      "filename": "zalgiris_vilna"
+      "filename": "zalgiris_vilnius"
     },
     {
       "id": "1885581",
@@ -127,12 +127,12 @@
     {
       "id": "1914834",
       "name": "Steaua Bucurest",
-      "filename": "steaua_bucurest"
+      "filename": "fcsb"
     },
     {
       "id": "2000000058",
       "name": "Inter Club Escaldes",
-      "filename": "inter_club_escaldes"
+      "filename": "inter_d_escaldes"
     },
     {
       "id": "400108464",
@@ -142,42 +142,42 @@
     {
       "id": "1885604",
       "name": "Linfield",
-      "filename": "linfield"
+      "filename": "linfield_fc"
     },
     {
       "id": "1885747",
       "name": "Estrella Roja Belgrado",
-      "filename": "estrella_roja_belgrado"
+      "filename": "crvena_zvezda"
     },
     {
       "id": "1885533",
       "name": "Ferencvaros",
-      "filename": "ferencvaros"
+      "filename": "ferencv_ros"
     },
     {
       "id": "36735",
       "name": "Dinamo Kiev",
-      "filename": "dinamo_kiev"
+      "filename": "dynamo_kyiv"
     },
     {
       "id": "2147483300",
       "name": "Viktoria Plzen",
-      "filename": "viktoria_plzen"
+      "filename": "viktoria_plze"
     },
     {
       "id": "400068644",
       "name": "Servette",
-      "filename": "servette"
+      "filename": "servette_fc"
     },
     {
       "id": "44323",
       "name": "FC Copenhague",
-      "filename": "fc_copenhague"
+      "filename": "k_benhavn"
     },
     {
       "id": "2000000641",
       "name": "Pafos",
-      "filename": "pafos"
+      "filename": "pafos_fc"
     },
     {
       "id": "1885529",
@@ -192,12 +192,12 @@
     {
       "id": "1884654",
       "name": "Lech Poznań",
-      "filename": "lech_pozna"
+      "filename": "lech_poznan"
     },
     {
       "id": "31067",
       "name": "Glasgow Rangers",
-      "filename": "glasgow_rangers"
+      "filename": "rangers"
     },
     {
       "id": "31033",
@@ -207,12 +207,12 @@
     {
       "id": "310",
       "name": "Rijeka",
-      "filename": "rijeka"
+      "filename": "hnk_rijeka"
     },
     {
       "id": "1885332",
       "name": "Brann Bergen",
-      "filename": "brann_bergen"
+      "filename": "sk_brann"
     },
     {
       "id": "1956494",
@@ -222,12 +222,12 @@
     {
       "id": "2147483549",
       "name": "Qarabag",
-      "filename": "qarabag"
+      "filename": "qarabag_fk"
     },
     {
       "id": "30997",
       "name": "Brujas",
-      "filename": "brujas"
+      "filename": "club_brugge"
     },
     {
       "id": "44137",
@@ -242,7 +242,7 @@
     {
       "id": "44203",
       "name": "Niza",
-      "filename": "niza"
+      "filename": "ogc_nice"
     },
     {
       "id": "1914613",
@@ -252,12 +252,12 @@
     {
       "id": "655",
       "name": "Basilea",
-      "filename": "basilea"
+      "filename": "fc_basel"
     },
     {
       "id": "2000000083",
       "name": "Bodo Glimt",
-      "filename": "bodo_glimt"
+      "filename": "fk_bod_glimt"
     },
     {
       "id": "31057",
@@ -267,17 +267,17 @@
     {
       "id": "1914704",
       "name": "Independiente",
-      "filename": "independiente"
+      "filename": "celtic"
     },
     {
       "id": "1914838",
       "name": "PSV Eindhoven",
-      "filename": "psv_eindhoven"
+      "filename": "psv"
     },
     {
       "id": "2000019580",
       "name": "Union Saint-Gilloise",
-      "filename": "union_saint_gilloise"
+      "filename": "union"
     },
     {
       "id": "31071",
@@ -317,17 +317,17 @@
     {
       "id": "33192",
       "name": "Olympique de Marsella",
-      "filename": "olympique_de_marsella"
+      "filename": "olympique_marseille"
     },
     {
       "id": "420",
       "name": "Olympiakos de El Pireo",
-      "filename": "olympiakos_de_el_pireo"
+      "filename": "olympiakos_piraeus"
     },
     {
       "id": "323",
       "name": "Slavia Praga",
-      "filename": "slavia_praga"
+      "filename": "slavia_praha"
     },
     {
       "id": "1896634",
@@ -372,7 +372,7 @@
     {
       "id": "30983",
       "name": "AS Mónaco",
-      "filename": "as_m_naco"
+      "filename": "as_monaco"
     },
     {
       "id": "31055",
@@ -387,7 +387,7 @@
     {
       "id": "1903416",
       "name": "FC Barcelona",
-      "filename": "fc_barcelona"
+      "filename": "barcelona"
     },
     {
       "id": "1956198",
@@ -397,7 +397,7 @@
     {
       "id": "2147481899",
       "name": "Nápoles",
-      "filename": "n_poles"
+      "filename": "napoli"
     },
     {
       "id": "31023",
@@ -412,7 +412,7 @@
     {
       "id": "1939310",
       "name": "Sporting de Lisboa",
-      "filename": "sporting_de_lisboa"
+      "filename": "sporting_cp"
     }
   ]
 }
