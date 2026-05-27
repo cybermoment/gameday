@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Hamrun Spartans VS Dynamo Kiew
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260527T001457Z
+DTSTAMP:20260527T045832Z
 UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: MFA Centenary Stadium\nErgebnis: 0 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamo Kiew VS Hamrun Spartans
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260527T001457Z
+DTSTAMP:20260527T045832Z
 UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Motor Lublin Arena\nErgebnis: 3 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamo Kiew VS Pafos
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260527T001457Z
+DTSTAMP:20260527T045832Z
 UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Motor Lublin Arena\nErgebnis: 0 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos VS Dynamo Kiew
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260527T001457Z
+DTSTAMP:20260527T045832Z
 UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Alphamega Stadium\nErgebnis: 2 - 0
