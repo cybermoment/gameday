@@ -1,13 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FIFA API// Лига чемпионов УЕФА - FC Salzburg //
-X-WR-CALNAME:Лига чемпионов УЕФА - FC Salzburg
+PRODID:-//FIFA API// Лига чемпионов УЕФА - Зальцбу
+ рг //
+X-WR-CALNAME:Лига чемпионов УЕФА - Зальцбург
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Бранн VS FC Salzburg
+SUMMARY:Бранн VS Зальцбург
 DTSTART:20250723T170000Z
 DTEND:20250723T190000Z
-DTSTAMP:20260529T041814Z
+DTSTAMP:20260529T082614Z
 UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Brann Stadion\nРезультат: 1 
@@ -18,10 +19,10 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Brann Stadion";X-APPLE-RA
  DIUS=70;X-TITLE="Brann Stadion":geo:60.366933,5.357417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Salzburg VS Бранн
+SUMMARY:Зальцбург VS Бранн
 DTSTART:20250730T184500Z
 DTEND:20250730T204500Z
-DTSTAMP:20260529T041814Z
+DTSTAMP:20260529T082614Z
 UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Ред Булл Арена\nРезу
@@ -33,10 +34,10 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ред Булл Арен
  2.998183
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Salzburg VS Клуб Брюгге
+SUMMARY:Зальцбург VS Клуб Брюгге
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260529T041814Z
+DTSTAMP:20260529T082614Z
 UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ред Булл Арена\nРезу
@@ -48,10 +49,10 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ред Булл Арен
  2.998183
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Клуб Брюгге VS FC Salzburg
+SUMMARY:Клуб Брюгге VS Зальцбург
 DTSTART:20250812T173000Z
 DTEND:20250812T193000Z
-DTSTAMP:20260529T041814Z
+DTSTAMP:20260529T082614Z
 UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Jan Breydelstadion\nРезульта
