@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:صباح VS تسيليى
 DTSTART:20250710T160000Z
 DTEND:20250710T180000Z
-DTSTAMP:20260529T082626Z
+DTSTAMP:20260529T114930Z
 UID:fifa-2f6h6i97foyk2tu0v3pl5ma6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الأول\nالملعب: بنك ريسبوب
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:تسيليى VS صباح
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260529T082626Z
+DTSTAMP:20260529T114930Z
 UID:fifa-2jh727gls85kvh4no8ld22mtw@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الأول\nالملعب: ملعب زديزي
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:تسيليى VS آيك لارناكا
 DTSTART:20250724T180000Z
 DTEND:20250724T200000Z
-DTSTAMP:20260529T082626Z
+DTSTAMP:20260529T114930Z
 UID:fifa-7366wtevmanq0otla4swyzbbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الثاني\nالملعب: ملعب زديز
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:آيك لارناكا VS تسيليى
 DTSTART:20250731T163000Z
 DTEND:20250731T183000Z
-DTSTAMP:20260529T082626Z
+DTSTAMP:20260529T114930Z
 UID:fifa-74a58utzgpm01v9ozw2m3otg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الأوروبي\nالمرحل
  ة: دور التصفيات الثاني\nالملعب: أيك أرينا 
