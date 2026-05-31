@@ -217,26 +217,26 @@ Idiomas:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Españ
 <details>
 <summary>La Liga (20)</summary>
 
-- [Girona](https://cybermoment.app/gameday/football/pt/laliga/girona_fc)
+- [Girona](https://cybermoment.app/gameday/football/pt/laliga/girona)
 - [Rayo Vallecano](https://cybermoment.app/gameday/football/pt/laliga/rayo_vallecano)
 - [Villarreal](https://cybermoment.app/gameday/football/pt/laliga/villarreal)
 - [Real Oviedo](https://cybermoment.app/gameday/football/pt/laliga/real_oviedo)
-- [Mallorca](https://cybermoment.app/gameday/football/pt/laliga/rcd_mallorca)
+- [Mallorca](https://cybermoment.app/gameday/football/pt/laliga/mallorca)
 - [Barcelona](https://cybermoment.app/gameday/football/pt/laliga/barcelona)
-- [Alavés](https://cybermoment.app/gameday/football/pt/laliga/deportivo_alav_s)
-- [Levante](https://cybermoment.app/gameday/football/pt/laliga/levante_ud)
-- [Valencia](https://cybermoment.app/gameday/football/pt/laliga/valencia_cf)
+- [Alavés](https://cybermoment.app/gameday/football/pt/laliga/alav_s)
+- [Levante](https://cybermoment.app/gameday/football/pt/laliga/levante)
+- [Valencia](https://cybermoment.app/gameday/football/pt/laliga/valencia)
 - [Real Sociedad](https://cybermoment.app/gameday/football/pt/laliga/real_sociedad)
-- [Celta de Vigo](https://cybermoment.app/gameday/football/pt/laliga/rc_celta)
-- [Getafe](https://cybermoment.app/gameday/football/pt/laliga/getafe_cf)
-- [Athletic Bilbao](https://cybermoment.app/gameday/football/pt/laliga/athletic_club)
+- [Celta de Vigo](https://cybermoment.app/gameday/football/pt/laliga/celta_de_vigo)
+- [Getafe](https://cybermoment.app/gameday/football/pt/laliga/getafe)
+- [Athletic Bilbao](https://cybermoment.app/gameday/football/pt/laliga/athletic_bilbao)
 - [Sevilla](https://cybermoment.app/gameday/football/pt/laliga/sevilla)
-- [Espanyol](https://cybermoment.app/gameday/football/pt/laliga/rcd_espanyol)
+- [Espanyol](https://cybermoment.app/gameday/football/pt/laliga/espanyol)
 - [Atlético de Madrid](https://cybermoment.app/gameday/football/pt/laliga/atl_tico_de_madrid)
-- [Elche](https://cybermoment.app/gameday/football/pt/laliga/elche_cf)
-- [Betis](https://cybermoment.app/gameday/football/pt/laliga/real_betis)
+- [Elche](https://cybermoment.app/gameday/football/pt/laliga/elche)
+- [Betis](https://cybermoment.app/gameday/football/pt/laliga/betis)
 - [Real Madrid C.F.](https://cybermoment.app/gameday/football/pt/laliga/real_madrid_c_f)
-- [Osasuna](https://cybermoment.app/gameday/football/pt/laliga/ca_osasuna)
+- [Osasuna](https://cybermoment.app/gameday/football/pt/laliga/osasuna)
 
 </details>
 <details>

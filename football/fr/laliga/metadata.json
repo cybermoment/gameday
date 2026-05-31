@@ -7,7 +7,7 @@
     {
       "id": "2000019642",
       "name": "Girona",
-      "filename": "girona_fc"
+      "filename": "girona"
     },
     {
       "id": "2000006891",
@@ -27,27 +27,27 @@
     {
       "id": "400074602",
       "name": "Majorque",
-      "filename": "rcd_mallorca"
+      "filename": "majorque"
     },
     {
       "id": "1903416",
       "name": "FC Barcelone",
-      "filename": "barcelona"
+      "filename": "fc_barcelone"
     },
     {
       "id": "356",
       "name": "Alavés",
-      "filename": "deportivo_alav_s"
+      "filename": "alav_s"
     },
     {
       "id": "1883309",
       "name": "Levante",
-      "filename": "levante_ud"
+      "filename": "levante"
     },
     {
       "id": "32840",
       "name": "Valence",
-      "filename": "valencia_cf"
+      "filename": "valence"
     },
     {
       "id": "31069",
@@ -57,27 +57,27 @@
     {
       "id": "2000006874",
       "name": "Celta Vigo",
-      "filename": "rc_celta"
+      "filename": "celta_vigo"
     },
     {
       "id": "1884966",
       "name": "Getafe",
-      "filename": "getafe_cf"
+      "filename": "getafe"
     },
     {
       "id": "31071",
       "name": "Athletic Bilbao",
-      "filename": "athletic_club"
+      "filename": "athletic_bilbao"
     },
     {
       "id": "358",
       "name": "Séville",
-      "filename": "sevilla"
+      "filename": "s_ville"
     },
     {
       "id": "44229",
       "name": "Espanyol Barcelone",
-      "filename": "rcd_espanyol"
+      "filename": "espanyol_barcelone"
     },
     {
       "id": "1914808",
@@ -87,12 +87,12 @@
     {
       "id": "400139932",
       "name": "Elche",
-      "filename": "elche_cf"
+      "filename": "elche"
     },
     {
       "id": "32838",
       "name": "Real Bétis",
-      "filename": "real_betis"
+      "filename": "real_b_tis"
     },
     {
       "id": "30504",
@@ -102,7 +102,7 @@
     {
       "id": "400074600",
       "name": "Osasuna",
-      "filename": "ca_osasuna"
+      "filename": "osasuna"
     }
   ]
 }
