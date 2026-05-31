@@ -7,12 +7,12 @@
     {
       "id": "2000019873",
       "name": "Sabah",
-      "filename": "sabah"
+      "filename": "sabah_fk"
     },
     {
       "id": "1885701",
       "name": "Celje",
-      "filename": "celje"
+      "filename": "nk_celje"
     },
     {
       "id": "2147483321",
@@ -22,27 +22,27 @@
     {
       "id": "44271",
       "name": "Partizan Belgrado",
-      "filename": "partizan_belgrado"
+      "filename": "partizan_beograd"
     },
     {
       "id": "2147483060",
       "name": "Paks",
-      "filename": "paks"
+      "filename": "paksi_fc"
     },
     {
       "id": "2147482568",
       "name": "Cluj",
-      "filename": "cluj"
+      "filename": "cfr_1907_cluj"
     },
     {
       "id": "1885330",
       "name": "Sheriff Tiraspol",
-      "filename": "sheriff_tiraspol"
+      "filename": "sheriff"
     },
     {
       "id": "2000019541",
       "name": "Prishtina",
-      "filename": "prishtina"
+      "filename": "fc_prishtina"
     },
     {
       "id": "30998",
@@ -72,17 +72,17 @@
     {
       "id": "2000001056",
       "name": "Häcken",
-      "filename": "h_cken"
+      "filename": "bk_h_cken"
     },
     {
       "id": "1884655",
       "name": "Legia Varsóvia",
-      "filename": "legia_vars_via"
+      "filename": "legia_warszawa"
     },
     {
       "id": "2147482926",
       "name": "Aktobe",
-      "filename": "aktobe"
+      "filename": "fc_aktobe"
     },
     {
       "id": "314",
@@ -92,12 +92,12 @@
     {
       "id": "563",
       "name": "Utrecht",
-      "filename": "utrecht"
+      "filename": "fc_utrecht"
     },
     {
       "id": "1884019",
       "name": "Braga",
-      "filename": "braga"
+      "filename": "sporting_braga"
     },
     {
       "id": "1885167",
@@ -117,7 +117,7 @@
     {
       "id": "44163",
       "name": "Besiktas",
-      "filename": "besiktas"
+      "filename": "be_ikta"
     },
     {
       "id": "400248192",
@@ -137,7 +137,7 @@
     {
       "id": "2000019334",
       "name": "RFS",
-      "filename": "rfs"
+      "filename": "rigas_futbola_skola"
     },
     {
       "id": "1885177",
@@ -147,7 +147,7 @@
     {
       "id": "310",
       "name": "Rijeka",
-      "filename": "rijeka"
+      "filename": "hnk_rijeka"
     },
     {
       "id": "400108464",
@@ -162,7 +162,7 @@
     {
       "id": "2000019171",
       "name": "Lincoln Red Imps",
-      "filename": "lincoln_red_imps"
+      "filename": "lincoln_red_imps_fc"
     },
     {
       "id": "e9x62jymlef5ugsrijq19ur8q",
@@ -172,7 +172,7 @@
     {
       "id": "1885332",
       "name": "Brann Bergen",
-      "filename": "brann_bergen"
+      "filename": "sk_brann"
     },
     {
       "id": "421",
@@ -182,17 +182,17 @@
     {
       "id": "2000017585",
       "name": "Wolfsberger AC",
-      "filename": "wolfsberger_ac"
+      "filename": "rz_pellets_wac"
     },
     {
       "id": "1885396",
       "name": "Zrinjski Mostar",
-      "filename": "zrinjski_mostar"
+      "filename": "hsk_zrinjski"
     },
     {
       "id": "446",
       "name": "Breidablik",
-      "filename": "breidablik"
+      "filename": "brei_ablik"
     },
     {
       "id": "31033",
@@ -202,7 +202,7 @@
     {
       "id": "1914834",
       "name": "Steaua Bucareste",
-      "filename": "steaua_bucareste"
+      "filename": "fcsb"
     },
     {
       "id": "2000019538",
@@ -212,12 +212,12 @@
     {
       "id": "400068644",
       "name": "Servette",
-      "filename": "servette"
+      "filename": "servette_fc"
     },
     {
       "id": "31098",
       "name": "Malmo",
-      "filename": "malmo"
+      "filename": "malm_ff"
     },
     {
       "id": "322",
@@ -232,17 +232,17 @@
     {
       "id": "1885492",
       "name": "Shkendija",
-      "filename": "shkendija"
+      "filename": "kf_shk_ndija"
     },
     {
       "id": "2000012840",
       "name": "Ludogorets Razgrad",
-      "filename": "ludogorets_razgrad"
+      "filename": "ludogorets"
     },
     {
       "id": "36735",
       "name": "Dynamo Kiev",
-      "filename": "dynamo_kiev"
+      "filename": "dynamo_kyiv"
     },
     {
       "id": "674",
@@ -262,7 +262,7 @@
     {
       "id": "2147483539",
       "name": "Genk",
-      "filename": "genk"
+      "filename": "racing_genk"
     },
     {
       "id": "31068",
@@ -277,17 +277,17 @@
     {
       "id": "44203",
       "name": "Nice",
-      "filename": "nice"
+      "filename": "ogc_nice"
     },
     {
       "id": "31083",
       "name": "Roma",
-      "filename": "roma"
+      "filename": "as_roma"
     },
     {
       "id": "1885747",
       "name": "Estrela Vermelha",
-      "filename": "estrela_vermelha"
+      "filename": "crvena_zvezda"
     },
     {
       "id": "1914704",
@@ -297,7 +297,7 @@
     {
       "id": "32838",
       "name": "Betis",
-      "filename": "betis"
+      "filename": "real_betis"
     },
     {
       "id": "1qtaiy11gswx327s0vkibf70n",
@@ -312,7 +312,7 @@
     {
       "id": "33163",
       "name": "Fenerbahce",
-      "filename": "fenerbahce"
+      "filename": "fenerbah_e"
     },
     {
       "id": "44137",
@@ -322,12 +322,12 @@
     {
       "id": "1882249",
       "name": "Freiburg",
-      "filename": "freiburg"
+      "filename": "sc_freiburg"
     },
     {
       "id": "655",
       "name": "Basel",
-      "filename": "basel"
+      "filename": "fc_basel"
     },
     {
       "id": "33350",
@@ -342,17 +342,17 @@
     {
       "id": "31053",
       "name": "Stuttgart",
-      "filename": "stuttgart"
+      "filename": "vfb_stuttgart"
     },
     {
       "id": "2000006874",
       "name": "Celta de Vigo",
-      "filename": "celta_de_vigo"
+      "filename": "rc_celta"
     },
     {
       "id": "26230",
       "name": "Lyon",
-      "filename": "lyon"
+      "filename": "olympique_lyonnais"
     },
     {
       "id": "1956494",
@@ -372,12 +372,12 @@
     {
       "id": "1885533",
       "name": "Ferencvárosi",
-      "filename": "ferencv_rosi"
+      "filename": "ferencv_ros"
     },
     {
       "id": "2147483300",
       "name": "Viktoria Plzen",
-      "filename": "viktoria_plzen"
+      "filename": "viktoria_plze"
     },
     {
       "id": "400078460",
