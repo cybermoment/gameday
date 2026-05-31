@@ -307,7 +307,7 @@
 - [Осер](https://cybermoment.app/gameday/football/ru/ligue1/auxerre)
 - [Лорьян](https://cybermoment.app/gameday/football/ru/ligue1/fc_lorient)
 - [Нант](https://cybermoment.app/gameday/football/ru/ligue1/fc_nantes)
-- [Paris Saint-Germain](https://cybermoment.app/gameday/football/ru/ligue1/paris_saint_germain)
+- [ПСЖ](https://cybermoment.app/gameday/football/ru/ligue1/paris_saint_germain)
 
 </details>
 
