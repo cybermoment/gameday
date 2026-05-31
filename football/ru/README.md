@@ -94,7 +94,7 @@
 - [Челси](https://cybermoment.app/gameday/football/ru/ucl/chelsea_fc)
 - [Аякс](https://cybermoment.app/gameday/football/ru/ucl/ajax)
 - [Интернационале](https://cybermoment.app/gameday/football/ru/ucl/fc_internazionale_milano)
-- [Paris Saint-Germain](https://cybermoment.app/gameday/football/ru/ucl/paris_saint_germain)
+- [ПСЖ](https://cybermoment.app/gameday/football/ru/ucl/paris_saint_germain)
 - [Аталанта](https://cybermoment.app/gameday/football/ru/ucl/atalanta)
 - [Монако](https://cybermoment.app/gameday/football/ru/ucl/as_monaco)
 - [Байер Леверкузен](https://cybermoment.app/gameday/football/ru/ucl/bayer_leverkusen)
@@ -307,7 +307,7 @@
 - [Осер](https://cybermoment.app/gameday/football/ru/ligue1/auxerre)
 - [Лорьян](https://cybermoment.app/gameday/football/ru/ligue1/fc_lorient)
 - [Нант](https://cybermoment.app/gameday/football/ru/ligue1/fc_nantes)
-- [Paris Saint-Germain](https://cybermoment.app/gameday/football/ru/ligue1/paris_saint_germain)
+- [ПСЖ](https://cybermoment.app/gameday/football/ru/ligue1/paris_saint_germain)
 
 </details>
 

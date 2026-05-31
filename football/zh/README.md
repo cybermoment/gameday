@@ -116,7 +116,7 @@
 - [切尔西](https://cybermoment.app/gameday/football/zh/ucl/chelsea_fc)
 - [阿贾克斯](https://cybermoment.app/gameday/football/zh/ucl/ajax)
 - [国际米兰](https://cybermoment.app/gameday/football/zh/ucl/fc_internazionale_milano)
-- [Paris Saint-Germain](https://cybermoment.app/gameday/football/zh/ucl/paris_saint_germain)
+- [巴黎圣日耳曼](https://cybermoment.app/gameday/football/zh/ucl/paris_saint_germain)
 - [亚特兰大](https://cybermoment.app/gameday/football/zh/ucl/atalanta)
 - [摩纳哥](https://cybermoment.app/gameday/football/zh/ucl/as_monaco)
 - [勒沃库森](https://cybermoment.app/gameday/football/zh/ucl/bayer_leverkusen)
@@ -329,7 +329,7 @@
 - [欧塞尔](https://cybermoment.app/gameday/football/zh/ligue1/auxerre)
 - [洛里昂](https://cybermoment.app/gameday/football/zh/ligue1/fc_lorient)
 - [南特](https://cybermoment.app/gameday/football/zh/ligue1/fc_nantes)
-- [Paris Saint-Germain](https://cybermoment.app/gameday/football/zh/ligue1/paris_saint_germain)
+- [巴黎圣日耳曼](https://cybermoment.app/gameday/football/zh/ligue1/paris_saint_germain)
 
 </details>
 
