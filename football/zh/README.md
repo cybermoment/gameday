@@ -329,7 +329,7 @@
 - [欧塞尔](https://cybermoment.app/gameday/football/zh/ligue1/auxerre)
 - [洛里昂](https://cybermoment.app/gameday/football/zh/ligue1/fc_lorient)
 - [南特](https://cybermoment.app/gameday/football/zh/ligue1/fc_nantes)
-- [巴黎圣日耳曼](https://cybermoment.app/gameday/football/zh/ligue1/paris_saint_germain)
+- [Paris Saint-Germain](https://cybermoment.app/gameday/football/zh/ligue1/paris_saint_germain)
 
 </details>
 
