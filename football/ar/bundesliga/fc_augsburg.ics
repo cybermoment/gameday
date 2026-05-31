@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS أوجسبورج
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-ctiyi3fh9yo41q6wyssamhyc4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS بايرن ميونيخ
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-cy8r3marwyktrq9wc4xfrbeok@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS أوجسبورج
 DTSTART:20250914T133000Z
 DTEND:20250914T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-d2iaj7c1ceujevgcujayjj76c@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS ماينتس
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-d5n34b7rzrhq0gv720bvle2ok@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS أوجسبورج
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-d9nmjrgxcx5r1mcpjrormit5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS فولفسبورج
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-ddaj65f6wf5wwfetkvufnl6ac@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS أوجسبورج
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-djaavhosnqvpta9j88ehuqvx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS لايبزيج
 DTSTART:20251025T133000Z
 DTEND:20251025T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-dm9gxigwmhc4pnxjqpjaexvys@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS نادي بوروسيا دورتموند
 DTSTART:20251031T193000Z
 DTEND:20251031T213000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-dp3v9drrz5r1i4w58o0ikm044@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS أوجسبورج
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-dsqxlgx55w9dyzteo543rekgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS هامبورج
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-dwo7aj8vrq6t8rsvgmu32tt04@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS أوجسبورج
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-e1151vffet4telyg2j9b55zx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS باير ليفركوزن
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-e3t9hhjwcdkbqoxlvlg18f8r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS أوجسبورج
 DTSTART:20251213T143000Z
 DTEND:20251213T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-e65kp5679evqt2alu5lglaw44@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS فيردر بريمن
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-eawxbkkj8ae5hw8yod8bw9mhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:بوروسيا مونشنجلادباخ VS أوجسبورج
 DTSTART:20260111T143000Z
 DTEND:20260111T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-eeie098gk5gsc51qu4zmacxec@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS يونيون برلين
 DTSTART:20260115T193000Z
 DTEND:20260115T213000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-ei1lhaueuqwqg9ikgciyin8r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS فرايبورج
 DTSTART:20260118T163000Z
 DTEND:20260118T183000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-elm64iezyo4chxb3ukcdxjl04@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS أوجسبورج
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-en78ih6ec7exnpxcku3xc3das@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS سانت باولي
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-ess18xzk8in35aws8a2xj9wyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS أوجسبورج
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-ev57itsj39n72qf50tfqwumms@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS هايدينهايم
 DTSTART:20260215T143000Z
 DTEND:20260215T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-f09vyog4358ugnlcilayjihw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS أوجسبورج
 DTSTART:20260221T143000Z
 DTEND:20260221T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-f326lcaubd88tfqq5grza7jtg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS كولن
 DTSTART:20260227T193000Z
 DTEND:20260227T213000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-1rfpqkids2ynx0ql55z0jdas@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS أوجسبورج
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-461qzs6xlzl17sy53gvqt8gk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS أوجسبورج
 DTSTART:20260314T143000Z
 DTEND:20260314T163000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-7b0cleocj8pf0vgwpuujrd3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS شتوتجارت
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-c2jl259mxclm0afht8mu5pg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS أوجسبورج
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-gyjx94ra6o17vyeqpbqoe61g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS هوفنهايم
 DTSTART:20260410T183000Z
 DTEND:20260410T203000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-jhafbn1vbdp30r644zu2flsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS أوجسبورج
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-lg07kzqpid4pwyxwiwdwi0b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS آينرتخت فرانكفورت
 DTSTART:20260425T133000Z
 DTEND:20260425T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-qnngahn68t3kurgzsl1zxfys@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS أوجسبورج
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-ttd11jegtqmqlpqeeg85jo5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS بوروسيا مونشنجلادباخ
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-xsr0lb51sy7vu04y4mxjtxjo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:يونيون برلين VS أوجسبورج
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260531T103329Z
+DTSTAMP:20260531T121533Z
 UID:fifa-11q83zlnfwb0oulhagk776ihg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
