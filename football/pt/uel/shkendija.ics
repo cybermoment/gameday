@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Liga Europa - Shkendija //
+X-WR-CALNAME:Liga Europa - Shkendija
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Shkendija VS Ludogorets Razgrad
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260531T213936Z
+UID:fifa-6qizmoyvjiumx8v3m1s2pukus@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Toše P
+ roeski Arena\nResultado: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Toše Proeski Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
+ PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludogorets Razgrad VS Shkendija
+DTSTART:20250828T173000Z
+DTEND:20250828T193000Z
+DTSTAMP:20260531T213936Z
+UID:fifa-6rt2jxrf92y1vwdk7g1vrdv6c@fifa.com
+DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Huvepha
+ rma Arena\nResultado: 4 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR

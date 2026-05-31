@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Hapoel Be'er Sheva //
+X-WR-CALNAME:UEFA Europa League - Hapoel Be'er Sheva
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Levski Sofia VS Hapoel Be'er Sheva
+DTSTART:20250710T173000Z
+DTEND:20250710T193000Z
+DTSTAMP:20260531T213922Z
+UID:fifa-6f82698scw2670hxkqci38kr8@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
+ nStadion: Stadion Georgi Asparuhov\nErgebnis: 0 - 0
+GEO:42.705304;23.363172
+LOCATION:Stadion Georgi Asparuhov
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Georgi Asparuhov"
+ ;X-APPLE-RADIUS=70;X-TITLE="Stadion Georgi Asparuhov":geo:42.705304,23.363
+ 172
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hapoel Be'er Sheva VS Levski Sofia
+DTSTART:20250717T180000Z
+DTEND:20250717T200000Z
+DTSTAMP:20260531T213922Z
+UID:fifa-6ha35p7vsqiciqqyxt6el2rro@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
+ nStadion: Városi Stadion\nErgebnis: 1 - 1
+GEO:47.970448;21.713019
+LOCATION:Városi Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Városi Stadion";X-APPLE-
+ RADIUS=70;X-TITLE="Városi Stadion":geo:47.970448,21.713019
+END:VEVENT
+END:VCALENDAR

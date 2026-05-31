@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Wolfsberger AC //
+X-WR-CALNAME:Лига Европы УЕФА - Wolfsberger AC
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:ПАОК VS Wolfsberger AC
+DTSTART:20250807T173000Z
+DTEND:20250807T193000Z
+DTSTAMP:20260531T214010Z
+UID:fifa-6xzdplg23g3g3ni34nmh5di50@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
+ й Раунд\nСтадион: Stadio Toumbas\nРезультат: 0 - 0
+GEO:40.613818;22.972396
+LOCATION:Stadio Toumbas
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Toumbas";X-APPLE-R
+ ADIUS=70;X-TITLE="Stadio Toumbas":geo:40.613818,22.972396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsberger AC VS ПАОК
+DTSTART:20250814T170000Z
+DTEND:20250814T190000Z
+DTSTAMP:20260531T214010Z
+UID:fifa-70zqarfg4fmdjhcormhtjou8k@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
+ й Раунд\nСтадион: 28 Black Arena\nРезультат: 0 - 1
+GEO:46.609024;14.278193
+LOCATION:28 Black Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="28 Black Arena";X-APPLE-R
+ ADIUS=70;X-TITLE="28 Black Arena":geo:46.609024,14.278193
+END:VEVENT
+END:VCALENDAR

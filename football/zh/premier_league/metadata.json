@@ -7,7 +7,7 @@
     {
       "id": "1896634",
       "name": "利物浦",
-      "filename": "liverpool"
+      "filename": "liverpool_fc"
     },
     {
       "id": "2000006909",
@@ -22,7 +22,7 @@
     {
       "id": "44136",
       "name": "纽卡斯尔联",
-      "filename": "newcastle_united"
+      "filename": "newcastle"
     },
     {
       "id": "1r3545b2dzan8yqa80gtmcjch",
@@ -32,12 +32,12 @@
     {
       "id": "33741",
       "name": "西汉姆联",
-      "filename": "west_ham_united"
+      "filename": "west_ham"
     },
     {
       "id": "2000019603",
       "name": "布赖顿",
-      "filename": "brighton_hove_albion"
+      "filename": "brighton"
     },
     {
       "id": "44262",
@@ -47,7 +47,7 @@
     {
       "id": "23437",
       "name": "托特纳姆热刺",
-      "filename": "tottenham_hotspur"
+      "filename": "spurs"
     },
     {
       "id": "1882935",
@@ -57,17 +57,17 @@
     {
       "id": "29110",
       "name": "狼队",
-      "filename": "wolverhampton_wanderers"
+      "filename": "wolves"
     },
     {
       "id": "1956198",
       "name": "曼城",
-      "filename": "manchester_city"
+      "filename": "man_city"
     },
     {
       "id": "1935290",
       "name": "切尔西",
-      "filename": "chelsea_fc"
+      "filename": "chelsea"
     },
     {
       "id": "1882937",
@@ -77,7 +77,7 @@
     {
       "id": "1qtaiy11gswx327s0vkibf70n",
       "name": "诺丁汉森林",
-      "filename": "nottingham_forest"
+      "filename": "nottm_forest"
     },
     {
       "id": "400190337",
@@ -87,7 +87,7 @@
     {
       "id": "33161",
       "name": "曼联队",
-      "filename": "manchester_united"
+      "filename": "manchester_united_fc"
     },
     {
       "id": "32847",
@@ -97,7 +97,7 @@
     {
       "id": "400138227",
       "name": "利兹联",
-      "filename": "leeds_united"
+      "filename": "leeds"
     },
     {
       "id": "32848",

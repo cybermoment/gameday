@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Лига Европы УЕФА - Шкендия 79 //
+X-WR-CALNAME:Лига Европы УЕФА - Шкендия 79
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Шкендия 79 VS ФК Разград 2000
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+DTSTAMP:20260531T214010Z
+UID:fifa-6qizmoyvjiumx8v3m1s2pukus@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Националная арена им Фи
+ липа II Македонского\nРезультат: 2 - 1
+GEO:42.005743;21.425598
+LOCATION:Националная арена им Филипа II Макед
+ онского
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Националная а
+ рена им Филипа II Македонского";X-APPLE-RADIUS=70;
+ X-TITLE="Националная арена им Филипа II Макед
+ онского":geo:42.005743,21.425598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФК Разград 2000 VS Шкендия 79
+DTSTART:20250828T173000Z
+DTEND:20250828T193000Z
+DTSTAMP:20260531T214010Z
+UID:fifa-6rt2jxrf92y1vwdk7g1vrdv6c@fifa.com
+DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
+ лей офф\nСтадион: Huvepharma Arena\nРезультат: 4 - 1
+GEO:43.534662;26.527643
+LOCATION:Huvepharma Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Huvepharma Arena";X-APPLE
+ -RADIUS=70;X-TITLE="Huvepharma Arena":geo:43.534662,26.527643
+END:VEVENT
+END:VCALENDAR

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Le Havre
 DTSTART:20250816T170000Z
 DTEND:20250816T190000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-76d9cbhb0m7r4hvrr0ma22fpw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Louis-II\nResultado: 3 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Lens
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-77vwwullt2rkwqbrcq2q71j4k@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Niza
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7cmwxdyiko746tibe3mgxdjpw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 3 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Estrasburgo VS Le Havre
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7fxlfaq79j9fhu0z0tywm036c@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de la Meinau\nResultado: 1 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Lorient
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7iu1zdyf1l318hz7bq2zau42c@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Le Havre
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7lt407efe035jm3gv41dg8vmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Saint-Symphorien\nResultado: 0 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Rennes
 DTSTART:20251005T151500Z
 DTEND:20251005T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7oqwklcldhxccx21yl22e8v84@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 2 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique de Marsella VS Le Havre
 DTSTART:20251018T190500Z
 DTEND:20251018T210500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7r005fpphen9xjmizqrub6904@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Orang
  e Vélodrome\nResultado: 6 - 2
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Le Havre
 DTSTART:20251026T161500Z
 DTEND:20251026T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7vxtdk1qltv5nokw7qo9kk9p0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Brest
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-7znx52cirafzl9sfcd5fcpd04@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse VS Le Havre
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-81nmz4z6jep92lon7gofss650@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stadi
  um de Toulouse\nResultado: 0 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Nantes
 DTSTART:20251108T180000Z
 DTEND:20251108T200000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-866rrtjqlkc7awxv3d655drmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 1
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Le Havre
 DTSTART:20251122T200500Z
 DTEND:20251122T220500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8b07eq7uasgxv9sfkgi6nocus@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Parqu
  e de los Príncipes\nResultado: 3 - 0
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Lille
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8chiraxydxwe3x80yl1bozkes@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 0 - 1
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Paris FC
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8f3tnmo8i4bko7srxs5ssqkgk@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 0 - 0
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lyon VS Le Havre
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8jmkgul01k740xn7bqnhkbr4k@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Group
  ama Stadium\nResultado: 1 - 0
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Angers
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8mxqz36quo3qb4bt6wgwbmz2s@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 2 - 1
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Le Havre
 DTSTART:20260118T161500Z
 DTEND:20260118T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8otqi9r77wlz4ohmerij4fqxg@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Roazh
  on Park\nResultado: 1 - 1
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS AS Mónaco
 DTSTART:20260124T180000Z
 DTEND:20260124T200000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8um36ha8ckilyfkjzwnzikhzo@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 0 - 0
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Le Havre
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-8y0f1bhw42hpzh9ch8vrmyp78@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Bollaert-Delelis\nResultado: 1 - 0
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Estrasburgo
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-909n78etc7zwg4afsvra5kro4@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 2 - 1
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Toulouse
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-93mssjxmeg7m6j5qdzug0gpp0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 2 - 1
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Le Havre
 DTSTART:20260222T161500Z
 DTEND:20260222T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-97ss3ca8wx72vsspzijyu20pg@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Estad
  io de la Beaujoire - Louis Fonteneau\nResultado: 2 - 0
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Paris Saint-Germain
 DTSTART:20260228T200500Z
 DTEND:20260228T220500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-99a58crfa6os7lt9la3gclh5g@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 0 - 1
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Le Havre
 DTSTART:20260308T161500Z
 DTEND:20260308T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9d1i6ix9sinez5um1ic7284d0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 2 - 0
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Olympique Lyon
 DTSTART:20260315T161500Z
 DTEND:20260315T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9gqu1uh88maw6ttz22uwpjwus@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 0 - 0
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Le Havre
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9lgnd4nfwyy4hxu2uxmfnid5g@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Jean Bouin\nResultado: 3 - 2
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Auxerre
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9oi06kws1i8wrxbdkl4pnf5sk@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 1
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Niza VS Le Havre
 DTSTART:20260412T151500Z
 DTEND:20260412T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9rizhdu5w8k70m2jml4nf4d1w@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Allia
  nz Riviera\nResultado: 1 - 1
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Le Havre
 DTSTART:20260418T170000Z
 DTEND:20260418T190000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9vf4hv3la1d428v3j7ejd6qs4@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Raymond Kopa\nResultado: 1 - 1
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Metz
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-9y2s6ykrv8q191sxyzu8g8dg4@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 4 - 4
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Le Havre
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-a1uynt862yubvos469tnn6c5w@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Decat
  hlon Arena - Stade Pierre-Mauroy\nResultado: 1 - 1
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Olympique de Marsella
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-a4fu2e9ue09trjzjs5ob8w8b8@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 0 - 1
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Le Havre
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260531T202158Z
+DTSTAMP:20260531T214539Z
 UID:fifa-a7sjjaj7qeh5a8bh61cdw8vmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   du Moustoir - Yves Allainmat\nResultado: 0 - 2

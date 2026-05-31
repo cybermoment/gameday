@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// Ligue Europa - Legia Varsovie //
+X-WR-CALNAME:Ligue Europa - Legia Varsovie
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Legia Varsovie VS Aktobe
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DTSTAMP:20260531T213918Z
+UID:fifa-540cn7c28qer1k49px0qmuy38@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
+ Stade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego
+ \nRésultat: 1 - 0
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aktobe VS Legia Varsovie
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+DTSTAMP:20260531T213918Z
+UID:fifa-577o52d84mj1bi4dw6qx2k0lw@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
+ Stade: Ortalyq stadıon\nRésultat: 0 - 1
+GEO:50.291526;57.159119
+LOCATION:Ortalyq stadıon
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ortalyq stadıon";X-APPLE
+ -RADIUS=70;X-TITLE="Ortalyq stadıon":geo:50.291526,57.159119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baník Ostrava VS Legia Varsovie
+DTSTART:20250724T170000Z
+DTEND:20250724T190000Z
+DTSTAMP:20260531T213918Z
+UID:fifa-9q8gkhr39w7ocg5p0bxmm2uqc@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
+ \nStade: Městský stadion - Vítkovice Aréna\nRésultat: 2 - 2
+GEO:49.804349;18.255989
+LOCATION:Městský stadion - Vítkovice Aréna
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Městský stadion - Vítk
+ ovice Aréna";X-APPLE-RADIUS=70;X-TITLE="Městský stadion - Vítkovice Ar
+ éna":geo:49.804349,18.255989
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legia Varsovie VS Baník Ostrava
+DTSTART:20250731T190000Z
+DTEND:20250731T210000Z
+DTSTAMP:20260531T213918Z
+UID:fifa-9ubst7bovh646y6n0jkfj4il0@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
+ \nStade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go\nRésultat: 2 - 1
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Larnaca VS Legia Varsovie
+DTSTART:20250807T163000Z
+DTEND:20250807T183000Z
+DTSTAMP:20260531T213918Z
+UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: AEK Arena - George Karapatakis\nRésultat: 4 - 1
+GEO:34.926218;33.597746
+LOCATION:AEK Arena - George Karapatakis
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AEK Arena - George Karapa
+ takis";X-APPLE-RADIUS=70;X-TITLE="AEK Arena - George Karapatakis":geo:34.9
+ 26218,33.597746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legia Varsovie VS AEK Larnaca
+DTSTART:20250814T190000Z
+DTEND:20250814T210000Z
+DTSTAMP:20260531T213918Z
+UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
+DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
+ \nStade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go\nRésultat: 2 - 1
+GEO:52.220498;21.040514
+LOCATION:Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
+ go
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Miejski Legii War
+ szawa im. Marszałka Józefa Piłsudskiego";X-APPLE-RADIUS=70;X-TITLE="Sta
+ dion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego":geo:52.2
+ 20498,21.040514
+END:VEVENT
+END:VCALENDAR

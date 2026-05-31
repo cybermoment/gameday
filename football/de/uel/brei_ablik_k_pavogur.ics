@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - Breiðablik Kópavogur //
+X-WR-CALNAME:UEFA Europa League - Breiðablik Kópavogur
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Zrinjski VS Breiðablik Kópavogur
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+DTSTAMP:20260531T213922Z
+UID:fifa-6qkme6vyn4nl950powrwxt9g4@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
+ nStadion: Stadion Bijeli Brijeg\nErgebnis: 1 - 1
+GEO:43.345619;17.795261
+LOCATION:Stadion Bijeli Brijeg
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik Kópavogur VS Zrinjski
+DTSTART:20250814T173000Z
+DTEND:20250814T193000Z
+DTSTAMP:20260531T213922Z
+UID:fifa-6se1oni96vfa56cx66tu16has@fifa.com
+DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
+ nStadion: Kópavogsvöllur\nErgebnis: 1 - 2
+GEO:64.104104;-21.896889
+LOCATION:Kópavogsvöllur
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kópavogsvöllur";X-APPLE
+ -RADIUS=70;X-TITLE="Kópavogsvöllur":geo:64.104104,-21.896889
+END:VEVENT
+END:VCALENDAR

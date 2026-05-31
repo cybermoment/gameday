@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFAヨーロッパリーグ - CFRクルージュ //
+X-WR-CALNAME:UEFAヨーロッパリーグ - CFRクルージュ
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:パクシュ VS CFRクルージュ
+DTSTART:20250710T170000Z
+DTEND:20250710T190000Z
+DTSTAMP:20260531T214021Z
+UID:fifa-8urov6093lc0ap7fntdld1iqc@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: Paksi FC Stadion\n結果: 0 - 0
+GEO:46.633791;18.852335
+LOCATION:Paksi FC Stadion
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Paksi FC Stadion";X-APPLE
+ -RADIUS=70;X-TITLE="Paksi FC Stadion":geo:46.633791,18.852335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFRクルージュ VS パクシュ
+DTSTART:20250717T173000Z
+DTEND:20250717T193000Z
+DTSTAMP:20260531T214021Z
+UID:fifa-8xtii67q5fgkj5vmtp16rue50@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第1ラウ
+ ンド\nスタジアム: Stadionul Dr. Constantin Radulescu\n結果: 3 - 0
+GEO:46.779675;23.577218
+LOCATION:Stadionul Dr. Constantin Radulescu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Dr. Constantin 
+ Radulescu";X-APPLE-RADIUS=70;X-TITLE="Stadionul Dr. Constantin Radulescu":
+ geo:46.779675,23.577218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ルガーノ VS CFRクルージュ
+DTSTART:20250724T183000Z
+DTEND:20250724T203000Z
+DTSTAMP:20260531T214021Z
+UID:fifa-5g7neaaeitb1ca46mztdefk7o@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第2ラウ
+ ンド\nスタジアム: Stockhorn Arena\n結果: 0 - 0
+GEO:46.744588;7.606627
+LOCATION:Stockhorn Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stockhorn Arena";X-APPLE-
+ RADIUS=70;X-TITLE="Stockhorn Arena":geo:46.744588,7.606627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFRクルージュ VS ルガーノ
+DTSTART:20250731T173000Z
+DTEND:20250731T193000Z
+DTSTAMP:20260531T214021Z
+UID:fifa-5hwdf3o9o0yzc8a3jwb8s3axg@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第2ラウ
+ ンド\nスタジアム: Stadionul Dr. Constantin Radulescu\n結果: 1 - 0
+GEO:46.779675;23.577218
+LOCATION:Stadionul Dr. Constantin Radulescu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Dr. Constantin 
+ Radulescu";X-APPLE-RADIUS=70;X-TITLE="Stadionul Dr. Constantin Radulescu":
+ geo:46.779675,23.577218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFRクルージュ VS ブラガ
+DTSTART:20250807T163000Z
+DTEND:20250807T183000Z
+DTSTAMP:20260531T214021Z
+UID:fifa-66s9pcsf4jcys1hzeqdwl3v9w@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第3ラウ
+ ンド\nスタジアム: Stadionul Dr. Constantin Radulescu\n結果: 1 - 2
+GEO:46.779675;23.577218
+LOCATION:Stadionul Dr. Constantin Radulescu
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Dr. Constantin 
+ Radulescu";X-APPLE-RADIUS=70;X-TITLE="Stadionul Dr. Constantin Radulescu":
+ geo:46.779675,23.577218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ブラガ VS CFRクルージュ
+DTSTART:20250814T183000Z
+DTEND:20250814T203000Z
+DTSTAMP:20260531T214021Z
+UID:fifa-6ar0axb2q5636y2zuid5jwqok@fifa.com
+DESCRIPTION:大会: UEFAヨーロッパリーグ\nラウンド: 第3ラウ
+ ンド\nスタジアム: Estádio Municipal de Braga\n結果: 2 - 0
+GEO:41.562554;-8.429904
+LOCATION:Estádio Municipal de Braga
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Municipal de Bra
+ ga";X-APPLE-RADIUS=70;X-TITLE="Estádio Municipal de Braga":geo:41.562554,
+ -8.429904
+END:VEVENT
+END:VCALENDAR

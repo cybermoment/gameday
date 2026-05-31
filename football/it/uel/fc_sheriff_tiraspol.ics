@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIFA API// UEFA Europa League - FC Sheriff Tiraspol //
+X-WR-CALNAME:UEFA Europa League - FC Sheriff Tiraspol
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:FC Sheriff Tiraspol VS FC Prishtina
+DTSTART:20250710T170000Z
+DTEND:20250710T190000Z
+DTSTAMP:20260531T213951Z
+UID:fifa-f59gg14k8q0f2krt7i3nc14pg@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Bolshaya Sportivnaya Arena\nRisultato: 4 - 0
+GEO:46.838347;29.557895
+LOCATION:Bolshaya Sportivnaya Arena
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bolshaya Sportivnaya Aren
+ a";X-APPLE-RADIUS=70;X-TITLE="Bolshaya Sportivnaya Arena":geo:46.838347,29
+ .557895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Prishtina VS FC Sheriff Tiraspol
+DTSTART:20250717T180000Z
+DTEND:20250717T200000Z
+DTSTAMP:20260531T213951Z
+UID:fifa-32yssqutk0xg9erldxw02r6c@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 1° Turno Qualificazio
+ ni\nStadio: Stadiumi Fadil Vokrri\nRisultato: 2 - 1
+GEO:42.662873;21.15705
+LOCATION:Stadiumi Fadil Vokrri
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadiumi Fadil Vokrri";X-
+ APPLE-RADIUS=70;X-TITLE="Stadiumi Fadil Vokrri":geo:42.662873,21.15705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Sheriff Tiraspol VS Utrecht
+DTSTART:20250724T170000Z
+DTEND:20250724T190000Z
+DTSTAMP:20260531T213951Z
+UID:fifa-dsv9rgfekagl152af8g5a37dg@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 2° Turno Qualificazio
+ ni\nStadio: Stadionul Orăşenesc\nRisultato: 1 - 3
+GEO:47.07661;28.179224
+LOCATION:Stadionul Orăşenesc
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadionul Orăşenesc";X-
+ APPLE-RADIUS=70;X-TITLE="Stadionul Orăşenesc":geo:47.07661,28.179224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utrecht VS FC Sheriff Tiraspol
+DTSTART:20250731T180000Z
+DTEND:20250731T200000Z
+DTSTAMP:20260531T213951Z
+UID:fifa-dw98cmzn248gwpl04tt0v1pg4@fifa.com
+DESCRIPTION:Competizione: UEFA Europa League\nFase: 2° Turno Qualificazio
+ ni\nStadio: Stadion Galgenwaard\nRisultato: 4 - 1
+GEO:52.078319;5.145904
+LOCATION:Stadion Galgenwaard
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Galgenwaard";X-AP
+ PLE-RADIUS=70;X-TITLE="Stadion Galgenwaard":geo:52.078319,5.145904
+END:VEVENT
+END:VCALENDAR
