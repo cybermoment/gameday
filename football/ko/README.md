@@ -24,18 +24,18 @@
 <details>
 <summary>K리그 1 (12)</summary>
 
-- [인천유나이티드 FC](https://cybermoment.app/gameday/football/ko/kleague1/fc)
-- [FC서울](https://cybermoment.app/gameday/football/ko/kleague1/fc)
-- [울산 HD](https://cybermoment.app/gameday/football/ko/kleague1/hd)
-- [강원FC](https://cybermoment.app/gameday/football/ko/kleague1/fc)
-- [김천상무프로축구단](https://cybermoment.app/gameday/football/ko/kleague1/)
-- [포항 스틸러스](https://cybermoment.app/gameday/football/ko/kleague1/)
-- [전북 모터스](https://cybermoment.app/gameday/football/ko/kleague1/)
-- [부천FC1995](https://cybermoment.app/gameday/football/ko/kleague1/fc1995)
-- [제주유나이티드FC](https://cybermoment.app/gameday/football/ko/kleague1/fc)
-- [광주FC](https://cybermoment.app/gameday/football/ko/kleague1/fc)
-- [대전하나시티즌](https://cybermoment.app/gameday/football/ko/kleague1/)
-- [FC안양](https://cybermoment.app/gameday/football/ko/kleague1/fc)
+- [인천유나이티드 FC](https://cybermoment.app/gameday/football/ko/kleague1/incheon_united)
+- [FC서울](https://cybermoment.app/gameday/football/ko/kleague1/fc_seoul)
+- [울산 HD](https://cybermoment.app/gameday/football/ko/kleague1/ulsan_hd)
+- [강원FC](https://cybermoment.app/gameday/football/ko/kleague1/gangwon_fc)
+- [김천상무프로축구단](https://cybermoment.app/gameday/football/ko/kleague1/sangju_sangmu)
+- [포항 스틸러스](https://cybermoment.app/gameday/football/ko/kleague1/pohang_steelers)
+- [전북 모터스](https://cybermoment.app/gameday/football/ko/kleague1/jeonbuk_motors)
+- [부천FC1995](https://cybermoment.app/gameday/football/ko/kleague1/bucheon_1995)
+- [제주유나이티드FC](https://cybermoment.app/gameday/football/ko/kleague1/jeju_united)
+- [광주FC](https://cybermoment.app/gameday/football/ko/kleague1/gwangju_fc)
+- [대전하나시티즌](https://cybermoment.app/gameday/football/ko/kleague1/daejeon_hana_citizen)
+- [FC안양](https://cybermoment.app/gameday/football/ko/kleague1/anyang)
 
 </details>
 <details>
