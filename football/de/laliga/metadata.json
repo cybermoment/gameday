@@ -7,17 +7,17 @@
     {
       "id": "2000019642",
       "name": "Girona",
-      "filename": "girona"
+      "filename": "girona_fc"
     },
     {
       "id": "2000006891",
       "name": "Rayo Vallecano Madrid",
-      "filename": "rayo_vallecano_madrid"
+      "filename": "rayo_vallecano"
     },
     {
       "id": "1882482",
       "name": "FC Villarreal",
-      "filename": "fc_villarreal"
+      "filename": "villarreal"
     },
     {
       "id": "clo928vcczjp0mczavs5o7p5k",
@@ -37,17 +37,17 @@
     {
       "id": "356",
       "name": "Alavés",
-      "filename": "alav_s"
+      "filename": "deportivo_alav_s"
     },
     {
       "id": "1883309",
       "name": "UD Levante",
-      "filename": "ud_levante"
+      "filename": "levante_ud"
     },
     {
       "id": "32840",
       "name": "FC Valencia",
-      "filename": "fc_valencia"
+      "filename": "valencia_cf"
     },
     {
       "id": "31069",
@@ -57,27 +57,27 @@
     {
       "id": "2000006874",
       "name": "Celta de Vigo",
-      "filename": "celta_de_vigo"
+      "filename": "rc_celta"
     },
     {
       "id": "1884966",
       "name": "FC Getafe",
-      "filename": "fc_getafe"
+      "filename": "getafe_cf"
     },
     {
       "id": "31071",
       "name": "Athletic Bilbao",
-      "filename": "athletic_bilbao"
+      "filename": "athletic_club"
     },
     {
       "id": "358",
       "name": "FC Sevilla",
-      "filename": "fc_sevilla"
+      "filename": "sevilla"
     },
     {
       "id": "44229",
       "name": "Espanyol Barcelona",
-      "filename": "espanyol_barcelona"
+      "filename": "rcd_espanyol"
     },
     {
       "id": "1914808",
@@ -87,12 +87,12 @@
     {
       "id": "400139932",
       "name": "FC Elche",
-      "filename": "fc_elche"
+      "filename": "elche_cf"
     },
     {
       "id": "32838",
       "name": "Betis Sevilla",
-      "filename": "betis_sevilla"
+      "filename": "real_betis"
     },
     {
       "id": "30504",

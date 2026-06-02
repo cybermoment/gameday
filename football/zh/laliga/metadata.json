@@ -7,12 +7,12 @@
     {
       "id": "2000019642",
       "name": "赫罗纳",
-      "filename": "girona"
+      "filename": "girona_fc"
     },
     {
       "id": "2000006891",
       "name": "巴列卡诺",
-      "filename": "rayo"
+      "filename": "rayo_vallecano"
     },
     {
       "id": "1882482",
@@ -22,12 +22,12 @@
     {
       "id": "clo928vcczjp0mczavs5o7p5k",
       "name": "皇家奥维耶多",
-      "filename": "oviedo"
+      "filename": "real_oviedo"
     },
     {
       "id": "400074602",
       "name": "马略卡",
-      "filename": "mallorca"
+      "filename": "rcd_mallorca"
     },
     {
       "id": "1903416",
@@ -37,17 +37,17 @@
     {
       "id": "356",
       "name": "阿拉维斯",
-      "filename": "alav_s"
+      "filename": "deportivo_alav_s"
     },
     {
       "id": "1883309",
       "name": "莱万特",
-      "filename": "levante"
+      "filename": "levante_ud"
     },
     {
       "id": "32840",
       "name": "瓦伦西亚",
-      "filename": "valencia"
+      "filename": "valencia_cf"
     },
     {
       "id": "31069",
@@ -57,17 +57,17 @@
     {
       "id": "2000006874",
       "name": "塞尔塔",
-      "filename": "celta"
+      "filename": "rc_celta"
     },
     {
       "id": "1884966",
       "name": "赫塔费",
-      "filename": "getafe"
+      "filename": "getafe_cf"
     },
     {
       "id": "31071",
       "name": "毕尔巴鄂竞技",
-      "filename": "athletic"
+      "filename": "athletic_club"
     },
     {
       "id": "358",
@@ -77,32 +77,32 @@
     {
       "id": "44229",
       "name": "西班牙人",
-      "filename": "espanyol"
+      "filename": "rcd_espanyol"
     },
     {
       "id": "1914808",
       "name": "马德里竞技",
-      "filename": "atl_tico"
+      "filename": "atl_tico_de_madrid"
     },
     {
       "id": "400139932",
       "name": "埃尔切",
-      "filename": "elche"
+      "filename": "elche_cf"
     },
     {
       "id": "32838",
       "name": "皇家贝蒂斯",
-      "filename": "betis"
+      "filename": "real_betis"
     },
     {
       "id": "30504",
       "name": "皇家马德里",
-      "filename": "real_madrid"
+      "filename": "real_madrid_c_f"
     },
     {
       "id": "400074600",
       "name": "奥萨苏纳",
-      "filename": "osasuna"
+      "filename": "ca_osasuna"
     }
   ]
 }
