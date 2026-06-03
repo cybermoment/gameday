@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Страсбур
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-75vj2kkzx3rsh4sljwh5yv2tw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Нант
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-79oyk2qmf1t5auscpyaavyrdg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Страсбур
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7as416n51kwznt2k62e2o0178@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Louis-II\nР
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Гавр
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7fxlfaq79j9fhu0z0tywm036c@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Париж ФК VS Страсбур
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7hqfsp9wwps1370c6rgriitxw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Jean Bouin\n
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Олимпик Марсель
 DTSTART:20250926T184500Z
 DTEND:20250926T204500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7k9jcd1dxbz7xnp5qbhjbqiac@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Анжер
 DTSTART:20251005T151500Z
 DTEND:20251005T171500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7pj6sxncv64nf54kv4x0c795g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Страсбур
 DTSTART:20251017T184500Z
 DTEND:20251017T204500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7rqqx5f5hg6r0w0ixflxjncic@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк де Пр
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Лион VS Страсбур
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7uez0go2lksfpxv0envcy2txw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк Олимп
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Осер
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-7yvumhtfkzi2mp08th02rzhg4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Ренн VS Страсбур
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-82ebxmrmqgkws56fj9x5otq8k@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Roazhon Park\nРе
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Лилль
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-87nkivfh38imdea2mlokcvu38@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Страсбур
 DTSTART:20251122T160000Z
 DTEND:20251122T180000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-880t6lepwo7xf1dbsudept6ac@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Брест
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8d863d4hukktuken9r5812qz8@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Тулуза VS Страсбур
 DTSTART:20251206T180000Z
 DTEND:20251206T200000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8hcfr8w41pqptnf955zxsubkk@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stadium de Toulouse
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Лорьян
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8jzwdz729b6d3cina9j0g4ljo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Ницца VS Страсбур
 DTSTART:20260103T180000Z
 DTEND:20260103T200000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8lgxl8h25a3htyni3vsao83ys@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Альянц Рив
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Метц
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8p7bz5si0ywkxxrzfe5d1007o@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Страсбур
 DTSTART:20260125T194500Z
 DTEND:20260125T214500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8sbt68kf1vu4u298a2b8a08pg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS ПСЖ
 DTSTART:20260201T194500Z
 DTEND:20260201T214500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-8wh6w0enqn5gxvuqelm0078d0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Гавр VS Страсбур
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-909n78etc7zwg4afsvra5kro4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Océane\nРе
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Марсель VS Страсбур
 DTSTART:20260214T160000Z
 DTEND:20260214T180000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-92w3v1zmovn1e6fdahj11l5w4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Оранж Вело
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Олимпик Лион
 DTSTART:20260222T194500Z
 DTEND:20260222T214500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-95up16y21d8pfupfkyzapqmms@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Ланс
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9bvvo7fe784553nbrum8q67mc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Осер VS Страсбур
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9ewdmzregj6oqyc4h5wd30fmc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de l'Abbé De
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Париж ФК
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260603T021148Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9h5ymyb7mkj2jvirmscchc55g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Нант VS Страсбур
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9kq8x7m65ajep26bou4lcqpzo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Бо
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Ницца
 DTSTART:20260404T150000Z
 DTEND:20260404T170000Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9pz0g8650jfcdtp974lo02xhw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Ренн
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9u93mskgb139cu0hd7vu9sduc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Лорьян VS Страсбур
 DTSTART:20260426T130000Z
 DTEND:20260426T150000Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9ytna8swoqeiuqmwdflakxbtg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade du Moustoir -
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Тулуза
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-a28gzkojrp8r88cffl82o9c7o@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Анжер VS Страсбур
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-a6osea7is20zcww5b85r08npw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Raymond Kopa\
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Брест VS Страсбур
 DTSTART:20260513T170000Z
 DTEND:20260513T190000Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-9rwlcosdmxen4l8qu9x0kdvro@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Francis-Le Bl
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Монако
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260603T021149Z
+DTSTAMP:20260603T072623Z
 UID:fifa-aa0fiz57iyc7rhjtg47ul2olw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
