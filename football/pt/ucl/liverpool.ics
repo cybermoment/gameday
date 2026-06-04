@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Atlético de Madrid
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Anfield\nResultado: 3 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Liverpool
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-4zy839pwz57fo6s7vmh7ntv6c@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: RAMS Park\nResultado: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Liverpool
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-59bpikh36bw9pwdd7xuyp30gk@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Deutsche Bank Park\nResultado: 1 - 5
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Real Madrid C.F.
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-5cldkwitxdgvsmr4erkx8zyms@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Anfield\nResultado: 1 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS PSV Eindhoven
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-5n3jb853xf57iw2n1sw8ioc9g@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Anfield\nResultado: 1 - 4
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Liverpool
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-5qd2von9gayml36rbaib0bdp0@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Stadio Giuseppe Meazza\nResultado: 0 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique de Marseille VS Liverpool
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-61hsz6689o7g9ybeya58oox78@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Orange Vélodrome\nResultado: 0 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Karabakh Agdam
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-65yo7coecrnl1gwgkdatt2xas@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Primeira Fase
  \nEstádio: Anfield\nResultado: 6 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Liverpool
 DTSTART:20260310T174500Z
 DTEND:20260310T194500Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-4mgtzo7ycptzkfyv1top89st0@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Oitavas de fi
  nal\nEstádio: RAMS Park\nResultado: 1 - 0
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Galatasaray
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-4p8fjg0wpd5eyaa0t0mv8pzx0@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Oitavas de fi
  nal\nEstádio: Anfield\nResultado: 4 - 0
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Liverpool
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-7om4mss983m7d0dadr87xfuok@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Quartas de fi
  nal\nEstádio: Parque dos Príncipes\nResultado: 2 - 0
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Paris Saint-Germain
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260604T201308Z
+DTSTAMP:20260604T220608Z
 UID:fifa-ek0bykzmr876s0vcbxdqua3h0@fifa.com
 DESCRIPTION:Competição: Liga dos Campeões da UEFA\nEtapa: Quartas de fi
  nal\nEstádio: Anfield\nResultado: 0 - 2
