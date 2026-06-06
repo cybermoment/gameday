@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:باريس سان جيرمان VS أتالانتا
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-4vah0y57kbchzjav53h65uv4k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: بارك دي برينس\nا
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS كلوب بروج
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-4xs86vowvf2xcks0ln8eu9e6s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS سلافيا براغ
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-58ls4qn0s2o0x3uzwo5lzs36c@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:مارسيليا VS أتالانتا
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-5gvvzdmzgkymkhsskiiyiwdg4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد فيلودروم\n
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS أتالانتا
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-5mkoywuiapszrete4cw6mtmok@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS تشيلسي
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-5pn7mzdx02v7lyxj8p1kr2cd0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS أتليتيكو بلباو
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:أونيون سانت جيلواز VS أتالانتا
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-67u5as824q96mp65srnyt7thw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد كونستانت 
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS أتالانتا
 DTSTART:20260217T201500Z
 DTEND:20260217T221500Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-oex4se9z2myo4tc7eyhy9no4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: سيغنال إيدو
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS نادي بوروسيا دورتموند
 DTSTART:20260225T174500Z
 DTEND:20260225T194500Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-oskmoxh73kh8jf9z4p8h0jys@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: استاد أتليت
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS بايرن ميونيخ
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: استاد أتليتي أزوري إ
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS أتالانتا
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260606T155322Z
+DTSTAMP:20260606T172143Z
 UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: أليانز أرينا\nالنتيج
