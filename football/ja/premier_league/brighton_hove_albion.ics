@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS フラム
 DTSTART:20250816T140000Z
 DTEND:20250816T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-10jpwd1x2paywtbfatjev182c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 1 - 1
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:エヴァートン VS ブライトン&ホーヴ・アルビオン
 DTSTART:20250824T130000Z
 DTEND:20250824T150000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-16am82aqanxg9ylk4fufxw07o@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Hill Dickinson Stadium\n結果: 2 - 0
@@ -36,7 +36,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS マンチェスタ
  ー・シティ
 DTSTART:20250831T130000Z
 DTEND:20250831T150000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-18o9ldivk2e84zcrejou19dlg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 1
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:ボーンマス VS ブライトン&ホーヴ・アルビオン
 DTSTART:20250913T140000Z
 DTEND:20250913T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-1c63e8qqe9heysoinrbib41zo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: バイタリティ スタジアム\n結果:
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS トッテナム
 DTSTART:20250920T140000Z
 DTEND:20250920T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-1gwmyqujn1kzgkz7yv1yp0n4k@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 2
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:チェルシー FC VS ブライトン&ホーヴ・アルビオン
 DTSTART:20250927T140000Z
 DTEND:20250927T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-1kvzysbmri31wqmzg9n6uekno@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタンフォード ブリッジ\n結果:
@@ -93,7 +93,7 @@ SUMMARY:ウォルヴァーハンプトン・ワンダラーズ VS ブラ
  イトン&ホーヴ・アルビオン
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-1ro6dtfyd439umqwi6dq6xr84@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: モリニュー・スタジアム\n結果: 
@@ -109,7 +109,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS ニューカッス
  ル・ユナイテッド
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-1s2cqwm1pd76xs20c255sfnro@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 1
@@ -123,7 +123,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ブライトン&ホ
  ーヴ・アルビオン
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-1z0pvc6kf8t3einy25wvna42c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 4 
@@ -139,7 +139,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS リーズ・ユナ
  イテッド
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-207fshyi62c88cf6836drk55g@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 3 - 0
@@ -153,7 +153,7 @@ SUMMARY:クリスタル・パレス VS ブライトン&ホーヴ・アル
  ビオン
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-25ehw2cjb60a2kyhwvlqppr10@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 0 
@@ -169,7 +169,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS ブレントフォ
  ード
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-290hyavp000xtwoqfwwrpnj84@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 1
@@ -183,7 +183,7 @@ SUMMARY:ノッティンガム・フォレスト VS ブライトン&ホー
  ヴ・アルビオン
 DTSTART:20251130T140500Z
 DTEND:20251130T160500Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-2elw5n9p340grwmafewg25afo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: The City Ground\n結果: 0 - 2
@@ -197,7 +197,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS アストンヴィ
  ラ
 DTSTART:20251203T193000Z
 DTEND:20251203T213000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-2h2egsrc2jf9ocgrjt9zsgr9w@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 3 - 4
@@ -211,7 +211,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS ウェストハム
  ・ユナイテッド
 DTSTART:20251207T140000Z
 DTEND:20251207T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-2l1z9guhdnudlxt9jex7xe0b8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 1 - 1
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:リバプール VS ブライトン&ホーヴ・アルビオン
 DTSTART:20251213T150000Z
 DTEND:20251213T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-2q92uqkqy5i0jfjhwel7jygb8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: アンフィールド\n結果: 2 - 0
@@ -238,7 +238,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS サンダーラン
  ド
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-2t4sfm8vkxm4bw7hxyko3kqhg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 0 - 0
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:アーセナル VS ブライトン&ホーヴ・アルビオン
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-2wehv0cptselv086q8jud4hec@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エミレーツ スタジアム\n結果: 2 
@@ -267,7 +267,7 @@ SUMMARY:ウェストハム・ユナイテッド VS ブライトン&ホー
  ヴ・アルビオン
 DTSTART:20251230T193000Z
 DTEND:20251230T213000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-349efhlgerz5unwomykdoyk2c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ロンドン スタジアム\n結果: 2 - 2
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS バーンリー
 DTSTART:20260103T150000Z
 DTEND:20260103T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-35lmyprx2hz72h9xyegf2n1n8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 0
@@ -295,7 +295,7 @@ SUMMARY:マンチェスター・シティ VS ブライトン&ホーヴ・
  アルビオン
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3bmnia1jn5bzt2z4pea3yr66s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エティハド スタジアム\n結果: 1 
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS ボーンマス
 DTSTART:20260119T200000Z
 DTEND:20260119T220000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3d7g431b3ctu2tnap650l82z8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 1 - 1
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:フラム VS ブライトン&ホーヴ・アルビオン
 DTSTART:20260124T150000Z
 DTEND:20260124T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3j7tp9n0yhxrv1kpyax05gy6s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: クレイヴン・コテージ\n結果: 2 -
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS エヴァートン
 DTSTART:20260131T150000Z
 DTEND:20260131T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3l9k0znksnhr6n21grjymo6qc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 1 - 1
@@ -352,7 +352,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS クリスタル・
  パレス
 DTSTART:20260208T140000Z
 DTEND:20260208T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3poyrzycgl2wasnyr2oomuadw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 0 - 1
@@ -366,7 +366,7 @@ SUMMARY:アストンヴィラ VS ブライトン&ホーヴ・アルビオ
  ン
 DTSTART:20260211T193000Z
 DTEND:20260211T213000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3svx7txwxv37b2ssrf8xzbrbo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴィラ・パーク\n結果: 1 - 0
@@ -380,7 +380,7 @@ SUMMARY:ブレントフォード VS ブライトン&ホーヴ・アルビ
  オン
 DTSTART:20260221T150000Z
 DTEND:20260221T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-3xb9emuqqhgacprgggpb0mpec@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Gtech Community Stadium\n結果: 0 - 2
@@ -395,7 +395,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS ノッティンガ
  ム・フォレスト
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-41r0h2drg86j5w2car2sd2iac@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 1
@@ -408,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS アーセナル
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-45skrbpsdh3x4g4jsq6rb56ac@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 0 - 1
@@ -422,7 +422,7 @@ SUMMARY:サンダーランド VS ブライトン&ホーヴ・アルビオ
  ン
 DTSTART:20260314T150000Z
 DTEND:20260314T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4c7pkoxo59z918wbjnrc7o844@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタジアム・オブ・ライト\n結
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS リバプール
 DTSTART:20260321T124500Z
 DTEND:20260321T144500Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4dt0xk254py5py96scdjiwys4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 2 - 1
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:バーンリー VS ブライトン&ホーヴ・アルビオン
 DTSTART:20260411T140000Z
 DTEND:20260411T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4hvu37urokilguo7n5p0qsy6s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ターフ モア\n結果: 0 - 2
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ブライトン&ホーヴ・アルビオン
 DTSTART:20260418T163000Z
 DTEND:20260418T183000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4p3u05341oavttuq79gix5yc4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 2
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:ブライトン&ホーヴ・アルビオン VS チェルシー FC
 DTSTART:20260421T190000Z
 DTEND:20260421T210000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4qily350dbjfxrb0rt5o82j9w@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 3 - 0
@@ -491,7 +491,7 @@ SUMMARY:ニューカッスル・ユナイテッド VS ブライトン&ホ
  ーヴ・アルビオン
 DTSTART:20260502T140000Z
 DTEND:20260502T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4wyzm9p1mkcnewy5twhzr0fmc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: セント ジェームズ パーク\n結果
@@ -507,7 +507,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS ウォルヴァー
  ハンプトン・ワンダラーズ
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-4xrkmq9vj4w3duniuqsyy3bbo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 3 - 0
@@ -521,7 +521,7 @@ SUMMARY:リーズ・ユナイテッド VS ブライトン&ホーヴ・ア
  ルビオン
 DTSTART:20260517T140000Z
 DTEND:20260517T160000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-54bugf6p0agtkiauhljp3buhg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Elland Road\n結果: 1 - 0
@@ -535,7 +535,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS マンチェスタ
  ー・ユナイテッド
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260606T040744Z
+DTSTAMP:20260606T073446Z
 UID:fifa-55xwipdr13y9h2ga7yv15n8yc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 0 - 3

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FK Bodø/Glimt VS Sturm Graz
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260606T040702Z
+DTSTAMP:20260606T073359Z
 UID:fifa-9hb4z2iwh8sazow23a3nnw9g@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   Aspmyra Stadion\nResult: 5 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Sturm Graz VS FK Bodø/Glimt
 DTSTART:20250826T190000Z
 DTEND:20250826T210000Z
-DTSTAMP:20260606T040702Z
+DTSTAMP:20260606T073359Z
 UID:fifa-jrqj1tlsc31sq3x10bkqb4lw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Play-offs\nStadium:
   28 Black Arena\nResult: 2 - 1
