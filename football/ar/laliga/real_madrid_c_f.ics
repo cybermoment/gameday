@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS أوساسونا
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-f46gwc0un9j7qzyfl4fpo6n10@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:ريال أوفيدو VS ريال مدريد
 DTSTART:20250824T193000Z
 DTEND:20250824T213000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-4zhv5gr0aqfz7e8e32rrx6hg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ريال مايوركا
 DTSTART:20250830T193000Z
 DTEND:20250830T213000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-77rmbjidsouxav300f54behg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ريال مدريد
 DTSTART:20250913T141500Z
 DTEND:20250913T161500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-ahwl5kztusj3oxv74lxw8pas@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS إسبانيول
 DTSTART:20250920T141500Z
 DTEND:20250920T161500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-h6rpuztodqc4wokrpyck2zv8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:ليفانتي VS ريال مدريد
 DTSTART:20250923T193000Z
 DTEND:20250923T213000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-jfjnqx2yal5t4pcccve1zg9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS ريال مدريد
 DTSTART:20250927T141500Z
 DTEND:20250927T161500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-m3rr5kwhsu6s770ey69xad5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS فياريال
 DTSTART:20251004T190000Z
 DTEND:20251004T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-qll7e8qbbmjfzxvwpi96cg0k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:خيتافي VS ريال مدريد
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-uoe12e3coa1i9fov19pdukus@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS برشلونة
 DTSTART:20251026T151500Z
 DTEND:20251026T171500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-ytxz0i1eppxxqupm27ktuln8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS فالنسيا
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1288ajju0cadnuxxhvkal1mok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:رايو فاييكانو VS ريال مدريد
 DTSTART:20251109T151500Z
 DTEND:20251109T171500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-16234pc0mx6bpyeqhj4i81p90@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:إلتشي VS ريال مدريد
 DTSTART:20251123T200000Z
 DTEND:20251123T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-18ojlro5jtdeu8nv72repur6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد مانويل ما
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:جيرونا VS ريال مدريد
 DTSTART:20251130T200000Z
 DTEND:20251130T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1c2s2pxxqc6pp652crmn64etw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:أتليتيكو بلباو VS ريال مدريد
 DTSTART:20251203T180000Z
 DTEND:20251203T200000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1ximrnsi0rfciohtjk242p1jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان ماميه\
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS سيلتا فيغو
 DTSTART:20251207T200000Z
 DTEND:20251207T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1gy4rm1nw9jppuagj17r91l3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:ديبورتيفو ألافيس VS ريال مدريد
 DTSTART:20251214T200000Z
 DTEND:20251214T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1m7vig0k2tt5q9apse7108pas@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد دي منديزو
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS إشبيلية
 DTSTART:20251220T200000Z
 DTEND:20251220T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1nc8632r4hii9bl1ygnappkpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ريال بيتيس
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-1s8ry79zt6zhqqa2eoakvm904@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ليفانتي
 DTSTART:20260117T130000Z
 DTEND:20260117T150000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-20p4cff79mu4mto9rpw2sdj4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:فياريال VS ريال مدريد
 DTSTART:20260124T200000Z
 DTEND:20260124T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-242xbwdul3xv3pwz602l6btw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS رايو فاييكانو
 DTSTART:20260201T130000Z
 DTEND:20260201T150000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-27t0dyh53751craqajb3o62hg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال مدريد
 DTSTART:20260208T200000Z
 DTEND:20260208T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2bl3hdm49yj3nhnvngy8p6qs4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ريال سوسيداد
 DTSTART:20260214T200000Z
 DTEND:20260214T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2gtyyqnsw87ojqc60b9b50dn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:أوساسونا VS ريال مدريد
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2i1fz7uysfcivnrqrbpsybfo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد السدار\nال
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS خيتافي
 DTSTART:20260302T200000Z
 DTEND:20260302T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2m4sef2l4im49rda90k3p41lg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:سيلتا فيغو VS ريال مدريد
 DTSTART:20260306T200000Z
 DTEND:20260306T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2r0l3iazgy14lquy2273uny1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS إلتشي
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2sx9kf2syjyyqwaxz74i46n10@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS أتلتيكو مدريد
 DTSTART:20260322T200000Z
 DTEND:20260322T220000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-2wpgnr91h1yid0zf4zu0y5afo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ريال مدريد
 DTSTART:20260404T141500Z
 DTEND:20260404T161500Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-334grr0hqs8zr92mx518hdjpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS جيرونا
 DTSTART:20260410T190000Z
 DTEND:20260410T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-34m6ahxmkq28k9h8al6i9gsno@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ديبورتيفو ألافيس
 DTSTART:20260421T193000Z
 DTEND:20260421T213000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-3e4k0muk9qdqz748em5e5dtzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:ريال بيتيس VS ريال مدريد
 DTSTART:20260424T190000Z
 DTEND:20260424T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-38r38grppqfwcb99s9ikyv6s4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:إسبانيول VS ريال مدريد
 DTSTART:20260503T190000Z
 DTEND:20260503T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-3hj39lcguw2pwxyqlq86jqntg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد باور ايت\n
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS ريال مدريد
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-3kigmlbqhunbi6gixcr7cz6z8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ريال أوفيدو
 DTSTART:20260514T193000Z
 DTEND:20260514T213000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-3ql6gx72pau1cocng395b63h0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -547,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:إشبيلية VS ريال مدريد
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-3ubq4xhedh6kqvsb2d7cvw650@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد رامون سان
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS أتليتيكو بلباو
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260606T184944Z
+DTSTAMP:20260606T201520Z
 UID:fifa-3wz71k4469ny273fw5c1yavx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
