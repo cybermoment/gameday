@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Olympique Lyonnais
 DTSTART:20250816T150000Z
 DTEND:20250816T170000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-73l4er9v8jty4j1755iq9l6ok@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Lens
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-77vwwullt2rkwqbrcq2q71j4k@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Oc
  éane\nResult: 1 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Stade Brestois
 DTSTART:20250829T184500Z
 DTEND:20250829T204500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7b72rgxdptmkdu4bauqvywvmc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 3 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Lens
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7e2n9uyd9eo7o4j8ogg52hams@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Parc des
   Princes\nResult: 2 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Lille
 DTSTART:20250920T190500Z
 DTEND:20250920T210500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7h0i7e61tfj9c8pebjoyccx04@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 3 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Lens
 DTSTART:20250928T184500Z
 DTEND:20250928T204500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7l1n57rq3lxa7la5ztggwjvh0@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Roazhon 
  Park\nResult: 0 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Lens
 DTSTART:20251004T190500Z
 DTEND:20251004T210500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7q9habd412g1giclzyhxwqm1g@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   l'Abbé Deschamps\nResult: 1 - 2
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Paris FC
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7sh3gud0et7a4ivgb8jgwbj84@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 2 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Olympique Marseille
 DTSTART:20251025T190500Z
 DTEND:20251025T210500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-7x1o058r9z5q36sidhpy4ot90@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 2 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:FC Metz VS Lens
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-80ep8gebj6p6l3xr3x3983kes@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Sa
  int-Symphorien\nResult: 2 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS FC Lorient
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-82rnrjb2fbikdy5nbhf4mxz4k@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 3 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco VS Lens
 DTSTART:20251108T200500Z
 DTEND:20251108T220500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-87a9ay9yxg6yrv300xdpb5b10@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Lo
  uis-II\nResult: 1 - 4
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS RC Strasbourg Alsace
 DTSTART:20251122T160000Z
 DTEND:20251122T180000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-880t6lepwo7xf1dbsudept6ac@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 1 - 0
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Angers SCO VS Lens
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8c40s9dmzxl33115jh6w10104@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Ra
  ymond Kopa\nResult: 1 - 2
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Lens
 DTSTART:20251206T160000Z
 DTEND:20251206T180000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8fuei7twwjrpuze3dokkx45jo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 2
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS OGC Nice
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8kqdyxm18wfmljsps5a5fk178@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 2 - 0
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse FC VS Lens
 DTSTART:20260102T194500Z
 DTEND:20260102T214500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8o32zdzhixuovdh9jck1bjm6s@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stadium 
  de Toulouse\nResult: 0 - 3
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Auxerre
 DTSTART:20260117T160000Z
 DTEND:20260117T180000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8pysxkqzqxm5buurzebf08e8k@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 1 - 0
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS Lens
 DTSTART:20260124T200500Z
 DTEND:20260124T220500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8vdhidfe9e7yz0rjl3qbblogk@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Orange V
  élodrome\nResult: 3 - 1
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Le Havre
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-8y0f1bhw42hpzh9ch8vrmyp78@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 1 - 0
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Rennes
 DTSTART:20260207T160000Z
 DTEND:20260207T180000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-91dfp4tj1gs3ca84prdkxos9g@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 3 - 1
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Lens
 DTSTART:20260214T200500Z
 DTEND:20260214T220500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9542olzreg98t5g7iy5689yc4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Je
  an Bouin\nResult: 0 - 5
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS AS Monaco
 DTSTART:20260221T160000Z
 DTEND:20260221T180000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9680w5grhbij53uk7u1zdkiz8@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 2 - 3
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:RC Strasbourg Alsace VS Lens
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9bvvo7fe784553nbrum8q67mc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Meinau\nResult: 1 - 1
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS FC Metz
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9e5nae59jjcp07kxv2w21oe1g@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 3 - 0
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:FC Lorient VS Lens
 DTSTART:20260314T160000Z
 DTEND:20260314T180000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9gdkk8wkbsrfyxckswcmfkd1w@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade du
   Moustoir - Yves Allainmat\nResult: 2 - 1
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Angers SCO
 DTSTART:20260320T194500Z
 DTEND:20260320T214500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9l3eew5kqdhdlkce55khtsaok@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 5 - 1
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Lens
 DTSTART:20260404T190500Z
 DTEND:20260404T210500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9p8eybm8kroprwrs3sd151nh0@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Decathlo
  n Arena - Stade Pierre-Mauroy\nResult: 3 - 0
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Toulouse FC
 DTSTART:20260417T184500Z
 DTEND:20260417T204500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9v0uaaro4f8emh6sp49ucu4gk@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 3 - 2
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Stade Brestois VS Lens
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9zxjb8x1gt0a80798vsat6i38@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Fr
  ancis-Le Blé\nResult: 3 - 3
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:OGC Nice VS Lens
 DTSTART:20260502T190500Z
 DTEND:20260502T210500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-a3p4pgae3k82njd8a9w0ftmhg@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Allianz 
  Riviera\nResult: 1 - 1
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS FC Nantes
 DTSTART:20260508T184500Z
 DTEND:20260508T204500Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-a565uhc7y4eouqda5vp1nejo4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 1 - 0
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Paris Saint-Germain
 DTSTART:20260513T190000Z
 DTEND:20260513T210000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-9tgkqlevg5n5o5opx4boqsljo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 0 - 2
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lyonnais VS Lens
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260607T063847Z
+DTSTAMP:20260607T101009Z
 UID:fifa-aadqkdlabfc68ah1r4ziesg0k@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Groupama
   Stadium\nResult: 0 - 4
