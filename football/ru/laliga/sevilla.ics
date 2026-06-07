@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Севилья
 DTSTART:20250817T173000Z
 DTEND:20250817T193000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-ine2hgzsb0qatru98nl045w@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Хетафе
 DTSTART:20250825T193000Z
 DTEND:20250825T213000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3677z72kaa3hckjtmi5qnb4k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Севилья
 DTSTART:20250830T173000Z
 DTEND:20250830T193000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-91dd8ia3m0bxoqzjgyo3ptsk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Эльче
 DTSTART:20250912T190000Z
 DTEND:20250912T210000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-du8jha9qxukb7ki17m3y3aj8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Алавес VS Севилья
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-e7g814p4n7r5gtpdqewz89p0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Вильярреал
 DTSTART:20250923T193000Z
 DTEND:20250923T213000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-jtywnxc2k08euwiq1ssvws9g@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Райо Вальекано VS Севилья
 DTSTART:20250928T120000Z
 DTEND:20250928T140000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-nl5iakd17ewjayh3ah21iolw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Барселона
 DTSTART:20251005T141500Z
 DTEND:20251005T161500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-rbyhgw1kyp0ghg2qpvznvvv8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Мальорка
 DTSTART:20251018T120000Z
 DTEND:20251018T140000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-wlegmdabr8ruispvl8gtzv9w@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Сосьедад VS Севилья
 DTSTART:20251024T190000Z
 DTEND:20251024T210000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-xcapf185ght9jj3jcgj4v0us@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Севилья
 DTSTART:20251101T151500Z
 DTEND:20251101T171500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-10qg7chtpoj0knqnvx2oduot0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Осасуна
 DTSTART:20251108T151500Z
 DTEND:20251108T171500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-17xoblao6gdkidisaddnrpa1g@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Эспаньол VS Севилья
 DTSTART:20251124T200000Z
 DTEND:20251124T220000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-191yv3mlrk964ybeg2ilya9sk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Бетис
 DTSTART:20251130T151500Z
 DTEND:20251130T171500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-1eaz7mdny12eiuyeysnycnw2c@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Валенсия VS Севилья
 DTSTART:20251207T151500Z
 DTEND:20251207T171500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-1ifuis5x6296qke087rpwo5jo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Реал Овьедо
 DTSTART:20251214T130000Z
 DTEND:20251214T150000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-1lud5oppwm3ngiyzarvb1zoyc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Севилья
 DTSTART:20251220T200000Z
 DTEND:20251220T220000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-1nc8632r4hii9bl1ygnappkpg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Леванте
 DTSTART:20260104T130000Z
 DTEND:20260104T150000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-1tethtdduidjywarrz3qiyx3o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Сельта
 DTSTART:20260112T200000Z
 DTEND:20260112T220000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-1w0ngrj3bf0ruv81ra4w2muj8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Эльче VS Севилья
 DTSTART:20260119T200000Z
 DTEND:20260119T220000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-21t9p2uvl57vfs1xsytfooxzo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Атлетик
 DTSTART:20260124T173000Z
 DTEND:20260124T193000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-25kz3clipo3v4d1gp3m23n5ec@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Мальорка VS Севилья
 DTSTART:20260202T200000Z
 DTEND:20260202T220000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-28z661pl07w40fr1in36f97o4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Хирона
 DTSTART:20260208T151500Z
 DTEND:20260208T171500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2b7m8c3nipodfdjjb4e6akqok@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Алавес
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2h7d8ukaxlbxzfalz2jej5us4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Хетафе VS Севилья
 DTSTART:20260222T130000Z
 DTEND:20260222T150000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2hktnqo0d8lx8h65s2ac67ac4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Севилья
 DTSTART:20260301T173000Z
 DTEND:20260301T193000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2napzcxsfy1ju0ixutyi6z8yc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Райо Вальекано
 DTSTART:20260308T173000Z
 DTEND:20260308T193000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2pwdpb63byqohajaokb5793pw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Севилья
 DTSTART:20260315T151500Z
 DTEND:20260315T171500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2v65xqf9xnj8r2gxj9akbtqfo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Валенсия
 DTSTART:20260321T200000Z
 DTEND:20260321T220000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-2zpoy8pxorsqwffemhjkcff2s@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Овьедо VS Севилья
 DTSTART:20260405T163000Z
 DTEND:20260405T183000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-33hvcbq5xmb0wo3x4r5p3w1ec@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Атлетико Мадрид
 DTSTART:20260411T190000Z
 DTEND:20260411T210000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3799288svdt7jtyvzloemtt04@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Севилья
 DTSTART:20260423T170000Z
 DTEND:20260423T190000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3d093m8yc27r7p3gumt3gg4d0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -480,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Осасуна VS Севилья
 DTSTART:20260426T163000Z
 DTEND:20260426T183000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-39ifvpi5wnexvu36qh4irjbx0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -494,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Реал Сосьедад
 DTSTART:20260504T190000Z
 DTEND:20260504T210000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3fzj97pollbznset694q593bo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Эспаньол
 DTSTART:20260509T141500Z
 DTEND:20260509T161500Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3mfg133s0kwtlbnaes34dxhxw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Вильярреал VS Севилья
 DTSTART:20260513T170000Z
 DTEND:20260513T190000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3q7xe5wdnb9goknf23kydt8no@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Реал Мадрид
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3ubq4xhedh6kqvsb2d7cvw650@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -554,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS Севилья
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260607T201901Z
+DTSTAMP:20260607T214733Z
 UID:fifa-3vhe91racce86uhq0b3mw29sk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
