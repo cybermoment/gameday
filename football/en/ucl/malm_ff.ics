@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Saburtalo VS Malmö FF
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
-DTSTAMP:20260609T083545Z
+DTSTAMP:20260609T121113Z
 UID:fifa-cktnek4645q6tt4u8cs685tsk@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: Mikheil Meskhis sakhelobis Stadioni\nResult: 1 - 3
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Malmö FF VS FC Saburtalo
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260609T083545Z
+DTSTAMP:20260609T121113Z
 UID:fifa-coxtncexa8po31q9pr0rco4r8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: Eleda Stadion\nResult: 3 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Rigas Futbola skola VS Malmö FF
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260609T083545Z
+DTSTAMP:20260609T121113Z
 UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: LNK Sporta Parks dabīgais\nResult: 1 - 4
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Malmö FF VS Rigas Futbola skola
 DTSTART:20250730T170000Z
 DTEND:20250730T190000Z
-DTSTAMP:20260609T083545Z
+DTSTAMP:20260609T121113Z
 UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Eleda Stadion\nResult: 1 - 0
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Malmö FF VS København
 DTSTART:20250805T170000Z
 DTEND:20250805T190000Z
-DTSTAMP:20260609T083545Z
+DTSTAMP:20260609T121113Z
 UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Eleda Stadion\nResult: 0 - 0
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:København VS Malmö FF
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260609T083545Z
+DTSTAMP:20260609T121113Z
 UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 3rd Qualifying Roun
  d\nStadium: Parken\nResult: 5 - 0
