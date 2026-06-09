@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Хамрун Спартанс VS Динамо Киев
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260609T154120Z
+DTSTAMP:20260609T181354Z
 UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: MFA Centenary Stadium\nРезульт
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Динамо Киев VS Хамрун Спартанс
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260609T154120Z
+DTSTAMP:20260609T181354Z
 UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Motor Lublin Arena\nРезульта
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Динамо Киев VS Pafos
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260609T154120Z
+DTSTAMP:20260609T181354Z
 UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Motor Lublin Arena\nРезульта
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos VS Динамо Киев
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260609T154120Z
+DTSTAMP:20260609T181354Z
 UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Alphamega Stadium\nРезультат
