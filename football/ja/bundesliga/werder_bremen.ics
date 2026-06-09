@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:フランクフルト VS ヴェルダー・ブレーメン
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-ct1wksqog4t3a6w7kt2fc4jys@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: コメルツバンク・アレーナ\n結
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS レヴァークーゼン
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-cx35c8zr87zjimkz2uwfddbtg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシアMG VS ヴェルダー・ブレーメン
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-d1cy4wrr4rd2acrxtboi4srh0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ボルシアパルク\n結果: 0 - 4
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS フライブルク
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -67,7 +67,7 @@ SUMMARY:FC バイエルン・ミュンヘン VS ヴェルダー・ブレ
  ーメン
 DTSTART:20250926T183000Z
 DTEND:20250926T203000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-d6szvgos484n5uqg0evyd0j6c@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: アリアンツ・アレーナ\n結果: 4 -
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ザンクト・パウリ
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dbw5g0o17tchoakvvzrwgkr2s@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:ハイデンハイム VS ヴェルダー・ブレーメン
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dituz3c97msg96vhpedi607x0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴォイト・アレーナ\n結果: 2 - 2
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ウニオン・ベルリン
 DTSTART:20251024T183000Z
 DTEND:20251024T203000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dl2rx9bj47scg1mvhhbixludw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:マインツ VS ヴェルダー・ブレーメン
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dnwxghd3j1pqk5thh3jxu5dlg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: OPELアレーナ\n結果: 1 - 1
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ヴォルフスブルク
 DTSTART:20251107T193000Z
 DTEND:20251107T213000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dsaps5s5iyf83fnhqix50i9sk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:RBライプツィヒ VS ヴェルダー・ブレーメン
 DTSTART:20251123T143000Z
 DTEND:20251123T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dvw130uaptg56d8tbk21y7wgk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: レッドブル・アレーナ\n結果: 2 -
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ケルン
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-dzuruvbg3buwiby9eqwiot05w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:ハンブルガーSV VS ヴェルダー・ブレーメン
 DTSTART:20251207T143000Z
 DTEND:20251207T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-e4zhb4p8lttt8hvcls920ns44@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: フォルクスパルクシュタディオ
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS シュトゥットガルト
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:アウクスブルク VS ヴェルダー・ブレーメン
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-eawxbkkj8ae5hw8yod8bw9mhg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: WWKアレーナ\n結果: 0 - 0
@@ -228,7 +228,7 @@ SUMMARY:ボルシア・ドルトムント VS ヴェルダー・ブレー
  メン
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-eg32vnng1c7spei56g5ldgmc4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ジグナル・イドゥナ・パルク\n
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS フランクフルト
 DTSTART:20260116T193000Z
 DTEND:20260116T213000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-ekfuiat7hd0b93yqb33xo0ufo@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:レヴァークーゼン VS ヴェルダー・ブレーメン
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-enmzcbmzxj7mqk9rglbi7p5as@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: バイアレーナ\n結果: 1 - 0
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ホッフェンハイム
 DTSTART:20260127T193000Z
 DTEND:20260127T213000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-ee44qec2quq4b3rlshopmbh90@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ボルシアMG
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-eryaudkr50cz25pcdgb4bvr4k@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS ヴェルダー・ブレーメン
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 1 - 0
@@ -315,7 +315,7 @@ SUMMARY:ヴェルダー・ブレーメン VS FC バイエルン・ミュ
  ンヘン
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-ezhro218v7fr1mcebcdfn41zo@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:ザンクト・パウリ VS ヴェルダー・ブレーメン
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-f3u9vmz1e5404zt2x54ye6l1w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ミレントア・シュタディオン\n
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ハイデンハイム
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-l178xz57e0f6jla7scv04k4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:ウニオン・ベルリン VS ヴェルダー・ブレーメン
 DTSTART:20260308T163000Z
 DTEND:20260308T183000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-4ybfeqfnqtumfk43wp2pbj10@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: シュタディオン・アン・デア・
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS マインツ
 DTSTART:20260315T143000Z
 DTEND:20260315T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-85awldjeh348ic7lb2w5o8ic@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:ヴォルフスブルク VS ヴェルダー・ブレーメン
 DTSTART:20260321T143000Z
 DTEND:20260321T163000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-boe8da0rdeitunb1itudqs5w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: フォルクスワーゲン・アレーナ\
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS RBライプツィヒ
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-evkygv6vtxb2w8xxfz6w5fkk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:ケルン VS ヴェルダー・ブレーメン
 DTSTART:20260412T133000Z
 DTEND:20260412T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-knqudityzu8iotqfyn7369sk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ラインエネルギーシュタディオ
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS ハンブルガーSV
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-mmkbdhus44bo4g4c4ytz9wyc@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ヴェルダー・ブレーメン
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS アウクスブルク
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-ttd11jegtqmqlpqeeg85jo5w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:ホッフェンハイム VS ヴェルダー・ブレーメン
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-y6qmgniqgf59lo9d7tc27eac@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ライン・ネッカー・アレーナ\n
@@ -498,7 +498,7 @@ SUMMARY:ヴェルダー・ブレーメン VS ボルシア・ドルトム
  ント
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260609T221408Z
+DTSTAMP:20260609T235555Z
 UID:fifa-10xtffi2776zhej0uesve88b8@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
