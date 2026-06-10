@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Лех Познань VS Брейдаблик
 DTSTART:20250722T183000Z
 DTEND:20250722T203000Z
-DTSTAMP:20260610T042201Z
+DTSTAMP:20260610T083245Z
 UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Стадион Мьежски (гор
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Брейдаблик VS Лех Познань
 DTSTART:20250730T183000Z
 DTEND:20250730T203000Z
-DTSTAMP:20260610T042201Z
+DTSTAMP:20260610T083245Z
 UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Kópavogsvöllur\nРезультат:
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Лех Познань VS Црвена Звезда
 DTSTART:20250806T183000Z
 DTEND:20250806T203000Z
-DTSTAMP:20260610T042201Z
+DTSTAMP:20260610T083245Z
 UID:fifa-c3x6lvs9dk8pyp5fj76w195p0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Стадион Мьежски (гор
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Црвена Звезда VS Лех Познань
 DTSTART:20250812T190000Z
 DTEND:20250812T210000Z
-DTSTAMP:20260610T042201Z
+DTSTAMP:20260610T083245Z
 UID:fifa-c4xoo7g1uefu6hj1vgsn3r95g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Stadion Rajko Mitić\nРезульт
