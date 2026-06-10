@@ -7,10 +7,10 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Galatasaray
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-4wcjch9j9nzd1cfu19oioy9sk@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Deutsche Bank Park\nResultado: 5 - 1
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Deutsche Bank Park\nResultado: 5 - 1
 GEO:50.068577;8.645448
 LOCATION:Deutsche Bank Park
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
@@ -20,10 +20,10 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Eintracht Frankfurt
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Riyadh Air Metropolitano\nResultado: 5 - 1
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Riyadh Air Metropolitano\nResultado: 5 - 1
 GEO:40.436226;-3.59946
 LOCATION:Riyadh Air Metropolitano
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Riyadh Air Metropolitano"
@@ -34,10 +34,10 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Liverpool
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-59bpikh36bw9pwdd7xuyp30gk@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Deutsche Bank Park\nResultado: 1 - 5
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Deutsche Bank Park\nResultado: 1 - 5
 GEO:50.068577;8.645448
 LOCATION:Deutsche Bank Park
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
@@ -47,10 +47,10 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Eintracht Frankfurt
 DTSTART:20251104T174500Z
 DTEND:20251104T194500Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Stadio Diego Armando Maradona\nResultado: 0 - 0
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Stadio Diego Armando Maradona\nResultado: 0 - 0
 GEO:40.827974;14.19293
 LOCATION:Stadio Diego Armando Maradona
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Diego Armando Mara
@@ -61,10 +61,10 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Atalanta
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5mkoywuiapszrete4cw6mtmok@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Deutsche Bank Park\nResultado: 0 - 3
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Deutsche Bank Park\nResultado: 0 - 3
 GEO:50.068577;8.645448
 LOCATION:Deutsche Bank Park
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP
@@ -74,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:FC Barcelona VS Eintracht Frankfurt
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5q05t4o4el0d6rhmncz6pxqms@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Spotify Camp Nou\nResultado: 2 - 1
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Spotify Camp Nou\nResultado: 2 - 1
 GEO:41.38089;2.122813
 LOCATION:Spotify Camp Nou
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spotify Camp Nou";X-APPLE
@@ -87,10 +87,10 @@ BEGIN:VEVENT
 SUMMARY:Qarabag VS Eintracht Frankfurt
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5z9jt02azordg6y6m97cvmc5w@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Tofiq Bəhramov adına Respublika stadionu\nResultado: 3 - 2
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Tofiq Bəhramov adına Respublika stadionu\nResultado: 3 - 2
 GEO:40.39734;49.8524
 LOCATION:Tofiq Bəhramov adına Respublika stadionu
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tofiq Bəhramov adına Re
@@ -101,10 +101,10 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Tottenham Hotspur
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-656ifudbe32pxl0k263qrsq38@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Deutsche Bank Park\nResultado: 0 - 2
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Deutsche Bank Park\nResultado: 0 - 2
 GEO:50.068577;8.645448
 LOCATION:Deutsche Bank Park
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Deutsche Bank Park";X-APP

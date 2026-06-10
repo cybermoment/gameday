@@ -7,10 +7,10 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Nápoles
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Etihad Stadium\nResultado: 2 - 0
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Etihad Stadium\nResultado: 2 - 0
 GEO:53.483152;-2.200409
 LOCATION:Etihad Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
@@ -20,10 +20,10 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Manchester City
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Stade Louis-II\nResultado: 2 - 2
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Stade Louis-II\nResultado: 2 - 2
 GEO:43.727564;7.415542
 LOCATION:Stade Louis-II
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Louis-II";X-APPLE-R
@@ -33,10 +33,10 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Manchester City
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Estadio de la Cerámica\nResultado: 0 - 2
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Estadio de la Cerámica\nResultado: 0 - 2
 GEO:39.944119;-0.103474
 LOCATION:Estadio de la Cerámica
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Cerámica";
@@ -47,10 +47,10 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Borussia Dortmund
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Etihad Stadium\nResultado: 4 - 1
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Etihad Stadium\nResultado: 4 - 1
 GEO:53.483152;-2.200409
 LOCATION:Etihad Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
@@ -60,10 +60,10 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Bayer Leverkusen
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Etihad Stadium\nResultado: 0 - 2
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Etihad Stadium\nResultado: 0 - 2
 GEO:53.483152;-2.200409
 LOCATION:Etihad Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
@@ -73,10 +73,10 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Manchester City
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Estadio Bernabéu\nResultado: 1 - 2
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Estadio Bernabéu\nResultado: 1 - 2
 GEO:40.453068;-3.688354
 LOCATION:Estadio Bernabéu
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Bernabéu";X-APPL
@@ -86,10 +86,10 @@ BEGIN:VEVENT
 SUMMARY:Bodo Glimt VS Manchester City
 DTSTART:20260120T174500Z
 DTEND:20260120T194500Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Aspmyra Stadion\nResultado: 3 - 1
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Aspmyra Stadion\nResultado: 3 - 1
 GEO:67.276677;14.384365
 LOCATION:Aspmyra Stadion
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Aspmyra Stadion";X-APPLE-
@@ -99,10 +99,10 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Galatasaray
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
-DESCRIPTION:Competición: UEFA Champions League\nFase: League Stage\nEstad
- io: Etihad Stadium\nResultado: 2 - 0
+DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
+  Etihad Stadium\nResultado: 2 - 0
 GEO:53.483152;-2.200409
 LOCATION:Etihad Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Etihad Stadium";X-APPLE-R
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Manchester City
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
  stadio: Estadio Bernabéu\nResultado: 3 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Real Madrid C.F.
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260609T235420Z
+DTSTAMP:20260610T042156Z
 UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
  stadio: Etihad Stadium\nResultado: 1 - 2

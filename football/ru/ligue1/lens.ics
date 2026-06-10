@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Олимпик Лион
 DTSTART:20250816T150000Z
 DTEND:20250816T170000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-73l4er9v8jty4j1755iq9l6ok@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Гавр VS Ланс
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-77vwwullt2rkwqbrcq2q71j4k@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Océane\nРе
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Брест
 DTSTART:20250829T184500Z
 DTEND:20250829T204500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7b72rgxdptmkdu4bauqvywvmc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Ланс
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7e2n9uyd9eo7o4j8ogg52hams@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк де Пр
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Лилль
 DTSTART:20250920T190500Z
 DTEND:20250920T210500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7h0i7e61tfj9c8pebjoyccx04@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Ренн VS Ланс
 DTSTART:20250928T184500Z
 DTEND:20250928T204500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7l1n57rq3lxa7la5ztggwjvh0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Roazhon Park\nРе
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Осер VS Ланс
 DTSTART:20251004T190500Z
 DTEND:20251004T210500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7q9habd412g1giclzyhxwqm1g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de l'Abbé De
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Париж ФК
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7sh3gud0et7a4ivgb8jgwbj84@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Олимпик Марсель
 DTSTART:20251025T190500Z
 DTEND:20251025T210500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-7x1o058r9z5q36sidhpy4ot90@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Ланс
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-80ep8gebj6p6l3xr3x3983kes@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Лорьян
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-82rnrjb2fbikdy5nbhf4mxz4k@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Ланс
 DTSTART:20251108T200500Z
 DTEND:20251108T220500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-87a9ay9yxg6yrv300xdpb5b10@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Louis-II\nР
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Страсбур
 DTSTART:20251122T160000Z
 DTEND:20251122T180000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-880t6lepwo7xf1dbsudept6ac@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Анжер VS Ланс
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8c40s9dmzxl33115jh6w10104@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Raymond Kopa\
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Нант VS Ланс
 DTSTART:20251206T160000Z
 DTEND:20251206T180000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8fuei7twwjrpuze3dokkx45jo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Бо
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Ницца
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8kqdyxm18wfmljsps5a5fk178@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Тулуза VS Ланс
 DTSTART:20260102T194500Z
 DTEND:20260102T214500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8o32zdzhixuovdh9jck1bjm6s@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stadium de Toulouse
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Осер
 DTSTART:20260117T160000Z
 DTEND:20260117T180000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8pysxkqzqxm5buurzebf08e8k@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Марсель VS Ланс
 DTSTART:20260124T200500Z
 DTEND:20260124T220500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8vdhidfe9e7yz0rjl3qbblogk@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Оранж Вело
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Гавр
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-8y0f1bhw42hpzh9ch8vrmyp78@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Ренн
 DTSTART:20260207T160000Z
 DTEND:20260207T180000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-91dfp4tj1gs3ca84prdkxos9g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Париж ФК VS Ланс
 DTSTART:20260214T200500Z
 DTEND:20260214T220500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9542olzreg98t5g7iy5689yc4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Jean Bouin\n
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Монако
 DTSTART:20260221T160000Z
 DTEND:20260221T180000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9680w5grhbij53uk7u1zdkiz8@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Ланс
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9bvvo7fe784553nbrum8q67mc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Метц
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9e5nae59jjcp07kxv2w21oe1g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Лорьян VS Ланс
 DTSTART:20260314T160000Z
 DTEND:20260314T180000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9gdkk8wkbsrfyxckswcmfkd1w@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade du Moustoir -
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Анжер
 DTSTART:20260320T194500Z
 DTEND:20260320T214500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9l3eew5kqdhdlkce55khtsaok@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Ланс
 DTSTART:20260404T190500Z
 DTEND:20260404T210500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9p8eybm8kroprwrs3sd151nh0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Тулуза
 DTSTART:20260417T184500Z
 DTEND:20260417T204500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9v0uaaro4f8emh6sp49ucu4gk@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Брест VS Ланс
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9zxjb8x1gt0a80798vsat6i38@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Francis-Le Bl
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Ницца VS Ланс
 DTSTART:20260502T190500Z
 DTEND:20260502T210500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-a3p4pgae3k82njd8a9w0ftmhg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Альянц Рив
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Нант
 DTSTART:20260508T184500Z
 DTEND:20260508T204500Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-a565uhc7y4eouqda5vp1nejo4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS ПСЖ
 DTSTART:20260513T190000Z
 DTEND:20260513T210000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-9tgkqlevg5n5o5opx4boqsljo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Лион VS Ланс
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260609T235633Z
+DTSTAMP:20260610T042355Z
 UID:fifa-aadqkdlabfc68ah1r4ziesg0k@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк Олимп
