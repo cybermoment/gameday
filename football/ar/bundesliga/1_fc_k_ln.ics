@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS كولن
 DTSTART:20250824T133000Z
 DTEND:20250824T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-cu011cv61zc09nnf1ti8z36dw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS فرايبورج
 DTSTART:20250831T173000Z
 DTEND:20250831T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-cz0pjg0mj1a5m91lqszpb2bkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS كولن
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-d1qwv0o28d8fyr95lwczwrcwk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS كولن
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-d4fo4fsi67dvqhh7vghr4i49g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS شتوتجارت
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-da1gkw7g8uurvecg8icqqu80k@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS كولن
 DTSTART:20251003T183000Z
 DTEND:20251003T203000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-ddstksgk0wao75lfuriqqchlg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS أوجسبورج
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-djaavhosnqvpta9j88ehuqvx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS كولن
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-dknvgto062tiwpf2rz16o8glw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS هامبورج
 DTSTART:20251102T143000Z
 DTEND:20251102T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-dqp1p15gmvcc5wti2o830d4wk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:بوروسيا مونشنجلادباخ VS كولن
 DTSTART:20251108T173000Z
 DTEND:20251108T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-dt56clcy2uuhivdfcwutkyr6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS آينرتخت فرانكفورت
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-dxwi3zrorvj8nz4jo622sa710@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS كولن
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-dzuruvbg3buwiby9eqwiot05w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS سانت باولي
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-e4l7iypbteclzdreve2im2i38@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS كولن
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-e5ri4ff2rapze9kbh0479ad5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS يونيون برلين
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-ebp5vble9nw89bcwkaaamem8k@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS كولن
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-efp0ntc3ixtl2j6yv7x6nymms@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS بايرن ميونيخ
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-eivec4bqig74ib0tselmeick4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS ماينتس
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-emesrc98t387qvdp3v2flz8d0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS كولن
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-eof2idjdw3bvltio6b49clpuc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS فولفسبورج
 DTSTART:20260130T193000Z
 DTEND:20260130T213000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-etk78ufd093mvrse91d01tm38@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS لايبزيج
 DTSTART:20260208T143000Z
 DTEND:20260208T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-exhr046jamy90vfwil7rjt9uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS كولن
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-ezvw4rzkq2oh0hvwgw0dl7cwk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS هوفنهايم
 DTSTART:20260221T143000Z
 DTEND:20260221T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-f4mo3zia3yyfa0ao231ebwetw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS كولن
 DTSTART:20260227T193000Z
 DTEND:20260227T213000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-1rfpqkids2ynx0ql55z0jdas@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS نادي بوروسيا دورتموند
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-64rcfjpjgw65g6zd8iu42ot0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS كولن
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-9ptt4q4yf243qpdy4rmaov84@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS بوروسيا مونشنجلادباخ
 DTSTART:20260321T143000Z
 DTEND:20260321T163000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-db5upv91b433ua0dt4ikfok4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS كولن
 DTSTART:20260405T153000Z
 DTEND:20260405T173000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-e3fldh0urwa9q8vmaxn3khsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS فيردر بريمن
 DTSTART:20260412T133000Z
 DTEND:20260412T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-knqudityzu8iotqfyn7369sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS كولن
 DTSTART:20260417T183000Z
 DTEND:20260417T203000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-nwf29q4zuasdvlj6zn0gyg44@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -455,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS باير ليفركوزن
 DTSTART:20260425T133000Z
 DTEND:20260425T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-rfl9p8tt2voneb9dypb9b8r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:يونيون برلين VS كولن
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-uln5fqf6cbv7tz9cr0035t78@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS هايدينهايم
 DTSTART:20260510T153000Z
 DTEND:20260510T173000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-ykrhcbo6f8tq3zooctziy0pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS كولن
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260610T162519Z
+DTSTAMP:20260610T191510Z
 UID:fifa-zcvfqccagex8u60bvjhyq2ok@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال

@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Монако
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Манчестер Сити
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stade Louis-II\nРезультат: 2 - 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Тоттенхэм
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-588thaqsgswjlauvj2gp1orh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stade Louis-II\nРезультат: 0 - 
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Будё / Глимт VS Монако
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Aspmyra Stadion\nРезультат: 0 -
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos VS Монако
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Alphamega Stadium\nРезультат: 2
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Галатасарай
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stade Louis-II\nРезультат: 1 - 
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Монако
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-5xf3kaeavedi0z5fyjm6llwr8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio Bernabéu\nРезультат: 6
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS ФК «Ювентус»
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-62yriqtd43xg8ioh1ejxzw7pw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stade Louis-II\nРезультат: 0 - 
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS ПСЖ
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-4oh4lilh7picof2wixpo7jx90@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Stade Louis-II\nРезуль
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Монако
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260610T162441Z
+DTSTAMP:20260610T191440Z
 UID:fifa-4ouqf38r5q9tpki0erifsvuvo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Парк де Пренс\nР
