@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sheriff Tiraspol VS FC Prishtina
 DTSTART:20250710T170000Z
 DTEND:20250710T190000Z
-DTSTAMP:20260612T094512Z
+DTSTAMP:20260612T133223Z
 UID:fifa-f59gg14k8q0f2krt7i3nc14pg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
  nStadion: Bolshaya Sportivnaya Arena\nErgebnis: 4 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:FC Prishtina VS Sheriff Tiraspol
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260612T094512Z
+DTSTAMP:20260612T133223Z
 UID:fifa-32yssqutk0xg9erldxw02r6c@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 1. Qualifikationsrunde\
  nStadion: Stadiumi Fadil Vokrri\nErgebnis: 2 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Sheriff Tiraspol VS FC Utrecht
 DTSTART:20250724T170000Z
 DTEND:20250724T190000Z
-DTSTAMP:20260612T094512Z
+DTSTAMP:20260612T133223Z
 UID:fifa-dsv9rgfekagl152af8g5a37dg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 2. Qualifikationsrunde\
  nStadion: Stadionul Orăşenesc\nErgebnis: 1 - 3
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:FC Utrecht VS Sheriff Tiraspol
 DTSTART:20250731T180000Z
 DTEND:20250731T200000Z
-DTSTAMP:20260612T094512Z
+DTSTAMP:20260612T133223Z
 UID:fifa-dw98cmzn248gwpl04tt0v1pg4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 2. Qualifikationsrunde\
  nStadion: Stadion Galgenwaard\nErgebnis: 4 - 1
