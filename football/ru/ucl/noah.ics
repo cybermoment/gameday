@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Noah VS Будучност
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
-DTSTAMP:20260613T181909Z
+DTSTAMP:20260613T200358Z
 UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Kotaik St
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Будучност VS Noah
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260613T181909Z
+DTSTAMP:20260613T200358Z
 UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Стад
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Noah VS Ференцварош
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260613T181909Z
+DTSTAMP:20260613T200358Z
 UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Kotaik Stadium\nРезультат: 1
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Ференцварош VS Noah
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260613T181909Z
+DTSTAMP:20260613T200358Z
 UID:fifa-701azda2tmhto993kf731cowk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Groupama Aréna\nРезультат: 
