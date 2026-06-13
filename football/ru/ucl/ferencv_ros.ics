@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Noah VS Ференцварош
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260613T050636Z
+DTSTAMP:20260613T083839Z
 UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Kotaik Stadium\nРезультат: 1
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Ференцварош VS Noah
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260613T050636Z
+DTSTAMP:20260613T083839Z
 UID:fifa-701azda2tmhto993kf731cowk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Groupama Aréna\nРезультат: 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:ФК Разград 2000 VS Ференцварош
 DTSTART:20250806T173000Z
 DTEND:20250806T193000Z
-DTSTAMP:20260613T050636Z
+DTSTAMP:20260613T083839Z
 UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Huvepharma Arena\nРезультат:
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Ференцварош VS ФК Разград 2000
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260613T050636Z
+DTSTAMP:20260613T083839Z
 UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Groupama Aréna\nРезультат: 
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Ференцварош VS Карабах
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260613T050636Z
+DTSTAMP:20260613T083839Z
 UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Groupama Aréna\nРезультат: 
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Карабах VS Ференцварош
 DTSTART:20250827T164500Z
 DTEND:20250827T184500Z
-DTSTAMP:20260613T050636Z
+DTSTAMP:20260613T083839Z
 UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Республиканский ста
