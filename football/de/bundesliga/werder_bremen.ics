@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS SV Werder Bremen
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-ct1wksqog4t3a6w7kt2fc4jys@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Deut
  sche Bank Park\nErgebnis: 4 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS Bayer 04 Leverkusen
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-cx35c8zr87zjimkz2uwfddbtg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 3 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS SV Werder Bremen
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-d1cy4wrr4rd2acrxtboi4srh0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: BORU
  SSIA-PARK\nErgebnis: 0 - 4
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS SC Freiburg
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 3
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS SV Werder Bremen
 DTSTART:20250926T183000Z
 DTEND:20250926T203000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-d6szvgos484n5uqg0evyd0j6c@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Alli
  anz Arena\nErgebnis: 4 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS FC St. Pauli
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dbw5g0o17tchoakvvzrwgkr2s@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 1 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Heidenheim 1846 VS SV Werder Bremen
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dituz3c97msg96vhpedi607x0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Voit
  h-Arena\nErgebnis: 2 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS 1. FC Union Berlin
 DTSTART:20251024T183000Z
 DTEND:20251024T203000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dl2rx9bj47scg1mvhhbixludw@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 1 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:1. FSV Mainz 05 VS SV Werder Bremen
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dnwxghd3j1pqk5thh3jxu5dlg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MEWA
   ARENA\nErgebnis: 1 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS VfL Wolfsburg
 DTSTART:20251107T193000Z
 DTEND:20251107T213000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dsaps5s5iyf83fnhqix50i9sk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 2 - 1
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS SV Werder Bremen
 DTSTART:20251123T143000Z
 DTEND:20251123T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dvw130uaptg56d8tbk21y7wgk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Red 
  Bull Arena\nErgebnis: 2 - 0
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS 1. FC Köln
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-dzuruvbg3buwiby9eqwiot05w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 1 - 1
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS SV Werder Bremen
 DTSTART:20251207T143000Z
 DTEND:20251207T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-e4zhb4p8lttt8hvcls920ns44@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 3 - 2
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS VfB Stuttgart
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 4
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:FC Augsburg VS SV Werder Bremen
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-eawxbkkj8ae5hw8yod8bw9mhg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: WWK 
  Arena\nErgebnis: 0 - 0
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS SV Werder Bremen
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-eg32vnng1c7spei56g5ldgmc4@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: SIGN
  AL IDUNA PARK\nErgebnis: 3 - 0
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS Eintracht Frankfurt
 DTSTART:20260116T193000Z
 DTEND:20260116T213000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-ekfuiat7hd0b93yqb33xo0ufo@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 3 - 3
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer 04 Leverkusen VS SV Werder Bremen
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-enmzcbmzxj7mqk9rglbi7p5as@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: BayA
  rena\nErgebnis: 1 - 0
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS TSG Hoffenheim
 DTSTART:20260127T193000Z
 DTEND:20260127T213000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-ee44qec2quq4b3rlshopmbh90@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 2
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS Borussia M'gladbach
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-eryaudkr50cz25pcdgb4bvr4k@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 1 - 1
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS SV Werder Bremen
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Euro
  pa-Park Stadion\nErgebnis: 1 - 0
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS FC Bayern München
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-ezhro218v7fr1mcebcdfn41zo@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 3
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:FC St. Pauli VS SV Werder Bremen
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-f3u9vmz1e5404zt2x54ye6l1w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Mill
  erntor-Stadion\nErgebnis: 2 - 1
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS 1. FC Heidenheim 1846
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-l178xz57e0f6jla7scv04k4@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 2 - 0
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Union Berlin VS SV Werder Bremen
 DTSTART:20260308T163000Z
 DTEND:20260308T183000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-4ybfeqfnqtumfk43wp2pbj10@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Stad
  ion An der Alten Försterei\nErgebnis: 1 - 4
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS 1. FSV Mainz 05
 DTSTART:20260315T143000Z
 DTEND:20260315T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-85awldjeh348ic7lb2w5o8ic@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 2
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:VfL Wolfsburg VS SV Werder Bremen
 DTSTART:20260321T143000Z
 DTEND:20260321T163000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-boe8da0rdeitunb1itudqs5w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  swagen Arena\nErgebnis: 0 - 1
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS RB Leipzig
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-evkygv6vtxb2w8xxfz6w5fkk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 1 - 2
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Köln VS SV Werder Bremen
 DTSTART:20260412T133000Z
 DTEND:20260412T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-knqudityzu8iotqfyn7369sk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Rhei
  nEnergieSTADION\nErgebnis: 3 - 1
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS Hamburger SV
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-mmkbdhus44bo4g4c4ytz9wyc@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 3 - 1
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS SV Werder Bremen
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 1
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS FC Augsburg
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-ttd11jegtqmqlpqeeg85jo5w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 1 - 3
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim VS SV Werder Bremen
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-y6qmgniqgf59lo9d7tc27eac@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: PreZ
  ero Arena\nErgebnis: 1 - 0
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS Borussia Dortmund
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260613T165903Z
+DTSTAMP:20260613T181925Z
 UID:fifa-10xtffi2776zhej0uesve88b8@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 2
