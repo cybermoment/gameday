@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Friburgo VS Augsburgo
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-ctiyi3fh9yo41q6wyssamhyc4@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Eu
  ropa-Park Stadion\nResultado: 1 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS FC Bayern München
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-cy8r3marwyktrq9wc4xfrbeok@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Augsburgo
 DTSTART:20250914T133000Z
 DTEND:20250914T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-d2iaj7c1ceujevgcujayjj76c@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Mi
  llerntor-Stadion\nResultado: 2 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Mainz 05
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-d5n34b7rzrhq0gv720bvle2ok@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 1 - 4
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim 1846 VS Augsburgo
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-d9nmjrgxcx5r1mcpjrormit5g@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Vo
  ith-Arena\nResultado: 2 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Wolfsburgo
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-ddaj65f6wf5wwfetkvufnl6ac@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 3 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Colonia VS Augsburgo
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-djaavhosnqvpta9j88ehuqvx0@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Rh
  einEnergieSTADION\nResultado: 1 - 1
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS RB Leipzig
 DTSTART:20251025T133000Z
 DTEND:20251025T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-dm9gxigwmhc4pnxjqpjaexvys@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 0 - 6
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Borussia Dortmund
 DTSTART:20251031T193000Z
 DTEND:20251031T213000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-dp3v9drrz5r1i4w58o0ikm044@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 0 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Augsburgo
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-dsqxlgx55w9dyzteo543rekgk@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: MH
  PArena\nResultado: 3 - 2
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Hamburgo
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-dwo7aj8vrq6t8rsvgmu32tt04@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 1 - 0
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:1899 Hoffenheim VS Augsburgo
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-e1151vffet4telyg2j9b55zx0@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Pr
  eZero Arena\nResultado: 3 - 0
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Bayer Leverkusen
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-e3t9hhjwcdkbqoxlvlg18f8r8@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 0
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Augsburgo
 DTSTART:20251213T143000Z
 DTEND:20251213T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-e65kp5679evqt2alu5lglaw44@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: De
  utsche Bank Park\nResultado: 1 - 0
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Werder Bremen
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-eawxbkkj8ae5hw8yod8bw9mhg@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 0 - 0
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Mönchengladbach VS Augsburgo
 DTSTART:20260111T143000Z
 DTEND:20260111T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-eeie098gk5gsc51qu4zmacxec@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: BO
  RUSSIA-PARK\nResultado: 4 - 0
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Unión Berlín
 DTSTART:20260115T193000Z
 DTEND:20260115T213000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-ei1lhaueuqwqg9ikgciyin8r8@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 1 - 1
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Friburgo
 DTSTART:20260118T163000Z
 DTEND:20260118T183000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-elm64iezyo4chxb3ukcdxjl04@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 2
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Augsburgo
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-en78ih6ec7exnpxcku3xc3das@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Al
  lianz Arena\nResultado: 1 - 2
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS St. Pauli
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-ess18xzk8in35aws8a2xj9wyc@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 1
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Mainz 05 VS Augsburgo
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-ev57itsj39n72qf50tfqwumms@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: ME
  WA ARENA\nResultado: 2 - 0
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Heidenheim 1846
 DTSTART:20260215T143000Z
 DTEND:20260215T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-f09vyog4358ugnlcilayjihw4@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 1 - 0
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburgo VS Augsburgo
 DTSTART:20260221T143000Z
 DTEND:20260221T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-f326lcaubd88tfqq5grza7jtg@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Vo
  lkswagen Arena\nResultado: 2 - 3
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Colonia
 DTSTART:20260227T193000Z
 DTEND:20260227T213000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-1rfpqkids2ynx0ql55z0jdas@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 0
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS Augsburgo
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-461qzs6xlzl17sy53gvqt8gk@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Re
  d Bull Arena\nResultado: 2 - 1
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Augsburgo
 DTSTART:20260314T143000Z
 DTEND:20260314T163000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-7b0cleocj8pf0vgwpuujrd3o@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: SI
  GNAL IDUNA PARK\nResultado: 2 - 0
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Stuttgart
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-c2jl259mxclm0afht8mu5pg4@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 5
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburgo VS Augsburgo
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-gyjx94ra6o17vyeqpbqoe61g@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Vo
  lksparkstadion\nResultado: 1 - 1
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS 1899 Hoffenheim
 DTSTART:20260410T183000Z
 DTEND:20260410T203000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-jhafbn1vbdp30r644zu2flsk@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 2 - 2
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Augsburgo
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-lg07kzqpid4pwyxwiwdwi0b8@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: Ba
  yArena\nResultado: 1 - 2
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Eintracht Frankfurt
 DTSTART:20260425T133000Z
 DTEND:20260425T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-qnngahn68t3kurgzsl1zxfys@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 1 - 1
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Bremen VS Augsburgo
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-ttd11jegtqmqlpqeeg85jo5w@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: We
  serstadion\nResultado: 1 - 3
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburgo VS Borussia Mönchengladbach
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-xsr0lb51sy7vu04y4mxjtxjo@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: WW
  K Arena\nResultado: 3 - 1
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Unión Berlín VS Augsburgo
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260614T065133Z
+DTSTAMP:20260614T102922Z
 UID:fifa-11q83zlnfwb0oulhagk776ihg@fifa.com
 DESCRIPTION:Competición: Bundesliga\nFase: Temporada Regular\nEstadio: St
  adion An der Alten Försterei\nResultado: 4 - 0
