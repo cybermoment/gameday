@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:كوبيون بالوسورا VS ميلسامي
 DTSTART:20250708T150000Z
 DTEND:20250708T170000Z
-DTSTAMP:20260614T015636Z
+DTSTAMP:20260614T065057Z
 UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: سافون سان
@@ -24,22 +24,22 @@ BEGIN:VEVENT
 SUMMARY:ميلسامي VS كوبيون بالوسورا
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260614T015636Z
+DTSTAMP:20260614T065057Z
 UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الأول\nالملعب: مجمع سبور
  تيف رايونال\nالنتيجة: 0 - 0
-GEO:47.374451;28.819242
+GEO:47.374306;28.819756
 LOCATION:مجمع سبورتيف رايونال
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="مجمع سبورتيف 
  رايونال";X-APPLE-RADIUS=70;X-TITLE="مجمع سبورتيف راي
- ونال":geo:47.374451,28.819242
+ ونال":geo:47.374306,28.819756
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:كوبيون بالوسورا VS قايرات ألماته
 DTSTART:20250722T150000Z
 DTEND:20250722T170000Z
-DTSTAMP:20260614T015636Z
+DTSTAMP:20260614T065057Z
 UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: سافون سا
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS كوبيون بالوسورا
 DTSTART:20250729T150000Z
 DTEND:20250729T170000Z
-DTSTAMP:20260614T015636Z
+DTSTAMP:20260614T065057Z
 UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: استاد أو

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS VS Milsami Orhei
 DTSTART:20250708T150000Z
 DTEND:20250708T170000Z
-DTSTAMP:20260614T015633Z
+DTSTAMP:20260614T065054Z
 UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Väre Areena\nRésultat: 1 - 0
@@ -20,14 +20,14 @@ BEGIN:VEVENT
 SUMMARY:Milsami Orhei VS KuPS
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260614T015633Z
+DTSTAMP:20260614T065054Z
 UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Complexul Sportiv Raional\nRésultat: 0 - 0
-GEO:47.374451;28.819242
+GEO:47.374306;28.819756
 LOCATION:Complexul Sportiv Raional
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Complexul Sportiv Raional
- ";X-APPLE-RADIUS=70;X-TITLE="Complexul Sportiv Raional":geo:47.374451,28.8
- 19242
+ ";X-APPLE-RADIUS=70;X-TITLE="Complexul Sportiv Raional":geo:47.374306,28.8
+ 19756
 END:VEVENT
 END:VCALENDAR
