@@ -27,7 +27,7 @@
     {
       "id": "31083",
       "name": "罗马",
-      "filename": "as_roma"
+      "filename": "roma"
     },
     {
       "id": "33387",
@@ -67,7 +67,7 @@
     {
       "id": "1914806",
       "name": "尤文图斯足球俱乐部",
-      "filename": "juventus_fc"
+      "filename": "juventus"
     },
     {
       "id": "34551",
@@ -92,12 +92,12 @@
     {
       "id": "30986",
       "name": "维罗纳",
-      "filename": "hellas_verona"
+      "filename": "verona"
     },
     {
       "id": "1914619",
       "name": "国际米兰",
-      "filename": "fc_internazionale_milano"
+      "filename": "inter"
     },
     {
       "id": "2147482132",
