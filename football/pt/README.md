@@ -269,7 +269,7 @@ Idiomas:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Españ
 - [Napoli](https://cybermoment.app/gameday/football/pt/seriea/napoli)
 - [Genoa](https://cybermoment.app/gameday/football/pt/seriea/genoa)
 - [Lecce](https://cybermoment.app/gameday/football/pt/seriea/lecce)
-- [Roma](https://cybermoment.app/gameday/football/pt/seriea/roma)
+- [Roma](https://cybermoment.app/gameday/football/pt/seriea/as_roma)
 - [Bologna](https://cybermoment.app/gameday/football/pt/seriea/bologna)
 - [Milan](https://cybermoment.app/gameday/football/pt/seriea/milan)
 - [Cremonese](https://cybermoment.app/gameday/football/pt/seriea/cremonese)
@@ -282,7 +282,7 @@ Idiomas:  [English](../en/README.md) | [简体中文](../zh/README.md) | [Españ
 - [Atalanta](https://cybermoment.app/gameday/football/pt/seriea/atalanta)
 - [Pisa](https://cybermoment.app/gameday/football/pt/seriea/pisa)
 - [Udinese](https://cybermoment.app/gameday/football/pt/seriea/udinese)
-- [Verona](https://cybermoment.app/gameday/football/pt/seriea/verona)
+- [Verona](https://cybermoment.app/gameday/football/pt/seriea/hellas_verona)
 - [FC Internazionale Milano](https://cybermoment.app/gameday/football/pt/seriea/fc_internazionale_milano)
 - [Torino](https://cybermoment.app/gameday/football/pt/seriea/torino)
 
