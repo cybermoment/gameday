@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Ницца VS Бенфика
 DTSTART:20250806T190000Z
 DTEND:20250806T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Альянц Ривьера\nРезу
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Ницца
 DTSTART:20250812T190000Z
 DTEND:20250812T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Стадион Эстадио до С
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Фенербахче VS Бенфика
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Стадион Шюкрю Сарад
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Фенербахче
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Стадион Эстадио до С
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Карабах
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Эстадио до Сп
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Челси VS Бенфика
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stamford Bridge\nРезультат: 1 -
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Бенфика
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-562r0ddozxsa83y9l1wfm74t0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: St. James' Park\nРезультат: 3 -
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Байер Леверкузен
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Эстадио до Сп
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Аякс VS Бенфика
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Амстердам Аре
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Наполи
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Эстадио до Сп
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:ФК «Ювентус» VS Бенфика
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Allianz Stadium\nРезультат: 2 -
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Реал Мадрид
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Эстадио до Сп
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Реал Мадрид
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Стадион Эстади
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Бенфика
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260617T002253Z
+DTSTAMP:20260617T052621Z
 UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Estadio Bernabéu\nРезу
