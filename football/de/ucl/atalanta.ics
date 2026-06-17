@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Atalanta Bergamo
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-4vah0y57kbchzjav53h65uv4k@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Prinzenpark\nErgebnis: 4 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta Bergamo VS FC Brügge
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-4xs86vowvf2xcks0ln8eu9e6s@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: New Balance Arena\nErgebnis: 2 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta Bergamo VS SK Slavia Prag
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-58ls4qn0s2o0x3uzwo5lzs36c@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: New Balance Arena\nErgebnis: 0 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS Atalanta Bergamo
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-5gvvzdmzgkymkhsskiiyiwdg4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Orange Vélodrome\nErgebnis: 0 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Atalanta Bergamo
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-5mkoywuiapszrete4cw6mtmok@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Deutsche Bank Park\nErgebnis: 0 - 3
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta Bergamo VS Chelsea FC
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-5pn7mzdx02v7lyxj8p1kr2cd0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: New Balance Arena\nErgebnis: 2 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta Bergamo VS Athletic Bilbao
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: New Balance Arena\nErgebnis: 2 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise VS Atalanta Bergamo
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-67u5as824q96mp65srnyt7thw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Lotto Park\nErgebnis: 1 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Atalanta Bergamo
 DTSTART:20260217T201500Z
 DTEND:20260217T221500Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-oex4se9z2myo4tc7eyhy9no4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Knockout Round Play-
  offs\nStadion: SIGNAL IDUNA PARK\nErgebnis: 2 - 0
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta Bergamo VS Borussia Dortmund
 DTSTART:20260225T174500Z
 DTEND:20260225T194500Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-oskmoxh73kh8jf9z4p8h0jys@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Knockout Round Play-
  offs\nStadion: New Balance Arena\nErgebnis: 4 - 1
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta Bergamo VS FC Bayern München
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Achtelfinale\nStadio
  n: New Balance Arena\nErgebnis: 1 - 6
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Atalanta Bergamo
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260617T173146Z
+DTSTAMP:20260617T202325Z
 UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Achtelfinale\nStadio
  n: Allianz Arena\nErgebnis: 4 - 1
