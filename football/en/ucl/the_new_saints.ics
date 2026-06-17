@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:The New Saints VS KF Shkëndija
 DTSTART:20250708T180000Z
 DTEND:20250708T200000Z
-DTSTAMP:20260617T052619Z
+DTSTAMP:20260617T101626Z
 UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: Park Hall Stadium\nResult: 0 - 0
@@ -20,13 +20,14 @@ BEGIN:VEVENT
 SUMMARY:KF Shkëndija VS The New Saints
 DTSTART:20250715T180000Z
 DTEND:20250715T200000Z
-DTSTAMP:20260617T052619Z
+DTSTAMP:20260617T101626Z
 UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
- d\nStadium: Toše Proeski Arena\nResult: 2 - 1
+ d\nStadium: Nacionalna Arena Toše Proeski\nResult: 2 - 1
 GEO:42.005743;21.425598
-LOCATION:Toše Proeski Arena
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Toše Proeski Arena";X-AP
- PLE-RADIUS=70;X-TITLE="Toše Proeski Arena":geo:42.005743,21.425598
+LOCATION:Nacionalna Arena Toše Proeski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nacionalna Arena Toše Pr
+ oeski";X-APPLE-RADIUS=70;X-TITLE="Nacionalna Arena Toše Proeski":geo:42.0
+ 05743,21.425598
 END:VEVENT
 END:VCALENDAR
