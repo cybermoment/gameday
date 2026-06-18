@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS مكابي تل أبيب
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-2llj9g9hkmh7pc5rq1wmhjaqc@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: Alphamega Stadiu
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:مكابي تل أبيب VS نادي بافوس
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-2p8utvgjvhobdvwdphdw7w1ec@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: استاد جر
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:دينامو كييف VS نادي بافوس
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: Motor Lublin Are
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS دينامو كييف
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: Alphamega Stadiu
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:سرفينا زفيزدا VS نادي بافوس
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-eklbtanrg41db9bg2oj7fnevo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: استاد 
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS سرفينا زفيزدا
 DTSTART:20250826T190000Z
 DTEND:20250826T210000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-emypvbslto43ter68roe6cc2c@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: Alphamega S
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:أولمبياكوس بيرايوس VS نادي بافوس
 DTSTART:20250917T164500Z
 DTEND:20250917T184500Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-4thsy1pya5y11wggav6gql4wk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد جورجيو كا
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS بايرن ميونيخ
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS نادي بافوس
 DTSTART:20251021T164500Z
 DTEND:20251021T184500Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أورتاليك\n
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS فياريال
 DTSTART:20251105T174500Z
 DTEND:20251105T194500Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-5e8c81yfj5wleflr99m651mok@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS موناكو
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS نادي بافوس
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-5u1wyaby2c1x5iom7r2070p3o@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:تشيلسي VS نادي بافوس
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-5zzgoq20bhr6m700r68oc87x0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بافوس VS سلافيا براغ
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260618T092103Z
+DTSTAMP:20260618T123808Z
 UID:fifa-66qr8r2yuseer81y1i1tp5hqs@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: Alphamega Stadium\nالنتي
