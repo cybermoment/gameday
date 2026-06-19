@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:スロヴァン・ブラチスラヴァ VS ズリニスキ
 DTSTART:20250722T181500Z
 DTEND:20250722T201500Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第2
  ラウンド\nスタジアム: Štadión Tehelné pole\n結果: 4 - 0
@@ -23,20 +23,20 @@ BEGIN:VEVENT
 SUMMARY:ズリニスキ VS スロヴァン・ブラチスラヴァ
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第2
- ラウンド\nスタジアム: Stadion Bijeli Brijeg\n結果: 2 - 2
+ ラウンド\nスタジアム: Stadion HŠK Zrinjski\n結果: 2 - 2
 GEO:43.345619;17.795261
-LOCATION:Stadion Bijeli Brijeg
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
- APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+LOCATION:Stadion HŠK Zrinjski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HŠK Zrinjski";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion HŠK Zrinjski":geo:43.345619,17.795261
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カイラト VS スロヴァン・ブラチスラヴァ
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
  ラウンド\nスタジアム: Ortalyq stadıon\n結果: 1 - 0
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:スロヴァン・ブラチスラヴァ VS カイラト
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 第3
  ラウンド\nスタジアム: Štadión Tehelné pole\n結果: 1 - 0

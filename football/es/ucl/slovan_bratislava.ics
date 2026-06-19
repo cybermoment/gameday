@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava VS Zrinjski
 DTSTART:20250722T181500Z
 DTEND:20250722T201500Z
-DTSTAMP:20260619T001125Z
+DTSTAMP:20260619T053528Z
 UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Štadión Tehelné pole\nResultado: 4 - 0
@@ -21,20 +21,20 @@ BEGIN:VEVENT
 SUMMARY:Zrinjski VS Slovan Bratislava
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260619T001125Z
+DTSTAMP:20260619T053528Z
 UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
- icación\nEstadio: Stadion Bijeli Brijeg\nResultado: 2 - 2
+ icación\nEstadio: Stadion HŠK Zrinjski\nResultado: 2 - 2
 GEO:43.345619;17.795261
-LOCATION:Stadion Bijeli Brijeg
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
- APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+LOCATION:Stadion HŠK Zrinjski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HŠK Zrinjski";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion HŠK Zrinjski":geo:43.345619,17.795261
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Qairat Almaty VS Slovan Bratislava
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260619T001125Z
+DTSTAMP:20260619T053528Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 3ra Ronda de clasif
  icación\nEstadio: Ortalyq stadıon\nResultado: 1 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Slovan Bratislava VS Qairat Almaty
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260619T001125Z
+DTSTAMP:20260619T053528Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 3ra Ronda de clasif
  icación\nEstadio: Štadión Tehelné pole\nResultado: 1 - 0

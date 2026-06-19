@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Virtus VS Zrinjski
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
-DTSTAMP:20260619T001125Z
+DTSTAMP:20260619T053529Z
 UID:fifa-8tul8117rp7ojznms19n6da1g@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Stadio Olimpico di Serravalle\nRésultat: 0 - 2
@@ -21,13 +21,13 @@ BEGIN:VEVENT
 SUMMARY:Zrinjski VS Virtus
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260619T001125Z
+DTSTAMP:20260619T053529Z
 UID:fifa-8w7j987hlwpkdty1yzefylafo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
- ation\nStade: Stadion Bijeli Brijeg\nRésultat: 2 - 1
+ ation\nStade: Stadion HŠK Zrinjski\nRésultat: 2 - 1
 GEO:43.345619;17.795261
-LOCATION:Stadion Bijeli Brijeg
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
- APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+LOCATION:Stadion HŠK Zrinjski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HŠK Zrinjski";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion HŠK Zrinjski":geo:43.345619,17.795261
 END:VEVENT
 END:VCALENDAR

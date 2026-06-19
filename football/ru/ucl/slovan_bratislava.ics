@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Слован Братислава VS Зриньски
 DTSTART:20250722T181500Z
 DTEND:20250722T201500Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
@@ -24,21 +24,21 @@ BEGIN:VEVENT
 SUMMARY:Зриньски VS Слован Братислава
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
- я: 2-й Раунд\nСтадион: Stadion Bijeli Brijeg\nРезульт
+ я: 2-й Раунд\nСтадион: Stadion HŠK Zrinjski\nРезульт
  ат: 2 - 2
 GEO:43.345619;17.795261
-LOCATION:Stadion Bijeli Brijeg
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
- APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+LOCATION:Stadion HŠK Zrinjski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HŠK Zrinjski";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion HŠK Zrinjski":geo:43.345619,17.795261
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Кайрат VS Слован Братислава
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Слован Братислава VS Кайрат
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260619T001127Z
+DTSTAMP:20260619T053533Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль

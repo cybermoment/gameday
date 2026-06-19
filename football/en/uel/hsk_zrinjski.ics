@@ -7,20 +7,20 @@ BEGIN:VEVENT
 SUMMARY:HSK Zrinjski VS Breiðablik
 DTSTART:20250807T180000Z
 DTEND:20250807T200000Z
-DTSTAMP:20260619T001128Z
+DTSTAMP:20260619T053535Z
 UID:fifa-6qkme6vyn4nl950powrwxt9g4@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
- Stadium: Stadion Bijeli Brijeg\nResult: 1 - 1
+ Stadium: Stadion HŠK Zrinjski\nResult: 1 - 1
 GEO:43.345619;17.795261
-LOCATION:Stadion Bijeli Brijeg
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
- APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+LOCATION:Stadion HŠK Zrinjski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HŠK Zrinjski";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion HŠK Zrinjski":geo:43.345619,17.795261
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik VS HSK Zrinjski
 DTSTART:20250814T173000Z
 DTEND:20250814T193000Z
-DTSTAMP:20260619T001128Z
+DTSTAMP:20260619T053535Z
 UID:fifa-6se1oni96vfa56cx66tu16has@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Kópavogsvöllur\nResult: 1 - 2
@@ -33,20 +33,20 @@ BEGIN:VEVENT
 SUMMARY:HSK Zrinjski VS FC Utrecht
 DTSTART:20250821T180000Z
 DTEND:20250821T200000Z
-DTSTAMP:20260619T001128Z
+DTSTAMP:20260619T053535Z
 UID:fifa-6yzohc7o27nrqy008agsoczdg@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: St
- adion Bijeli Brijeg\nResult: 0 - 2
+ adion HŠK Zrinjski\nResult: 0 - 2
 GEO:43.345619;17.795261
-LOCATION:Stadion Bijeli Brijeg
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion Bijeli Brijeg";X-
- APPLE-RADIUS=70;X-TITLE="Stadion Bijeli Brijeg":geo:43.345619,17.795261
+LOCATION:Stadion HŠK Zrinjski
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadion HŠK Zrinjski";X-
+ APPLE-RADIUS=70;X-TITLE="Stadion HŠK Zrinjski":geo:43.345619,17.795261
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Utrecht VS HSK Zrinjski
 DTSTART:20250828T180000Z
 DTEND:20250828T200000Z
-DTSTAMP:20260619T001128Z
+DTSTAMP:20260619T053535Z
 UID:fifa-70srxazhtbiqm5lg2r043an10@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: St
  adion Galgenwaard\nResult: 0 - 0
