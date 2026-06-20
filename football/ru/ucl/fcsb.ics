@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Стяуа Бухарест VS Интер Д Эскальдес
 DTSTART:20250709T173000Z
 DTEND:20250709T193000Z
-DTSTAMP:20260620T041821Z
+DTSTAMP:20260620T080327Z
 UID:fifa-63wi7u2dyddcx22dn3xlcxno4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Stadionul
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Интер Д Эскальдес VS Стяуа Бухарест
 DTSTART:20250715T183000Z
 DTEND:20250715T203000Z
-DTSTAMP:20260620T041821Z
+DTSTAMP:20260620T080327Z
 UID:fifa-680o3jgip3hhagbzecne30ob8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Estadi de
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Шкендия 79 VS Стяуа Бухарест
 DTSTART:20250722T180000Z
 DTEND:20250722T200000Z
-DTSTAMP:20260620T041821Z
+DTSTAMP:20260620T080327Z
 UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Националная арена и
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Стяуа Бухарест VS Шкендия 79
 DTSTART:20250730T173000Z
 DTEND:20250730T193000Z
-DTSTAMP:20260620T041821Z
+DTSTAMP:20260620T080327Z
 UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Стадион Арена Нацио
