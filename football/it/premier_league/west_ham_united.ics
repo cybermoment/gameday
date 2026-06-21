@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland VS West Ham United
 DTSTART:20250816T140000Z
 DTEND:20250816T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-11i3orjflpi9empra6uuduwpg@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Stadium of Light\nRisultato: 3 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Chelsea FC
 DTSTART:20250822T190000Z
 DTEND:20250822T210000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-17umsvptey1sqmfwpp2m7ci6s@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 1 - 5
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS West Ham United
 DTSTART:20250831T130000Z
 DTEND:20250831T150000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1ambeuhg64rjh91vzt2cu9m38@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   The City Ground\nRisultato: 0 - 3
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Tottenham Hotspur
 DTSTART:20250913T163000Z
 DTEND:20250913T183000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1fqalgzy8x2hswuyc4w36cr2s@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 0 - 3
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Crystal Palace
 DTSTART:20250920T140000Z
 DTEND:20250920T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1jauwu1mheu6kyp1pwpoa6dxw@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 1 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Everton VS West Ham United
 DTSTART:20250929T190000Z
 DTEND:20250929T210000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1lokw5qi9ag7bgvg102gj21as@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Hill Dickinson Stadium\nRisultato: 1 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS West Ham United
 DTSTART:20251004T140000Z
 DTEND:20251004T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1oi3hkt91umhnxou8rk970ums@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Emirates Stadium\nRisultato: 2 - 0
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Brentford
 DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1vrxomf1ihb6xrivhrvs4nd3o@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 0 - 2
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds United VS West Ham United
 DTSTART:20251024T190000Z
 DTEND:20251024T210000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-1ymmbmwqt706tquiw6k5n649g@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Elland Road\nRisultato: 2 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Newcastle
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-23tjlpc5v8e21motsxcqu1r84@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 3 - 1
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Burnley
 DTSTART:20251108T150000Z
 DTEND:20251108T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-27s0zmzii4o2aq7gtamk7q8t0@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 3 - 2
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS West Ham United
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-2868qwytxs68nuc9752cva4us@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Vitality Stadium\nRisultato: 2 - 2
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Liverpool
 DTSTART:20251130T140500Z
 DTEND:20251130T160500Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-2fsbzlzf6ux1buhi1t67cquqc@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 0 - 2
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS West Ham United
 DTSTART:20251204T200000Z
 DTEND:20251204T220000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-2j3cj5hutmxhlj7ggvbwzi0ic@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Old Trafford\nRisultato: 1 - 1
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion VS West Ham United
 DTSTART:20251207T140000Z
 DTEND:20251207T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-2l1z9guhdnudlxt9jex7xe0b8@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   American Express Stadium\nRisultato: 1 - 1
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Aston Villa
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-2rtvt6opul8reok9mj5nwtafo@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 2 - 3
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS West Ham United
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-2ust52gpo2ahhjz76xjxcymfo@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Etihad Stadium\nRisultato: 3 - 0
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Fulham
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-301qv7qh7f68fs8msq82ki51w@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 0 - 1
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Brighton & Hove Albion
 DTSTART:20251230T193000Z
 DTEND:20251230T213000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-349efhlgerz5unwomykdoyk2c@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 2 - 2
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Wolverhampton Wanderers VS West Ham United
 DTSTART:20260103T150000Z
 DTEND:20260103T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-38dsv1tizwamlvrhj135h91qs@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Molineux Stadium\nRisultato: 3 - 0
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Nottingham Forest
 DTSTART:20260106T200000Z
 DTEND:20260106T220000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-3ceydebj8oya7h7yie1v8ehw4@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 1 - 2
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham Hotspur VS West Ham United
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-3g18illc142v29rp9dtc5w4yc@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Tottenham Hotspur Stadium\nRisultato: 1 - 2
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Sunderland
 DTSTART:20260124T123000Z
 DTEND:20260124T143000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-3kgyje0fob0ewyybop6jpsg7o@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 3 - 1
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS West Ham United
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-3lo06021zsa2gsp9jqmdu2e50@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Stamford Bridge\nRisultato: 3 - 2
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Burnley VS West Ham United
 DTSTART:20260207T150000Z
 DTEND:20260207T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-3q3aty8h6jo21pnx4k7y0df6c@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Turf Moor\nRisultato: 0 - 2
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Manchester United
 DTSTART:20260210T201500Z
 DTEND:20260210T221500Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-3wie337w5hnugj3j5iul98tuc@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 1 - 1
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Bournemouth
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-40jm6cx9zwibqeklc7cxrv47o@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 0 - 0
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS West Ham United
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-43ct7lmoz9mxu47u44jz0e9zo@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Anfield\nRisultato: 5 - 2
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS West Ham United
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-46l5tcessu8s61wzg7lfykob8@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Craven Cottage\nRisultato: 0 - 1
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Manchester City
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-4cm108ohxx531fr98bh9uy68k@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 1 - 1
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS West Ham United
 DTSTART:20260322T141500Z
 DTEND:20260322T161500Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-4depi2nt4nf4enc6vvdcy8mj8@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Villa Park\nRisultato: 2 - 0
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Wolverhampton Wanderers
 DTSTART:20260410T190000Z
 DTEND:20260410T210000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-4ktdo1jk2i52t4dw2okuhzz84@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 4 - 0
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace VS West Ham United
 DTSTART:20260420T190000Z
 DTEND:20260420T210000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-4mex86q98op7z0xai1087nvh0@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Selhurst Park\nRisultato: 0 - 0
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Everton
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-4sxag6rc5gr80key0i9jk9s0k@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 2 - 1
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Brentford VS West Ham United
 DTSTART:20260502T140000Z
 DTEND:20260502T160000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-4uxlhy8tqj36ztvez70j932tw@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   Gtech Community Stadium\nRisultato: 3 - 0
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Arsenal
 DTSTART:20260510T153000Z
 DTEND:20260510T173000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-51i8bgm45ruiglvkbgnyb6ihg@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 0 - 1
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle VS West Ham United
 DTSTART:20260517T163000Z
 DTEND:20260517T183000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-554i630ssgkurs2xqqckp9tec@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   St. James' Park\nRisultato: 3 - 1
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Leeds United
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260621T105354Z
+DTSTAMP:20260621T131226Z
 UID:fifa-59t89i9irkl7koxyl46cva4us@fifa.com
 DESCRIPTION:Competizione: Premier League\nFase: Stagione regolare\nStadio:
   London Stadium\nRisultato: 3 - 0

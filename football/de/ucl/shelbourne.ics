@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS Linfield FC
 DTSTART:20250709T184500Z
 DTEND:20250709T204500Z
-DTSTAMP:20260621T105333Z
+DTSTAMP:20260621T131208Z
 UID:fifa-4y2t7dyvstks4qz55i5wvjm6s@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
  de\nStadion: Tolka Park\nErgebnis: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Linfield FC VS Shelbourne
 DTSTART:20250716T184500Z
 DTEND:20250716T204500Z
-DTSTAMP:20260621T105333Z
+DTSTAMP:20260621T131208Z
 UID:fifa-53najx34i2qn6vo61ibbqqyac@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
  de\nStadion: Clearer Twist National Stadium at Windsor Park\nErgebnis: 1 -
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS Qarabağ Ağdam
 DTSTART:20250723T184500Z
 DTEND:20250723T204500Z
-DTSTAMP:20260621T105333Z
+DTSTAMP:20260621T131208Z
 UID:fifa-15au93rf3haritiab0g6dnj84@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Tolka Park\nErgebnis: 0 - 3
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Shelbourne
 DTSTART:20250730T160000Z
 DTEND:20250730T180000Z
-DTSTAMP:20260621T105333Z
+DTSTAMP:20260621T131208Z
 UID:fifa-1855o8trnuavzs9zq1ubf5us4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 1 - 0
