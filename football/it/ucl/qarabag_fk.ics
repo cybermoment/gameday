@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS Qarabağ
 DTSTART:20250723T184500Z
 DTEND:20250723T204500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-15au93rf3haritiab0g6dnj84@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
  zioni\nStadio: Tolka Park\nRisultato: 0 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Shelbourne
 DTSTART:20250730T160000Z
 DTEND:20250730T180000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-1855o8trnuavzs9zq1ubf5us4@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: 2° Turno Qualifica
  zioni\nStadio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 1 - 
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Shkëndija Tetovo VS Qarabağ
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: 3° Turno Qualifica
  zioni\nStadio: Nacionalna Arena Toše Proeski\nRisultato: 0 - 1
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Shkëndija Tetovo
 DTSTART:20250812T160000Z
 DTEND:20250812T180000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: 3° Turno Qualifica
  zioni\nStadio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 5 - 
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros VS Qarabağ
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Play-off\nStadio: G
  roupama Aréna\nRisultato: 1 - 3
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Ferencváros
 DTSTART:20250827T164500Z
 DTEND:20250827T184500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Play-off\nStadio: T
  ofiq Bəhramov adına Respublika stadionu\nRisultato: 2 - 3
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Qarabağ
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Estádio do Sport Lisboa e Benfica (da Luz)\nRisultato: 2 - 3
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Copenaghen
 DTSTART:20251001T164500Z
 DTEND:20251001T184500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 2 - 0
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Qarabağ
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Estadio de San Mamés\nRisultato: 3 - 1
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Chelsea FC
 DTSTART:20251105T174500Z
 DTEND:20251105T194500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5eldqjhp1rtk3xd9olxavsvmc@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 2 - 2
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Qarabağ
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Stadio Diego Armando Maradona\nRisultato: 2 - 0
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Ajax
 DTSTART:20251210T174500Z
 DTEND:20251210T194500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5rwblgpp1p54pam18ie7bjnro@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 2 - 4
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Eintracht Francoforte
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5z9jt02azordg6y6m97cvmc5w@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 3 - 2
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Qarabağ
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-65yo7coecrnl1gwgkdatt2xas@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Anfield\nRisultato: 6 - 0
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Newcastle
 DTSTART:20260218T174500Z
 DTEND:20260218T194500Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5kfusd0dm3a7nj9phmwand7h0@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Knockout Round Play
  -offs\nStadio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 1 - 
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle VS Qarabağ
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
-DTSTAMP:20260621T020024Z
+DTSTAMP:20260621T070256Z
 UID:fifa-5ku5l0q1alklhnot6zgxnww7o@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Knockout Round Play
  -offs\nStadio: St. James' Park\nRisultato: 3 - 2
