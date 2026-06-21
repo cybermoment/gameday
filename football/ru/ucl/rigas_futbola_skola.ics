@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Левадия VS Даугава Рига
 DTSTART:20250708T163000Z
 DTEND:20250708T183000Z
-DTSTAMP:20260621T152810Z
+DTSTAMP:20260621T170836Z
 UID:fifa-dvryorq5zuarcxmeprn6nbml0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Стад
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Даугава Рига VS Левадия
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260621T152810Z
+DTSTAMP:20260621T170836Z
 UID:fifa-dxbfsrxb2ht8c5edsfk0ox9g4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: LNK Sport
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Даугава Рига VS Мальме ФФ
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260621T152810Z
+DTSTAMP:20260621T170836Z
 UID:fifa-pqgywobzfigy49xt4fq5nxg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: LNK Sporta Parks dabīgais\nРезу
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Мальме ФФ VS Даугава Рига
 DTSTART:20250730T170000Z
 DTEND:20250730T190000Z
-DTSTAMP:20260621T152810Z
+DTSTAMP:20260621T170836Z
 UID:fifa-rdan8bu01jrsoqy5sdk7dous@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Стадион Шведбанк\nРе
