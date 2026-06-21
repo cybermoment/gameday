@@ -224,7 +224,7 @@ Idiomas:  [English](../en/README.md) | [简体中文](../zh/README.md) | **Espa�
 - [Mallorca](https://cybermoment.app/gameday/football/es/laliga/rcd_mallorca)
 - [FC Barcelona](https://cybermoment.app/gameday/football/es/laliga/barcelona)
 - [Deportivo Alavés](https://cybermoment.app/gameday/football/es/laliga/deportivo_alav_s)
-- [Levante](https://cybermoment.app/gameday/football/es/laliga/levante_ud)
+- [Levante UD](https://cybermoment.app/gameday/football/es/laliga/levante_ud)
 - [Valencia](https://cybermoment.app/gameday/football/es/laliga/valencia_cf)
 - [Real Sociedad](https://cybermoment.app/gameday/football/es/laliga/real_sociedad)
 - [Celta de Vigo](https://cybermoment.app/gameday/football/es/laliga/rc_celta)
