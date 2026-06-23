@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال سوسيداد
 DTSTART:20250816T193000Z
 DTEND:20250816T213000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-f4pxrt9gy35rbm5zxmjvxu5uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS إسبانيول
 DTSTART:20250824T173000Z
 DTEND:20250824T193000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-6g1tozuo8an9qds56u85juhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:ريال أوفيدو VS ريال سوسيداد
 DTSTART:20250830T170000Z
 DTEND:20250830T190000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-9eknjmjtkb8hdsde5htzqiac@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ريال مدريد
 DTSTART:20250913T141500Z
 DTEND:20250913T161500Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-ahwl5kztusj3oxv74lxw8pas@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:ريال بيتيس VS ريال سوسيداد
 DTSTART:20250919T190000Z
 DTEND:20250919T210000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-exqzwxpls360bd9qf89ggff8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ريال مايوركا
 DTSTART:20250924T193000Z
 DTEND:20250924T213000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-hxr2ojynmpps6ni1gbdsa1hw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS ريال سوسيداد
 DTSTART:20250928T163000Z
 DTEND:20250928T183000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-mh9g8wbjyoe3ub3ouu0nnsb8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب لويس كومبا
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS رايو فاييكانو
 DTSTART:20251005T163000Z
 DTEND:20251005T183000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-stfu1ncpwokjdp38odv9rb4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:سيلتا فيغو VS ريال سوسيداد
 DTSTART:20251019T141500Z
 DTEND:20251019T161500Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-ub49wftchgk7szozxswbslck@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS إشبيلية
 DTSTART:20251024T190000Z
 DTEND:20251024T210000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-xcapf185ght9jj3jcgj4v0us@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS أتليتيكو بلباو
 DTSTART:20251101T173000Z
 DTEND:20251101T193000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-12lophscpllg367yx7yn0mpec@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:إلتشي VS ريال سوسيداد
 DTSTART:20251107T200000Z
 DTEND:20251107T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-15au35re7u5b9ru4hoko7f3f8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد مانويل ما
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:أوساسونا VS ريال سوسيداد
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-19fc4xa7cho23jve43ojie39w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد السدار\nال
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS فياريال
 DTSTART:20251130T130000Z
 DTEND:20251130T150000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-1d6oxum3q5ydyzsf48df1qas4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:ديبورتيفو ألافيس VS ريال سوسيداد
 DTSTART:20251206T151500Z
 DTEND:20251206T171500Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-1it612xdkwgzafk6n7xtzy8es@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد دي منديزو
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS جيرونا
 DTSTART:20251212T200000Z
 DTEND:20251212T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-1lgsuqoyjxec8b0tdfgdpl15g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:ليفانتي VS ريال سوسيداد
 DTSTART:20251220T151500Z
 DTEND:20251220T171500Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-1qr5wncwgktkt7jksvs6m3n6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS أتلتيكو مدريد
 DTSTART:20260104T200000Z
 DTEND:20260104T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-1rhyonqt5a171xvtvluwo5p1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:خيتافي VS ريال سوسيداد
 DTSTART:20260109T200000Z
 DTEND:20260109T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-1xweeu166hhelv9hh9l8lnpjo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS برشلونة
 DTSTART:20260118T200000Z
 DTEND:20260118T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-20boml0nnzxlvqvyy0ylfxdlg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS سيلتا فيغو
 DTSTART:20260125T173000Z
 DTEND:20260125T193000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-25yd18qv80e97mjmlmv5vc4r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:أتليتيكو بلباو VS ريال سوسيداد
 DTSTART:20260201T200000Z
 DTEND:20260201T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-288lesgslzcbljs163839jl04@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان ماميه\
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS إلتشي
 DTSTART:20260207T200000Z
 DTEND:20260207T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2agwdhyd4f3pb3wugya4art3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ريال سوسيداد
 DTSTART:20260214T200000Z
 DTEND:20260214T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2gtyyqnsw87ojqc60b9b50dn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ريال أوفيدو
 DTSTART:20260221T130000Z
 DTEND:20260221T150000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2is2f0giwb65xpuanzsstcs2c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ريال سوسيداد
 DTSTART:20260228T173000Z
 DTEND:20260228T193000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2o1qezfdq50juhi4b82nyesk4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS ريال سوسيداد
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2qn6lwhn5o37o0hl1unj5hl3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS أوساسونا
 DTSTART:20260315T200000Z
 DTEND:20260315T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2uf6893vxahtyej21o0yj2vbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:فياريال VS ريال سوسيداد
 DTSTART:20260320T200000Z
 DTEND:20260320T220000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-2xgn2f7ghbsseb9afxdo1atqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ليفانتي
 DTSTART:20260404T120000Z
 DTEND:20260404T140000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-317f8nnd5kiqw5pomd91v86j8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ديبورتيفو ألافيس
 DTSTART:20260411T120000Z
 DTEND:20260411T140000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-36vy9cu402k8m0goxchkpmpzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS خيتافي
 DTSTART:20260422T180000Z
 DTEND:20260422T200000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-3bvyrbl5qq7s93s7yat969q1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:رايو فاييكانو VS ريال سوسيداد
 DTSTART:20260426T120000Z
 DTEND:20260426T140000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-39yze5lq7b1227m0ry1qpjfh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:إشبيلية VS ريال سوسيداد
 DTSTART:20260504T190000Z
 DTEND:20260504T210000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-3fzj97pollbznset694q593bo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد رامون سان
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ريال بيتيس
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-3m24sjc20wo15f6mmkw3qeqz8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:جيرونا VS ريال سوسيداد
 DTSTART:20260514T180000Z
 DTEND:20260514T200000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-3ooiol9lfrmnu1bfpa099xhxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
@@ -548,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS فالنسيا
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-3t723gzwnzh44w0jdk8bfjdhw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -563,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:إسبانيول VS ريال سوسيداد
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260623T040832Z
+DTSTAMP:20260623T080446Z
 UID:fifa-3vur4jhid3p73hq5qz0t48bv8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد باور ايت\n
