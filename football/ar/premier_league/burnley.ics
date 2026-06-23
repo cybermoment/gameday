@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:توتنهام VS بيرنلي
 DTSTART:20250816T140000Z
 DTEND:20250816T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-11zdrikme887aispxmcu1ug44@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب تو
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS سندرلاند
 DTSTART:20250823T140000Z
 DTEND:20250823T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-15ipwqyqunn8fzwb3l9bsiot0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:نادي مانشستر يونايتد VS بيرنلي
 DTSTART:20250830T140000Z
 DTEND:20250830T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1a8ama8onzq0bjz027h2kv1n8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أولد تر
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS ليفربول
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1ddyldms82g6afdwokq3ro844@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS نوتنغهام فورست
 DTSTART:20250920T140000Z
 DTEND:20250920T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1haljpbt1dfeivzawp81rk8b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:مانشستر سيتي VS بيرنلي
 DTSTART:20250927T140000Z
 DTEND:20250927T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1mgz1t6rbrx41ljreydpdy39w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:أستون فيلا VS بيرنلي
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1owbvtdwx68memqujxxftykno@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: فيلا با
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS ليدز يونايتد
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1sgfyezfw8l28mky35q9ab0no@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:ولفرهامبتون VS بيرنلي
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-1zt5ofxwth7538kncejm3ieqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS أرسنال
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-20lqgnidk2bwum92qqbsimxp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:وست هام VS بيرنلي
 DTSTART:20251108T150000Z
 DTEND:20251108T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-27s0zmzii4o2aq7gtamk7q8t0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب لن
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS تشيلسي
 DTSTART:20251122T123000Z
 DTEND:20251122T143000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-29ekagqph40vn7u6wyju0xixg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:برينتفورد VS بيرنلي
 DTSTART:20251129T150000Z
 DTEND:20251129T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-2ckrxonh0xhlk5zh2hd42xk44@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب بر
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS كريستال بالاس
 DTSTART:20251203T193000Z
 DTEND:20251203T213000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-2hghh7367z6k3uoysqts4uwwk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:نيوكاسل VS بيرنلي
 DTSTART:20251206T150000Z
 DTEND:20251206T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-2n182o0lrejh5jb4rvzo16sd0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: سينت جي
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS فولهام
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-2p2bn6raq23z2z9d2ubzelkpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:بورنموث VS بيرنلي
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-2s81w4s408kw8ji84hnhmy7tg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: دين كور
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS إيفرتون
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-2x6nvplhpa9ug01emqlyl1d78@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS نيوكاسل
 DTSTART:20251230T193000Z
 DTEND:20251230T213000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-318bi20a3b1kac2q6hasanf2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:برايتون VS بيرنلي
 DTSTART:20260103T150000Z
 DTEND:20260103T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-35lmyprx2hz72h9xyegf2n1n8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب فا
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS نادي مانشستر يونايتد
 DTSTART:20260107T201500Z
 DTEND:20260107T221500Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3a1d79a5mxnvo53se2vrxwphw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS بيرنلي
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3eecd8pdxffpy5om18zmki51w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS توتنهام
 DTSTART:20260124T150000Z
 DTEND:20260124T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3i0jjy5mz3gaav1oegad5km50@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:سندرلاند VS بيرنلي
 DTSTART:20260202T200000Z
 DTEND:20260202T220000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3nni7s0t32dzfr5vzeqhxnvv8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ستاديو
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS وست هام
 DTSTART:20260207T150000Z
 DTEND:20260207T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3q3aty8h6jo21pnx4k7y0df6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:كريستال بالاس VS بيرنلي
 DTSTART:20260211T194000Z
 DTEND:20260211T214000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3u2m2uopde63pu21w81iuhams@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: سيلهور
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:تشيلسي VS بيرنلي
 DTSTART:20260221T150000Z
 DTEND:20260221T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-3xpl3ajq2hgkl8zf9qdhxru38@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ستامفو
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS برينتفورد
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-425ir4df7xnr0yefcph23r3mc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:إيفرتون VS بيرنلي
 DTSTART:20260303T193000Z
 DTEND:20260303T213000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-466pxjl23ejywvtf91l2rz1n8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب هي
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS بورنموث
 DTSTART:20260314T150000Z
 DTEND:20260314T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-49ruzbiksyl5zqe38z2czh4wk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS بيرنلي
 DTSTART:20260321T150000Z
 DTEND:20260321T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-4eljvcto747n3og5zxhsgn4es@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS برايتون
 DTSTART:20260411T140000Z
 DTEND:20260411T160000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-4hvu37urokilguo7n5p0qsy6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:نوتنغهام فورست VS بيرنلي
 DTSTART:20260419T130000Z
 DTEND:20260419T150000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-4opc4sw42m4nneydlyj6nysyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ذا سيتي
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS مانشستر سيتي
 DTSTART:20260422T190000Z
 DTEND:20260422T210000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-4qx1vfv92l7yqyy7fs7ekytjo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:ليدز يونايتد VS بيرنلي
 DTSTART:20260501T190000Z
 DTEND:20260501T210000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-4w69cq7gxy6jlk8hwflij7cic@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
@@ -510,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS أستون فيلا
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-4y6mms7hqbnuoufunrb9t7hn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:أرسنال VS بيرنلي
 DTSTART:20260518T190000Z
 DTEND:20260518T210000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-52bponwfjilfsdlm8gj7f6k2c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS ولفرهامبتون
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260623T192909Z
+DTSTAMP:20260623T211650Z
 UID:fifa-56e9cspo2f6quh9z50lywvok4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
