@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS FC Salzburg
 DTSTART:20250723T170000Z
 DTEND:20250723T190000Z
-DTSTAMP:20260624T133816Z
+DTSTAMP:20260624T162627Z
 UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Brann Stadion\nResultado: 1 - 4
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS Brann Bergen
 DTSTART:20250730T184500Z
 DTEND:20250730T204500Z
-DTSTAMP:20260624T133816Z
+DTSTAMP:20260624T162627Z
 UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Red Bull Arena\nResultado: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS Brujas
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260624T133816Z
+DTSTAMP:20260624T162627Z
 UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 3ra Ronda de clasif
  icación\nEstadio: Red Bull Arena\nResultado: 0 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Brujas VS FC Salzburg
 DTSTART:20250812T173000Z
 DTEND:20250812T193000Z
-DTSTAMP:20260624T133816Z
+DTSTAMP:20260624T162627Z
 UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 3ra Ronda de clasif
  icación\nEstadio: Jan Breydelstadion\nResultado: 3 - 2
