@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:نيس VS بنفيكا
 DTSTART:20250806T190000Z
 DTEND:20250806T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: أليانز ر
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS نيس
 DTSTART:20250812T190000Z
 DTEND:20250812T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: ملعب الن
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:فناربخشة VS بنفيكا
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: ملعب ش
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS فناربخشة
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: ملعب ا
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS كارباغ أغدام
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:تشيلسي VS بنفيكا
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ستامفورد بريدج\n
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:نيوكاسل VS بنفيكا
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-562r0ddozxsa83y9l1wfm74t0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: سينت جيمس بارك\n
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS باير ليفركوزن
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:أياكس VS بنفيكا
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS نابولي
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS بنفيكا
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: يوفنتوس أرينا\nا
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS ريال مدريد
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب النور\nالنت
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:بنفيكا VS ريال مدريد
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب النور\n
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS بنفيكا
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260625T220542Z
+DTSTAMP:20260625T235419Z
 UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: استاد سانتي
