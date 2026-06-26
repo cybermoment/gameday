@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS アーセナル
 DTSTART:20250817T153000Z
 DTEND:20250817T173000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-13h7obu9sa1vfh3a0esob4jdg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 0 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:フラム VS マンチェスター・ユナイテッド
 DTSTART:20250824T153000Z
 DTEND:20250824T173000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-16ogxo1bxdi6eza02h0s9i5n8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: クレイヴン・コテージ\n結果: 1 -
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS バーンリー
 DTSTART:20250830T140000Z
 DTEND:20250830T160000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1a8ama8onzq0bjz027h2kv1n8@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 3 
@@ -55,7 +55,7 @@ SUMMARY:マンチェスター・シティ VS マンチェスター・ユ
  ナイテッド
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1exxqpardhibndjt24yvj2l1w@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エティハド スタジアム\n結果: 3 
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS チェルシー FC
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1iirowal16yj6lndgm8gbx5p0@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -86,7 +86,7 @@ SUMMARY:ブレントフォード VS マンチェスター・ユナイテ
  ッド
 DTSTART:20250927T113000Z
 DTEND:20250927T133000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1khr3704psti8rqgjsvafpa1g@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Gtech Community Stadium\n結果: 3 - 1
@@ -101,7 +101,7 @@ SUMMARY:マンチェスター・ユナイテッド VS サンダーラン
  ド
 DTSTART:20251004T140000Z
 DTEND:20251004T160000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1qvclot8fak9knempsk7tqeqc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:リバプール VS マンチェスター・ユナイテッド
 DTSTART:20251019T153000Z
 DTEND:20251019T173000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1tozdgn4jg7t4h8wrdqtlwgt0@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: アンフィールド\n結果: 1 - 2
@@ -130,7 +130,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ブライトン&ホ
  ーヴ・アルビオン
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-1z0pvc6kf8t3einy25wvna42c@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 4 
@@ -146,7 +146,7 @@ SUMMARY:ノッティンガム・フォレスト VS マンチェスター
  ・ユナイテッド
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-22l2npjyvz69z79ahof2wafpw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: The City Ground\n結果: 2 - 2
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS マンチェスター・ユナイテッド
 DTSTART:20251108T123000Z
 DTEND:20251108T143000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-27dsai0y163f2lmufao3yg3ys@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 2
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS エヴァートン
 DTSTART:20251124T200000Z
 DTEND:20251124T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2azh9qqutb89iadfek7774ufo@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 0 
@@ -189,7 +189,7 @@ SUMMARY:クリスタル・パレス VS マンチェスター・ユナイ
  テッド
 DTSTART:20251130T120000Z
 DTEND:20251130T140000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2ddgt0wgk8212ask4bgjokqac@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: シェルハースト パーク\n結果: 1 
@@ -205,7 +205,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ウェストハム
  ・ユナイテッド
 DTSTART:20251204T200000Z
 DTEND:20251204T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2j3cj5hutmxhlj7ggvbwzi0ic@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 1 
@@ -221,7 +221,7 @@ SUMMARY:ウォルヴァーハンプトン・ワンダラーズ VS マン
  チェスター・ユナイテッド
 DTSTART:20251208T200000Z
 DTEND:20251208T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2ntyu72wz8vu95ocn09cwlmok@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: モリニュー・スタジアム\n結果: 
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS ボーンマス
 DTSTART:20251215T200000Z
 DTEND:20251215T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2qnbwtbl7eh08dh64ii9icqac@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 4 
@@ -252,7 +252,7 @@ SUMMARY:アストンヴィラ VS マンチェスター・ユナイテッ
  ド
 DTSTART:20251221T163000Z
 DTEND:20251221T183000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2sqsn3aeeuy6wzu7i0d7xxbmc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴィラ・パーク\n結果: 2 - 1
@@ -266,7 +266,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ニューカッス
  ル・ユナイテッド
 DTSTART:20251226T200000Z
 DTEND:20251226T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-2yuulrtp37mbqe9rok936lslw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 1 
@@ -282,7 +282,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ウォルヴァー
  ハンプトン・ワンダラーズ
 DTSTART:20251230T201500Z
 DTEND:20251230T221500Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-32tmyy818d2gsssvn24xizwno@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 1 
@@ -298,7 +298,7 @@ SUMMARY:リーズ・ユナイテッド VS マンチェスター・ユナ
  イテッド
 DTSTART:20260104T123000Z
 DTEND:20260104T143000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-36sm5uwycnu4y21bqg6fdnc44@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Elland Road\n結果: 1 - 1
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:バーンリー VS マンチェスター・ユナイテッド
 DTSTART:20260107T201500Z
 DTEND:20260107T221500Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3a1d79a5mxnvo53se2vrxwphw@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ターフ モア\n結果: 2 - 2
@@ -325,7 +325,7 @@ SUMMARY:マンチェスター・ユナイテッド VS マンチェスタ
  ー・シティ
 DTSTART:20260117T123000Z
 DTEND:20260117T143000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3euckq6g15mkb2d6jes5yi68k@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:アーセナル VS マンチェスター・ユナイテッド
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3h7uw06wrdggi4gvmvcm40xlg@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: エミレーツ スタジアム\n結果: 2 
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS フラム
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3mupduyj99i9jq4xrg9rneoes@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 3 
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS トッテナム
 DTSTART:20260207T123000Z
 DTEND:20260207T143000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3rou9cxtiqeutcjm1moskftas@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -386,7 +386,7 @@ SUMMARY:ウェストハム・ユナイテッド VS マンチェスター
  ・ユナイテッド
 DTSTART:20260210T201500Z
 DTEND:20260210T221500Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3wie337w5hnugj3j5iul98tuc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: ロンドン スタジアム\n結果: 1 - 1
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:エヴァートン VS マンチェスター・ユナイテッド
 DTSTART:20260223T200000Z
 DTEND:20260223T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-3yi90ty9u2zmemr5xrloq8ems@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: Hill Dickinson Stadium\n結果: 0 - 1
@@ -414,7 +414,7 @@ SUMMARY:マンチェスター・ユナイテッド VS クリスタル・
  パレス
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-43r4me2bcvm1m5xb1vy8wosgk@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -430,7 +430,7 @@ SUMMARY:ニューカッスル・ユナイテッド VS マンチェスタ
  ー・ユナイテッド
 DTSTART:20260304T201500Z
 DTEND:20260304T221500Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-47s90k4t3qdmtb1d8u2pby0ic@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: セント ジェームズ パーク\n結果
@@ -446,7 +446,7 @@ SUMMARY:マンチェスター・ユナイテッド VS アストンヴィ
  ラ
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-4bf3mhuw9l182g3jx7ava0cno@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 3 
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:ボーンマス VS マンチェスター・ユナイテッド
 DTSTART:20260320T200000Z
 DTEND:20260320T220000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-4d0d8tamzjazpq7onnnj7fgus@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: バイタリティ スタジアム\n結果:
@@ -477,7 +477,7 @@ SUMMARY:マンチェスター・ユナイテッド VS リーズ・ユナ
  イテッド
 DTSTART:20260413T190000Z
 DTEND:20260413T210000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-4jkq3hfgw6nq6tesl83wpy80k@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 1 
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:チェルシー FC VS マンチェスター・ユナイテッド
 DTSTART:20260418T190000Z
 DTEND:20260418T210000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-4m0hv0y707imwzwo2dileo2s4@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタンフォード ブリッジ\n結果:
@@ -508,7 +508,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ブレントフォ
  ード
 DTSTART:20260427T190000Z
 DTEND:20260427T210000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-4s4lfi1tj69ftoawrdig1erys@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 2 
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:マンチェスター・ユナイテッド VS リバプール
 DTSTART:20260503T143000Z
 DTEND:20260503T163000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-4wkjiv475wzfcfplo9208ek9g@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 3 
@@ -539,7 +539,7 @@ SUMMARY:サンダーランド VS マンチェスター・ユナイテッ
  ド
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-50o32ylys1nykzuao8kko9ams@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: スタジアム・オブ・ライト\n結
@@ -555,7 +555,7 @@ SUMMARY:マンチェスター・ユナイテッド VS ノッティンガ
  ム・フォレスト
 DTSTART:20260517T113000Z
 DTEND:20260517T133000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-54q3ow5nko3mj15xltmseln2s@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: オールド トラフォード\n結果: 3 
@@ -571,7 +571,7 @@ SUMMARY:ブライトン&ホーヴ・アルビオン VS マンチェスタ
  ー・ユナイテッド
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260626T080910Z
+DTSTAMP:20260626T112618Z
 UID:fifa-55xwipdr13y9h2ga7yv15n8yc@fifa.com
 DESCRIPTION:大会: プレミアリーグ\nラウンド: レギュラー
  シーズン\nスタジアム: AMEXスタジアム\n結果: 0 - 3
