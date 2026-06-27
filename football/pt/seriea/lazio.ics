@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Lazio
 DTSTART:20250824T163000Z
 DTEND:20250824T183000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-cijyabwrwwuazjxynj4k53yfo@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giuseppe Sinigaglia\nResultado: 2 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Verona
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-cnye1t7vywtihm10fiy3n6ot0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 4 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Lazio
 DTSTART:20250914T160000Z
 DTEND:20250914T180000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-ctirptm06szy6db17n31sdgr8@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   MAPEI Stadium - Città del Tricolore\nResultado: 1 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Roma
 DTSTART:20250921T103000Z
 DTEND:20250921T123000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-cvwv2nuu43dmvycrt5mse7lec@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 0 - 1
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Lazio
 DTSTART:20250929T184500Z
 DTEND:20250929T204500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-cz23urlp2fqu90rtkbatvaadw@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Comunale Luigi Ferraris\nResultado: 0 - 3
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Torino
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-d4bf8awg8k155fyjhvi6qov84@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 3 - 3
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Lazio
 DTSTART:20251019T160000Z
 DTEND:20251019T180000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-d6dhthqfbbqbffuo2pxce5kpg@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   New Balance Arena\nResultado: 0 - 0
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Juventus FC
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-db7u0fk0bzsdqr84t6t7chgk4@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 1 - 0
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Lazio
 DTSTART:20251030T194500Z
 DTEND:20251030T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-dhnuk2lkv2t2krxmz9ezd2vpw@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Arena Garibaldi - Stadio Romeo Anconetani\nResultado: 0 - 0
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Cagliari
 DTSTART:20251103T194500Z
 DTEND:20251103T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-dj93wlc4y6a5z30ns89tmayac@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 0
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Lazio
 DTSTART:20251109T194500Z
 DTEND:20251109T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-do3jie3bxgeab77cfb661pj4k@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giuseppe Meazza\nResultado: 2 - 0
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Lecce
 DTSTART:20251123T170000Z
 DTEND:20251123T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-ds5esvdr9jzrgdf3m7mg1hxqs@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 0
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Lazio
 DTSTART:20251129T194500Z
 DTEND:20251129T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-dx0msvb8l9mbv6nayc3tdjfh0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giuseppe Meazza\nResultado: 1 - 0
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Bologna
 DTSTART:20251207T170000Z
 DTEND:20251207T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-dzus54uynnlkk8kunhzse0u1g@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 1 - 1
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Lazio
 DTSTART:20251213T170000Z
 DTEND:20251213T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-e54xho1vjc5wpg0ck8yumyjo4@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Ennio Tardini\nResultado: 0 - 1
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Cremonese
 DTSTART:20251220T170000Z
 DTEND:20251220T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-e98iaxuhnp31i9wwzo57upfro@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 0 - 0
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Lazio
 DTSTART:20251227T170000Z
 DTEND:20251227T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-eeiearb86xbt33aakaoj5rbx0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Bluenergy Stadium\nResultado: 1 - 1
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Napoli
 DTSTART:20260104T113000Z
 DTEND:20260104T133000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-ehrgqtm5ghe0vn3dx37fepixg@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 0 - 2
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Fiorentina
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-ejrea7dcgzve3s4xipdffrml0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 2
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Verona VS Lazio
 DTSTART:20260111T170000Z
 DTEND:20260111T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-eqm50hc29ki4dx7pcyszgz66s@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Marcantonio Bentegodi\nResultado: 0 - 1
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Como
 DTSTART:20260119T194500Z
 DTEND:20260119T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-es9m1d8tdtthb69t2zer74ufo@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 0 - 3
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Lazio
 DTSTART:20260124T194500Z
 DTEND:20260124T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-exiq2izmkvobez4syavdwmb6c@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Ettore Giardiniero - Via del Mare\nResultado: 0 - 0
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Genoa
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-f0prwprw92hfgu5p39x4zji8k@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 3 - 2
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Lazio
 DTSTART:20260208T194500Z
 DTEND:20260208T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-f4ryog8rqhu4s379tam0pv5ec@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Allianz Stadium\nResultado: 2 - 2
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Atalanta
 DTSTART:20260214T170000Z
 DTEND:20260214T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-37dn875ajhz86yyro06httzo@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 0 - 2
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Lazio
 DTSTART:20260221T194500Z
 DTEND:20260221T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-6el28kt4wix2t8iwoh4vkkyc@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Unipol Domus\nResultado: 0 - 0
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Lazio
 DTSTART:20260301T170000Z
 DTEND:20260301T190000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-d5pt6kna4c869xy8s7llm0pg@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico Grande Torino\nResultado: 2 - 0
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Sassuolo
 DTSTART:20260309T194500Z
 DTEND:20260309T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-gsljes6y6ccnrm2sfii6lwk4@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 1
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Milan
 DTSTART:20260315T194500Z
 DTEND:20260315T214500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-joutig10ir544yicn3b9ifx0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 1 - 0
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Lazio
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-mxk28qlh6zzkndih290geyhg@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Renato Dall'Ara\nResultado: 0 - 2
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Parma
 DTSTART:20260404T184500Z
 DTEND:20260404T204500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-rshw4ezhypjmwddcxoh9vkes@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 1 - 1
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Lazio
 DTSTART:20260413T184500Z
 DTEND:20260413T204500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-w8szsndsknydqz5fjj1k9ams@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Artemio Franchi\nResultado: 1 - 0
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Lazio
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-10amluuny91r89wcb128ft9uc@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Diego Armando Maradona\nResultado: 0 - 2
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Udinese
 DTSTART:20260427T184500Z
 DTEND:20260427T204500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-14eagebob7amo7toz34ypin10@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 3 - 3
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Lazio
 DTSTART:20260504T163000Z
 DTEND:20260504T183000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-1800klupn4itbmreau5ofcutw@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Giovanni Zini\nResultado: 1 - 2
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS FC Internazionale Milano
 DTSTART:20260509T160000Z
 DTEND:20260509T180000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-1c16z8sfcig3obhqc1enrs00k@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 0 - 3
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Lazio
 DTSTART:20260517T100000Z
 DTEND:20260517T120000Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-1hq8rf1klj6a0yqv8dycurvh0@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 0
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Pisa
 DTSTART:20260523T184500Z
 DTEND:20260523T204500Z
-DTSTAMP:20260627T144822Z
+DTSTAMP:20260627T161224Z
 UID:fifa-1kano1peqbw5ho0zlex7mdw5w@fifa.com
 DESCRIPTION:Competição: Serie A TIM\nEtapa: Temporada regular\nEstádio:
   Stadio Olimpico\nResultado: 2 - 1
