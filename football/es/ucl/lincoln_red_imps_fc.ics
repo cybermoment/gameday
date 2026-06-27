@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Víkingur VS Lincoln Red Imps
 DTSTART:20250708T180000Z
 DTEND:20250708T200000Z
-DTSTAMP:20260627T161202Z
+DTSTAMP:20260627T173903Z
 UID:fifa-2axwif0kr7ld8vc988ji73q50@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 1ra Ronda de clasif
  icación\nEstadio: Við Djúpumýrar\nResultado: 2 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Víkingur
 DTSTART:20250715T153000Z
 DTEND:20250715T173000Z
-DTSTAMP:20260627T161202Z
+DTSTAMP:20260627T173903Z
 UID:fifa-2feve63v1vjilkwh0lazcrztg@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 1ra Ronda de clasif
  icación\nEstadio: Europa Point Stadium\nResultado: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Estrella Roja Belgrado
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260627T161202Z
+DTSTAMP:20260627T173903Z
 UID:fifa-46xbmy1svtjsenauhcjtorz10@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Europa Point Stadium\nResultado: 0 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Estrella Roja Belgrado VS Lincoln Red Imps
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260627T161202Z
+DTSTAMP:20260627T173903Z
 UID:fifa-48t6pnn4up7tu28f6swem8duc@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Stadion Rajko Mitić\nResultado: 5 - 1
