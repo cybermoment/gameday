@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Arsenal
 DTSTART:20250817T153000Z
 DTEND:20250817T173000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-13h7obu9sa1vfh3a0esob4jdg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Manchester United
 DTSTART:20250824T153000Z
 DTEND:20250824T173000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-16ogxo1bxdi6eza02h0s9i5n8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Burnley
 DTSTART:20250830T140000Z
 DTEND:20250830T160000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1a8ama8onzq0bjz027h2kv1n8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 3 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Manchester United
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1exxqpardhibndjt24yvj2l1w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Chelsea FC
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1iirowal16yj6lndgm8gbx5p0@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Brentford VS Manchester United
 DTSTART:20250927T113000Z
 DTEND:20250927T133000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1khr3704psti8rqgjsvafpa1g@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: G
  tech Community Stadium\nResult: 3 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Sunderland
 DTSTART:20251004T140000Z
 DTEND:20251004T160000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1qvclot8fak9knempsk7tqeqc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 0
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Manchester United
 DTSTART:20251019T153000Z
 DTEND:20251019T173000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1tozdgn4jg7t4h8wrdqtlwgt0@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: A
  nfield\nResult: 1 - 2
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Brighton & Hove Albion
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-1z0pvc6kf8t3einy25wvna42c@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 4 - 2
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Manchester United
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-22l2npjyvz69z79ahof2wafpw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  he City Ground\nResult: 2 - 2
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham Hotspur VS Manchester United
 DTSTART:20251108T123000Z
 DTEND:20251108T143000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-27dsai0y163f2lmufao3yg3ys@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  ottenham Hotspur Stadium\nResult: 2 - 2
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Everton
 DTSTART:20251124T200000Z
 DTEND:20251124T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2azh9qqutb89iadfek7774ufo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 0 - 1
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace VS Manchester United
 DTSTART:20251130T120000Z
 DTEND:20251130T140000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2ddgt0wgk8212ask4bgjokqac@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  elhurst Park\nResult: 1 - 2
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS West Ham United
 DTSTART:20251204T200000Z
 DTEND:20251204T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2j3cj5hutmxhlj7ggvbwzi0ic@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 1 - 1
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Wolverhampton Wanderers VS Manchester United
 DTSTART:20251208T200000Z
 DTEND:20251208T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2ntyu72wz8vu95ocn09cwlmok@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: M
  olineux Stadium\nResult: 1 - 4
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Bournemouth
 DTSTART:20251215T200000Z
 DTEND:20251215T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2qnbwtbl7eh08dh64ii9icqac@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 4 - 4
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Manchester United
 DTSTART:20251221T163000Z
 DTEND:20251221T183000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2sqsn3aeeuy6wzu7i0d7xxbmc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: V
  illa Park\nResult: 2 - 1
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Newcastle United
 DTSTART:20251226T200000Z
 DTEND:20251226T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-2yuulrtp37mbqe9rok936lslw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 1 - 0
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Wolverhampton Wanderers
 DTSTART:20251230T201500Z
 DTEND:20251230T221500Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-32tmyy818d2gsssvn24xizwno@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 1 - 1
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds United VS Manchester United
 DTSTART:20260104T123000Z
 DTEND:20260104T143000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-36sm5uwycnu4y21bqg6fdnc44@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  lland Road\nResult: 1 - 1
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Burnley VS Manchester United
 DTSTART:20260107T201500Z
 DTEND:20260107T221500Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3a1d79a5mxnvo53se2vrxwphw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  urf Moor\nResult: 2 - 2
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Manchester City
 DTSTART:20260117T123000Z
 DTEND:20260117T143000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3euckq6g15mkb2d6jes5yi68k@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 0
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Manchester United
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3h7uw06wrdggi4gvmvcm40xlg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  mirates Stadium\nResult: 2 - 3
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Fulham
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3mupduyj99i9jq4xrg9rneoes@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 3 - 2
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Tottenham Hotspur
 DTSTART:20260207T123000Z
 DTEND:20260207T143000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3rou9cxtiqeutcjm1moskftas@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 0
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Manchester United
 DTSTART:20260210T201500Z
 DTEND:20260210T221500Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3wie337w5hnugj3j5iul98tuc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: L
  ondon Stadium\nResult: 1 - 1
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Everton VS Manchester United
 DTSTART:20260223T200000Z
 DTEND:20260223T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-3yi90ty9u2zmemr5xrloq8ems@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: H
  ill Dickinson Stadium\nResult: 0 - 1
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Crystal Palace
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-43r4me2bcvm1m5xb1vy8wosgk@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 1
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle United VS Manchester United
 DTSTART:20260304T201500Z
 DTEND:20260304T221500Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-47s90k4t3qdmtb1d8u2pby0ic@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  t. James' Park\nResult: 2 - 1
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Aston Villa
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-4bf3mhuw9l182g3jx7ava0cno@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 3 - 1
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Manchester United
 DTSTART:20260320T200000Z
 DTEND:20260320T220000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-4d0d8tamzjazpq7onnnj7fgus@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: V
  itality Stadium\nResult: 2 - 2
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Leeds United
 DTSTART:20260413T190000Z
 DTEND:20260413T210000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-4jkq3hfgw6nq6tesl83wpy80k@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 1 - 2
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Manchester United
 DTSTART:20260418T190000Z
 DTEND:20260418T210000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-4m0hv0y707imwzwo2dileo2s4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  tamford Bridge\nResult: 0 - 1
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Brentford
 DTSTART:20260427T190000Z
 DTEND:20260427T210000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-4s4lfi1tj69ftoawrdig1erys@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 1
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Liverpool
 DTSTART:20260503T143000Z
 DTEND:20260503T163000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-4wkjiv475wzfcfplo9208ek9g@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 3 - 2
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland VS Manchester United
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-50o32ylys1nykzuao8kko9ams@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  tadium of Light\nResult: 0 - 0
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Nottingham Forest
 DTSTART:20260517T113000Z
 DTEND:20260517T133000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-54q3ow5nko3mj15xltmseln2s@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 3 - 2
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion VS Manchester United
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260628T111223Z
+DTSTAMP:20260628T125906Z
 UID:fifa-55xwipdr13y9h2ga7yv15n8yc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: A
  merican Express Stadium\nResult: 0 - 3
