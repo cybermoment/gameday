@@ -12,12 +12,12 @@
     {
       "id": "2000019394",
       "name": "RB Lipsia",
-      "filename": "rb_lipsia"
+      "filename": "rb_leipzig"
     },
     {
       "id": "3xcg7xikgrn2x8oa65sopb2is",
       "name": "Heidenheim 1846",
-      "filename": "heidenheim_1846"
+      "filename": "heidenheim"
     },
     {
       "id": "44144",
@@ -27,22 +27,22 @@
     {
       "id": "31023",
       "name": "Eintracht Francoforte",
-      "filename": "eintracht_francoforte"
+      "filename": "eintracht_frankfurt"
     },
     {
       "id": "30995",
       "name": "Werder Brema",
-      "filename": "werder_brema"
+      "filename": "werder_bremen"
     },
     {
       "id": "400081595",
       "name": "Union Berlino",
-      "filename": "union_berlino"
+      "filename": "union_berlin"
     },
     {
       "id": "31053",
       "name": "Stoccarda",
-      "filename": "stoccarda"
+      "filename": "vfb_stuttgart"
     },
     {
       "id": "31055",
@@ -52,17 +52,17 @@
     {
       "id": "2000000593",
       "name": "Hoffenheim",
-      "filename": "hoffenheim"
+      "filename": "tsg_1899_hoffenheim"
     },
     {
       "id": "1882249",
       "name": "Friburgo",
-      "filename": "friburgo"
+      "filename": "sc_freiburg"
     },
     {
       "id": "2000012821",
       "name": "Augusta",
-      "filename": "augusta"
+      "filename": "fc_augsburg"
     },
     {
       "id": "1955632",
@@ -77,12 +77,12 @@
     {
       "id": "2000002605",
       "name": "Magonza",
-      "filename": "magonza"
+      "filename": "1_fsv_mainz_05"
     },
     {
       "id": "2000000591",
       "name": "Colonia",
-      "filename": "colonia"
+      "filename": "1_fc_k_ln"
     },
     {
       "id": "33198",
@@ -92,7 +92,7 @@
     {
       "id": "1914828",
       "name": "Amburgo",
-      "filename": "amburgo"
+      "filename": "hamburger_sv"
     }
   ]
 }

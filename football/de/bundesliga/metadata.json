@@ -17,12 +17,12 @@
     {
       "id": "3xcg7xikgrn2x8oa65sopb2is",
       "name": "1. FC Heidenheim 1846",
-      "filename": "1_fc_heidenheim_1846"
+      "filename": "heidenheim"
     },
     {
       "id": "44144",
       "name": "VfL Wolfsburg",
-      "filename": "vfl_wolfsburg"
+      "filename": "wolfsburg"
     },
     {
       "id": "31023",
@@ -32,12 +32,12 @@
     {
       "id": "30995",
       "name": "SV Werder Bremen",
-      "filename": "sv_werder_bremen"
+      "filename": "werder_bremen"
     },
     {
       "id": "400081595",
       "name": "1. FC Union Berlin",
-      "filename": "1_fc_union_berlin"
+      "filename": "union_berlin"
     },
     {
       "id": "31053",
@@ -47,12 +47,12 @@
     {
       "id": "31055",
       "name": "Bayer 04 Leverkusen",
-      "filename": "bayer_04_leverkusen"
+      "filename": "bayer_leverkusen"
     },
     {
       "id": "2000000593",
       "name": "TSG Hoffenheim",
-      "filename": "tsg_hoffenheim"
+      "filename": "tsg_1899_hoffenheim"
     },
     {
       "id": "1882249",
@@ -67,7 +67,7 @@
     {
       "id": "1955632",
       "name": "FC St. Pauli",
-      "filename": "fc_st_pauli"
+      "filename": "st_pauli"
     },
     {
       "id": "1914854",

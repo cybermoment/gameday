@@ -22,17 +22,17 @@
     {
       "id": "44144",
       "name": "Wolfsbourg",
-      "filename": "wolfsbourg"
+      "filename": "wolfsburg"
     },
     {
       "id": "31023",
       "name": "Eintracht Francfort",
-      "filename": "eintracht_francfort"
+      "filename": "eintracht_frankfurt"
     },
     {
       "id": "30995",
       "name": "Werder Brême",
-      "filename": "werder_br_me"
+      "filename": "werder_bremen"
     },
     {
       "id": "400081595",
@@ -42,7 +42,7 @@
     {
       "id": "31053",
       "name": "Stuttgart",
-      "filename": "stuttgart"
+      "filename": "vfb_stuttgart"
     },
     {
       "id": "31055",
@@ -52,22 +52,22 @@
     {
       "id": "2000000593",
       "name": "Hoffenheim",
-      "filename": "hoffenheim"
+      "filename": "tsg_1899_hoffenheim"
     },
     {
       "id": "1882249",
       "name": "Fribourg",
-      "filename": "fribourg"
+      "filename": "sc_freiburg"
     },
     {
       "id": "2000012821",
       "name": "Augsbourg",
-      "filename": "augsbourg"
+      "filename": "fc_augsburg"
     },
     {
       "id": "1955632",
       "name": "Sankt Pauli",
-      "filename": "sankt_pauli"
+      "filename": "st_pauli"
     },
     {
       "id": "1914854",
@@ -77,12 +77,12 @@
     {
       "id": "2000002605",
       "name": "Mayence",
-      "filename": "mayence"
+      "filename": "1_fsv_mainz_05"
     },
     {
       "id": "2000000591",
       "name": "Cologne",
-      "filename": "cologne"
+      "filename": "1_fc_k_ln"
     },
     {
       "id": "33198",
@@ -92,7 +92,7 @@
     {
       "id": "1914828",
       "name": "Hambourg",
-      "filename": "hambourg"
+      "filename": "hamburger_sv"
     }
   ]
 }
