@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam VS FC Internazionale Milano
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-4u8iqbh8m9es525qyf4tsrifo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Johan Cruijff ArenA\nRésultat: 0 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Marseille VS Ajax Amsterdam
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-50aybm4aduzr2y0na0l1tj2tw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Orange Vélodrome\nRésultat: 4 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Ajax Amsterdam
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-58ypxe2wvxq7e89u8q0k0ep04@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Stamford Bridge\nRésultat: 5 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam VS Galatasaray
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-5eyjs5dmee4khfup2nzycajo4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Johan Cruijff ArenA\nRésultat: 0 - 3
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam VS SL Benfica
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Johan Cruijff ArenA\nRésultat: 0 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Ajax Amsterdam
 DTSTART:20251210T174500Z
 DTEND:20251210T194500Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-5rwblgpp1p54pam18ie7bjnro@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Tofiq Bəhramov adına Respublika stadionu\nRésultat: 2 - 4
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Ajax Amsterdam
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-5yisbecyd57sdyr6oobdot0yc@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Estadio de la Cerámica\nRésultat: 1 - 2
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam VS Olympiakos Pirée
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260630T123016Z
+DTSTAMP:20260630T151644Z
 UID:fifa-629403zrbb8v8cq1g81v2lwk4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Johan Cruijff ArenA\nRésultat: 1 - 2
