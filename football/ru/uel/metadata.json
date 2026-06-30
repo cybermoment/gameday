@@ -7,162 +7,162 @@
     {
       "id": "2000019873",
       "name": "Sabah",
-      "filename": "sabah_fk"
+      "filename": "sabah"
     },
     {
       "id": "1885701",
       "name": "Целе",
-      "filename": "nk_celje"
+      "filename": ""
     },
     {
       "id": "2147483321",
       "name": "АЕК",
-      "filename": "aek_larnaca"
+      "filename": ""
     },
     {
       "id": "44271",
       "name": "Партизан",
-      "filename": "partizan_beograd"
+      "filename": ""
     },
     {
       "id": "2147483060",
       "name": "Пакши СЕ",
-      "filename": "paksi_fc"
+      "filename": ""
     },
     {
       "id": "2147482568",
       "name": "ЧФР Клуж",
-      "filename": "cfr_1907_cluj"
+      "filename": ""
     },
     {
       "id": "1885330",
       "name": "Шериф",
-      "filename": "sheriff"
+      "filename": ""
     },
     {
       "id": "2000019541",
       "name": "Prishtina",
-      "filename": "fc_prishtina"
+      "filename": "prishtina"
     },
     {
       "id": "30998",
       "name": "Левски София",
-      "filename": "levski_sofia"
+      "filename": ""
     },
     {
       "id": "1903435",
       "name": "Хапоэль Беэр-Шева",
-      "filename": "hapoel_beer_sheva"
+      "filename": ""
     },
     {
       "id": "1883012",
       "name": "Шахтер Донецк",
-      "filename": "shakhtar_donetsk"
+      "filename": ""
     },
     {
       "id": "1883547",
       "name": "Ильвес",
-      "filename": "ilves"
+      "filename": ""
     },
     {
       "id": "675",
       "name": "Спартак Трнава",
-      "filename": "spartak_trnava"
+      "filename": ""
     },
     {
       "id": "2000001056",
       "name": "Хеккен",
-      "filename": "bk_h_cken"
+      "filename": ""
     },
     {
       "id": "1884655",
       "name": "Легия Варшава",
-      "filename": "legia_warszawa"
+      "filename": ""
     },
     {
       "id": "2147482926",
       "name": "Актобе",
-      "filename": "fc_aktobe"
+      "filename": ""
     },
     {
       "id": "314",
       "name": "Баник Острава",
-      "filename": "ban_k_ostrava"
+      "filename": ""
     },
     {
       "id": "563",
       "name": "Утрехт",
-      "filename": "fc_utrecht"
+      "filename": ""
     },
     {
       "id": "1884019",
       "name": "Спортинг Брага",
-      "filename": "sporting_braga"
+      "filename": ""
     },
     {
       "id": "1885167",
       "name": "Мидтъюлланд",
-      "filename": "midtjylland"
+      "filename": ""
     },
     {
       "id": "33247",
       "name": "Хиберниан",
-      "filename": "hibernian"
+      "filename": ""
     },
     {
       "id": "1884125",
       "name": "Андерлехт",
-      "filename": "anderlecht"
+      "filename": ""
     },
     {
       "id": "44163",
       "name": "Бешикташ",
-      "filename": "be_ikta"
+      "filename": ""
     },
     {
       "id": "400248192",
       "name": "Лугано",
-      "filename": "lugano"
+      "filename": ""
     },
     {
       "id": "1885581",
       "name": "Хамрун Спартанс",
-      "filename": "hamrun_spartans"
+      "filename": ""
     },
     {
       "id": "1885529",
       "name": "Маккаби Тель-Авив",
-      "filename": "maccabi_tel_aviv"
+      "filename": ""
     },
     {
       "id": "2000019334",
       "name": "Даугава Рига",
-      "filename": "rigas_futbola_skola"
+      "filename": ""
     },
     {
       "id": "1885177",
       "name": "КуПС",
-      "filename": "kups"
+      "filename": ""
     },
     {
       "id": "310",
       "name": "Риека",
-      "filename": "hnk_rijeka"
+      "filename": ""
     },
     {
       "id": "400108464",
       "name": "Шелбурн",
-      "filename": "shelbourne"
+      "filename": ""
     },
     {
       "id": "e5txudmuc2qpc460bs4lb5aff",
       "name": "Фредрикстад",
-      "filename": "fredrikstad"
+      "filename": ""
     },
     {
       "id": "2000019171",
       "name": "Lincoln Red Imps",
-      "filename": "lincoln_red_imps_fc"
+      "filename": "lincoln_red_imps"
     },
     {
       "id": "e9x62jymlef5ugsrijq19ur8q",
@@ -172,37 +172,37 @@
     {
       "id": "1885332",
       "name": "Бранн",
-      "filename": "sk_brann"
+      "filename": ""
     },
     {
       "id": "421",
       "name": "ПАОК",
-      "filename": "paok"
+      "filename": ""
     },
     {
       "id": "2000017585",
       "name": "Wolfsberger AC",
-      "filename": "rz_pellets_wac"
+      "filename": "wolfsberger_ac"
     },
     {
       "id": "1885396",
       "name": "Зриньски",
-      "filename": "hsk_zrinjski"
+      "filename": ""
     },
     {
       "id": "446",
       "name": "Брейдаблик",
-      "filename": "brei_ablik"
+      "filename": ""
     },
     {
       "id": "31033",
       "name": "Панатинаикос",
-      "filename": "panathinaikos"
+      "filename": ""
     },
     {
       "id": "1914834",
       "name": "Стяуа Бухарест",
-      "filename": "fcsb"
+      "filename": ""
     },
     {
       "id": "2000019538",
@@ -212,182 +212,182 @@
     {
       "id": "400068644",
       "name": "Серветт",
-      "filename": "servette_fc"
+      "filename": ""
     },
     {
       "id": "31098",
       "name": "Мальме ФФ",
-      "filename": "malm_ff"
+      "filename": ""
     },
     {
       "id": "322",
       "name": "Сигма Оломоуц",
-      "filename": "sigma_olomouc"
+      "filename": ""
     },
     {
       "id": "dpsnqu7pd2b0shfzjyn5j1znf",
       "name": "Самсунспор",
-      "filename": "samsunspor"
+      "filename": ""
     },
     {
       "id": "1885492",
       "name": "Шкендия 79",
-      "filename": "kf_shk_ndija"
+      "filename": "79"
     },
     {
       "id": "2000012840",
       "name": "ФК Разград 2000",
-      "filename": "ludogorets"
+      "filename": "2000"
     },
     {
       "id": "36735",
       "name": "Динамо Киев",
-      "filename": "dynamo_kyiv"
+      "filename": ""
     },
     {
       "id": "674",
       "name": "Слован Братислава",
-      "filename": "slovan_bratislava"
+      "filename": ""
     },
     {
       "id": "1885721",
       "name": "Янг Бойз",
-      "filename": "young_boys"
+      "filename": ""
     },
     {
       "id": "1884654",
       "name": "Лех Познань",
-      "filename": "lech_poznan"
+      "filename": ""
     },
     {
       "id": "2147483539",
       "name": "Генк",
-      "filename": "racing_genk"
+      "filename": ""
     },
     {
       "id": "31068",
       "name": "Абердин",
-      "filename": "aberdeen"
+      "filename": ""
     },
     {
       "id": "31057",
       "name": "Штурм Грац",
-      "filename": "sturm_graz"
+      "filename": ""
     },
     {
       "id": "44203",
       "name": "Ницца",
-      "filename": "ogc_nice"
+      "filename": ""
     },
     {
       "id": "31083",
       "name": "Рома",
-      "filename": "as_roma"
+      "filename": ""
     },
     {
       "id": "1885747",
       "name": "Црвена Звезда",
-      "filename": "crvena_zvezda"
+      "filename": ""
     },
     {
       "id": "1914704",
       "name": "Селтик",
-      "filename": "celtic"
+      "filename": ""
     },
     {
       "id": "32838",
       "name": "Бетис",
-      "filename": "real_betis"
+      "filename": ""
     },
     {
       "id": "1qtaiy11gswx327s0vkibf70n",
       "name": "Ноттингем Форест",
-      "filename": "nottingham_forest"
+      "filename": ""
     },
     {
       "id": "309",
       "name": "Динамо Загреб",
-      "filename": "dinamo_zagreb"
+      "filename": ""
     },
     {
       "id": "33163",
       "name": "Фенербахче",
-      "filename": "fenerbah_e"
+      "filename": ""
     },
     {
       "id": "44137",
       "name": "Фейеноорд",
-      "filename": "feyenoord"
+      "filename": ""
     },
     {
       "id": "1882249",
       "name": "Фрайбург",
-      "filename": "sc_freiburg"
+      "filename": ""
     },
     {
       "id": "655",
       "name": "Базель",
-      "filename": "fc_basel"
+      "filename": ""
     },
     {
       "id": "33350",
       "name": "Лилль",
-      "filename": "lille"
+      "filename": ""
     },
     {
       "id": "400190083",
       "name": "Гоу Эхед Иглз",
-      "filename": "go_ahead_eagles"
+      "filename": ""
     },
     {
       "id": "31053",
       "name": "Штутгарт",
-      "filename": "vfb_stuttgart"
+      "filename": ""
     },
     {
       "id": "2000006874",
       "name": "Сельта",
-      "filename": "rc_celta"
+      "filename": ""
     },
     {
       "id": "26230",
       "name": "Олимпик Лион",
-      "filename": "olympique_lyonnais"
+      "filename": ""
     },
     {
       "id": "1956494",
       "name": "Зальцбург",
-      "filename": "fc_salzburg"
+      "filename": ""
     },
     {
       "id": "1914836",
       "name": "Порту",
-      "filename": "fc_porto"
+      "filename": ""
     },
     {
       "id": "31067",
       "name": "Рейнджерс",
-      "filename": "rangers"
+      "filename": ""
     },
     {
       "id": "1885533",
       "name": "Ференцварош",
-      "filename": "ferencv_ros"
+      "filename": ""
     },
     {
       "id": "2147483300",
       "name": "Виктория Плзень",
-      "filename": "viktoria_plze"
+      "filename": ""
     },
     {
       "id": "400078460",
       "name": "Астон Вилла",
-      "filename": "aston_villa"
+      "filename": ""
     },
     {
       "id": "33387",
       "name": "Болонья",
-      "filename": "bologna"
+      "filename": ""
     }
   ]
 }
