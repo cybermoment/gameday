@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Maiorca VS Barcelona
 DTSTART:20250816T173000Z
 DTEND:20250816T193000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Ma
  llorca Son Moix\nRisultato: 0 - 3
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Levante Valencia VS Barcelona
 DTSTART:20250823T193000Z
 DTEND:20250823T213000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-5pp18hcr9ery2hv17q7q6eqc@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
  iudad de Valencia\nRisultato: 2 - 3
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Barcelona
 DTSTART:20250831T193000Z
 DTEND:20250831T213000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-a4rapcrtfjbf1vihoi65rm6s@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
  e Vallecas\nRisultato: 1 - 1
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Valencia
 DTSTART:20250914T190000Z
 DTEND:20250914T210000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-b88u5e429cnb6ng0i5t4f9jo@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Jo
  han Cruyff\nRisultato: 6 - 0
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Getafe
 DTSTART:20250921T190000Z
 DTEND:20250921T210000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-ekk0usjk6blgzpziu4ho01zo@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Jo
  han Cruyff\nRisultato: 3 - 0
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Barcelona
 DTSTART:20250925T193000Z
 DTEND:20250925T213000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-kkl8x55qltpl4g1v5260df6c@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio M
  unicipal Carlos Tartiere\nRisultato: 1 - 3
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Real Sociedad
 DTSTART:20250928T163000Z
 DTEND:20250928T183000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-mh9g8wbjyoe3ub3ouu0nnsb8@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Ol
  ímpic Lluís Companys\nRisultato: 2 - 1
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Siviglia VS Barcelona
 DTSTART:20251005T141500Z
 DTEND:20251005T161500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-rbyhgw1kyp0ghg2qpvznvvv8@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio R
  amón Sánchez Pizjuán\nRisultato: 4 - 1
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Girona
 DTSTART:20251018T141500Z
 DTEND:20251018T161500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-txn45zihl3cp2bv3lj5rmot0@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Ol
  ímpic Lluís Companys\nRisultato: 2 - 1
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Barcelona
 DTSTART:20251026T151500Z
 DTEND:20251026T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-ytxz0i1eppxxqupm27ktuln8@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio B
  ernabéu\nRisultato: 2 - 1
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Elche
 DTSTART:20251102T173000Z
 DTEND:20251102T193000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-113wccwt50kebz0thqf0fxkpg@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Ol
  ímpic Lluís Companys\nRisultato: 3 - 1
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo VS Barcelona
 DTSTART:20251109T200000Z
 DTEND:20251109T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-16t0fdut4ky4b4es7i0trovtg@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio A
  banca-Balaídos\nRisultato: 2 - 4
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Athletic Bilbao
 DTSTART:20251122T151500Z
 DTEND:20251122T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1a7radhhole7vfnciarzauq6s@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 4 - 0
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Deportivo Alavés
 DTSTART:20251129T151500Z
 DTEND:20251129T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1dk2hnl09qux7z4fqn1qxq238@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 3 - 1
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Atlético de Madrid
 DTSTART:20251202T200000Z
 DTEND:20251202T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1v9qqviahmnia4ewmzd4aejv8@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 3 - 1
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis VS Barcelona
 DTSTART:20251206T173000Z
 DTEND:20251206T193000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1gkqfp2d7qi9h6k34k3mo8zkk@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio L
  a Cartuja de Sevilla\nRisultato: 3 - 5
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Osasuna
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1myp00g7w796yt6ts8ojdkys4@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 2 - 0
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Barcelona
 DTSTART:20251221T151500Z
 DTEND:20251221T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1oi5jmg0ldrmljyz46todfbpw@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
  e la Cerámica\nRisultato: 0 - 2
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Espanyol VS Barcelona
 DTSTART:20260103T200000Z
 DTEND:20260103T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-1rvgcgz2ftmamcay54gz2qtjo@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: RCDE Stad
  ium\nRisultato: 0 - 2
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Barcelona
 DTSTART:20260118T200000Z
 DTEND:20260118T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-20boml0nnzxlvqvyy0ylfxdlg@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio M
  unicipal de Anoeta\nRisultato: 2 - 1
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Real Oviedo
 DTSTART:20260125T151500Z
 DTEND:20260125T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-257ci0bd6g6l3uk1fn5a0ob2s@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 3 - 0
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Elche VS Barcelona
 DTSTART:20260131T200000Z
 DTEND:20260131T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-26p4gv6nxij3gqaoea17rxct0@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio M
  anuel Martínez Valero\nRisultato: 1 - 3
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Maiorca
 DTSTART:20260207T151500Z
 DTEND:20260207T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 3 - 0
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Girona VS Barcelona
 DTSTART:20260216T200000Z
 DTEND:20260216T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2elfffvt87h2apmhh2c0et3pw@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadi Mu
  nicipal de Montilivi\nRisultato: 2 - 1
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Levante Valencia
 DTSTART:20260222T151500Z
 DTEND:20260222T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2k9uw8chd5ol6b9rrw5ftnc44@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 3 - 0
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Villarreal
 DTSTART:20260228T151500Z
 DTEND:20260228T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2mxi4zs0db40fjabi1d36b9ck@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 4 - 1
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Barcelona
 DTSTART:20260307T200000Z
 DTEND:20260307T220000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2q9tc31q3pa181h1jnjxvfqc4@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
  e San Mamés\nRisultato: 0 - 1
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Siviglia
 DTSTART:20260315T151500Z
 DTEND:20260315T171500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2v65xqf9xnj8r2gxj9akbtqfo@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 5 - 2
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Rayo Vallecano
 DTSTART:20260322T130000Z
 DTEND:20260322T150000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-2y7mqtoumr3710vgfit7046j8@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 1 - 0
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Barcelona
 DTSTART:20260404T190000Z
 DTEND:20260404T210000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-31zxsexwgw81km23uib95otuc@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Riyadh Ai
  r Metropolitano\nRisultato: 1 - 2
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Espanyol
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-35cufmoxi0kf40kxn49gj71g4@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 4 - 1
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Celta Vigo
 DTSTART:20260422T193000Z
 DTEND:20260422T213000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3cmwlyivmqd5wesvf6o13mtjo@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 1 - 0
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Barcelona
 DTSTART:20260425T141500Z
 DTEND:20260425T161500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3apuzcf26kfvpej8uc98l2n10@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio C
  oliseum\nRisultato: 0 - 2
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Osasuna VS Barcelona
 DTSTART:20260502T190000Z
 DTEND:20260502T210000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3j0vwkubszbtkr21f7upb4il0@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio E
  l Sadar\nRisultato: 1 - 2
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Real Madrid C.F.
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3kigmlbqhunbi6gixcr7cz6z8@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 2 - 0
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Deportivo Alavés VS Barcelona
 DTSTART:20260513T193000Z
 DTEND:20260513T213000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3n65mnr76iym0yv9wmk1ug6c4@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
  e Mendizorroza\nRisultato: 1 - 0
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Real Betis
 DTSTART:20260517T191500Z
 DTEND:20260517T211500Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3rpa9gg887sphjnou8h1uv6s4@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Spotify C
  amp Nou\nRisultato: 3 - 1
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia VS Barcelona
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260702T081618Z
+DTSTAMP:20260702T111046Z
 UID:fifa-3xq4alyjtlltd6j11gckoxvkk@fifa.com
 DESCRIPTION:Competizione: Liga\nFase: Stagione regolare\nStadio: Estadio d
  e Mestalla\nRisultato: 3 - 1
