@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Copenhague VS Bayer Leverkusen
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Parken\nResultado: 2 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS PSV Eindhoven
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   BayArena\nResultado: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Paris Saint-Germain
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   BayArena\nResultado: 2 - 7
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Bayer Leverkusen
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Estádio do Sport Lisboa e Benfica (da Luz)\nResultado: 0 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Bayer Leverkusen
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Etihad Stadium\nResultado: 0 - 2
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Newcastle United
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   BayArena\nResultado: 2 - 2
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiakos de El Pireo VS Bayer Leverkusen
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Stadio Georgios Karaiskáki\nResultado: 2 - 0
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Villarreal
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   BayArena\nResultado: 3 - 0
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiakos de El Pireo VS Bayer Leverkusen
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
  liminatorios\nEstadio: Stadio Georgios Karaiskáki\nResultado: 0 - 2
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Olympiakos de El Pireo
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
  liminatorios\nEstadio: BayArena\nResultado: 0 - 0
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Arsenal
 DTSTART:20260311T174500Z
 DTEND:20260311T194500Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
  stadio: BayArena\nResultado: 1 - 1
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Bayer Leverkusen
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260702T175705Z
+DTSTAMP:20260702T194409Z
 UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
  stadio: Emirates Stadium\nResultado: 2 - 0
