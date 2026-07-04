@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Dynamo Minsk
 DTSTART:20250709T173000Z
 DTEND:20250709T193000Z
-DTSTAMP:20260704T163303Z
+DTSTAMP:20260704T180719Z
 UID:fifa-byxwrb3zraa87jwdky8998x04@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Huvepharma Arena\nRésultat: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamo Minsk VS Ludogorets
 DTSTART:20250716T184500Z
 DTEND:20250716T204500Z
-DTSTAMP:20260704T163303Z
+DTSTAMP:20260704T180719Z
 UID:fifa-c1usp3qcw3ovrey4e9ls3n0no@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Városi Stadion\nRésultat: 2 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Rijeka VS Ludogorets
 DTSTART:20250722T184500Z
 DTEND:20250722T204500Z
-DTSTAMP:20260704T163303Z
+DTSTAMP:20260704T180719Z
 UID:fifa-ajvczwf3qxpi3t4xspl30oaac@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Stadion HNK Rijeka\nRésultat: 0 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Rijeka
 DTSTART:20250730T173000Z
 DTEND:20250730T193000Z
-DTSTAMP:20260704T163303Z
+DTSTAMP:20260704T180719Z
 UID:fifa-alv4fo76yae3eecnkw6mdxw5w@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Huvepharma Arena\nRésultat: 3 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS Ferencváros
 DTSTART:20250806T173000Z
 DTEND:20250806T193000Z
-DTSTAMP:20260704T163303Z
+DTSTAMP:20260704T180719Z
 UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Huvepharma Arena\nRésultat: 0 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros VS Ludogorets
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260704T163303Z
+DTSTAMP:20260704T180719Z
 UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Groupama Aréna\nRésultat: 3 - 0
