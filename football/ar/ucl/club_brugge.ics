@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ريد بول سالزبورغ VS كلوب بروج
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: رد بول أر
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS ريد بول سالزبورغ
 DTSTART:20250812T173000Z
 DTEND:20250812T193000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: ملعب جان 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:رينجرز VS كلوب بروج
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-83509np6cybipasjyz6nbxpg4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: استاد 
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS رينجرز
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-847pdw2q6zi71o572y4xmmjh0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: ملعب ج
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS موناكو
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS كلوب بروج
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-4xs86vowvf2xcks0ln8eu9e6s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد أتليتي أز
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS كلوب بروج
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أليانز أرينا\nال
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS برشلونة
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-5fbfmxmdror7xvtcq3a41pkpg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:سبورتينغ لشبونة VS كلوب بروج
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد خوسيه ألف
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS أرسنال
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-5tp7r7lkjm2n3sj60puy8f7ys@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:قايرات ألماته VS كلوب بروج
 DTSTART:20260120T153000Z
 DTEND:20260120T173000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: أستانا أرينا\nال
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS مارسيليا
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-64sx5q7qlo1ahz8cb3ss3lp90@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب جان بريدل\n
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:كلوب بروج VS أتلتيكو مدريد
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب جان بر
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS كلوب بروج
 DTSTART:20260224T174500Z
 DTEND:20260224T194500Z
-DTSTAMP:20260705T080609Z
+DTSTAMP:20260705T103944Z
 UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب واندا 
