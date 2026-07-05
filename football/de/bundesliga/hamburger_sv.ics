@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS Hamburger SV
 DTSTART:20250824T153000Z
 DTEND:20250824T173000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-cugwkmh54va5ixd1o7c0lqs5w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: BORU
  SSIA-PARK\nErgebnis: 0 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS FC St. Pauli
 DTSTART:20250829T183000Z
 DTEND:20250829T203000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-czecv5d6tng8zqjxyypnoqivo@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 0 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Hamburger SV
 DTSTART:20250913T163000Z
 DTEND:20250913T183000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-czs6s9842xozidpuln81605jo@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Alli
  anz Arena\nErgebnis: 5 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS 1. FC Heidenheim 1846
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-d6f2p6qaj2qbbheb2usjj1yxg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 2 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Union Berlin VS Hamburger SV
 DTSTART:20250928T173000Z
 DTEND:20250928T193000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-d8r1jn3ydxzzgzznuw6vram8k@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Stad
  ion An der Alten Försterei\nErgebnis: 0 - 0
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS 1. FSV Mainz 05
 DTSTART:20251005T153000Z
 DTEND:20251005T173000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-dea7nch24w5mkjq786umw8oic@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 4 - 0
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS Hamburger SV
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-dgz3q482zrij0z527wzmvwavo@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Red 
  Bull Arena\nErgebnis: 2 - 1
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS VfL Wolfsburg
 DTSTART:20251025T133000Z
 DTEND:20251025T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-dn27q334jht8vhds4t90fygb8@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 0 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Köln VS Hamburger SV
 DTSTART:20251102T143000Z
 DTEND:20251102T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-dqp1p15gmvcc5wti2o830d4wk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Rhei
  nEnergieSTADION\nErgebnis: 4 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS Borussia Dortmund
 DTSTART:20251108T143000Z
 DTEND:20251108T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-dubh9vj79dn8m8fj5skn4zi1g@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 1 - 1
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:FC Augsburg VS Hamburger SV
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-dwo7aj8vrq6t8rsvgmu32tt04@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: WWK 
  Arena\nErgebnis: 1 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS VfB Stuttgart
 DTSTART:20251130T143000Z
 DTEND:20251130T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-e1f69rve0isrkp77hh5c7s9hw@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 2 - 1
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS SV Werder Bremen
 DTSTART:20251207T143000Z
 DTEND:20251207T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-e4zhb4p8lttt8hvcls920ns44@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 3 - 2
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim VS Hamburger SV
 DTSTART:20251213T143000Z
 DTEND:20251213T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-e8kacws1qrci5hcmjvv7d3eok@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: PreZ
  ero Arena\nErgebnis: 4 - 1
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS Eintracht Frankfurt
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-ec3ah2wttjpg0e40hp75yvlsk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 1 - 1
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Hamburger SV
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-edpwo151usyqwitu53kqeobh0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Euro
  pa-Park Stadion\nErgebnis: 2 - 1
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS Borussia M'gladbach
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-emt0duosrxwi4l5j697zpnspg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 0 - 0
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:FC St. Pauli VS Hamburger SV
 DTSTART:20260123T193000Z
 DTEND:20260123T213000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-epzfkmbvlvgcvrbrijgpvlses@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Mill
  erntor-Stadion\nErgebnis: 0 - 0
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS FC Bayern München
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-etyn5m15kd2zgzy4vbyyrbfh0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 2 - 2
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Heidenheim 1846 VS Hamburger SV
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-ex3s5pdlt7a9pwqr1pbn08kk4@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Voit
  h-Arena\nErgebnis: 0 - 2
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS 1. FC Union Berlin
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-f126wwj3ocujz4xf975g5r4t0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 3 - 2
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:1. FSV Mainz 05 VS Hamburger SV
 DTSTART:20260220T194000Z
 DTEND:20260220T214000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-f28hzs4i28wfhjzc2g99da7mc@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MEWA
   ARENA\nErgebnis: 1 - 1
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS RB Leipzig
 DTSTART:20260301T183000Z
 DTEND:20260301T203000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-2lx9iok68xltis6waxxaf578@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 1 - 2
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS Bayer 04 Leverkusen
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-ej9algl988lk7c7603bl793pw@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 0 - 1
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:VfL Wolfsburg VS Hamburger SV
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-4k4i6bm2e1nx3y1cdw9scums@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  swagen Arena\nErgebnis: 1 - 2
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS 1. FC Köln
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-9ptt4q4yf243qpdy4rmaov84@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 1 - 1
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Hamburger SV
 DTSTART:20260321T173000Z
 DTEND:20260321T193000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-ahx3vefja6189aevg06cr85w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: SIGN
  AL IDUNA PARK\nErgebnis: 3 - 2
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS FC Augsburg
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-gyjx94ra6o17vyeqpbqoe61g@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 1 - 1
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Hamburger SV
 DTSTART:20260412T153000Z
 DTEND:20260412T173000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-ip68aj1tv057ewa4zh0f3jtg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 4 - 0
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS Hamburger SV
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-mmkbdhus44bo4g4c4ytz9wyc@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 3 - 1
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS TSG Hoffenheim
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-rtmuxrphhcgy945hywsqp9g4@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 1 - 2
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Hamburger SV
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-t1c38g3hvy1ucw46n3ide87o@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Deut
  sche Bank Park\nErgebnis: 1 - 2
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS SC Freiburg
 DTSTART:20260510T133000Z
 DTEND:20260510T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-yyscgqr7sskeagimqimfx6hg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 3 - 2
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer 04 Leverkusen VS Hamburger SV
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260705T183917Z
+DTSTAMP:20260705T201856Z
 UID:fifa-zqyfxudl4vj4b3ue30ddddec@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: BayA
  rena\nErgebnis: 1 - 1
