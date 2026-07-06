@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Rome VS Bologne
 DTSTART:20250823T184500Z
 DTEND:20250823T204500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-cl0nfg88xxoznw3qe89ejvbbo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico\nRésultat: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Côme
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-cmdro0qfo163kml8ooz371rtg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Bologne
 DTSTART:20250914T184500Z
 DTEND:20250914T204500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-csbw81x78eyi6bravqqmf8ljo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Meazza\nRésultat: 1 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Genoa
 DTSTART:20250920T130000Z
 DTEND:20250920T150000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-cuawxsnj5e0jykj7h7xw9t7v8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 2 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Bologne
 DTSTART:20250928T160000Z
 DTEND:20250928T180000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-czuo2pvhjnqvkbvqy4t5nwpw4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ettore Giardiniero - Via del Mare\nRésultat: 2 - 2
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Pise
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-d2pyl0n9fu5dothwptleadzbo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 4 - 0
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Bologne
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-d6rs8i22079apm2uhqqg71edw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Unipo
  l Domus\nRésultat: 0 - 2
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Bologne
 DTSTART:20251026T170000Z
 DTEND:20251026T190000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-darobpsf8kt94ioyj305wq9ec@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Artemio Franchi\nRésultat: 2 - 2
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Torino
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-det3s3pww7gsva0v1edvi37dg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Parme VS Bologne
 DTSTART:20251102T170000Z
 DTEND:20251102T190000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-dkg96ikwaxincjz0osgjhgqac@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Ennio Tardini\nRésultat: 1 - 3
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Naples
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-dmwg1gvcw4ie6d5l4q676ym1g@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 2 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Bologne
 DTSTART:20251122T140000Z
 DTEND:20251122T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-dtrclyu07br4uab21k5xhj578@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Bluen
  ergy Stadium\nRésultat: 0 - 3
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Cremonese
 DTSTART:20251201T194500Z
 DTEND:20251201T214500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-duyr0a0pw22aug9rjvf5vwums@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 1 - 3
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Bologne
 DTSTART:20251207T170000Z
 DTEND:20251207T190000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-dzus54uynnlkk8kunhzse0u1g@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico\nRésultat: 1 - 1
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Juventus FC
 DTSTART:20251214T194500Z
 DTEND:20251214T214500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-e33vxyc8k04if8gzc5gi3tn9w@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 1
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Sassuolo
 DTSTART:20251228T170000Z
 DTEND:20251228T190000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-eb95ok4yqqkuy9i4cavv9ru38@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 1 - 1
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Bologne
 DTSTART:20260104T194500Z
 DTEND:20260104T214500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-egx77xc7jmgsxnl1wh2m6ddzo@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Meazza\nRésultat: 3 - 1
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Atalanta
 DTSTART:20260107T173000Z
 DTEND:20260107T193000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-eiyerurkjcrtone02gvzc17v8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 2
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Côme VS Bologne
 DTSTART:20260110T140000Z
 DTEND:20260110T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-enesrmm9se7vwmx31gxh4sis4@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giuseppe Sinigaglia\nRésultat: 1 - 1
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Vérone VS Bologne
 DTSTART:20260115T173000Z
 DTEND:20260115T193000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-eagc3y9t6oac8tqk8pl7bt89g@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Marcantonio Bentegodi\nRésultat: 2 - 3
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Fiorentina
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-er0low3fcoze3d3bycpssyn84@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 1 - 2
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Bologne
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-ew9qgc4sgn8ttzyeoil66fxn8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Comunale Luigi Ferraris\nRésultat: 3 - 2
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Milan
 DTSTART:20260203T194500Z
 DTEND:20260203T214500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-ez4c76g0he7o1bvd8iaitxjis@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 3
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Parme
 DTSTART:20260208T113000Z
 DTEND:20260208T133000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-f3kr5n5cib5fjzh4wkyfc23h0@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 1
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Bologne
 DTSTART:20260215T170000Z
 DTEND:20260215T190000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-4spec9ggp4vq333o0yd88u1g@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Olimpico Grande Torino\nRésultat: 1 - 2
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Udinese
 DTSTART:20260223T194500Z
 DTEND:20260223T214500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-604wmu79nfq21kem6wlqpxxw@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 1 - 0
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Pise VS Bologne
 DTSTART:20260302T173000Z
 DTEND:20260302T193000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-btdw5nixu80jqgu17y4qmgb8@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Arena
   Garibaldi - Stadio Romeo Anconetani\nRésultat: 0 - 1
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Hellas Vérone
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-eror5uhe7r0j5gqqxbxm17h0@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 1 - 2
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Bologne
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-kwxxdta13j5h3qr7ema9f7ro@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: MAPEI
   Stadium - Città del Tricolore\nRésultat: 0 - 1
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Lazio
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-mxk28qlh6zzkndih290geyhg@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 2
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Bologne
 DTSTART:20260405T130000Z
 DTEND:20260405T150000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-qldc2yg8qvgpookafhb301ec@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Giovanni Zini\nRésultat: 1 - 2
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Lecce
 DTSTART:20260412T160000Z
 DTEND:20260412T180000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-v1k9wzz1dta9n9imvaqjxf6c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 2 - 0
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Bologne
 DTSTART:20260419T184500Z
 DTEND:20260419T204500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-zhukpwrs0g1sobh6idueivis@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Allia
  nz Stadium\nRésultat: 2 - 0
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Rome
 DTSTART:20260425T160000Z
 DTEND:20260425T180000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-12qz70wi0b0coly48zdhls93o@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 2
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS Cagliari
 DTSTART:20260503T103000Z
 DTEND:20260503T123000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-1774je45x71hlqa2zwnp1ng2c@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 0 - 0
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Naples VS Bologne
 DTSTART:20260511T184500Z
 DTEND:20260511T204500Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-1d8em3ehs8e7rfo1sbevmsqac@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Diego Armando Maradona\nRésultat: 2 - 3
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Bologne
 DTSTART:20260517T160000Z
 DTEND:20260517T180000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-1ew0e91oy598rmadcd763ps7o@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: New B
  alance Arena\nRésultat: 0 - 1
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Bologne VS FC Internazionale Milano
 DTSTART:20260523T160000Z
 DTEND:20260523T180000Z
-DTSTAMP:20260706T011725Z
+DTSTAMP:20260706T060452Z
 UID:fifa-1iz38m02tzgh8x5a9yg2ztgyc@fifa.com
 DESCRIPTION:Compétition: Serie A\nPhase: Saison régulière\nStade: Stadi
  o Renato Dall'Ara\nRésultat: 3 - 3
