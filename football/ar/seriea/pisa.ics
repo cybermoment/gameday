@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS بيزا
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-chhs4jqieq3l8wyuww0wt8h78@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أتليتي أز
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS روما
 DTSTART:20250830T184500Z
 DTEND:20250830T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-cpjqg4esn6oq24obqmfbj63h0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS أودينيزي
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-csq3u15fsrczzowqcz1he0dg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:نابولي VS بيزا
 DTSTART:20250922T184500Z
 DTEND:20250922T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-cwp801847hnz6cu08s3qng3ro@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان باولو\
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS فيورنتينا
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-d13j9w14b12tik6wf4bvy3ztg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:بولونيا VS بيزا
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-d2pyl0n9fu5dothwptleadzbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS هيلاس
 DTSTART:20251018T130000Z
 DTEND:20251018T150000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-d95p2ejy2of7ii7s45jnvz9jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:نادي ميلان VS بيزا
 DTSTART:20251024T184500Z
 DTEND:20251024T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-dbm5cdzyy5io7ip09r4fqp0r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS لاتسيو
 DTSTART:20251030T194500Z
 DTEND:20251030T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-dhnuk2lkv2t2krxmz9ezd2vpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:تورينو VS بيزا
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-dl8z0whe7rrb6x9q5t2ujr0gk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS كريمونيزي
 DTSTART:20251107T194500Z
 DTEND:20251107T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-dpp84bygkdgyg0sajw9uj1gr8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:ساسوولو VS بيزا
 DTSTART:20251124T194500Z
 DTEND:20251124T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-dsyfzer3u4sczqe32ahodc5xw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS إنتر ميلان
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-dxtjfc6x21jgycgji2syawxzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS بارما
 DTSTART:20251208T140000Z
 DTEND:20251208T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-e0nmvoyc7233dc8207kp6702c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:ليتشي VS بيزا
 DTSTART:20251212T194500Z
 DTEND:20251212T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-e4bjrtggvllrtp9utmav8836c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:كالياري VS بيزا
 DTSTART:20251221T113000Z
 DTEND:20251221T133000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-e6tpfxp6ju1ri8t0tbhms0d1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS نادي يوفنتوس
 DTSTART:20251227T194500Z
 DTEND:20251227T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-edb0ezyz2qh8ioasdyywy5zpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:جنوى VS بيزا
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-egikby2mt9d9oezp7s5hm58us@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميونالي
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS كومو
 DTSTART:20260106T140000Z
 DTEND:20260106T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-elrgn9wyfbxmib5v33945uk2c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:أودينيزي VS بيزا
 DTSTART:20260110T140000Z
 DTEND:20260110T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-eq7ymzfykzsalkmmcgk0lpq8k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد فريولي\nال
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS أتالانتا
 DTSTART:20260116T194500Z
 DTEND:20260116T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-etv0hejdoeonpz2kldst7um1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:إنتر ميلان VS بيزا
 DTSTART:20260123T194500Z
 DTEND:20260123T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-ewod71xdhguxn8t3flreq7qxg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS ساسوولو
 DTSTART:20260131T140000Z
 DTEND:20260131T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-f1xe9okjrzzi578py4d9ey9ec@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:هيلاس VS بيزا
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-1649awjhwjabdhzre2rel4wk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مارك أنطو
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS نادي ميلان
 DTSTART:20260213T194500Z
 DTEND:20260213T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-4e81wpsnuls0zkw4th3x3wus@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:فيورنتينا VS بيزا
 DTSTART:20260223T173000Z
 DTEND:20260223T193000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-6t5gf31u786bqivt64dv3384@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS بولونيا
 DTSTART:20260302T173000Z
 DTEND:20260302T193000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-btdw5nixu80jqgu17y4qmgb8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS بيزا
 DTSTART:20260307T194500Z
 DTEND:20260307T214500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-ge43njbo3ilpf10bpjw6uzo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS كالياري
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-ki794byd0j3awobhie3mj5sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:كومو VS بيزا
 DTSTART:20260322T113000Z
 DTEND:20260322T133000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-nsj5praxu0adwtq1eyhttixg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS تورينو
 DTSTART:20260405T160000Z
 DTEND:20260405T180000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-t1gsmyfyaufvj6xgw933og0k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:روما VS بيزا
 DTSTART:20260410T184500Z
 DTEND:20260410T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-xuk4c2tkbjldesp82onbo1sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -522,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS جنوى
 DTSTART:20260419T160000Z
 DTEND:20260419T180000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-10p02pjryye8cajuop2sdy42c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:بارما VS بيزا
 DTSTART:20260425T130000Z
 DTEND:20260425T150000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-15loq6a72majvehyhin9g5mok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إنيو تارد
@@ -554,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS ليتشي
 DTSTART:20260501T184500Z
 DTEND:20260501T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-198o7cwvp34fdlmlraotjlez8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -571,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS بيزا
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-1b8kjyzu1m6z3o8jqjli6wvmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS نابولي
 DTSTART:20260517T100000Z
 DTEND:20260517T120000Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-1hbn9i3wwdt46jmrp4cfhggt0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS بيزا
 DTSTART:20260523T184500Z
 DTEND:20260523T204500Z
-DTSTAMP:20260707T054602Z
+DTSTAMP:20260707T095442Z
 UID:fifa-1kano1peqbw5ho0zlex7mdw5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
