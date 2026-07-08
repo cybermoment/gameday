@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Sevilla
 DTSTART:20250817T173000Z
 DTEND:20250817T193000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-ine2hgzsb0qatru98nl045w@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 3 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Rayo Vallecano
 DTSTART:20250825T173000Z
 DTEND:20250825T193000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3wb1lwo6vq5hm78d7jllzd3o@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Real Betis VS Athletic Club
 DTSTART:20250831T170000Z
 DTEND:20250831T190000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-9rnhp2t23qi248bbos0taxp0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio La Cartuja de Sevilla\nResult: 1 - 2
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Deportivo Alavés
 DTSTART:20250913T163000Z
 DTEND:20250913T183000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-d3y8iv1iz7j4jz4loix4p9uc@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 0 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia CF VS Athletic Club
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-g1dat3xp3jfi5wvyc0njidxw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mestalla\nResult: 2 - 0
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Girona FC
 DTSTART:20250923T170000Z
 DTEND:20250923T190000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-ib901b3xp60cmvf9jmlupqtw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Athletic Club
 DTSTART:20250927T190000Z
 DTEND:20250927T210000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-obyek5fw1lg9l72jn8omr4lw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de la Cerámica\nResult: 1 - 0
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS RCD Mallorca
 DTSTART:20251004T163000Z
 DTEND:20251004T183000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-pt81qdbd7pkbnnkpq246rtw4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 2 - 1
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Elche CF VS Athletic Club
 DTSTART:20251019T120000Z
 DTEND:20251019T140000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-vgz6kc0y9dz9ecnnqulzb578@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Manuel Martínez Valero\nResult: 0 - 0
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Getafe CF
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-10d1132abu0fa9xolj05top3o@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 0 - 1
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Athletic Club
 DTSTART:20251101T173000Z
 DTEND:20251101T193000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-12lophscpllg367yx7yn0mpec@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Municipal de Anoeta\nResult: 3 - 2
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Real Oviedo
 DTSTART:20251109T130000Z
 DTEND:20251109T150000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-14ia91hr21lnjto1f2uga5f6c@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 0
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Athletic Club
 DTSTART:20251122T151500Z
 DTEND:20251122T171500Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1a7radhhole7vfnciarzauq6s@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Spotify Camp Nou\nResult: 4 - 0
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Levante UD VS Athletic Club
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1dxl0z31i0438ti5nrd22dl3o@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Ciudad de Valencia\nResult: 0 - 2
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Real Madrid C.F.
 DTSTART:20251203T180000Z
 DTEND:20251203T200000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1ximrnsi0rfciohtjk242p1jo@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 0 - 3
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Atlético de Madrid
 DTSTART:20251206T200000Z
 DTEND:20251206T220000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1j6l9nsawkrpvmlpb5fprga38@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 0
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:RC Celta VS Athletic Club
 DTSTART:20251214T151500Z
 DTEND:20251214T171500Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1jz2ik6i4oz41zqr2od8yiwb8@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Abanca-Balaídos\nResult: 2 - 0
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS RCD Espanyol
 DTSTART:20251222T200000Z
 DTEND:20251222T220000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1pmmfccm8cfhw6hua3w0gz28k@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 2
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:CA Osasuna VS Athletic Club
 DTSTART:20260103T151500Z
 DTEND:20260103T171500Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1r4k8mooxohtqr7vzjm29hul0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio El Sadar\nResult: 1 - 1
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:RCD Mallorca VS Athletic Club
 DTSTART:20260117T151500Z
 DTEND:20260117T171500Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-1zyd1rcyvotux5kjh936dehp0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadi Mallorca Son Moix\nResult: 3 - 2
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Sevilla VS Athletic Club
 DTSTART:20260124T173000Z
 DTEND:20260124T193000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-25kz3clipo3v4d1gp3m23n5ec@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Ramón Sánchez Pizjuán\nResult: 2 - 1
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Real Sociedad
 DTSTART:20260201T200000Z
 DTEND:20260201T220000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-288lesgslzcbljs163839jl04@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 1
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Levante UD
 DTSTART:20260208T151500Z
 DTEND:20260208T171500Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2cp6ugeg62t6fg02bkkkukums@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 4 - 2
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Athletic Club
 DTSTART:20260215T130000Z
 DTEND:20260215T150000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2dut8dksy5wicxc8bk1fy582c@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Municipal Carlos Tartiere\nResult: 1 - 2
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Elche CF
 DTSTART:20260220T200000Z
 DTEND:20260220T220000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2jiyipev8f7wvnf4rp16n8n4k@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 2 - 1
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Athletic Club
 DTSTART:20260228T130000Z
 DTEND:20260228T150000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2osbe65qugeqj4btj6y4t4pas@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Vallecas\nResult: 1 - 1
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Barcelona
 DTSTART:20260307T200000Z
 DTEND:20260307T220000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2q9tc31q3pa181h1jnjxvfqc4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 0 - 1
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Girona FC VS Athletic Club
 DTSTART:20260314T130000Z
 DTEND:20260314T150000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2wafcyp42h9q6jqi5chgfl3x0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadi Municipal de Montilivi\nResult: 3 - 0
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Real Betis
 DTSTART:20260322T173000Z
 DTEND:20260322T193000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-2xuajcyluofrmnt1siit15jbo@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 2 - 1
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe CF VS Athletic Club
 DTSTART:20260405T120000Z
 DTEND:20260405T140000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-33vcbxcbnojlxdm39q4elkutw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Coliseum\nResult: 2 - 0
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Villarreal
 DTSTART:20260412T190000Z
 DTEND:20260412T210000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-34zj5er2za9qrjro5eq94ack4@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 2
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS CA Osasuna
 DTSTART:20260421T170000Z
 DTEND:20260421T190000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3c9hm7srm769qr9qfg4prhlhw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 0
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Athletic Club
 DTSTART:20260425T190000Z
 DTEND:20260425T210000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3achbi56yevn41ahu7amhx638@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Riyadh Air Metropolitano\nResult: 3 - 2
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Deportivo Alavés VS Athletic Club
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3getgrlqh307l5da5tutqt3pw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de Mendizorroza\nResult: 2 - 4
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Valencia CF
 DTSTART:20260510T141500Z
 DTEND:20260510T161500Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3jromoqjf4ywqhz6gv1xpo0lw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 0 - 1
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:RCD Espanyol VS Athletic Club
 DTSTART:20260513T170000Z
 DTEND:20260513T190000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3p1xhxrl565qq3x5swdj977dg@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : RCDE Stadium\nResult: 2 - 0
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS RC Celta
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3qyh2orw2524xs3k60h0cxxxw@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio de San Mamés\nResult: 1 - 1
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Athletic Club
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260708T073451Z
+DTSTAMP:20260708T102618Z
 UID:fifa-3wz71k4469ny273fw5c1yavx0@fifa.com
 DESCRIPTION:Competition: Primera División\nStage: Regular Season\nStadium
  : Estadio Bernabéu\nResult: 4 - 2
