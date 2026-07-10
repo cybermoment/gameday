@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Алавес VS Леванте
 DTSTART:20250816T193000Z
 DTEND:20250816T213000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-15ir6pt6au1v00gtef02v4k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Барселона
 DTSTART:20250823T193000Z
 DTEND:20250823T213000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-5pp18hcr9ery2hv17q7q6eqc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Эльче VS Леванте
 DTSTART:20250829T173000Z
 DTEND:20250829T193000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-8auqwdd7rhk8k4erd29m5c0k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Бетис
 DTSTART:20250914T141500Z
 DTEND:20250914T161500Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-dh2jy2sqqln0u67dgau8p53o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Леванте
 DTSTART:20250920T120000Z
 DTEND:20250920T140000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-fo7f0yq3c06q4hrw7vamnnro@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Реал Мадрид
 DTSTART:20250923T193000Z
 DTEND:20250923T213000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-jfjnqx2yal5t4pcccve1zg9g@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Хетафе VS Леванте
 DTSTART:20250927T120000Z
 DTEND:20250927T140000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-n7tx1yzdm3jcvtma21rf6al0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Овьедо VS Леванте
 DTSTART:20251004T120000Z
 DTEND:20251004T140000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-sg2ifrolnrbubiys9n9n8844@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Райо Вальекано
 DTSTART:20251019T163000Z
 DTEND:20251019T183000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-v3lhpsc6pb8pl9l3mu0evqj8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Мальорка VS Леванте
 DTSTART:20251026T130000Z
 DTEND:20251026T150000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-zzqopgn9iz38xxwmgsl6ccus@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Сельта
 DTSTART:20251102T130000Z
 DTEND:20251102T150000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-12zi2fz6nuyhye00alaymbms4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Леванте
 DTSTART:20251108T173000Z
 DTEND:20251108T193000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-14xa2ysiarbslbwcla4hhzqj8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Валенсия VS Леванте
 DTSTART:20251121T200000Z
 DTEND:20251121T220000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1ayj7qyruvkyprfzr6plov4t0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Атлетик
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1dxl0z31i0438ti5nrd22dl3o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Осасуна VS Леванте
 DTSTART:20251208T200000Z
 DTEND:20251208T220000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1hp0gvnq8tu7bswk405xa49as@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Реал Сосьедад
 DTSTART:20251220T151500Z
 DTEND:20251220T171500Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1qr5wncwgktkt7jksvs6m3n6c@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Леванте
 DTSTART:20260104T130000Z
 DTEND:20260104T150000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1tethtdduidjywarrz3qiyx3o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Эспаньол
 DTSTART:20260111T151500Z
 DTEND:20260111T171500Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1wrc3h54fm3azopbuu3iq7b4k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Леванте
 DTSTART:20260117T130000Z
 DTEND:20260117T150000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-20p4cff79mu4mto9rpw2sdj4k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Эльче
 DTSTART:20260123T200000Z
 DTEND:20260123T220000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-22jwwfu5djp7vwtjkvcujieqc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Атлетико Мадрид
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-26bsh372a4004fxjzg381qgb8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Леванте
 DTSTART:20260208T151500Z
 DTEND:20260208T171500Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2cp6ugeg62t6fg02bkkkukums@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Валенсия
 DTSTART:20260215T173000Z
 DTEND:20260215T193000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2ggfagcn46v6b5rbqpgdj7das@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Вильярреал
 DTSTART:20260218T190000Z
 DTEND:20260218T210000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-1jlhapyjldhvatexkb19ja6fo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Леванте
 DTSTART:20260222T151500Z
 DTEND:20260222T171500Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2k9uw8chd5ol6b9rrw5ftnc44@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Алавес
 DTSTART:20260227T200000Z
 DTEND:20260227T220000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2of0ec1j3qlwnm140nciptixg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Хирона
 DTSTART:20260307T151500Z
 DTEND:20260307T171500Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2p5lebd6sut2o58yyixozunmc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Райо Вальекано VS Леванте
 DTSTART:20260316T200000Z
 DTEND:20260316T220000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2toal4qg8ohxn3hh50m9lrac4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Реал Овьедо
 DTSTART:20260321T173000Z
 DTEND:20260321T193000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-2zc6div45o8artjqg9vrawb2s@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Сосьедад VS Леванте
 DTSTART:20260404T120000Z
 DTEND:20260404T140000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-317f8nnd5kiqw5pomd91v86j8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Хетафе
 DTSTART:20260413T190000Z
 DTEND:20260413T210000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-348p051ww3c5h5f7yu6puqplg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Севилья
 DTSTART:20260423T170000Z
 DTEND:20260423T190000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-3d093m8yc27r7p3gumt3gg4d0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -480,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Эспаньол VS Леванте
 DTSTART:20260427T190000Z
 DTEND:20260427T210000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-394u1x6d00xy857x0kzh48oic@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -494,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Вильярреал VS Леванте
 DTSTART:20260502T120000Z
 DTEND:20260502T140000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-3fm6zt7nl7hs2oolj5ksug3ys@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Осасуна
 DTSTART:20260508T190000Z
 DTEND:20260508T210000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-3kvn4dplqj7ecztktcd1afhuc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS Леванте
 DTSTART:20260512T170000Z
 DTEND:20260512T190000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-3nxmo9ajqnht9425i3n9szevo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Мальорка
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-3sg7p1fgas9oyig0lv5gdmvis@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -554,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Леванте
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260710T132927Z
+DTSTAMP:20260710T160017Z
 UID:fifa-3v3zljn1yog1g4knq4uoaledw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
