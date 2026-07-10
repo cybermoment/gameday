@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Lecce
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-cj1crau6yj93nnyk80lzjpes4@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Juventus FC
 DTSTART:20250831T163000Z
 DTEND:20250831T183000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-cn63x2v18luvioyw8kovsgkyc@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 1
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Genoa
 DTSTART:20250915T184500Z
 DTEND:20250915T204500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-cr5ncddam0hu23i7vmkh4syl0@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giuseppe Sinigaglia\nRisultato: 1 - 1
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Genoa
 DTSTART:20250920T130000Z
 DTEND:20250920T150000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-cuawxsnj5e0jykj7h7xw9t7v8@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Renato Dall'Ara\nRisultato: 2 - 1
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Lazio
 DTSTART:20250929T184500Z
 DTEND:20250929T204500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-cz23urlp2fqu90rtkbatvaadw@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 3
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Genoa
 DTSTART:20251005T160000Z
 DTEND:20251005T180000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-d4pwyiyho3sntimg7gb5yssno@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Diego Armando Maradona\nRisultato: 2 - 1
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Parma
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-d7yrxii7ad8bixosyqiukk5qs@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 0
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Genoa
 DTSTART:20251026T113000Z
 DTEND:20251026T133000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-dd7pxcuki8noxhspqtl0pdbtg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico Grande Torino\nRisultato: 2 - 1
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Cremonese
 DTSTART:20251029T194500Z
 DTEND:20251029T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-dg0jqjxvhdlvm17zu5lxdb384@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 2
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Genoa
 DTSTART:20251103T173000Z
 DTEND:20251103T193000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-dkulf66kq04h9lzqdtjkqpixg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: MAPEI 
  Stadium - Città del Tricolore\nRisultato: 1 - 2
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Fiorentina
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-dnp4q65aivoy78vun7flzhq8k@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 2 - 2
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Genoa
 DTSTART:20251122T140000Z
 DTEND:20251122T160000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-dqi2afpogoxcqe16jjfngwpp0@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Unipol
   Domus\nRisultato: 3 - 3
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Hellas Verona
 DTSTART:20251129T140000Z
 DTEND:20251129T160000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-dvrjf79b61apqegvoxcxk4ahg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 2 - 1
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Genoa
 DTSTART:20251208T170000Z
 DTEND:20251208T190000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-e1wg402dqdofdpblk9lc80owk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Bluene
  rgy Stadium\nRisultato: 1 - 2
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS FC Internazionale Milano
 DTSTART:20251214T170000Z
 DTEND:20251214T190000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-e3x5gndisdsp938zd7nmozod0@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 1 - 2
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Atalanta
 DTSTART:20251221T194500Z
 DTEND:20251221T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-e810e1xzrome2qehy43mv1edw@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 1
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Genoa
 DTSTART:20251229T194500Z
 DTEND:20251229T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-edpgvib62l4nji0yx471zf09g@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico\nRisultato: 3 - 1
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Pisa
 DTSTART:20260103T140000Z
 DTEND:20260103T160000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-egikby2mt9d9oezp7s5hm58us@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 1 - 1
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Genoa
 DTSTART:20260108T194500Z
 DTEND:20260108T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-ekk7jwulff7ebsdvjh2trdtlg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giuseppe Meazza\nRisultato: 1 - 1
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Cagliari
 DTSTART:20260112T173000Z
 DTEND:20260112T193000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-eo7rchwee8ucktswv023iaej8@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 3 - 0
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Genoa
 DTSTART:20260118T113000Z
 DTEND:20260118T133000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-etgr2t5n144nao4q1gjde7nro@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Ennio Tardini\nRisultato: 0 - 0
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Bologna
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-ew9qgc4sgn8ttzyeoil66fxn8@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 3 - 2
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Genoa
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-f0prwprw92hfgu5p39x4zji8k@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Olimpico\nRisultato: 3 - 2
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Napoli
 DTSTART:20260207T170000Z
 DTEND:20260207T190000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-f4dpn9pt0dx67oue2aigxphjo@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 2 - 3
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Genoa
 DTSTART:20260215T140000Z
 DTEND:20260215T160000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-2esqb01tsyp51smieiu1bnro@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giovanni Zini\nRisultato: 0 - 0
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Torino
 DTSTART:20260222T113000Z
 DTEND:20260222T133000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-7bf4wiumx7xdelasktgf1slw@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 3 - 0
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Genoa
 DTSTART:20260228T194500Z
 DTEND:20260228T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-aq7zgsvmbroypvcgivmp4xzo@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Giuseppe Meazza\nRisultato: 2 - 0
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Roma
 DTSTART:20260308T170000Z
 DTEND:20260308T190000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-fzjidmki8zw5129ek2cw16ac@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 2 - 1
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Verona VS Genoa
 DTSTART:20260315T113000Z
 DTEND:20260315T133000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-m4iui9mige7it9uaa8vpjxn8@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Marcantonio Bentegodi\nRisultato: 0 - 2
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Udinese
 DTSTART:20260320T194500Z
 DTEND:20260320T214500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-olfseyjy3g2nhpgwq6xnbndg@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 2
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Genoa
 DTSTART:20260406T160000Z
 DTEND:20260406T180000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-re64kdulxtne6yvaa7hs1vkk@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Allian
  z Stadium\nRisultato: 2 - 0
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Sassuolo
 DTSTART:20260412T103000Z
 DTEND:20260412T123000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-wna0y5ja9n6hce0ih97dk36c@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 2 - 1
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Genoa
 DTSTART:20260419T160000Z
 DTEND:20260419T180000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-10p02pjryye8cajuop2sdy42c@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Arena 
  Garibaldi - Stadio Romeo Anconetani\nRisultato: 1 - 2
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Como
 DTSTART:20260426T130000Z
 DTEND:20260426T150000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-1401o1xiw8hijcz6w9zzcpst0@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 0 - 2
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Genoa
 DTSTART:20260502T184500Z
 DTEND:20260502T204500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-16st24hrdt03jyqyb22uejuac@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: New Ba
  lance Arena\nRisultato: 0 - 0
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Genoa
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-1bmsofq1dxf9nwf8rkq89vevo@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Artemio Franchi\nRisultato: 0 - 0
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Milan
 DTSTART:20260517T100000Z
 DTEND:20260517T120000Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-1g3sxndqzrlhnkcx66644w1zo@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Comunale Luigi Ferraris\nRisultato: 1 - 2
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Genoa
 DTSTART:20260524T184500Z
 DTEND:20260524T204500Z
-DTSTAMP:20260710T194535Z
+DTSTAMP:20260710T211242Z
 UID:fifa-1kphzdmxua4z9u5fpl8ajx8us@fifa.com
 DESCRIPTION:Competizione: Serie A\nFase: Stagione regolare\nStadio: Stadio
   Ettore Giardiniero - Via del Mare\nRisultato: 1 - 0
