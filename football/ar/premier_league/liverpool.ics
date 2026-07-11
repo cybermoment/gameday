@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS بورنموث
 DTSTART:20250815T190000Z
 DTEND:20250815T210000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-zhs8gg1hvcuqvhkk2itb54pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:نيوكاسل VS ليفربول
 DTSTART:20250825T190000Z
 DTEND:20250825T210000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-17gi8gmcwairx1s9f0utz7ggk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: سينت جي
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS أرسنال
 DTSTART:20250831T153000Z
 DTEND:20250831T173000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-19ty1jsiu05lygxc15uw4exp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS ليفربول
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-1ddyldms82g6afdwokq3ro844@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS إيفرتون
 DTSTART:20250920T113000Z
 DTEND:20250920T133000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-1i2v1eqtjfnafc69e4u4kawb8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:كريستال بالاس VS ليفربول
 DTSTART:20250927T140000Z
 DTEND:20250927T160000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-1la9af0q274nmzgcyme30rcwk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: سيلهور
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:تشيلسي VS ليفربول
 DTSTART:20251004T163000Z
 DTEND:20251004T183000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-1pow6zy0g8vyp6ag9wvnubkes@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ستامفو
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS نادي مانشستر يونايتد
 DTSTART:20251019T153000Z
 DTEND:20251019T173000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-1tozdgn4jg7t4h8wrdqtlwgt0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:برينتفورد VS ليفربول
 DTSTART:20251025T190000Z
 DTEND:20251025T210000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-1xebw5ifrjl5exfgvwogidmok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب بر
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS أستون فيلا
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-21snm4gvykm9jjq1rzq17ejo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:مانشستر سيتي VS ليفربول
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-266x8afjnwzm848lkn11qjmdw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS نوتنغهام فورست
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2al8l1sdufvs34bh674bvy1as@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:وست هام VS ليفربول
 DTSTART:20251130T140500Z
 DTEND:20251130T160500Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2fsbzlzf6ux1buhi1t67cquqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب لن
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS سندرلاند
 DTSTART:20251203T201500Z
 DTEND:20251203T221500Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2inc8vql65bi2clvs6z2buqs4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:ليدز يونايتد VS ليفربول
 DTSTART:20251206T173000Z
 DTEND:20251206T193000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2m8ovduzz3fvy0pu82to85p1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS برايتون
 DTSTART:20251213T150000Z
 DTEND:20251213T170000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2q92uqkqy5i0jfjhwel7jygb8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:توتنهام VS ليفربول
 DTSTART:20251220T173000Z
 DTEND:20251220T193000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2vllrascd71vbiav6po9eg36c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب تو
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS ولفرهامبتون
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-2yevv68uq8792c85hcq3xhiqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS ليدز يونايتد
 DTSTART:20260101T173000Z
 DTEND:20260101T193000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-32fdg42hguqxx71l16b9qahp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS ليفربول
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-36e9umplcfioh9jroyvcwq0pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:أرسنال VS ليفربول
 DTSTART:20260108T200000Z
 DTEND:20260108T220000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-396bo5t5fzkfqcmcj0rlhtez8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS بيرنلي
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-3eecd8pdxffpy5om18zmki51w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:بورنموث VS ليفربول
 DTSTART:20260124T173000Z
 DTEND:20260124T193000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-3gtoqvshayt6sh95nezlvv3f8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: دين كور
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS نيوكاسل
 DTSTART:20260131T200000Z
 DTEND:20260131T220000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-3mgg86hgrlwba3qazktbvu32s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS مانشستر سيتي
 DTSTART:20260208T163000Z
 DTEND:20260208T183000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-3ragu84a8rxxqwkao5j5m4mqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:سندرلاند VS ليفربول
 DTSTART:20260211T201500Z
 DTEND:20260211T221500Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-3vpl6ljxqj2i0rlql45trb3mc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ستاديو
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:نوتنغهام فورست VS ليفربول
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-3zasz9z9hjqptnazc0swjc1lg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ذا سيتي
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS وست هام
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-43ct7lmoz9mxu47u44jz0e9zo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:ولفرهامبتون VS ليفربول
 DTSTART:20260303T201500Z
 DTEND:20260303T221500Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-48ktj4rhfezvam9t3849mcj6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS توتنهام
 DTSTART:20260315T163000Z
 DTEND:20260315T183000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4b0vkliozgwujbu92sbu4odg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:برايتون VS ليفربول
 DTSTART:20260321T124500Z
 DTEND:20260321T144500Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4dt0xk254py5py96scdjiwys4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب فا
@@ -454,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS فولهام
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4j6ivw9f5me8lnzenpp7vnuok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:إيفرتون VS ليفربول
 DTSTART:20260419T130000Z
 DTEND:20260419T150000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4mt8uz7mnwr88byu986z5m8lw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب هي
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS كريستال بالاس
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4rq7t37ngva3ecwacchy43e38@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:نادي مانشستر يونايتد VS ليفربول
 DTSTART:20260503T143000Z
 DTEND:20260503T163000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4wkjiv475wzfcfplo9208ek9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أولد تر
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS تشيلسي
 DTSTART:20260509T113000Z
 DTEND:20260509T133000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-4zgf2nruglaxakbv5t3s8ll3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:أستون فيلا VS ليفربول
 DTSTART:20260515T190000Z
 DTEND:20260515T210000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-52q6oshpwx91dnjt9x0cx1iqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: فيلا با
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS برينتفورد
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260711T212509Z
+DTSTAMP:20260711T222454Z
 UID:fifa-57mwrh5wr8gy7obpu0kjmstg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
