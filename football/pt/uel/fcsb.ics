@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Drita
 DTSTART:20250807T183000Z
 DTEND:20250807T203000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-7vj9jtw7ues3qg3e17xf3ahhw@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: 3ª rodada classificatória\
  nEstádio: Arena Naţională\nResultado: 3 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Drita VS Steaua Bucareste
 DTSTART:20250814T180000Z
 DTEND:20250814T200000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-81z9fnenkg9263jkrv6cml8us@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: 3ª rodada classificatória\
  nEstádio: Stadiumi Fadil Vokrri\nResultado: 1 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Aberdeen VS Steaua Bucareste
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-dk0gwm4uix1rkqo8584nmuu50@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Pittodr
  ie Stadium\nResultado: 2 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Aberdeen
 DTSTART:20250828T183000Z
 DTEND:20250828T203000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-dldhzv0mqyqay3lvbtgo6r7ro@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Arena N
  aţională\nResultado: 3 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Go Ahead Eagles VS Steaua Bucareste
 DTSTART:20250925T164500Z
 DTEND:20250925T184500Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-2eff66apoyrlfcse26mtlbeac@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: De 
  Adelaarshorst\nResultado: 0 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Young Boys
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-2kvljjmo0wcgp6qbuiegoqrkk@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Are
  na Naţională\nResultado: 0 - 2
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Bologna
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-2qx7frk1rz3yiepzixxyvbhuc@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Are
  na Naţională\nResultado: 1 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Basel VS Steaua Bucareste
 DTSTART:20251106T174500Z
 DTEND:20251106T194500Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-2wz1a1yx83d6rucii88lfisyc@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: St.
   Jakob-Park\nResultado: 3 - 1
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Estrela Vermelha VS Steaua Bucareste
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-377qlfic51bvosdpse494xclw@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dion Rajko Mitić\nResultado: 1 - 0
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Feyenoord
 DTSTART:20251211T200000Z
 DTEND:20251211T220000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-3exemy7jjs0gsy8gnlivu7ytw@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Are
  na Naţională\nResultado: 4 - 3
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb VS Steaua Bucareste
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-3m66cqhi50fgmlkae8rhgsa38@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dion Maksimir\nResultado: 4 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Steaua Bucareste VS Fenerbahce
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260712T205907Z
+DTSTAMP:20260712T220152Z
 UID:fifa-3ql58bf1m7e6xgqcj26w88xzo@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Are
  na Naţională\nResultado: 1 - 1
