@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Мексика VS Южная Африка
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021443@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа A\nСтадио
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Южная Корея VS Чехия
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021441@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа A\nСтадио
@@ -38,11 +38,11 @@ BEGIN:VEVENT
 SUMMARY:Канада VS Босния и Герцеговина
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021449@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа B\nСтадио
- н: Торонто-стейдиум 
+ н: Торонто-стейдиум \nРезультат: 1 - 1
 GEO:43.6331;-79.4186
 LOCATION:Торонто-стейдиум 
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
@@ -53,11 +53,11 @@ BEGIN:VEVENT
 SUMMARY:США VS Парагвай
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021458@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа D\nСтадио
- н: Los Angeles Stadium
+ н: Los Angeles Stadium\nРезультат: 4 - 1
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
@@ -67,11 +67,11 @@ BEGIN:VEVENT
 SUMMARY:Катар VS Швейцария
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021447@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа B\nСтадио
- н: San Francisco Bay Area Stadium
+ н: San Francisco Bay Area Stadium\nРезультат: 1 - 1
 GEO:37.403;-121.9694
 LOCATION:San Francisco Bay Area Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
@@ -82,11 +82,11 @@ BEGIN:VEVENT
 SUMMARY:Бразилия VS Марокко
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021456@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа C\nСтадио
- н: New York/New Jersey Stadium
+ н: New York/New Jersey Stadium\nРезультат: 1 - 1
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -97,11 +97,11 @@ BEGIN:VEVENT
 SUMMARY:Гаити VS Шотландия
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021453@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа C\nСтадио
- н: Бостон-стейдиум
+ н: Бостон-стейдиум\nРезультат: 0 - 1
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -112,11 +112,12 @@ BEGIN:VEVENT
 SUMMARY:Австралия VS Турция
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021463@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа D\nСтадио
- н: Стадион «Би-си-плейс-Ванкувер»
+ н: Стадион «Би-си-плейс-Ванкувер»\nРезуль
+ тат: 2 - 0
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -127,11 +128,11 @@ BEGIN:VEVENT
 SUMMARY:Германия VS Кюрасао
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021464@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа Е\nСтадио
- н: Хьюстон-стейдиум
+ н: Хьюстон-стейдиум\nРезультат: 7 - 1
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -142,11 +143,11 @@ BEGIN:VEVENT
 SUMMARY:Нидерланды VS Япония
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021470@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа F\nСтадио
- н: Dallas Stadium
+ н: Dallas Stadium\nРезультат: 2 - 2
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
@@ -156,11 +157,11 @@ BEGIN:VEVENT
 SUMMARY:Кот-д'Ивуар VS Эквадор
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021467@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа Е\nСтадио
- н: Филадельфия-стейдиум
+ н: Филадельфия-стейдиум\nРезультат: 1 - 0
 GEO:39.9012;-75.1675
 LOCATION:Филадельфия-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
@@ -171,11 +172,11 @@ BEGIN:VEVENT
 SUMMARY:Швеция VS Тунис
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021474@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа F\nСтадио
- н: Монтеррей-стейдиум
+ н: Монтеррей-стейдиум\nРезультат: 5 - 1
 GEO:25.6696;-100.2458
 LOCATION:Монтеррей-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Монтеррей-сте
@@ -186,11 +187,11 @@ BEGIN:VEVENT
 SUMMARY:Испания VS Кабо-Верде
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021482@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа H\nСтадио
- н: Atlanta Stadium
+ н: Atlanta Stadium\nРезультат: 0 - 0
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
@@ -200,11 +201,11 @@ BEGIN:VEVENT
 SUMMARY:Бельгия VS Египет
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021478@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа G\nСтадио
- н: Сиэтл-стейдиум
+ н: Сиэтл-стейдиум\nРезультат: 1 - 1
 GEO:47.5952;-122.3316
 LOCATION:Сиэтл-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
@@ -215,11 +216,11 @@ BEGIN:VEVENT
 SUMMARY:Саудовская Аравия VS Уругвай
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021486@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа H\nСтадио
- н: Miami Stadium
+ н: Miami Stadium\nРезультат: 1 - 1
 GEO:25.958;-80.2389
 LOCATION:Miami Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miami Stadium";X-APPLE-RA
@@ -229,11 +230,11 @@ BEGIN:VEVENT
 SUMMARY:ИР Иран VS Новая Зеландия
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021476@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа G\nСтадио
- н: Los Angeles Stadium
+ н: Los Angeles Stadium\nРезультат: 2 - 2
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
@@ -243,11 +244,11 @@ BEGIN:VEVENT
 SUMMARY:Франция VS Сенегал
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021490@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа I\nСтадио
- н: New York/New Jersey Stadium
+ н: New York/New Jersey Stadium\nРезультат: 3 - 1
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -258,11 +259,11 @@ BEGIN:VEVENT
 SUMMARY:Ирак VS Норвегия
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021488@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа I\nСтадио
- н: Бостон-стейдиум
+ н: Бостон-стейдиум\nРезультат: 1 - 4
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -273,11 +274,11 @@ BEGIN:VEVENT
 SUMMARY:Аргентина VS Алжир
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021496@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа J\nСтадио
- н: Kansas City Stadium
+ н: Kansas City Stadium\nРезультат: 3 - 0
 GEO:39.0487;-94.4839
 LOCATION:Kansas City Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kansas City Stadium";X-AP
@@ -287,11 +288,11 @@ BEGIN:VEVENT
 SUMMARY:Австрия VS Иордания
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021498@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа J\nСтадио
- н: San Francisco Bay Area Stadium
+ н: San Francisco Bay Area Stadium\nРезультат: 3 - 1
 GEO:37.403;-121.9694
 LOCATION:San Francisco Bay Area Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
@@ -302,11 +303,11 @@ BEGIN:VEVENT
 SUMMARY:Португалия VS ДР Конго
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021502@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа K\nСтадио
- н: Хьюстон-стейдиум
+ н: Хьюстон-стейдиум\nРезультат: 1 - 1
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -317,11 +318,11 @@ BEGIN:VEVENT
 SUMMARY:Англия VS Хорватия
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021507@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа L\nСтадио
- н: Dallas Stadium
+ н: Dallas Stadium\nРезультат: 4 - 2
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
@@ -331,11 +332,11 @@ BEGIN:VEVENT
 SUMMARY:Гана VS Панама
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021510@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа L\nСтадио
- н: Торонто-стейдиум 
+ н: Торонто-стейдиум \nРезультат: 1 - 0
 GEO:43.6331;-79.4186
 LOCATION:Торонто-стейдиум 
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
@@ -346,11 +347,11 @@ BEGIN:VEVENT
 SUMMARY:Узбекистан VS Колумбия
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021504@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа K\nСтадио
- н: Стадион Мехико
+ н: Стадион Мехико\nРезультат: 1 - 3
 GEO:19.3028;-99.1505
 LOCATION:Стадион Мехико
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мехик
@@ -361,11 +362,11 @@ BEGIN:VEVENT
 SUMMARY:Чехия VS Южная Африка
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021440@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа A\nСтадио
- н: Atlanta Stadium
+ н: Atlanta Stadium\nРезультат: 1 - 1
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
@@ -375,11 +376,11 @@ BEGIN:VEVENT
 SUMMARY:Швейцария VS Босния и Герцеговина
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021446@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа B\nСтадио
- н: Los Angeles Stadium
+ н: Los Angeles Stadium\nРезультат: 4 - 1
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
@@ -389,11 +390,12 @@ BEGIN:VEVENT
 SUMMARY:Канада VS Катар
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021450@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа B\nСтадио
- н: Стадион «Би-си-плейс-Ванкувер»
+ н: Стадион «Би-си-плейс-Ванкувер»\nРезуль
+ тат: 6 - 0
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -404,11 +406,11 @@ BEGIN:VEVENT
 SUMMARY:Мексика VS Южная Корея
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021442@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа A\nСтадио
- н: Гвадалахара-стейдиум
+ н: Гвадалахара-стейдиум\nРезультат: 1 - 0
 GEO:20.6753;-103.462
 LOCATION:Гвадалахара-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Гвадалахара-с
@@ -419,11 +421,11 @@ BEGIN:VEVENT
 SUMMARY:США VS Австралия
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021462@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа D\nСтадио
- н: Сиэтл-стейдиум
+ н: Сиэтл-стейдиум\nРезультат: 2 - 0
 GEO:47.5952;-122.3316
 LOCATION:Сиэтл-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
@@ -434,11 +436,11 @@ BEGIN:VEVENT
 SUMMARY:Шотландия VS Марокко
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021454@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа C\nСтадио
- н: Бостон-стейдиум
+ н: Бостон-стейдиум\nРезультат: 0 - 1
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -449,11 +451,11 @@ BEGIN:VEVENT
 SUMMARY:Бразилия VS Гаити
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021457@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа C\nСтадио
- н: Филадельфия-стейдиум
+ н: Филадельфия-стейдиум\nРезультат: 3 - 0
 GEO:39.9012;-75.1675
 LOCATION:Филадельфия-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
@@ -464,11 +466,11 @@ BEGIN:VEVENT
 SUMMARY:Турция VS Парагвай
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021460@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа D\nСтадио
- н: San Francisco Bay Area Stadium
+ н: San Francisco Bay Area Stadium\nРезультат: 0 - 1
 GEO:37.403;-121.9694
 LOCATION:San Francisco Bay Area Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
@@ -479,11 +481,11 @@ BEGIN:VEVENT
 SUMMARY:Нидерланды VS Швеция
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021472@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа F\nСтадио
- н: Хьюстон-стейдиум
+ н: Хьюстон-стейдиум\nРезультат: 5 - 1
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -494,11 +496,11 @@ BEGIN:VEVENT
 SUMMARY:Германия VS Кот-д'Ивуар
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021469@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа Е\nСтадио
- н: Торонто-стейдиум 
+ н: Торонто-стейдиум \nРезультат: 2 - 1
 GEO:43.6331;-79.4186
 LOCATION:Торонто-стейдиум 
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
@@ -509,11 +511,11 @@ BEGIN:VEVENT
 SUMMARY:Эквадор VS Кюрасао
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021465@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа Е\nСтадио
- н: Kansas City Stadium
+ н: Kansas City Stadium\nРезультат: 0 - 0
 GEO:39.0487;-94.4839
 LOCATION:Kansas City Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kansas City Stadium";X-AP
@@ -523,11 +525,11 @@ BEGIN:VEVENT
 SUMMARY:Тунис VS Япония
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021475@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа F\nСтадио
- н: Монтеррей-стейдиум
+ н: Монтеррей-стейдиум\nРезультат: 0 - 4
 GEO:25.6696;-100.2458
 LOCATION:Монтеррей-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Монтеррей-сте
@@ -538,11 +540,11 @@ BEGIN:VEVENT
 SUMMARY:Испания VS Саудовская Аравия
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021483@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа H\nСтадио
- н: Atlanta Stadium
+ н: Atlanta Stadium\nРезультат: 4 - 0
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
@@ -552,11 +554,11 @@ BEGIN:VEVENT
 SUMMARY:Бельгия VS ИР Иран
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021477@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа G\nСтадио
- н: Los Angeles Stadium
+ н: Los Angeles Stadium\nРезультат: 0 - 0
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
@@ -566,11 +568,11 @@ BEGIN:VEVENT
 SUMMARY:Уругвай VS Кабо-Верде
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021487@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа H\nСтадио
- н: Miami Stadium
+ н: Miami Stadium\nРезультат: 2 - 2
 GEO:25.958;-80.2389
 LOCATION:Miami Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miami Stadium";X-APPLE-RA
@@ -580,11 +582,12 @@ BEGIN:VEVENT
 SUMMARY:Новая Зеландия VS Египет
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021480@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа G\nСтадио
- н: Стадион «Би-си-плейс-Ванкувер»
+ н: Стадион «Би-си-плейс-Ванкувер»\nРезуль
+ тат: 1 - 3
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -595,11 +598,11 @@ BEGIN:VEVENT
 SUMMARY:Аргентина VS Австрия
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021494@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа J\nСтадио
- н: Dallas Stadium
+ н: Dallas Stadium\nРезультат: 2 - 0
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
@@ -609,11 +612,11 @@ BEGIN:VEVENT
 SUMMARY:Франция VS Ирак
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021492@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа I\nСтадио
- н: Филадельфия-стейдиум
+ н: Филадельфия-стейдиум\nРезультат: 3 - 0
 GEO:39.9012;-75.1675
 LOCATION:Филадельфия-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
@@ -624,11 +627,11 @@ BEGIN:VEVENT
 SUMMARY:Норвегия VS Сенегал
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021491@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа I\nСтадио
- н: New York/New Jersey Stadium
+ н: New York/New Jersey Stadium\nРезультат: 3 - 2
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -639,11 +642,11 @@ BEGIN:VEVENT
 SUMMARY:Иордания VS Алжир
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021499@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа J\nСтадио
- н: San Francisco Bay Area Stadium
+ н: San Francisco Bay Area Stadium\nРезультат: 1 - 2
 GEO:37.403;-121.9694
 LOCATION:San Francisco Bay Area Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
@@ -654,11 +657,11 @@ BEGIN:VEVENT
 SUMMARY:Португалия VS Узбекистан
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021503@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа K\nСтадио
- н: Хьюстон-стейдиум
+ н: Хьюстон-стейдиум\nРезультат: 5 - 0
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -669,11 +672,11 @@ BEGIN:VEVENT
 SUMMARY:Англия VS Гана
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021506@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа L\nСтадио
- н: Бостон-стейдиум
+ н: Бостон-стейдиум\nРезультат: 0 - 0
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -684,11 +687,11 @@ BEGIN:VEVENT
 SUMMARY:Панама VS Хорватия
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021511@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа L\nСтадио
- н: Торонто-стейдиум 
+ н: Торонто-стейдиум \nРезультат: 0 - 1
 GEO:43.6331;-79.4186
 LOCATION:Торонто-стейдиум 
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
@@ -699,11 +702,11 @@ BEGIN:VEVENT
 SUMMARY:Колумбия VS ДР Конго
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021501@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа K\nСтадио
- н: Гвадалахара-стейдиум
+ н: Гвадалахара-стейдиум\nРезультат: 1 - 0
 GEO:20.6753;-103.462
 LOCATION:Гвадалахара-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Гвадалахара-с
@@ -714,11 +717,11 @@ BEGIN:VEVENT
 SUMMARY:Босния и Герцеговина VS Катар
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021448@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа B\nСтадио
- н: Сиэтл-стейдиум
+ н: Сиэтл-стейдиум\nРезультат: 3 - 1
 GEO:47.5952;-122.3316
 LOCATION:Сиэтл-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
@@ -729,11 +732,12 @@ BEGIN:VEVENT
 SUMMARY:Швейцария VS Канада
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021451@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа B\nСтадио
- н: Стадион «Би-си-плейс-Ванкувер»
+ н: Стадион «Би-си-плейс-Ванкувер»\nРезуль
+ тат: 2 - 1
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -744,11 +748,11 @@ BEGIN:VEVENT
 SUMMARY:Марокко VS Гаити
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021452@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа C\nСтадио
- н: Atlanta Stadium
+ н: Atlanta Stadium\nРезультат: 4 - 2
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
@@ -758,11 +762,11 @@ BEGIN:VEVENT
 SUMMARY:Шотландия VS Бразилия
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021455@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа C\nСтадио
- н: Miami Stadium
+ н: Miami Stadium\nРезультат: 0 - 3
 GEO:25.958;-80.2389
 LOCATION:Miami Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miami Stadium";X-APPLE-RA
@@ -772,11 +776,11 @@ BEGIN:VEVENT
 SUMMARY:Южная Африка VS Южная Корея
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021445@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа A\nСтадио
- н: Монтеррей-стейдиум
+ н: Монтеррей-стейдиум\nРезультат: 1 - 0
 GEO:25.6696;-100.2458
 LOCATION:Монтеррей-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Монтеррей-сте
@@ -787,11 +791,11 @@ BEGIN:VEVENT
 SUMMARY:Чехия VS Мексика
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021444@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа A\nСтадио
- н: Стадион Мехико
+ н: Стадион Мехико\nРезультат: 0 - 3
 GEO:19.3028;-99.1505
 LOCATION:Стадион Мехико
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мехик
@@ -802,11 +806,11 @@ BEGIN:VEVENT
 SUMMARY:Кюрасао VS Кот-д'Ивуар
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021468@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа Е\nСтадио
- н: Филадельфия-стейдиум
+ н: Филадельфия-стейдиум\nРезультат: 0 - 2
 GEO:39.9012;-75.1675
 LOCATION:Филадельфия-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
@@ -817,11 +821,11 @@ BEGIN:VEVENT
 SUMMARY:Эквадор VS Германия
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021466@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа Е\nСтадио
- н: New York/New Jersey Stadium
+ н: New York/New Jersey Stadium\nРезультат: 2 - 1
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -832,11 +836,11 @@ BEGIN:VEVENT
 SUMMARY:Тунис VS Нидерланды
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021473@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа F\nСтадио
- н: Kansas City Stadium
+ н: Kansas City Stadium\nРезультат: 1 - 3
 GEO:39.0487;-94.4839
 LOCATION:Kansas City Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kansas City Stadium";X-AP
@@ -846,11 +850,11 @@ BEGIN:VEVENT
 SUMMARY:Япония VS Швеция
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021471@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа F\nСтадио
- н: Dallas Stadium
+ н: Dallas Stadium\nРезультат: 1 - 1
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
@@ -860,11 +864,11 @@ BEGIN:VEVENT
 SUMMARY:Парагвай VS Австралия
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021461@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа D\nСтадио
- н: San Francisco Bay Area Stadium
+ н: San Francisco Bay Area Stadium\nРезультат: 0 - 0
 GEO:37.403;-121.9694
 LOCATION:San Francisco Bay Area Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
@@ -875,11 +879,11 @@ BEGIN:VEVENT
 SUMMARY:Турция VS США
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021459@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа D\nСтадио
- н: Los Angeles Stadium
+ н: Los Angeles Stadium\nРезультат: 3 - 2
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
@@ -889,11 +893,11 @@ BEGIN:VEVENT
 SUMMARY:Сенегал VS Ирак
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021493@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа I\nСтадио
- н: Торонто-стейдиум 
+ н: Торонто-стейдиум \nРезультат: 5 - 0
 GEO:43.6331;-79.4186
 LOCATION:Торонто-стейдиум 
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
@@ -904,11 +908,11 @@ BEGIN:VEVENT
 SUMMARY:Норвегия VS Франция
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021489@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа I\nСтадио
- н: Бостон-стейдиум
+ н: Бостон-стейдиум\nРезультат: 1 - 4
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -919,11 +923,11 @@ BEGIN:VEVENT
 SUMMARY:Уругвай VS Испания
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021484@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа H\nСтадио
- н: Гвадалахара-стейдиум
+ н: Гвадалахара-стейдиум\nРезультат: 0 - 1
 GEO:20.6753;-103.462
 LOCATION:Гвадалахара-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Гвадалахара-с
@@ -934,11 +938,11 @@ BEGIN:VEVENT
 SUMMARY:Кабо-Верде VS Саудовская Аравия
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021485@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа H\nСтадио
- н: Хьюстон-стейдиум
+ н: Хьюстон-стейдиум\nРезультат: 0 - 0
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -949,11 +953,12 @@ BEGIN:VEVENT
 SUMMARY:Новая Зеландия VS Бельгия
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021481@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа G\nСтадио
- н: Стадион «Би-си-плейс-Ванкувер»
+ н: Стадион «Би-си-плейс-Ванкувер»\nРезуль
+ тат: 1 - 5
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -964,11 +969,11 @@ BEGIN:VEVENT
 SUMMARY:Египет VS ИР Иран
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021479@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа G\nСтадио
- н: Сиэтл-стейдиум
+ н: Сиэтл-стейдиум\nРезультат: 1 - 1
 GEO:47.5952;-122.3316
 LOCATION:Сиэтл-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
@@ -979,11 +984,11 @@ BEGIN:VEVENT
 SUMMARY:Панама VS Англия
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021508@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа L\nСтадио
- н: New York/New Jersey Stadium
+ н: New York/New Jersey Stadium\nРезультат: 0 - 2
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -994,11 +999,11 @@ BEGIN:VEVENT
 SUMMARY:Хорватия VS Гана
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021509@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа L\nСтадио
- н: Филадельфия-стейдиум
+ н: Филадельфия-стейдиум\nРезультат: 2 - 1
 GEO:39.9012;-75.1675
 LOCATION:Филадельфия-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
@@ -1009,11 +1014,11 @@ BEGIN:VEVENT
 SUMMARY:ДР Конго VS Узбекистан
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021500@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа K\nСтадио
- н: Atlanta Stadium
+ н: Atlanta Stadium\nРезультат: 3 - 1
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
@@ -1023,11 +1028,11 @@ BEGIN:VEVENT
 SUMMARY:Колумбия VS Португалия
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021505@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа K\nСтадио
- н: Miami Stadium
+ н: Miami Stadium\nРезультат: 0 - 0
 GEO:25.958;-80.2389
 LOCATION:Miami Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miami Stadium";X-APPLE-RA
@@ -1037,11 +1042,11 @@ BEGIN:VEVENT
 SUMMARY:Алжир VS Австрия
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021497@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа J\nСтадио
- н: Kansas City Stadium
+ н: Kansas City Stadium\nРезультат: 3 - 3
 GEO:39.0487;-94.4839
 LOCATION:Kansas City Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kansas City Stadium";X-AP
@@ -1051,39 +1056,39 @@ BEGIN:VEVENT
 SUMMARY:Иордания VS Аргентина
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021495@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Первый этап Группа J\nСтадио
- н: Dallas Stadium
+ н: Dallas Stadium\nРезультат: 1 - 3
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
  ADIUS=70;X-TITLE="Dallas Stadium":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2A VS 2B
+SUMMARY:Южная Африка VS Канада
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021518@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Los Angeles Stad
- ium
+ ium\nРезультат: 0 - 1
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
  PLE-RADIUS=70;X-TITLE="Los Angeles Stadium":geo:33.9535,-118.3391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1C VS 2F
+SUMMARY:Бразилия VS Япония
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021516@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Хьюстон-
- стейдиум
+ стейдиум\nРезультат: 2 - 1
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -1091,14 +1096,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
  .6847,-95.4107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1E VS 3ABCDF
+SUMMARY:Германия VS Парагвай
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021513@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Бостон-с
- тейдиум
+ тейдиум\nРезультат: 1 - 1
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -1106,14 +1111,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
  9,-71.2643
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1F VS 2C
+SUMMARY:Нидерланды VS Марокко
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021522@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Монтерре
- й-стейдиум
+ й-стейдиум\nРезультат: 1 - 1
 GEO:25.6696;-100.2458
 LOCATION:Монтеррей-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Монтеррей-сте
@@ -1121,27 +1126,28 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Монтеррей-сте
  ":geo:25.6696,-100.2458
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2E VS 2I
+SUMMARY:Кот-д'Ивуар VS Норвегия
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021514@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
- FIFA™\nСтадия: 1/16 финала\nСтадион: Dallas Stadium
+ FIFA™\nСтадия: 1/16 финала\nСтадион: Dallas Stadium\n
+ Результат: 1 - 2
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
  ADIUS=70;X-TITLE="Dallas Stadium":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1I VS 3CDFGH
+SUMMARY:Франция VS Швеция
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021523@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: New York/New Jer
- sey Stadium
+ sey Stadium\nРезультат: 3 - 0
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -1149,14 +1155,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
  4.0742
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1A VS 3CEFHI
-DTSTART:20260701T010000Z
-DTEND:20260701T030000Z
-DTSTAMP:20260612T164941Z
+SUMMARY:Мексика VS Эквадор
+DTSTART:20260701T020000Z
+DTEND:20260701T040000Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021520@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Стадион 
- Мехико
+ Мехико\nРезультат: 2 - 0
 GEO:19.3028;-99.1505
 LOCATION:Стадион Мехико
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мехик
@@ -1164,27 +1170,28 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мехик
  9.1505
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1L VS 3EHIJK
+SUMMARY:Англия VS ДР Конго
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021512@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
- FIFA™\nСтадия: 1/16 финала\nСтадион: Atlanta Stadium
+ FIFA™\nСтадия: 1/16 финала\nСтадион: Atlanta Stadium\
+ nРезультат: 2 - 1
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
  RADIUS=70;X-TITLE="Atlanta Stadium":geo:33.7555,-84.4006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1G VS 3AEHIJ
+SUMMARY:Бельгия VS Сенегал
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021525@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Сиэтл-ст
- ейдиум
+ ейдиум\nРезультат: 3 - 2
 GEO:47.5952;-122.3316
 LOCATION:Сиэтл-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
@@ -1192,14 +1199,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
  22.3316
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1D VS 3BEFIJ
+SUMMARY:США VS Босния и Герцеговина
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021524@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: San Francisco Ba
- y Area Stadium
+ y Area Stadium\nРезультат: 2 - 0
 GEO:37.403;-121.9694
 LOCATION:San Francisco Bay Area Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
@@ -1207,28 +1214,28 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="San Francisco Bay Area St
  03,-121.9694
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1H VS 2J
+SUMMARY:Испания VS Австрия
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021519@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Los Angeles Stad
- ium
+ ium\nРезультат: 3 - 0
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
  PLE-RADIUS=70;X-TITLE="Los Angeles Stadium":geo:33.9535,-118.3391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2K VS 2L
+SUMMARY:Португалия VS Хорватия
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021526@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Торонто-
- стейдиум 
+ стейдиум \nРезультат: 2 - 1
 GEO:43.6331;-79.4186
 LOCATION:Торонто-стейдиум 
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
@@ -1236,14 +1243,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Торонто-стейд
  43.6331,-79.4186
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1B VS 3EFGIJ
+SUMMARY:Швейцария VS Алжир
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021527@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Стадион 
- «Би-си-плейс-Ванкувер»
+ «Би-си-плейс-Ванкувер»\nРезультат: 2 - 0
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -1251,54 +1258,56 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
  н «Би-си-плейс-Ванкувер»":geo:49.2767,-123.1119
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2D VS 2G
+SUMMARY:Австралия VS Египет
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021515@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
- FIFA™\nСтадия: 1/16 финала\nСтадион: Dallas Stadium
+ FIFA™\nСтадия: 1/16 финала\nСтадион: Dallas Stadium\n
+ Результат: 1 - 1
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
  ADIUS=70;X-TITLE="Dallas Stadium":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1J VS 2H
+SUMMARY:Аргентина VS Кабо-Верде
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021521@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
- FIFA™\nСтадия: 1/16 финала\nСтадион: Miami Stadium
+ FIFA™\nСтадия: 1/16 финала\nСтадион: Miami Stadium\n
+ Результат: 3 - 2
 GEO:25.958;-80.2389
 LOCATION:Miami Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miami Stadium";X-APPLE-RA
  DIUS=70;X-TITLE="Miami Stadium":geo:25.958,-80.2389
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1K VS 3DEIJL
+SUMMARY:Колумбия VS Гана
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021517@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/16 финала\nСтадион: Kansas City Stad
- ium
+ ium\nРезультат: 1 - 0
 GEO:39.0487;-94.4839
 LOCATION:Kansas City Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kansas City Stadium";X-AP
  PLE-RADIUS=70;X-TITLE="Kansas City Stadium":geo:39.0487,-94.4839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W73 VS W75
+SUMMARY:Канада VS Марокко
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021530@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/8 финала\nСтадион: Хьюстон-с
- тейдиум
+ тейдиум\nРезультат: 0 - 3
 GEO:29.6847;-95.4107
 LOCATION:Хьюстон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
@@ -1306,14 +1315,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Хьюстон-стейд
  .6847,-95.4107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W74 VS W77
+SUMMARY:Парагвай VS Франция
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021533@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/8 финала\nСтадион: Филадель
- фия-стейдиум
+ фия-стейдиум\nРезультат: 0 - 1
 GEO:39.9012;-75.1675
 LOCATION:Филадельфия-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
@@ -1321,14 +1330,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Филадельфия-с
  диум":geo:39.9012,-75.1675
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W76 VS W78
+SUMMARY:Бразилия VS Норвегия
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021532@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/8 финала\nСтадион: New York/New Jers
- ey Stadium
+ ey Stadium\nРезультат: 1 - 2
 GEO:40.8128;-74.0742
 LOCATION:New York/New Jersey Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
@@ -1336,14 +1345,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="New York/New Jersey Stadi
  4.0742
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W79 VS W80
-DTSTART:20260706T000000Z
-DTEND:20260706T020000Z
-DTSTAMP:20260612T164941Z
+SUMMARY:Мексика VS Англия
+DTSTART:20260706T010000Z
+DTEND:20260706T030000Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021531@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/8 финала\nСтадион: Стадион М
- ехико
+ ехико\nРезультат: 2 - 3
 GEO:19.3028;-99.1505
 LOCATION:Стадион Мехико
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мехик
@@ -1351,27 +1360,28 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион Мехик
  9.1505
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W83 VS W84
+SUMMARY:Португалия VS Испания
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021529@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
- FIFA™\nСтадия: 1/8 финала\nСтадион: Dallas Stadium
+ FIFA™\nСтадия: 1/8 финала\nСтадион: Dallas Stadium\n
+ Результат: 0 - 1
 GEO:32.7478;-97.0947
 LOCATION:Dallas Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
  ADIUS=70;X-TITLE="Dallas Stadium":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W81 VS W82
+SUMMARY:США VS Бельгия
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021534@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/8 финала\nСтадион: Сиэтл-сте
- йдиум
+ йдиум\nРезультат: 1 - 4
 GEO:47.5952;-122.3316
 LOCATION:Сиэтл-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
@@ -1379,27 +1389,28 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Сиэтл-стейдиу
  22.3316
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W86 VS W88
+SUMMARY:Аргентина VS Египет
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021528@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
- FIFA™\nСтадия: 1/8 финала\nСтадион: Atlanta Stadium
+ FIFA™\nСтадия: 1/8 финала\nСтадион: Atlanta Stadium\n
+ Результат: 3 - 2
 GEO:33.7555;-84.4006
 LOCATION:Atlanta Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Atlanta Stadium";X-APPLE-
  RADIUS=70;X-TITLE="Atlanta Stadium":geo:33.7555,-84.4006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W85 VS W87
+SUMMARY:Швейцария VS Колумбия
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021535@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: 1/8 финала\nСтадион: Стадион «
- Би-си-плейс-Ванкувер»
+ Би-си-плейс-Ванкувер»\nРезультат: 0 - 0
 GEO:49.2767;-123.1119
 LOCATION:Стадион «Би-си-плейс-Ванкувер»
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
@@ -1407,14 +1418,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Стадион «Би-с
  н «Би-си-плейс-Ванкувер»":geo:49.2767,-123.1119
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W89 VS W90
+SUMMARY:Франция VS Марокко
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021536@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Четвертьфинал\nСтадион: Бос
- тон-стейдиум
+ тон-стейдиум\nРезультат: 2 - 0
 GEO:42.0909;-71.2643
 LOCATION:Бостон-стейдиум
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
@@ -1422,52 +1433,52 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Бостон-стейди
  9,-71.2643
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W93 VS W94
+SUMMARY:Испания VS Бельгия
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021538@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Четвертьфинал\nСтадион: Los Ang
- eles Stadium
+ eles Stadium\nРезультат: 2 - 1
 GEO:33.9535;-118.3391
 LOCATION:Los Angeles Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Los Angeles Stadium";X-AP
  PLE-RADIUS=70;X-TITLE="Los Angeles Stadium":geo:33.9535,-118.3391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W91 VS W92
+SUMMARY:Норвегия VS Англия
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021539@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Четвертьфинал\nСтадион: Miami S
- tadium
+ tadium\nРезультат: 1 - 2
 GEO:25.958;-80.2389
 LOCATION:Miami Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miami Stadium";X-APPLE-RA
  DIUS=70;X-TITLE="Miami Stadium":geo:25.958,-80.2389
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W95 VS W96
+SUMMARY:Аргентина VS Швейцария
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021537@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Четвертьфинал\nСтадион: Kansas 
- City Stadium
+ City Stadium\nРезультат: 3 - 1
 GEO:39.0487;-94.4839
 LOCATION:Kansas City Stadium
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kansas City Stadium";X-AP
  PLE-RADIUS=70;X-TITLE="Kansas City Stadium":geo:39.0487,-94.4839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W97 VS W98
+SUMMARY:Франция VS Испания
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021541@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Полуфинал\nСтадион: Dallas Stadium
@@ -1477,10 +1488,10 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Dallas Stadium";X-APPLE-R
  ADIUS=70;X-TITLE="Dallas Stadium":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W99 VS W100
+SUMMARY:Англия VS Аргентина
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021540@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Полуфинал\nСтадион: Atlanta Stadium
@@ -1493,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:RU101 VS RU102
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021542@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Плей-офф за третье место\nСт
@@ -1507,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:W101 VS W102
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-DTSTAMP:20260612T164941Z
+DTSTAMP:20260712T170655Z
 UID:fifa-400021543@fifa.com
 DESCRIPTION:Турнир: Чемпионат мира по футболу 
  FIFA™\nСтадия: Финал\nСтадион: New York/New Jersey Sta

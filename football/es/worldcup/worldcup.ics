@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:México VS Sudáfrica
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021443@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
  rupo A\nEstadio: Estadio Ciudad de México\nResultado: 2 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:República de Corea VS Chequia
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021441@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
  rupo A\nEstadio: Estadio Guadalajara\nResultado: 2 - 1
@@ -34,10 +34,10 @@ BEGIN:VEVENT
 SUMMARY:Canadá VS Bosnia y Herzegovina
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021449@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo B\nEstadio: Estadio de Toronto
+ rupo B\nEstadio: Estadio de Toronto\nResultado: 1 - 1
 GEO:43.6331;-79.4186
 LOCATION:Estadio de Toronto
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Toronto";X-APP
@@ -47,10 +47,10 @@ BEGIN:VEVENT
 SUMMARY:EE. UU. VS Paraguay
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021458@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo D\nEstadio: Estadio Los Angeles
+ rupo D\nEstadio: Estadio Los Angeles\nResultado: 4 - 1
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
@@ -60,10 +60,10 @@ BEGIN:VEVENT
 SUMMARY:Catar VS Suiza
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021447@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo B\nEstadio: Estadio de la Bahía de San Francisco
+ rupo B\nEstadio: Estadio de la Bahía de San Francisco\nResultado: 1 - 1
 GEO:37.403;-121.9694
 LOCATION:Estadio de la Bahía de San Francisco
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
@@ -74,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:Brasil VS Marruecos
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021456@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo C\nEstadio: Estadio Nueva York/Nueva Jersey
+ rupo C\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 1 - 1
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -88,10 +88,10 @@ BEGIN:VEVENT
 SUMMARY:Haití VS Escocia
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021453@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo C\nEstadio: Estadio Boston
+ rupo C\nEstadio: Estadio Boston\nResultado: 0 - 1
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
@@ -101,10 +101,10 @@ BEGIN:VEVENT
 SUMMARY:Australia VS Turquía
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021463@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo D\nEstadio: Estadio BC Place Vancouver
+ rupo D\nEstadio: Estadio BC Place Vancouver\nResultado: 2 - 0
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -115,10 +115,10 @@ BEGIN:VEVENT
 SUMMARY:Alemania VS Curazao
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021464@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo E\nEstadio: Estadio Houston
+ rupo E\nEstadio: Estadio Houston\nResultado: 7 - 1
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
@@ -128,10 +128,10 @@ BEGIN:VEVENT
 SUMMARY:Países Bajos VS Japón
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021470@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo F\nEstadio: Estadio Dallas
+ rupo F\nEstadio: Estadio Dallas\nResultado: 2 - 2
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
@@ -141,10 +141,10 @@ BEGIN:VEVENT
 SUMMARY:Costa de Marfil VS Ecuador
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021467@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo E\nEstadio: Estadio Filadelfia
+ rupo E\nEstadio: Estadio Filadelfia\nResultado: 1 - 0
 GEO:39.9012;-75.1675
 LOCATION:Estadio Filadelfia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Filadelfia";X-APP
@@ -154,10 +154,10 @@ BEGIN:VEVENT
 SUMMARY:Suecia VS Túnez
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021474@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo F\nEstadio: Estadio Monterrey
+ rupo F\nEstadio: Estadio Monterrey\nResultado: 5 - 1
 GEO:25.6696;-100.2458
 LOCATION:Estadio Monterrey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monterrey";X-APPL
@@ -167,10 +167,10 @@ BEGIN:VEVENT
 SUMMARY:España VS Islas de Cabo Verde
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021482@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo H\nEstadio: Estadio Atlanta
+ rupo H\nEstadio: Estadio Atlanta\nResultado: 0 - 0
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
@@ -180,10 +180,10 @@ BEGIN:VEVENT
 SUMMARY:Bélgica VS Egipto
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021478@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo G\nEstadio: Estadio de Seattle
+ rupo G\nEstadio: Estadio de Seattle\nResultado: 1 - 1
 GEO:47.5952;-122.3316
 LOCATION:Estadio de Seattle
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Seattle";X-APP
@@ -193,10 +193,10 @@ BEGIN:VEVENT
 SUMMARY:Arabia Saudí VS Uruguay
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021486@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo H\nEstadio: Estadio Miami
+ rupo H\nEstadio: Estadio Miami\nResultado: 1 - 1
 GEO:25.958;-80.2389
 LOCATION:Estadio Miami
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Miami";X-APPLE-RA
@@ -206,10 +206,10 @@ BEGIN:VEVENT
 SUMMARY:RI de Irán VS Nueva Zelanda
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021476@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo G\nEstadio: Estadio Los Angeles
+ rupo G\nEstadio: Estadio Los Angeles\nResultado: 2 - 2
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
@@ -219,10 +219,10 @@ BEGIN:VEVENT
 SUMMARY:Francia VS Senegal
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021490@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo I\nEstadio: Estadio Nueva York/Nueva Jersey
+ rupo I\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 3 - 1
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -233,10 +233,10 @@ BEGIN:VEVENT
 SUMMARY:Irak VS Noruega
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021488@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo I\nEstadio: Estadio Boston
+ rupo I\nEstadio: Estadio Boston\nResultado: 1 - 4
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
@@ -246,10 +246,10 @@ BEGIN:VEVENT
 SUMMARY:Argentina VS Argelia
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021496@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo J\nEstadio: Estadio Kansas City
+ rupo J\nEstadio: Estadio Kansas City\nResultado: 3 - 0
 GEO:39.0487;-94.4839
 LOCATION:Estadio Kansas City
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Kansas City";X-AP
@@ -259,10 +259,10 @@ BEGIN:VEVENT
 SUMMARY:Austria VS Jordania
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021498@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo J\nEstadio: Estadio de la Bahía de San Francisco
+ rupo J\nEstadio: Estadio de la Bahía de San Francisco\nResultado: 3 - 1
 GEO:37.403;-121.9694
 LOCATION:Estadio de la Bahía de San Francisco
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
@@ -273,10 +273,10 @@ BEGIN:VEVENT
 SUMMARY:Portugal VS RD Congo
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021502@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo K\nEstadio: Estadio Houston
+ rupo K\nEstadio: Estadio Houston\nResultado: 1 - 1
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
@@ -286,10 +286,10 @@ BEGIN:VEVENT
 SUMMARY:Inglaterra VS Croacia
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021507@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo L\nEstadio: Estadio Dallas
+ rupo L\nEstadio: Estadio Dallas\nResultado: 4 - 2
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
@@ -299,10 +299,10 @@ BEGIN:VEVENT
 SUMMARY:Ghana VS Panamá
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021510@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo L\nEstadio: Estadio de Toronto
+ rupo L\nEstadio: Estadio de Toronto\nResultado: 1 - 0
 GEO:43.6331;-79.4186
 LOCATION:Estadio de Toronto
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Toronto";X-APP
@@ -312,10 +312,10 @@ BEGIN:VEVENT
 SUMMARY:Uzbekistán VS Colombia
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021504@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo K\nEstadio: Estadio Ciudad de México
+ rupo K\nEstadio: Estadio Ciudad de México\nResultado: 1 - 3
 GEO:19.3028;-99.1505
 LOCATION:Estadio Ciudad de México
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de México
@@ -326,10 +326,10 @@ BEGIN:VEVENT
 SUMMARY:Chequia VS Sudáfrica
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021440@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo A\nEstadio: Estadio Atlanta
+ rupo A\nEstadio: Estadio Atlanta\nResultado: 1 - 1
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
@@ -339,10 +339,10 @@ BEGIN:VEVENT
 SUMMARY:Suiza VS Bosnia y Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021446@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo B\nEstadio: Estadio Los Angeles
+ rupo B\nEstadio: Estadio Los Angeles\nResultado: 4 - 1
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
@@ -352,10 +352,10 @@ BEGIN:VEVENT
 SUMMARY:Canadá VS Catar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021450@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo B\nEstadio: Estadio BC Place Vancouver
+ rupo B\nEstadio: Estadio BC Place Vancouver\nResultado: 6 - 0
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -366,10 +366,10 @@ BEGIN:VEVENT
 SUMMARY:México VS República de Corea
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021442@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo A\nEstadio: Estadio Guadalajara
+ rupo A\nEstadio: Estadio Guadalajara\nResultado: 1 - 0
 GEO:20.6753;-103.462
 LOCATION:Estadio Guadalajara
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Guadalajara";X-AP
@@ -379,10 +379,10 @@ BEGIN:VEVENT
 SUMMARY:EE. UU. VS Australia
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021462@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo D\nEstadio: Estadio de Seattle
+ rupo D\nEstadio: Estadio de Seattle\nResultado: 2 - 0
 GEO:47.5952;-122.3316
 LOCATION:Estadio de Seattle
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Seattle";X-APP
@@ -392,10 +392,10 @@ BEGIN:VEVENT
 SUMMARY:Escocia VS Marruecos
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021454@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo C\nEstadio: Estadio Boston
+ rupo C\nEstadio: Estadio Boston\nResultado: 0 - 1
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
@@ -405,10 +405,10 @@ BEGIN:VEVENT
 SUMMARY:Brasil VS Haití
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021457@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo C\nEstadio: Estadio Filadelfia
+ rupo C\nEstadio: Estadio Filadelfia\nResultado: 3 - 0
 GEO:39.9012;-75.1675
 LOCATION:Estadio Filadelfia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Filadelfia";X-APP
@@ -418,10 +418,10 @@ BEGIN:VEVENT
 SUMMARY:Turquía VS Paraguay
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021460@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo D\nEstadio: Estadio de la Bahía de San Francisco
+ rupo D\nEstadio: Estadio de la Bahía de San Francisco\nResultado: 0 - 1
 GEO:37.403;-121.9694
 LOCATION:Estadio de la Bahía de San Francisco
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
@@ -432,10 +432,10 @@ BEGIN:VEVENT
 SUMMARY:Países Bajos VS Suecia
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021472@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo F\nEstadio: Estadio Houston
+ rupo F\nEstadio: Estadio Houston\nResultado: 5 - 1
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
@@ -445,10 +445,10 @@ BEGIN:VEVENT
 SUMMARY:Alemania VS Costa de Marfil
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021469@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo E\nEstadio: Estadio de Toronto
+ rupo E\nEstadio: Estadio de Toronto\nResultado: 2 - 1
 GEO:43.6331;-79.4186
 LOCATION:Estadio de Toronto
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Toronto";X-APP
@@ -458,10 +458,10 @@ BEGIN:VEVENT
 SUMMARY:Ecuador VS Curazao
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021465@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo E\nEstadio: Estadio Kansas City
+ rupo E\nEstadio: Estadio Kansas City\nResultado: 0 - 0
 GEO:39.0487;-94.4839
 LOCATION:Estadio Kansas City
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Kansas City";X-AP
@@ -471,10 +471,10 @@ BEGIN:VEVENT
 SUMMARY:Túnez VS Japón
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021475@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo F\nEstadio: Estadio Monterrey
+ rupo F\nEstadio: Estadio Monterrey\nResultado: 0 - 4
 GEO:25.6696;-100.2458
 LOCATION:Estadio Monterrey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monterrey";X-APPL
@@ -484,10 +484,10 @@ BEGIN:VEVENT
 SUMMARY:España VS Arabia Saudí
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021483@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo H\nEstadio: Estadio Atlanta
+ rupo H\nEstadio: Estadio Atlanta\nResultado: 4 - 0
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
@@ -497,10 +497,10 @@ BEGIN:VEVENT
 SUMMARY:Bélgica VS RI de Irán
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021477@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo G\nEstadio: Estadio Los Angeles
+ rupo G\nEstadio: Estadio Los Angeles\nResultado: 0 - 0
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
@@ -510,10 +510,10 @@ BEGIN:VEVENT
 SUMMARY:Uruguay VS Islas de Cabo Verde
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021487@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo H\nEstadio: Estadio Miami
+ rupo H\nEstadio: Estadio Miami\nResultado: 2 - 2
 GEO:25.958;-80.2389
 LOCATION:Estadio Miami
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Miami";X-APPLE-RA
@@ -523,10 +523,10 @@ BEGIN:VEVENT
 SUMMARY:Nueva Zelanda VS Egipto
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021480@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo G\nEstadio: Estadio BC Place Vancouver
+ rupo G\nEstadio: Estadio BC Place Vancouver\nResultado: 1 - 3
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -537,10 +537,10 @@ BEGIN:VEVENT
 SUMMARY:Argentina VS Austria
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021494@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo J\nEstadio: Estadio Dallas
+ rupo J\nEstadio: Estadio Dallas\nResultado: 2 - 0
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
@@ -550,10 +550,10 @@ BEGIN:VEVENT
 SUMMARY:Francia VS Irak
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021492@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo I\nEstadio: Estadio Filadelfia
+ rupo I\nEstadio: Estadio Filadelfia\nResultado: 3 - 0
 GEO:39.9012;-75.1675
 LOCATION:Estadio Filadelfia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Filadelfia";X-APP
@@ -563,10 +563,10 @@ BEGIN:VEVENT
 SUMMARY:Noruega VS Senegal
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021491@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo I\nEstadio: Estadio Nueva York/Nueva Jersey
+ rupo I\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 3 - 2
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -577,10 +577,10 @@ BEGIN:VEVENT
 SUMMARY:Jordania VS Argelia
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021499@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo J\nEstadio: Estadio de la Bahía de San Francisco
+ rupo J\nEstadio: Estadio de la Bahía de San Francisco\nResultado: 1 - 2
 GEO:37.403;-121.9694
 LOCATION:Estadio de la Bahía de San Francisco
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
@@ -591,10 +591,10 @@ BEGIN:VEVENT
 SUMMARY:Portugal VS Uzbekistán
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021503@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo K\nEstadio: Estadio Houston
+ rupo K\nEstadio: Estadio Houston\nResultado: 5 - 0
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
@@ -604,10 +604,10 @@ BEGIN:VEVENT
 SUMMARY:Inglaterra VS Ghana
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021506@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo L\nEstadio: Estadio Boston
+ rupo L\nEstadio: Estadio Boston\nResultado: 0 - 0
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
@@ -617,10 +617,10 @@ BEGIN:VEVENT
 SUMMARY:Panamá VS Croacia
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021511@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo L\nEstadio: Estadio de Toronto
+ rupo L\nEstadio: Estadio de Toronto\nResultado: 0 - 1
 GEO:43.6331;-79.4186
 LOCATION:Estadio de Toronto
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Toronto";X-APP
@@ -630,10 +630,10 @@ BEGIN:VEVENT
 SUMMARY:Colombia VS RD Congo
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021501@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo K\nEstadio: Estadio Guadalajara
+ rupo K\nEstadio: Estadio Guadalajara\nResultado: 1 - 0
 GEO:20.6753;-103.462
 LOCATION:Estadio Guadalajara
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Guadalajara";X-AP
@@ -643,10 +643,10 @@ BEGIN:VEVENT
 SUMMARY:Bosnia y Herzegovina VS Catar
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021448@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo B\nEstadio: Estadio de Seattle
+ rupo B\nEstadio: Estadio de Seattle\nResultado: 3 - 1
 GEO:47.5952;-122.3316
 LOCATION:Estadio de Seattle
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Seattle";X-APP
@@ -656,10 +656,10 @@ BEGIN:VEVENT
 SUMMARY:Suiza VS Canadá
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021451@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo B\nEstadio: Estadio BC Place Vancouver
+ rupo B\nEstadio: Estadio BC Place Vancouver\nResultado: 2 - 1
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -670,10 +670,10 @@ BEGIN:VEVENT
 SUMMARY:Marruecos VS Haití
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021452@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo C\nEstadio: Estadio Atlanta
+ rupo C\nEstadio: Estadio Atlanta\nResultado: 4 - 2
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
@@ -683,10 +683,10 @@ BEGIN:VEVENT
 SUMMARY:Escocia VS Brasil
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021455@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo C\nEstadio: Estadio Miami
+ rupo C\nEstadio: Estadio Miami\nResultado: 0 - 3
 GEO:25.958;-80.2389
 LOCATION:Estadio Miami
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Miami";X-APPLE-RA
@@ -696,10 +696,10 @@ BEGIN:VEVENT
 SUMMARY:Sudáfrica VS República de Corea
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021445@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo A\nEstadio: Estadio Monterrey
+ rupo A\nEstadio: Estadio Monterrey\nResultado: 1 - 0
 GEO:25.6696;-100.2458
 LOCATION:Estadio Monterrey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monterrey";X-APPL
@@ -709,10 +709,10 @@ BEGIN:VEVENT
 SUMMARY:Chequia VS México
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021444@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo A\nEstadio: Estadio Ciudad de México
+ rupo A\nEstadio: Estadio Ciudad de México\nResultado: 0 - 3
 GEO:19.3028;-99.1505
 LOCATION:Estadio Ciudad de México
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de México
@@ -723,10 +723,10 @@ BEGIN:VEVENT
 SUMMARY:Curazao VS Costa de Marfil
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021468@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo E\nEstadio: Estadio Filadelfia
+ rupo E\nEstadio: Estadio Filadelfia\nResultado: 0 - 2
 GEO:39.9012;-75.1675
 LOCATION:Estadio Filadelfia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Filadelfia";X-APP
@@ -736,10 +736,10 @@ BEGIN:VEVENT
 SUMMARY:Ecuador VS Alemania
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021466@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo E\nEstadio: Estadio Nueva York/Nueva Jersey
+ rupo E\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 2 - 1
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -750,10 +750,10 @@ BEGIN:VEVENT
 SUMMARY:Túnez VS Países Bajos
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021473@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo F\nEstadio: Estadio Kansas City
+ rupo F\nEstadio: Estadio Kansas City\nResultado: 1 - 3
 GEO:39.0487;-94.4839
 LOCATION:Estadio Kansas City
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Kansas City";X-AP
@@ -763,10 +763,10 @@ BEGIN:VEVENT
 SUMMARY:Japón VS Suecia
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021471@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo F\nEstadio: Estadio Dallas
+ rupo F\nEstadio: Estadio Dallas\nResultado: 1 - 1
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
@@ -776,10 +776,10 @@ BEGIN:VEVENT
 SUMMARY:Paraguay VS Australia
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021461@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo D\nEstadio: Estadio de la Bahía de San Francisco
+ rupo D\nEstadio: Estadio de la Bahía de San Francisco\nResultado: 0 - 0
 GEO:37.403;-121.9694
 LOCATION:Estadio de la Bahía de San Francisco
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
@@ -790,10 +790,10 @@ BEGIN:VEVENT
 SUMMARY:Turquía VS EE. UU.
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021459@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo D\nEstadio: Estadio Los Angeles
+ rupo D\nEstadio: Estadio Los Angeles\nResultado: 3 - 2
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
@@ -803,10 +803,10 @@ BEGIN:VEVENT
 SUMMARY:Senegal VS Irak
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021493@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo I\nEstadio: Estadio de Toronto
+ rupo I\nEstadio: Estadio de Toronto\nResultado: 5 - 0
 GEO:43.6331;-79.4186
 LOCATION:Estadio de Toronto
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Toronto";X-APP
@@ -816,10 +816,10 @@ BEGIN:VEVENT
 SUMMARY:Noruega VS Francia
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021489@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo I\nEstadio: Estadio Boston
+ rupo I\nEstadio: Estadio Boston\nResultado: 1 - 4
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
@@ -829,10 +829,10 @@ BEGIN:VEVENT
 SUMMARY:Uruguay VS España
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021484@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo H\nEstadio: Estadio Guadalajara
+ rupo H\nEstadio: Estadio Guadalajara\nResultado: 0 - 1
 GEO:20.6753;-103.462
 LOCATION:Estadio Guadalajara
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Guadalajara";X-AP
@@ -842,10 +842,10 @@ BEGIN:VEVENT
 SUMMARY:Islas de Cabo Verde VS Arabia Saudí
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021485@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo H\nEstadio: Estadio Houston
+ rupo H\nEstadio: Estadio Houston\nResultado: 0 - 0
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
@@ -855,10 +855,10 @@ BEGIN:VEVENT
 SUMMARY:Nueva Zelanda VS Bélgica
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021481@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo G\nEstadio: Estadio BC Place Vancouver
+ rupo G\nEstadio: Estadio BC Place Vancouver\nResultado: 1 - 5
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -869,10 +869,10 @@ BEGIN:VEVENT
 SUMMARY:Egipto VS RI de Irán
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021479@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo G\nEstadio: Estadio de Seattle
+ rupo G\nEstadio: Estadio de Seattle\nResultado: 1 - 1
 GEO:47.5952;-122.3316
 LOCATION:Estadio de Seattle
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Seattle";X-APP
@@ -882,10 +882,10 @@ BEGIN:VEVENT
 SUMMARY:Panamá VS Inglaterra
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021508@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo L\nEstadio: Estadio Nueva York/Nueva Jersey
+ rupo L\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 0 - 2
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -896,10 +896,10 @@ BEGIN:VEVENT
 SUMMARY:Croacia VS Ghana
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021509@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo L\nEstadio: Estadio Filadelfia
+ rupo L\nEstadio: Estadio Filadelfia\nResultado: 2 - 1
 GEO:39.9012;-75.1675
 LOCATION:Estadio Filadelfia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Filadelfia";X-APP
@@ -909,10 +909,10 @@ BEGIN:VEVENT
 SUMMARY:RD Congo VS Uzbekistán
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021500@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo K\nEstadio: Estadio Atlanta
+ rupo K\nEstadio: Estadio Atlanta\nResultado: 3 - 1
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
@@ -922,10 +922,10 @@ BEGIN:VEVENT
 SUMMARY:Colombia VS Portugal
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021505@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo K\nEstadio: Estadio Miami
+ rupo K\nEstadio: Estadio Miami\nResultado: 0 - 0
 GEO:25.958;-80.2389
 LOCATION:Estadio Miami
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Miami";X-APPLE-RA
@@ -935,10 +935,10 @@ BEGIN:VEVENT
 SUMMARY:Argelia VS Austria
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021497@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo J\nEstadio: Estadio Kansas City
+ rupo J\nEstadio: Estadio Kansas City\nResultado: 3 - 3
 GEO:39.0487;-94.4839
 LOCATION:Estadio Kansas City
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Kansas City";X-AP
@@ -948,88 +948,88 @@ BEGIN:VEVENT
 SUMMARY:Jordania VS Argentina
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021495@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Primera fase G
- rupo J\nEstadio: Estadio Dallas
+ rupo J\nEstadio: Estadio Dallas\nResultado: 1 - 3
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Dallas":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2A VS 2B
+SUMMARY:Sudáfrica VS Canadá
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021518@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Los Angeles
+ de final\nEstadio: Estadio Los Angeles\nResultado: 0 - 1
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
  PLE-RADIUS=70;X-TITLE="Estadio Los Angeles":geo:33.9535,-118.3391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1C VS 2F
+SUMMARY:Brasil VS Japón
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021516@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Houston
+ de final\nEstadio: Estadio Houston\nResultado: 2 - 1
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
  RADIUS=70;X-TITLE="Estadio Houston":geo:29.6847,-95.4107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1E VS 3ABCDF
+SUMMARY:Alemania VS Paraguay
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021513@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Boston
+ de final\nEstadio: Estadio Boston\nResultado: 1 - 1
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Boston":geo:42.0909,-71.2643
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1F VS 2C
+SUMMARY:Países Bajos VS Marruecos
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021522@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Monterrey
+ de final\nEstadio: Estadio Monterrey\nResultado: 1 - 1
 GEO:25.6696;-100.2458
 LOCATION:Estadio Monterrey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monterrey";X-APPL
  E-RADIUS=70;X-TITLE="Estadio Monterrey":geo:25.6696,-100.2458
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2E VS 2I
+SUMMARY:Costa de Marfil VS Noruega
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021514@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Dallas
+ de final\nEstadio: Estadio Dallas\nResultado: 1 - 2
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Dallas":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1I VS 3CDFGH
+SUMMARY:Francia VS Suecia
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021523@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Nueva York/Nueva Jersey
+ de final\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 3 - 0
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -1037,13 +1037,13 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva
  .8128,-74.0742
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1A VS 3CEFHI
-DTSTART:20260701T010000Z
-DTEND:20260701T030000Z
-DTSTAMP:20260612T164939Z
+SUMMARY:México VS Ecuador
+DTSTART:20260701T020000Z
+DTEND:20260701T040000Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021520@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Ciudad de México
+ de final\nEstadio: Estadio Ciudad de México\nResultado: 2 - 0
 GEO:19.3028;-99.1505
 LOCATION:Estadio Ciudad de México
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de México
@@ -1051,39 +1051,39 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de México
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1L VS 3EHIJK
+SUMMARY:Inglaterra VS RD Congo
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021512@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Atlanta
+ de final\nEstadio: Estadio Atlanta\nResultado: 2 - 1
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
  RADIUS=70;X-TITLE="Estadio Atlanta":geo:33.7555,-84.4006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1G VS 3AEHIJ
+SUMMARY:Bélgica VS Senegal
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021525@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio de Seattle
+ de final\nEstadio: Estadio de Seattle\nResultado: 3 - 2
 GEO:47.5952;-122.3316
 LOCATION:Estadio de Seattle
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Seattle";X-APP
  LE-RADIUS=70;X-TITLE="Estadio de Seattle":geo:47.5952,-122.3316
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1D VS 3BEFIJ
+SUMMARY:EE. UU. VS Bosnia y Herzegovina
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021524@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio de la Bahía de San Francisco
+ de final\nEstadio: Estadio de la Bahía de San Francisco\nResultado: 2 - 0
 GEO:37.403;-121.9694
 LOCATION:Estadio de la Bahía de San Francisco
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
@@ -1091,39 +1091,39 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de la Bahía de S
  isco":geo:37.403,-121.9694
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1H VS 2J
+SUMMARY:España VS Austria
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021519@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Los Angeles
+ de final\nEstadio: Estadio Los Angeles\nResultado: 3 - 0
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
  PLE-RADIUS=70;X-TITLE="Estadio Los Angeles":geo:33.9535,-118.3391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2K VS 2L
+SUMMARY:Portugal VS Croacia
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021526@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio de Toronto
+ de final\nEstadio: Estadio de Toronto\nResultado: 2 - 1
 GEO:43.6331;-79.4186
 LOCATION:Estadio de Toronto
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Toronto";X-APP
  LE-RADIUS=70;X-TITLE="Estadio de Toronto":geo:43.6331,-79.4186
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1B VS 3EFGIJ
+SUMMARY:Suiza VS Argelia
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021527@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio BC Place Vancouver
+ de final\nEstadio: Estadio BC Place Vancouver\nResultado: 2 - 0
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -1131,78 +1131,78 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
  .1119
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2D VS 2G
+SUMMARY:Australia VS Egipto
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021515@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Dallas
+ de final\nEstadio: Estadio Dallas\nResultado: 1 - 1
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Dallas":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1J VS 2H
+SUMMARY:Argentina VS Islas de Cabo Verde
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021521@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Miami
+ de final\nEstadio: Estadio Miami\nResultado: 3 - 2
 GEO:25.958;-80.2389
 LOCATION:Estadio Miami
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Miami";X-APPLE-RA
  DIUS=70;X-TITLE="Estadio Miami":geo:25.958,-80.2389
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1K VS 3DEIJL
+SUMMARY:Colombia VS Ghana
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021517@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Dieciseisavos 
- de final\nEstadio: Estadio Kansas City
+ de final\nEstadio: Estadio Kansas City\nResultado: 1 - 0
 GEO:39.0487;-94.4839
 LOCATION:Estadio Kansas City
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Kansas City";X-AP
  PLE-RADIUS=70;X-TITLE="Estadio Kansas City":geo:39.0487,-94.4839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W73 VS W75
+SUMMARY:Canadá VS Marruecos
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021530@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio Houston
+ al\nEstadio: Estadio Houston\nResultado: 0 - 3
 GEO:29.6847;-95.4107
 LOCATION:Estadio Houston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Houston";X-APPLE-
  RADIUS=70;X-TITLE="Estadio Houston":geo:29.6847,-95.4107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W74 VS W77
+SUMMARY:Paraguay VS Francia
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021533@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio Filadelfia
+ al\nEstadio: Estadio Filadelfia\nResultado: 0 - 1
 GEO:39.9012;-75.1675
 LOCATION:Estadio Filadelfia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Filadelfia";X-APP
  LE-RADIUS=70;X-TITLE="Estadio Filadelfia":geo:39.9012,-75.1675
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W76 VS W78
+SUMMARY:Brasil VS Noruega
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021532@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio Nueva York/Nueva Jersey
+ al\nEstadio: Estadio Nueva York/Nueva Jersey\nResultado: 1 - 2
 GEO:40.8128;-74.0742
 LOCATION:Estadio Nueva York/Nueva Jersey
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva 
@@ -1210,13 +1210,13 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nueva York/Nueva
  .8128,-74.0742
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W79 VS W80
-DTSTART:20260706T000000Z
-DTEND:20260706T020000Z
-DTSTAMP:20260612T164939Z
+SUMMARY:México VS Inglaterra
+DTSTART:20260706T010000Z
+DTEND:20260706T030000Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021531@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio Ciudad de México
+ al\nEstadio: Estadio Ciudad de México\nResultado: 2 - 3
 GEO:19.3028;-99.1505
 LOCATION:Estadio Ciudad de México
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de México
@@ -1224,52 +1224,52 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de México
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W83 VS W84
+SUMMARY:Portugal VS España
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021529@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio Dallas
+ al\nEstadio: Estadio Dallas\nResultado: 0 - 1
 GEO:32.7478;-97.0947
 LOCATION:Estadio Dallas
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Dallas":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W81 VS W82
+SUMMARY:EE. UU. VS Bélgica
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021534@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio de Seattle
+ al\nEstadio: Estadio de Seattle\nResultado: 1 - 4
 GEO:47.5952;-122.3316
 LOCATION:Estadio de Seattle
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Seattle";X-APP
  LE-RADIUS=70;X-TITLE="Estadio de Seattle":geo:47.5952,-122.3316
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W86 VS W88
+SUMMARY:Argentina VS Egipto
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021528@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio Atlanta
+ al\nEstadio: Estadio Atlanta\nResultado: 3 - 2
 GEO:33.7555;-84.4006
 LOCATION:Estadio Atlanta
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Atlanta";X-APPLE-
  RADIUS=70;X-TITLE="Estadio Atlanta":geo:33.7555,-84.4006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W85 VS W87
+SUMMARY:Suiza VS Colombia
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021535@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Octavos de fin
- al\nEstadio: Estadio BC Place Vancouver
+ al\nEstadio: Estadio BC Place Vancouver\nResultado: 0 - 0
 GEO:49.2767;-123.1119
 LOCATION:Estadio BC Place Vancouver
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
@@ -1277,62 +1277,62 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio BC Place Vancouve
  .1119
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W89 VS W90
+SUMMARY:Francia VS Marruecos
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021536@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Cuartos de fin
- al\nEstadio: Estadio Boston
+ al\nEstadio: Estadio Boston\nResultado: 2 - 0
 GEO:42.0909;-71.2643
 LOCATION:Estadio Boston
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Boston";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Boston":geo:42.0909,-71.2643
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W93 VS W94
+SUMMARY:España VS Bélgica
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021538@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Cuartos de fin
- al\nEstadio: Estadio Los Angeles
+ al\nEstadio: Estadio Los Angeles\nResultado: 2 - 1
 GEO:33.9535;-118.3391
 LOCATION:Estadio Los Angeles
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Los Angeles";X-AP
  PLE-RADIUS=70;X-TITLE="Estadio Los Angeles":geo:33.9535,-118.3391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W91 VS W92
+SUMMARY:Noruega VS Inglaterra
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021539@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Cuartos de fin
- al\nEstadio: Estadio Miami
+ al\nEstadio: Estadio Miami\nResultado: 1 - 2
 GEO:25.958;-80.2389
 LOCATION:Estadio Miami
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Miami";X-APPLE-RA
  DIUS=70;X-TITLE="Estadio Miami":geo:25.958,-80.2389
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W95 VS W96
+SUMMARY:Argentina VS Suiza
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021537@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Cuartos de fin
- al\nEstadio: Estadio Kansas City
+ al\nEstadio: Estadio Kansas City\nResultado: 3 - 1
 GEO:39.0487;-94.4839
 LOCATION:Estadio Kansas City
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Kansas City";X-AP
  PLE-RADIUS=70;X-TITLE="Estadio Kansas City":geo:39.0487,-94.4839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W97 VS W98
+SUMMARY:Francia VS España
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021541@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Semifinal\nEst
  adio: Estadio Dallas
@@ -1342,10 +1342,10 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Dallas";X-APPLE-R
  ADIUS=70;X-TITLE="Estadio Dallas":geo:32.7478,-97.0947
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:W99 VS W100
+SUMMARY:Inglaterra VS Argentina
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021540@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Semifinal\nEst
  adio: Estadio Atlanta
@@ -1358,7 +1358,7 @@ BEGIN:VEVENT
 SUMMARY:RU101 VS RU102
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021542@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Partido por el
   tercer puesto\nEstadio: Estadio Miami
@@ -1371,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:W101 VS W102
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-DTSTAMP:20260612T164939Z
+DTSTAMP:20260712T170654Z
 UID:fifa-400021543@fifa.com
 DESCRIPTION:Competición: Copa Mundial de la FIFA™\nFase: Final\nEstadio
  : Estadio Nueva York/Nueva Jersey
