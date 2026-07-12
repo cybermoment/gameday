@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk VS Ilves
 DTSTART:20250710T180000Z
 DTEND:20250710T200000Z
-DTSTAMP:20260712T045630Z
+DTSTAMP:20260712T073312Z
 UID:fifa-du56os69tes46dtwwdx1wyot0@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Stadion Stožice\nResult: 6 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Ilves VS Shakhtar Donetsk
 DTSTART:20250717T160000Z
 DTEND:20250717T180000Z
-DTSTAMP:20260712T045630Z
+DTSTAMP:20260712T073312Z
 UID:fifa-dyue41lxl3xy3cju8eif4721g@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Tammelan stadion\nResult: 0 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Beşiktaş VS Shakhtar Donetsk
 DTSTART:20250724T180000Z
 DTEND:20250724T200000Z
-DTSTAMP:20260712T045630Z
+DTSTAMP:20260712T073312Z
 UID:fifa-1d4aeg74h672gn0c4t0krxc0k@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Tüpraş Stadyumu\nResult: 2 - 4
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk VS Beşiktaş
 DTSTART:20250731T180000Z
 DTEND:20250731T200000Z
-DTSTAMP:20260712T045630Z
+DTSTAMP:20260712T073312Z
 UID:fifa-1ehuo3mhuzksrzc07hgz3v7dg@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Synerise Arena - Stadion Miejski im. Henryka Reymana\nResult: 2 -
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Panathinaikos VS Shakhtar Donetsk
 DTSTART:20250807T180000Z
 DTEND:20250807T200000Z
-DTSTAMP:20260712T045630Z
+DTSTAMP:20260712T073312Z
 UID:fifa-f1wzth659sqztejnurg55nf9w@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Olympiako Stadio Spyros Louis\nResult: 0 - 0
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk VS Panathinaikos
 DTSTART:20250814T180000Z
 DTEND:20250814T200000Z
-DTSTAMP:20260712T045630Z
+DTSTAMP:20260712T073312Z
 UID:fifa-f32g90kashwq5kjyzwpdxjuhg@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Synerise Arena - Stadion Miejski im. Henryka Reymana\nResult: 0 -
