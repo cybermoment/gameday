@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Страсбур
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-75vj2kkzx3rsh4sljwh5yv2tw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Лион VS Метц
 DTSTART:20250823T190500Z
 DTEND:20250823T210500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-79brtmu270u71wnu6nqh6uj2s@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк Олимп
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Париж ФК VS Метц
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7c9ygcprmgav5uii8a89w9o2c@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Jean Bouin\n
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Анжер
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7f5r9wk8ccx0tfz0ykc4bzvo4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Метц
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7j6xkqxwykwo1ey199ysxhul0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Louis-II\nР
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Гавр
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7lt407efe035jm3gv41dg8vmc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Олимпик Марсель
 DTSTART:20251004T150000Z
 DTEND:20251004T170000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7o0gmehom5mzsocak42ultt78@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Тулуза VS Метц
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7s40axsqq7zfk748ymaw8jtw4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stadium de Toulouse
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Метц
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-7wb6zzjgh7wp418sn45p6q87o@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Ланс
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-80ep8gebj6p6l3xr3x3983kes@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Нант VS Метц
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-83jr3gvavdtyibbwtnq8tz5zo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Бо
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Ницца
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-85g24yt5o01b410wl4njd2sk4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Брест VS Метц
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-89jasaj1ep0aadfc88obaz11w@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Francis-Le Bl
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Ренн
 DTSTART:20251128T194500Z
 DTEND:20251128T214500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8cuxefm9l1ux973t156sp0opg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Осер VS Метц
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8fh296rt2px5vbp5y7457qxas@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de l'Abbé De
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS ПСЖ
 DTSTART:20251213T180000Z
 DTEND:20251213T200000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8kd48mdv34g7t95d9b6glcwt0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Лорьян VS Метц
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8nb1272u5o0h57dfnsz05n3f8@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade du Moustoir -
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Метц
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8p7bz5si0ywkxxrzfe5d1007o@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Олимпик Лион
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8u7y3t0dlfofkey5h05n2datw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Анжер VS Метц
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-8yrcdxksb2ul8rdr1gza8e978@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Raymond Kopa\
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Лилль
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9241nze9bak869q57rjeaq3h0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Осер
 DTSTART:20260215T161500Z
 DTEND:20260215T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9404tejjdtw065b44zk6aj5sk@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Метц
 DTSTART:20260221T200500Z
 DTEND:20260221T220500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-96ldfp9679q8i4hdcoxutsg7o@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк де Пр
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Брест
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9as9lbax5iqs4ifsddmbos3ro@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Метц
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9e5nae59jjcp07kxv2w21oe1g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Тулуза
 DTSTART:20260315T161500Z
 DTEND:20260315T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9hj1424xlip8civkt6hskt2j8@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Ренн VS Метц
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9kcqiybypw9kix606xckqoqhg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Roazhon Park\nРе
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Нант
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9o4n55lkslbeyjajky43umsyc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -419,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Марсель VS Метц
 DTSTART:20260410T190500Z
 DTEND:20260410T210500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9qcdaq1wjtf8da69phljb2z9w@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Оранж Вело
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Париж ФК
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9undrxf1ijzcnw6pqwcorrml0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Гавр VS Метц
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-9y2s6ykrv8q191sxyzu8g8dg4@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Océane\nРе
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Монако
 DTSTART:20260502T170000Z
 DTEND:20260502T190000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-a1hw3ldrle31gbslwfj4x24us@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Лорьян
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-a6bkq6sjyd3dcv8ig0d7haxp0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:Ницца VS Метц
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260713T011018Z
+DTSTAMP:20260713T050433Z
 UID:fifa-a8wp4lhl199rhbglul7qk87x0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Альянц Рив
