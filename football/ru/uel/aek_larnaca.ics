@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:АЕК VS Партизан
 DTSTART:20250710T163000Z
 DTEND:20250710T183000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: AEK Arena - Geo
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Партизан VS АЕК
 DTSTART:20250717T190000Z
 DTEND:20250717T210000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Стадион 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Целе VS АЕК
 DTSTART:20250724T180000Z
 DTEND:20250724T200000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-7366wtevmanq0otla4swyzbbo@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadion Z'dežele\nРезультат: 1 - 
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:АЕК VS Целе
 DTSTART:20250731T163000Z
 DTEND:20250731T183000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-74a58utzgpm01v9ozw2m3otg4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: AEK Arena - George Karapatakis\nРезул
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:АЕК VS Легия Варшава
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: AEK Arena - George Karapatakis\nРезул
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Легия Варшава VS АЕК
 DTSTART:20250814T190000Z
 DTEND:20250814T210000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadion Miejski Legii Warszawa im. Marszał
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Бранн VS АЕК
 DTSTART:20250821T170000Z
 DTEND:20250821T190000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-8esik66moepd1ywpgy24a0f10@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Brann Stadion\nРезультат: 2 - 1
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:АЕК VS Бранн
 DTSTART:20250827T163000Z
 DTEND:20250827T183000Z
-DTSTAMP:20260713T222943Z
+DTSTAMP:20260713T232953Z
 UID:fifa-8g2kv7p1dbvjv6nevwq735b10@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: AEK Arena - George Karapatakis\nРезул
