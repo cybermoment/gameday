@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Слован Братислава VS Зриньски
 DTSTART:20250722T181500Z
 DTEND:20250722T201500Z
-DTSTAMP:20260715T192143Z
+DTSTAMP:20260715T203538Z
 UID:fifa-6vjtc2nehbwwlo04ncod6mtw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Зриньски VS Слован Братислава
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260715T192143Z
+DTSTAMP:20260715T203538Z
 UID:fifa-9n37wye0ivprvs2uzcguzc44@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Stadion HŠK Zrinjski\nРезульт
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Слован Братислава
 DTSTART:20250806T150000Z
 DTEND:20250806T170000Z
-DTSTAMP:20260715T192143Z
+DTSTAMP:20260715T203538Z
 UID:fifa-avrmyxgidaveenthp17fki49g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ortalyq stadıon\nРезультат:
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Слован Братислава VS Кайрат
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260715T192143Z
+DTSTAMP:20260715T203538Z
 UID:fifa-ax3avh6cdiiha4t0igensvok4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Štadión Tehelné pole\nРезуль
