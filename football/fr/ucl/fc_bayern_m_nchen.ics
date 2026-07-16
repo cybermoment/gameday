@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Chelsea FC
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-4ul6yr2fksq114k3r287afg9g@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Allianz Arena\nRésultat: 3 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS FC Bayern München
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Alphamega Stadium\nRésultat: 1 - 5
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Club Bruges
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Allianz Arena\nRésultat: 4 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS FC Bayern München
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-5db7k467yfd4salognxrxgqac@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Parc des Princes\nRésultat: 1 - 2
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS FC Bayern München
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Emirates Stadium\nRésultat: 3 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Sporting CP
 DTSTART:20251209T174500Z
 DTEND:20251209T194500Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Allianz Arena\nRésultat: 3 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Union Saint-Gilloise
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-60cf47tmbsv54dj3ruq6r5dec@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Allianz Arena\nRésultat: 2 - 0
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven VS FC Bayern München
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-67h5xtrudih8xgebmw0ni8178@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Philips Stadion\nRésultat: 1 - 2
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS FC Bayern München
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-a6nn40ztjvneh9okowz13fj84@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
  ade: New Balance Arena\nRésultat: 1 - 6
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Atalanta
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-acixu0p06nshbxj1gmvu52rro@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
  ade: Allianz Arena\nRésultat: 4 - 1
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS FC Bayern München
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-9vufgb7gp2kyxzv8ftvwcesyc@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Quarts de finale\nSt
  ade: Estadio Bernabéu\nRésultat: 1 - 2
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Real Madrid C.F.
 DTSTART:20260415T190000Z
 DTEND:20260415T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-27wrp262d2qdqseiunjrk8dg4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Quarts de finale\nSt
  ade: Allianz Arena\nRésultat: 4 - 3
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS FC Bayern München
 DTSTART:20260428T190000Z
 DTEND:20260428T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-b5v1bdk3yghbdtgjwyqyjz02c@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Demi-finales\nStade:
   Parc des Princes\nRésultat: 5 - 4
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Paris Saint-Germain
 DTSTART:20260506T190000Z
 DTEND:20260506T210000Z
-DTSTAMP:20260716T082840Z
+DTSTAMP:20260716T103031Z
 UID:fifa-dkvlgk22rlyecfay5qgz48wes@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Demi-finales\nStade:
   Allianz Arena\nRésultat: 1 - 1
