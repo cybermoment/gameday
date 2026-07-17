@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Betis Sevilla VS Nottingham Forest
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-2cyfpiu9c3kowfard5ahjl5hw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  Estadio La Cartuja de Sevilla\nErgebnis: 2 - 2
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS FC Midtjylland
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-2oa85nlyvufcnesr9pri4gk5w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  The City Ground\nErgebnis: 2 - 3
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS FC Porto
 DTSTART:20251023T190000Z
 DTEND:20251023T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-2vgyqbrs7o6f9zp3nofrzvn6c@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  The City Ground\nErgebnis: 2 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:SK Sturm Graz VS Nottingham Forest
 DTSTART:20251106T174500Z
 DTEND:20251106T194500Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-2znviux3wv2ynkslgul8vvdp0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  Stadion Graz-Liebenau\nErgebnis: 0 - 0
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Malmö FF
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-38r47x6nagmqupbccavsl09p0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  The City Ground\nErgebnis: 3 - 0
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:FC Utrecht VS Nottingham Forest
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-3b0to3bloka5a7ygvl5tk9wr8@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  Stadion Galgenwaard\nErgebnis: 1 - 2
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Braga VS Nottingham Forest
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-3ntrb1loucgw1nhpoj21ewxzo@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  Estádio Municipal de Braga\nErgebnis: 1 - 0
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Ferencváros Budapest
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-3sm69cl8fupee5emusq4fe9ec@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: League Stage\nStadion: 
  The City Ground\nErgebnis: 4 - 0
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahce VS Nottingham Forest
 DTSTART:20260219T174500Z
 DTEND:20260219T194500Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-c4s4tciu12as2ane6gmiswo44@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Knockout Round Play-off
  s\nStadion: Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleks
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Fenerbahce
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-c55xhp8a6d48r4eaw03bc5lw4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Knockout Round Play-off
  s\nStadion: The City Ground\nErgebnis: 1 - 2
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS FC Midtjylland
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-4tyu7fs0buwrj0rlf6vqu153o@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Achtelfinale\nStadion: 
  The City Ground\nErgebnis: 0 - 1
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:FC Midtjylland VS Nottingham Forest
 DTSTART:20260319T174500Z
 DTEND:20260319T194500Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-5jkxd2r8tr6pnem2gvswvfuac@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Achtelfinale\nStadion: 
  MCH Arena\nErgebnis: 1 - 2
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:FC Porto VS Nottingham Forest
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-2t2p3gsy05xspl2gxv7w0crh0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Viertelfinale\nStadion:
   Estádio Do Dragão\nErgebnis: 1 - 1
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS FC Porto
 DTSTART:20260416T190000Z
 DTEND:20260416T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-8wgjv10r7q0ncb0whgthlcg7o@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Viertelfinale\nStadion:
   The City Ground\nErgebnis: 1 - 0
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Aston Villa
 DTSTART:20260430T190000Z
 DTEND:20260430T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-4s1j8zbtq6xrx54huc8btmgic@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Halbfinale\nStadion: Th
  e City Ground\nErgebnis: 1 - 0
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Nottingham Forest
 DTSTART:20260507T190000Z
 DTEND:20260507T210000Z
-DTSTAMP:20260717T222446Z
+DTSTAMP:20260717T232710Z
 UID:fifa-6g7jfcbkqokotcdfcawh71dlg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Halbfinale\nStadion: Vi
  lla Park\nErgebnis: 4 - 0
