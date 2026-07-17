@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Bournemouth
 DTSTART:20250815T190000Z
 DTEND:20250815T210000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-zhs8gg1hvcuqvhkk2itb54pg@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Anfield\nRésultat: 4 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Wolverhampton
 DTSTART:20250823T140000Z
 DTEND:20250823T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-14cmzlbe4pl6c3xuucuzj2590@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham VS Bournemouth
 DTSTART:20250830T140000Z
 DTEND:20250830T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1be5lxo9q7ko4pm8exaozvmdw@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Tottenham Hotspur Stadium\nRésultat: 0 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Brighton
 DTSTART:20250913T140000Z
 DTEND:20250913T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1c63e8qqe9heysoinrbib41zo@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 2 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Newcastle
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1g4hj5evcd2ub6zp9akh1er6c@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 0 - 0
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds VS Bournemouth
 DTSTART:20250927T140000Z
 DTEND:20250927T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1m2q53bt7g2w2nzxpt8zwvklw@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Elland Road\nRésultat: 2 - 2
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Fulham
 DTSTART:20251003T190000Z
 DTEND:20251003T210000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1o40goci4ply97jh7uhh3zq50@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 3 - 1
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace VS Bournemouth
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1swfjplq1923hcknqk1r00kyc@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Selhurst Park\nRésultat: 3 - 3
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Nottingham Forest
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-1w7mazdrj7yy9qlgmgyzehg5w@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 2 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Bournemouth
 DTSTART:20251102T163000Z
 DTEND:20251102T183000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-226u5j38rgjs64xqe4t2j2fis@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Etihad Stadium\nRésultat: 3 - 1
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Bournemouth
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-247wrvjkrv38tdtc3o6nhuv4k@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Villa Park\nRésultat: 4 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS West Ham
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2868qwytxs68nuc9752cva4us@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 2 - 2
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland VS Bournemouth
 DTSTART:20251129T150000Z
 DTEND:20251129T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2f01ug9ijcjd3uj26q8fe3bbo@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Stadium of Light\nRésultat: 3 - 2
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Everton
 DTSTART:20251202T193000Z
 DTEND:20251202T213000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2g6nccszuuullvt32g4sw7o5w@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 0 - 1
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Chelsea FC
 DTSTART:20251206T150000Z
 DTEND:20251206T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2k9n6m479giqdf2noxajr3uvo@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 0 - 0
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Bournemouth
 DTSTART:20251215T200000Z
 DTEND:20251215T220000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2qnbwtbl7eh08dh64ii9icqac@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Old Trafford\nRésultat: 4 - 4
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Burnley
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2s81w4s408kw8ji84hnhmy7tg@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 1 - 1
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Brentford VS Bournemouth
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-2wsp462b52gxk2tjm26x7vehg@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Gtech Community Stadium\nRésultat: 4 - 1
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Bournemouth
 DTSTART:20251230T193000Z
 DTEND:20251230T213000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-31msgzpmlihovrfon2pdnjjtg@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Stamford Bridge\nRésultat: 2 - 2
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Arsenal
 DTSTART:20260103T173000Z
 DTEND:20260103T193000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-34oxxtv9gbzl6xcda8ldgnz84@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 2 - 3
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Tottenham
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-38s04imjp5pt7ig6ua3yuu42c@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 3 - 2
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton VS Bournemouth
 DTSTART:20260119T200000Z
 DTEND:20260119T220000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-3d7g431b3ctu2tnap650l82z8@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : American Express Stadium\nRésultat: 1 - 1
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Liverpool
 DTSTART:20260124T173000Z
 DTEND:20260124T193000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-3gtoqvshayt6sh95nezlvv3f8@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 3 - 2
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Wolverhampton VS Bournemouth
 DTSTART:20260131T150000Z
 DTEND:20260131T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-3og5mbd492mkhswazzh5b6sr8@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Molineux Stadium\nRésultat: 0 - 2
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Aston Villa
 DTSTART:20260207T150000Z
 DTEND:20260207T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-3oumjz6zimfaum3qm0wemcljo@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 1 - 1
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Everton VS Bournemouth
 DTSTART:20260210T193000Z
 DTEND:20260210T213000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-3uirakibw3ocgd5nb5cb9qs5w@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Hill Dickinson Stadium\nRésultat: 1 - 2
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham VS Bournemouth
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-40jm6cx9zwibqeklc7cxrv47o@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : London Stadium\nRésultat: 0 - 0
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Sunderland
 DTSTART:20260228T123000Z
 DTEND:20260228T143000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-40yatfakx86i41kja4gn4vmz8@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 1 - 1
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Brentford
 DTSTART:20260303T193000Z
 DTEND:20260303T213000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4502gmnydtfejbtkeik323ztg@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 0 - 0
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Burnley VS Bournemouth
 DTSTART:20260314T150000Z
 DTEND:20260314T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-49ruzbiksyl5zqe38z2czh4wk@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Turf Moor\nRésultat: 0 - 0
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Manchester United
 DTSTART:20260320T200000Z
 DTEND:20260320T220000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4d0d8tamzjazpq7onnnj7fgus@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 2 - 2
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Bournemouth
 DTSTART:20260411T113000Z
 DTEND:20260411T133000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4h2ew9waug2vsce1xchjf9zbo@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Emirates Stadium\nRésultat: 1 - 2
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle VS Bournemouth
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4oavnftt8cn64ffjqjxxeuxas@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : St. James' Park\nRésultat: 1 - 2
@@ -439,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Leeds
 DTSTART:20260422T190000Z
 DTEND:20260422T210000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4pi8q807b9bc5r55gvpy5omqc@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 2 - 2
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Crystal Palace
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4tpmivijir70rk0zbm2nx0xec@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 3 - 0
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Bournemouth
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-4z1zxqksc6bleu9a1009ng7pw@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Craven Cottage\nRésultat: 0 - 1
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Manchester City
 DTSTART:20260519T183000Z
 DTEND:20260519T203000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-51wruvqfagv0fz9vzksxri4gk@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : Vitality Stadium\nRésultat: 1 - 1
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Bournemouth
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260716T230326Z
+DTSTAMP:20260717T010506Z
 UID:fifa-58j0iztxifq963szj8t2ylhjo@fifa.com
 DESCRIPTION:Compétition: Premier League\nPhase: Saison régulière\nStade
  : The City Ground\nRésultat: 1 - 1
