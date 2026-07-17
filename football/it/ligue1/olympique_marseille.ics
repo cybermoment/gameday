@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Olympique Marsiglia
 DTSTART:20250815T184500Z
 DTEND:20250815T204500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-72ywjmxfsozasbdhr12v63vv8@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Roazho
  n Park\nRisultato: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Paris FC
 DTSTART:20250823T150000Z
 DTEND:20250823T170000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7760a973lifciy9atx6ougq38@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 5 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lione VS Olympique Marsiglia
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7dcotifjucedc6y5ym418k5qs@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Groupa
  ma Stadium\nRisultato: 1 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Lorient
 DTSTART:20250912T184500Z
 DTEND:20250912T204500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7dpmvjum8qnbd3451iz9nm9sk@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 4 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Paris Saint-Germain
 DTSTART:20250922T180000Z
 DTEND:20250922T200000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7jwliihvfb3uy25mnkhow33tg@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 1 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Strasburgo VS Olympique Marsiglia
 DTSTART:20250926T184500Z
 DTEND:20250926T204500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7k9jcd1dxbz7xnp5qbhjbqiac@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  de la Meinau\nRisultato: 1 - 2
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Olympique Marsiglia
 DTSTART:20251004T150000Z
 DTEND:20251004T170000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7o0gmehom5mzsocak42ultt78@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Saint-Symphorien\nRisultato: 0 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Le Havre
 DTSTART:20251018T190500Z
 DTEND:20251018T210500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7r005fpphen9xjmizqrub6904@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 6 - 2
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Olympique Marsiglia
 DTSTART:20251025T190500Z
 DTEND:20251025T210500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7x1o058r9z5q36sidhpy4ot90@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Bollaert-Delelis\nRisultato: 2 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Angers
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-7xs3l7p9x8cr57eawypzkatxw@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 2 - 2
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Olympique Marsiglia
 DTSTART:20251101T200500Z
 DTEND:20251101T220500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-84cd9y0ujv779suuvt17xv7ro@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  de l'Abbé Deschamps\nRisultato: 0 - 1
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Brest
 DTSTART:20251108T160000Z
 DTEND:20251108T180000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-84pk71yvb8kkl4rfrmqrudbmc@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 3 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Nizza VS Olympique Marsiglia
 DTSTART:20251121T194500Z
 DTEND:20251121T214500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8an0jlr1zf40vov8zekwbgavo@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Allian
  z Riviera\nRisultato: 1 - 5
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Tolosa
 DTSTART:20251129T200500Z
 DTEND:20251129T220500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8ed8h94ghvgle3ni3sel5tx5g@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 2 - 2
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Lilla VS Olympique Marsiglia
 DTSTART:20251205T200000Z
 DTEND:20251205T220000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8eql64qcpxsivzywyfr3p3s44@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Decath
  lon Arena - Stade Pierre-Mauroy\nRisultato: 1 - 0
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Monaco
 DTSTART:20251214T194500Z
 DTEND:20251214T214500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8l3moidix6vsl5zhosbr7k7is@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 1 - 0
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Nantes
 DTSTART:20260104T140000Z
 DTEND:20260104T160000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8ogihgvj5esnu8jg10aosihp0@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 0 - 2
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Olympique Marsiglia
 DTSTART:20260117T200500Z
 DTEND:20260117T220500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8rwtar5hadikpvxuh7xhltb10@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Raymond Kopa\nRisultato: 2 - 5
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Lens
 DTSTART:20260124T200500Z
 DTEND:20260124T220500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8vdhidfe9e7yz0rjl3qbblogk@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 3 - 1
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Olympique Marsiglia
 DTSTART:20260131T160000Z
 DTEND:20260131T180000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8vqputshtlktgeucmqsqqstg4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Jean Bouin\nRisultato: 2 - 2
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Olympique Marsiglia
 DTSTART:20260208T194500Z
 DTEND:20260208T214500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-8z58ss9wus2842zlzu6grvuac@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Parco 
  dei Principi\nRisultato: 5 - 0
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Strasburgo
 DTSTART:20260214T160000Z
 DTEND:20260214T180000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-92w3v1zmovn1e6fdahj11l5w4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 2 - 2
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Olympique Marsiglia
 DTSTART:20260220T194500Z
 DTEND:20260220T214500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-96zy9u5gs3rmkk4aldnbo6y38@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Francis-Le Blé\nRisultato: 2 - 0
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Olympique Lione
 DTSTART:20260301T194500Z
 DTEND:20260301T214500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9cath7fgxe906unsmhrhincpg@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 3 - 2
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Tolosa VS Olympique Marsiglia
 DTSTART:20260307T200500Z
 DTEND:20260307T220500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9cnzd2zkyjfl8wq39yyawdic4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stadiu
  m de Toulouse\nRisultato: 0 - 1
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Auxerre
 DTSTART:20260313T194500Z
 DTEND:20260313T214500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9j3m943ydaqhzkip4dm8x36s4@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 1 - 0
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Lilla
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9mlx4iqslyu1521yjvzc0jvh0@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 1 - 2
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Monaco VS Olympique Marsiglia
 DTSTART:20260405T184500Z
 DTEND:20260405T204500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9n0bsizfj4sedu9937hdhz190@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Louis-II\nRisultato: 2 - 1
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Metz
 DTSTART:20260410T190500Z
 DTEND:20260410T210500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9qcdaq1wjtf8da69phljb2z9w@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 3 - 1
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Olympique Marsiglia
 DTSTART:20260418T150000Z
 DTEND:20260418T170000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-9tuecc8r0tw3cj6ztu66tgljo@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  du Moustoir - Yves Allainmat\nRisultato: 2 - 0
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Nizza
 DTSTART:20260426T184500Z
 DTEND:20260426T204500Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-a0b0nkumjijelm5rjqfo82plg@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 1 - 1
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Olympique Marsiglia
 DTSTART:20260502T130000Z
 DTEND:20260502T150000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-a14pqud01q3gdpn5sb78dzims@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  de la Beaujoire - Louis Fonteneau\nRisultato: 3 - 0
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Olympique Marsiglia
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-a4fu2e9ue09trjzjs5ob8w8b8@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Stade 
  Océane\nRisultato: 0 - 1
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marsiglia VS Rennes
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260717T202934Z
+DTSTAMP:20260717T212609Z
 UID:fifa-a9n96juwy5im5b428xgpf03ro@fifa.com
 DESCRIPTION:Competizione: Ligue 1\nFase: Stagione regolare\nStadio: Orange
   Vélodrome\nRisultato: 3 - 1
