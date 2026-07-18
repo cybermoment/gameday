@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Копенгаген VS Байер Леверкузен
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Паркен\nРезул
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS ПСВ
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-52evszwuzn8z1gg65tqgbgh78@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: BayArena\nРезультат: 1 - 1
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS ПСЖ
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-559m5skeluuo83bn5qad6rggk@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: BayArena\nРезультат: 2 - 7
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Байер Леверкузен
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Эстадио до Сп
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Сити VS Байер Леверкузен
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Etihad Stadium\nРезультат: 0 - 
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Ньюкасл
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-5sze0q8qcefh8egwpzaiybx1w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: BayArena\nРезультат: 2 - 2
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпиакос Пирей VS Байер Леверкузен
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-5x1rg4auxr06aqgnfvhfwzfo4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион им. Георгиуса 
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Вильярреал
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-643ciwzf04i1nit402flk4n4k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: BayArena\nРезультат: 3 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпиакос Пирей VS Байер Леверкузен
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-15ep78m49s5us8i1cs0jo249g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Стадион им. Гео
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Олимпиакос Пирей
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-15s8p79c2831yqmuoafj9n6l0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: BayArena\nРезультат
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Арсенал
 DTSTART:20260311T174500Z
 DTEND:20260311T194500Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: BayArena\nРезультат: 1 - 1
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Байер Леверкузен
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260718T040942Z
+DTSTAMP:20260718T062913Z
 UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Emirates Stadium\nРезультат
