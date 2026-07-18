@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Union Berlin VS VfB Stuttgart
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-cuy2jl56nzmr8kciofaw35mvo@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Stad
  ion An der Alten Försterei\nErgebnis: 2 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Borussia M'gladbach
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-cxgxfv4cgatuuo00n8tqnp250@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS VfB Stuttgart
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Euro
  pa-Park Stadion\nErgebnis: 3 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS FC St. Pauli
 DTSTART:20250919T183000Z
 DTEND:20250919T203000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-d57dyecge1gksxij76pexjndg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 2 - 0
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Köln VS VfB Stuttgart
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-da1gkw7g8uurvecg8icqqu80k@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Rhei
  nEnergieSTADION\nErgebnis: 1 - 2
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS 1. FC Heidenheim 1846
 DTSTART:20251005T133000Z
 DTEND:20251005T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-dcbu0qyee86bq330g0zaxen84@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 0
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:VfL Wolfsburg VS VfB Stuttgart
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-dhgn2s9vj1xh9qa8pa8do0hsk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  swagen Arena\nErgebnis: 0 - 3
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS 1. FSV Mainz 05
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 2 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS VfB Stuttgart
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-dob7jioiab4wpkqsh501gt8us@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Red 
  Bull Arena\nErgebnis: 3 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS FC Augsburg
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-dsqxlgx55w9dyzteo543rekgk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 3 - 2
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS VfB Stuttgart
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-dv3pyqp0u9k0vzrwxfqyw7pqs@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: SIGN
  AL IDUNA PARK\nErgebnis: 3 - 3
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS VfB Stuttgart
 DTSTART:20251130T143000Z
 DTEND:20251130T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-e1f69rve0isrkp77hh5c7s9hw@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Volk
  sparkstadion\nErgebnis: 2 - 1
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS FC Bayern München
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-e316y52k65mk03dm4as02k1ec@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 0 - 5
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:SV Werder Bremen VS VfB Stuttgart
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Wese
  rstadion\nErgebnis: 0 - 4
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS TSG Hoffenheim
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ea4lmhpl5whsoh1piqqcssl5g@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 0 - 0
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer 04 Leverkusen VS VfB Stuttgart
 DTSTART:20260110T173000Z
 DTEND:20260110T193000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ecvhruw09dh0sttcgksxez85w@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: BayA
  rena\nErgebnis: 1 - 4
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Eintracht Frankfurt
 DTSTART:20260113T173000Z
 DTEND:20260113T193000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-eh9gvjxr0n86w07y0jj7dtqtw@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 3 - 2
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS 1. FC Union Berlin
 DTSTART:20260118T143000Z
 DTEND:20260118T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ektysl1ncdd9c0sofo4gauvpw@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 1
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS VfB Stuttgart
 DTSTART:20260125T143000Z
 DTEND:20260125T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ep7dzm3z4tfgwvyyw1kyxvxuc@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: BORU
  SSIA-PARK\nErgebnis: 0 - 3
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS SC Freiburg
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 0
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:FC St. Pauli VS VfB Stuttgart
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ewpv0e762q6h7lgsj9ttp6710@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Mill
  erntor-Stadion\nErgebnis: 2 - 1
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS 1. FC Köln
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ezvw4rzkq2oh0hvwgw0dl7cwk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 3 - 1
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Heidenheim 1846 VS VfB Stuttgart
 DTSTART:20260222T183000Z
 DTEND:20260222T203000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-f48ekfjam5o4sn61u5cgqlb84@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Voit
  h-Arena\nErgebnis: 3 - 3
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS VfL Wolfsburg
 DTSTART:20260301T143000Z
 DTEND:20260301T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-z5x4rla2wka1b60vymlgahg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 4 - 0
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:1. FSV Mainz 05 VS VfB Stuttgart
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MEWA
   ARENA\nErgebnis: 2 - 2
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS RB Leipzig
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-8jtwam679udusbvzwv2egi6s@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 0
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:FC Augsburg VS VfB Stuttgart
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-c2jl259mxclm0afht8mu5pg4@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: WWK 
  Arena\nErgebnis: 2 - 5
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Borussia Dortmund
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-f9p6jq6t9ykow3vrcstmoqhg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 0 - 2
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Hamburger SV
 DTSTART:20260412T153000Z
 DTEND:20260412T173000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-ip68aj1tv057ewa4zh0f3jtg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 4 - 0
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS VfB Stuttgart
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-l1unx7afl9hhfzuu40gzx0yc@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Alli
  anz Arena\nErgebnis: 4 - 2
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS SV Werder Bremen
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 1 - 1
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:TSG Hoffenheim VS VfB Stuttgart
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-vdyf5bricl9fqbe7uviz5btg@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: PreZ
  ero Arena\nErgebnis: 3 - 3
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS Bayer 04 Leverkusen
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-wypbnfvax0tbj73qs4iv94ic@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: MHPA
  rena\nErgebnis: 3 - 1
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS VfB Stuttgart
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260717T232722Z
+DTSTAMP:20260718T010012Z
 UID:fifa-1053ngfunkdt7v41cane05fkk@fifa.com
 DESCRIPTION:Wettbewerb: Bundesliga\nPhase: Reguläre Saison\nStadion: Deut
  sche Bank Park\nErgebnis: 2 - 2

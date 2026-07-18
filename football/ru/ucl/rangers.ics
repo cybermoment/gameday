@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Рейнджерс VS Панатинаикос
 DTSTART:20250722T184500Z
 DTEND:20250722T204500Z
-DTSTAMP:20260717T232707Z
+DTSTAMP:20260718T005957Z
 UID:fifa-6kaqdbacxn6vbvr8ddswl9xck@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Ibrox Stadium\nРезультат: 2 
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Панатинаикос VS Рейнджерс
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260717T232707Z
+DTSTAMP:20260718T005957Z
 UID:fifa-6mfecym6un430iwg3v5qqf190@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Olympiako Stadio Spyros Louis\nРез
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Рейнджерс VS Виктория Плзень
 DTSTART:20250805T184500Z
 DTEND:20250805T204500Z
-DTSTAMP:20260717T232707Z
+DTSTAMP:20260718T005957Z
 UID:fifa-65e2eplopyl0nal1t4z2dv310@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ibrox Stadium\nРезультат: 3 
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Виктория Плзень VS Рейнджерс
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260717T232707Z
+DTSTAMP:20260718T005957Z
 UID:fifa-67ynklkwlxs648jughhfz9lw4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Doosan Aréna\nРезультат: 2 
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Рейнджерс VS Клуб Брюгге
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260717T232707Z
+DTSTAMP:20260718T005957Z
 UID:fifa-83509np6cybipasjyz6nbxpg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Ibrox Stadium\nРезультат: 1 
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Рейнджерс
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260717T232707Z
+DTSTAMP:20260718T005957Z
 UID:fifa-847pdw2q6zi71o572y4xmmjh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Jan Breydelstadion\nРезульта
