@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Noah VS Ferencváros Budapest
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260719T170537Z
+DTSTAMP:20260719T182953Z
 UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Kotaik Stadium\nErgebnis: 1 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros Budapest VS FC Noah
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260719T170537Z
+DTSTAMP:20260719T182953Z
 UID:fifa-701azda2tmhto993kf731cowk@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Groupama Aréna\nErgebnis: 4 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets Razgrad VS Ferencváros Budapest
 DTSTART:20250806T173000Z
 DTEND:20250806T193000Z
-DTSTAMP:20260719T170537Z
+DTSTAMP:20260719T182953Z
 UID:fifa-em2fiig5pck0kolfchjms2al0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Huvepharma Arena\nErgebnis: 0 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros Budapest VS Ludogorets Razgrad
 DTSTART:20250812T181500Z
 DTEND:20250812T201500Z
-DTSTAMP:20260719T170537Z
+DTSTAMP:20260719T182953Z
 UID:fifa-eno9wwxvff56fbsqelw6kjt3o@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Groupama Aréna\nErgebnis: 3 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros Budapest VS Qarabağ Ağdam
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260719T170537Z
+DTSTAMP:20260719T182953Z
 UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: G
  roupama Aréna\nErgebnis: 1 - 3
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Ferencváros Budapest
 DTSTART:20250827T164500Z
 DTEND:20250827T184500Z
-DTSTAMP:20260719T170537Z
+DTSTAMP:20260719T182953Z
 UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: T
  ofiq Bəhramov adına Respublika stadionu\nErgebnis: 2 - 3
