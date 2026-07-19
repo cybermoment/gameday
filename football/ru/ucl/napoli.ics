@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Сити VS Наполи
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Etihad Stadium\nРезультат: 2 - 
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Спортинг Лиссабон
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:ПСВ VS Наполи
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-56flul4umnrjdekx5ny22y7tg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Филипс\nРезул
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Айнтрахт Франкфурт
 DTSTART:20251104T174500Z
 DTEND:20251104T194500Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Карабах
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Наполи
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Эстадио до Сп
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Копенгаген VS Наполи
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Паркен\nРезул
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Наполи VS Челси
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260718T230143Z
+DTSTAMP:20260719T010319Z
 UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stadio Diego Armando Maradona\nРезу

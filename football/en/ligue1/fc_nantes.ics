@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Paris Saint-Germain
 DTSTART:20250817T184500Z
 DTEND:20250817T204500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-76t6m3q3ye3kb7rtlansiyivo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 0 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:RC Strasbourg Alsace VS FC Nantes
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-79oyk2qmf1t5auscpyaavyrdg@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Meinau\nResult: 1 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Auxerre
 DTSTART:20250830T170000Z
 DTEND:20250830T190000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7bk8twwdbyyipms1jnzmt3ims@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:OGC Nice VS FC Nantes
 DTSTART:20250913T150000Z
 DTEND:20250913T170000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7esrafqg6iv027c36tpc9rjtg@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Allianz 
  Riviera\nResult: 1 - 0
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Rennes
 DTSTART:20250920T150000Z
 DTEND:20250920T170000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7hdh3tbg2wvlim6o9dwmf47is@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 2 - 2
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse FC VS FC Nantes
 DTSTART:20250927T170000Z
 DTEND:20250927T190000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7letvduy3f5mnqk12p0lr5qtw@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stadium 
  de Toulouse\nResult: 2 - 2
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Stade Brestois VS FC Nantes
 DTSTART:20251004T170000Z
 DTEND:20251004T190000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7pwcv40os2bpgrh3td8elxhxw@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Fr
  ancis-Le Blé\nResult: 0 - 0
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Lille
 DTSTART:20251019T184500Z
 DTEND:20251019T204500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7tlbjk7fi973p87e8pgizgtuc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 0 - 2
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS FC Nantes
 DTSTART:20251024T184500Z
 DTEND:20251024T204500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7woilg11mdjafmd9g8zm53aqc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Je
  an Bouin\nResult: 1 - 2
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS AS Monaco
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-7yiltbyr9682m9yuukm40yvx0@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 3 - 5
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS FC Metz
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-83jr3gvavdtyibbwtnq8tz5zo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 0 - 2
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS FC Nantes
 DTSTART:20251108T180000Z
 DTEND:20251108T200000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-866rrtjqlkc7awxv3d655drmc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Oc
  éane\nResult: 1 - 1
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS FC Lorient
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-88r8mh63ovrqr79aikgzroefo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 1
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lyonnais VS FC Nantes
 DTSTART:20251130T194500Z
 DTEND:20251130T214500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8bdlfuv6dy0cge9pyz9ix5v6c@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Groupama
   Stadium\nResult: 3 - 0
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Lens
 DTSTART:20251206T160000Z
 DTEND:20251206T180000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8fuei7twwjrpuze3dokkx45jo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 2
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Angers SCO VS FC Nantes
 DTSTART:20251212T194500Z
 DTEND:20251212T214500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8i3rzhdimvv1bucfosy8fcro4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Ra
  ymond Kopa\nResult: 4 - 1
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Marseille VS FC Nantes
 DTSTART:20260104T140000Z
 DTEND:20260104T160000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8ogihgvj5esnu8jg10aosihp0@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Orange V
  élodrome\nResult: 0 - 2
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Paris FC
 DTSTART:20260118T161500Z
 DTEND:20260118T181500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8qpsv11q63px0nfhh91sgdafo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 2
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS OGC Nice
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8uzuadv07g5b03zozks825444@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 4
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:FC Lorient VS FC Nantes
 DTSTART:20260131T180000Z
 DTEND:20260131T200000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-8x7jthn7rqsphvbwsxswzsglw@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade du
   Moustoir - Yves Allainmat\nResult: 2 - 1
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Olympique Lyonnais
 DTSTART:20260207T200500Z
 DTEND:20260207T220500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9105nbvblxjaby19wl6ijotg4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 0 - 1
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco VS FC Nantes
 DTSTART:20260213T200500Z
 DTEND:20260213T220500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-94qrj6vriaepju8lbpa91kdg4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Lo
  uis-II\nResult: 3 - 1
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Le Havre
 DTSTART:20260222T161500Z
 DTEND:20260222T181500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-97ss3ca8wx72vsspzijyu20pg@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 2 - 0
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS FC Nantes
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9b5nkrzt8ku0bp3x883tgxmvo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Decathlo
  n Arena - Stade Pierre-Mauroy\nResult: 1 - 0
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Angers SCO
 DTSTART:20260307T160000Z
 DTEND:20260307T180000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9f9kuids3rgqlqx1zhsvfbwus@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 0 - 1
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS RC Strasbourg Alsace
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9kq8x7m65ajep26bou4lcqpzo@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 2 - 3
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:FC Metz VS FC Nantes
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9o4n55lkslbeyjajky43umsyc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Sa
  int-Symphorien\nResult: 0 - 0
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS FC Nantes
 DTSTART:20260411T170000Z
 DTEND:20260411T190000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9t2ybu6n2todh9f2qi3uyg4r8@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   l'Abbé Deschamps\nResult: 0 - 0
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Stade Brestois
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9w7ua9b67wzm28myjm68l50d0@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 1 - 1
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS FC Nantes
 DTSTART:20260422T170000Z
 DTEND:20260422T190000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9g07ss9mgnigw1hfa4ne4i1w4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Parc des
   Princes\nResult: 3 - 0
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS FC Nantes
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-9xc14cp3sitr6wfs4bh7vgtuc@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Roazhon 
  Park\nResult: 2 - 1
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Olympique Marseille
 DTSTART:20260502T130000Z
 DTEND:20260502T150000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-a14pqud01q3gdpn5sb78dzims@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 3 - 0
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS FC Nantes
 DTSTART:20260508T184500Z
 DTEND:20260508T204500Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-a565uhc7y4eouqda5vp1nejo4@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade Bo
  llaert-Delelis\nResult: 1 - 0
@@ -455,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:FC Nantes VS Toulouse FC
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260718T230204Z
+DTSTAMP:20260719T010354Z
 UID:fifa-a7f4eaz5l7ly8go0q797dt7v8@fifa.com
 DESCRIPTION:Competition: Ligue 1\nStage: Regular Season\nStadium: Stade de
   la Beaujoire - Louis Fonteneau\nResult: 0 - 0
