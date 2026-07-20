@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Астон Вилла VS Ньюкасл
 DTSTART:20250816T113000Z
 DTEND:20250816T133000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-102dto55773ex3p58gp94ql90@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Villa 
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Ливерпуль
 DTSTART:20250825T190000Z
 DTEND:20250825T210000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-17gi8gmcwairx1s9f0utz7ggk@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Лидс Юнайтед VS Ньюкасл
 DTSTART:20250830T163000Z
 DTEND:20250830T183000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-19g4i3bmkco9zrycot41ut638@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Elland
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Вулверхэмптон
 DTSTART:20250913T140000Z
 DTEND:20250913T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-1fby3aaqw8svx24c078ktdb10@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Борнмут VS Ньюкасл
 DTSTART:20250921T130000Z
 DTEND:20250921T150000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-1g4hj5evcd2ub6zp9akh1er6c@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Vitali
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Арсенал
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-1mv5kukvh2gold9lzbfle86qc@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Ноттингем Форест
 DTSTART:20251005T130000Z
 DTEND:20251005T150000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-1r9l80ujrlwn2mfwfrrbz7evo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Брайтон VS Ньюкасл
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-1s2cqwm1pd76xs20c255sfnro@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Americ
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Фулхэм
 DTSTART:20251025T140000Z
 DTEND:20251025T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-1zf0zsabpkibbzn05lty6cv10@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Вест Хэм Юнайтед VS Ньюкасл
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-23tjlpc5v8e21motsxcqu1r84@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: London
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Ньюкасл
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-24m5mde1dqsnrirt0mxg8gr9w@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Манчестер Сити
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2be0iellzfr9f97wvwb3qf6s4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Эвертон VS Ньюкасл
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2dtb3yy77hupqm5w6d9jlvpxw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Hill D
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Тоттенхэм
 DTSTART:20251202T201500Z
 DTEND:20251202T221500Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2jhdb63xvcht5ml1hmxtjvv2s@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Бернли
 DTSTART:20251206T150000Z
 DTEND:20251206T170000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2n182o0lrejh5jb4rvzo16sd0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Сандерленд VS Ньюкасл
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2rflgdqj3a1glfb3i6jg0874k@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Stadiu
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Челси
 DTSTART:20251220T123000Z
 DTEND:20251220T143000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2v77t3k2p2nosucadlbbyln2s@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Юнайтед VS Ньюкасл
 DTSTART:20251226T200000Z
 DTEND:20251226T220000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-2yuulrtp37mbqe9rok936lslw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Old Tr
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Бернли VS Ньюкасл
 DTSTART:20251230T193000Z
 DTEND:20251230T213000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-318bi20a3b1kac2q6hasanf2s@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Turf M
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Кристал Пэлас
 DTSTART:20260104T150000Z
 DTEND:20260104T170000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-37l8kxo29u6vg1gozdubqpmvo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Лидс Юнайтед
 DTSTART:20260107T201500Z
 DTEND:20260107T221500Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3c0qyvaoqkjrr55urxhrc7w2c@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Вулверхэмптон VS Ньюкасл
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3gfh9sdmqnarb19nqc9t21xjo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Moline
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Астон Вилла
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3k2ibirklvkg90wph6rpw3fo4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Ливерпуль VS Ньюкасл
 DTSTART:20260131T200000Z
 DTEND:20260131T220000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3mgg86hgrlwba3qazktbvu32s@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Anfiel
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Брентфорд
 DTSTART:20260207T173000Z
 DTEND:20260207T193000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3s39ztipo4s0wdvo7c3u3vkt0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Тоттенхэм VS Ньюкасл
 DTSTART:20260210T193000Z
 DTEND:20260210T213000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3w40rqqpfqiv06c3cp8wrsutw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Totten
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Сити VS Ньюкасл
 DTSTART:20260221T200000Z
 DTEND:20260221T220000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-3ywhjhhi3hutlsan04ezftk44@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Etihad
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Эвертон
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-445i93s8a7cjfevtqia52scus@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Манчестер Юнайтед
 DTSTART:20260304T201500Z
 DTEND:20260304T221500Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-47s90k4t3qdmtb1d8u2pby0ic@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Челси VS Ньюкасл
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-4a83cu13ym4onq9gqky3udul0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Stamfo
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Сандерленд
 DTSTART:20260322T120000Z
 DTEND:20260322T140000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-4fuln8b9rqgl56nwqw4ow0178@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Кристал Пэлас VS Ньюкасл
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-4ipkr2m649qfb4g5hndblp82c@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Selhur
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Борнмут
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-4oavnftt8cn64ffjqjxxeuxas@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Ньюкасл
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-4pwek6ufip2m51lyelp0r5las@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Брайтон
 DTSTART:20260502T140000Z
 DTEND:20260502T160000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-4wyzm9p1mkcnewy5twhzr0fmc@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Ноттингем Форест VS Ньюкасл
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-509u8t50pwxnn67v5plk4tc0k@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: The Ci
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Вест Хэм Юнайтед
 DTSTART:20260517T163000Z
 DTEND:20260517T183000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-554i630ssgkurs2xqqckp9tec@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -528,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Фулхэм VS Ньюкасл
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260720T151622Z
+DTSTAMP:20260720T165906Z
 UID:fifa-5770cell6dg85i03xfikgnwus@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Craven
