@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Paksi FC VS CFR 1907 Cluj
 DTSTART:20250710T170000Z
 DTEND:20250710T190000Z
-DTSTAMP:20260722T162512Z
+DTSTAMP:20260722T175036Z
 UID:fifa-8urov6093lc0ap7fntdld1iqc@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Paksi FC Stadion\nResult: 0 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:CFR 1907 Cluj VS Paksi FC
 DTSTART:20250717T173000Z
 DTEND:20250717T193000Z
-DTSTAMP:20260722T162512Z
+DTSTAMP:20260722T175036Z
 UID:fifa-8xtii67q5fgkj5vmtp16rue50@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Stadionul Dr. Constantin Rădulescu\nResult: 3 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Lugano VS CFR 1907 Cluj
 DTSTART:20250724T183000Z
 DTEND:20250724T203000Z
-DTSTAMP:20260722T162512Z
+DTSTAMP:20260722T175036Z
 UID:fifa-5g7neaaeitb1ca46mztdefk7o@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Stockhorn Arena\nResult: 0 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:CFR 1907 Cluj VS Lugano
 DTSTART:20250731T173000Z
 DTEND:20250731T193000Z
-DTSTAMP:20260722T162512Z
+DTSTAMP:20260722T175036Z
 UID:fifa-5hwdf3o9o0yzc8a3jwb8s3axg@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Stadionul Dr. Constantin Rădulescu\nResult: 1 - 0
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:CFR 1907 Cluj VS Sporting Braga
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260722T162512Z
+DTSTAMP:20260722T175036Z
 UID:fifa-66s9pcsf4jcys1hzeqdwl3v9w@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Stadionul Dr. Constantin Rădulescu\nResult: 1 - 2
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Braga VS CFR 1907 Cluj
 DTSTART:20250814T183000Z
 DTEND:20250814T203000Z
-DTSTAMP:20260722T162512Z
+DTSTAMP:20260722T175036Z
 UID:fifa-6ar0axb2q5636y2zuid5jwqok@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Estádio Municipal de Braga\nResult: 2 - 0
