@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Barcelona
 DTSTART:20250816T173000Z
 DTEND:20250816T193000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 0 - 3
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Celta de Vigo
 DTSTART:20250823T150000Z
 DTEND:20250823T170000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-62wqjuo2ykej3fzagx0scs9g@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 1
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Mallorca
 DTSTART:20250830T193000Z
 DTEND:20250830T213000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-77rmbjidsouxav300f54behg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Bernabéu\nResultado: 2 - 1
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Espanyol VS Mallorca
 DTSTART:20250915T190000Z
 DTEND:20250915T210000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-c0ed2ycw3cur2spz99c0r2ms@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: RCD
  E Stadium\nResultado: 3 - 2
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Atlético de Madrid
 DTSTART:20250921T141500Z
 DTEND:20250921T161500Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-gg5bnkuq3inqnecavarjo3dg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 1
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Mallorca
 DTSTART:20250924T193000Z
 DTEND:20250924T213000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-hxr2ojynmpps6ni1gbdsa1hw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal de Anoeta\nResultado: 1 - 0
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Alavés
 DTSTART:20250927T163000Z
 DTEND:20250927T183000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-nyhzbo7wncd07zhc7pysjris@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 0
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Mallorca
 DTSTART:20251004T163000Z
 DTEND:20251004T183000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-pt81qdbd7pkbnnkpq246rtw4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de San Mamés\nResultado: 2 - 1
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Sevilla VS Mallorca
 DTSTART:20251018T120000Z
 DTEND:20251018T140000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-wlegmdabr8ruispvl8gtzv9w@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ramón Sánchez Pizjuán\nResultado: 1 - 3
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Levante
 DTSTART:20251026T130000Z
 DTEND:20251026T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-zzqopgn9iz38xxwmgsl6ccus@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 1
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Mallorca
 DTSTART:20251102T200000Z
 DTEND:20251102T220000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 3 - 0
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Getafe
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 0
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Mallorca
 DTSTART:20251122T200000Z
 DTEND:20251122T220000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1bbwtdnimi7tbl6aatezlnwno@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de la Cerámica\nResultado: 2 - 1
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Osasuna
 DTSTART:20251129T130000Z
 DTEND:20251129T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1cg5aiu7phyw89gyr0m9hme50@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 2 - 2
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Mallorca
 DTSTART:20251205T200000Z
 DTEND:20251205T220000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1i2f9ycdq0mof2nmr7jievlsk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 0
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Elche
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 3 - 1
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia VS Mallorca
 DTSTART:20251219T200000Z
 DTEND:20251219T220000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1p93rklxg8b0b4dymsqjlcbh0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mestalla\nResultado: 1 - 1
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Girona
 DTSTART:20260104T173000Z
 DTEND:20260104T193000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1szis91vby48oriy7er25lams@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 2
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Mallorca
 DTSTART:20260111T130000Z
 DTEND:20260111T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1x4ja8gant6mmc4sm9odbjcpg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Vallecas\nResultado: 2 - 1
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Athletic Bilbao
 DTSTART:20260117T151500Z
 DTEND:20260117T171500Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-1zyd1rcyvotux5kjh936dehp0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 3 - 2
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Mallorca
 DTSTART:20260125T130000Z
 DTEND:20260125T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-24tv2ajrcwbqaq46kxd54mgpg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Riy
  adh Air Metropolitano\nResultado: 3 - 0
@@ -296,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Sevilla
 DTSTART:20260202T200000Z
 DTEND:20260202T220000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-28z661pl07w40fr1in36f97o4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 4 - 1
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Mallorca
 DTSTART:20260207T151500Z
 DTEND:20260207T171500Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Spo
  tify Camp Nou\nResultado: 3 - 0
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Betis
 DTSTART:20260215T200000Z
 DTEND:20260215T220000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 2
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Celta de Vigo VS Mallorca
 DTSTART:20260222T173000Z
 DTEND:20260222T193000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2l0hlraqbbo3sgfhtv0iaa49g@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Abanca-Balaídos\nResultado: 2 - 0
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Real Sociedad
 DTSTART:20260228T173000Z
 DTEND:20260228T193000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2o1qezfdq50juhi4b82nyesk4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 0 - 1
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Osasuna VS Mallorca
 DTSTART:20260307T130000Z
 DTEND:20260307T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2pivvji4pf47xn5ziqca3ttlg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio El Sadar\nResultado: 2 - 2
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Espanyol
 DTSTART:20260315T130000Z
 DTEND:20260315T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2taxjp7kgsyqb2x6zjjbiwys4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 2 - 1
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Elche VS Mallorca
 DTSTART:20260321T130000Z
 DTEND:20260321T150000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Manuel Martínez Valero\nResultado: 2 - 1
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Real Madrid C.F.
 DTSTART:20260404T141500Z
 DTEND:20260404T161500Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-334grr0hqs8zr92mx518hdjpw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 2 - 1
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Rayo Vallecano
 DTSTART:20260412T141500Z
 DTEND:20260412T161500Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-36img9yditg3x8kvo810l3ims@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 3 - 0
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Valencia
 DTSTART:20260421T170000Z
 DTEND:20260421T190000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-3ddiuilkmzwc7z89f5cjy1pn8@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 1
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Alavés VS Mallorca
 DTSTART:20260425T120000Z
 DTEND:20260425T140000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-38dsrz394cwn8gbxbm6ahnllg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mendizorroza\nResultado: 2 - 1
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Girona VS Mallorca
 DTSTART:20260501T190000Z
 DTEND:20260501T210000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-3i9z3nd0s3lxkt3l5hpy8wil0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Municipal de Montilivi\nResultado: 0 - 1
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Villarreal
 DTSTART:20260510T120000Z
 DTEND:20260510T140000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-3lazt464v4k6hjwcq9ljf0ums@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 1
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Mallorca
 DTSTART:20260513T193000Z
 DTEND:20260513T213000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 3 - 1
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Levante VS Mallorca
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-3sg7p1fgas9oyig0lv5gdmvis@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ciudad de Valencia\nResultado: 2 - 0
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Real Oviedo
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260723T153351Z
+DTSTAMP:20260723T173827Z
 UID:fifa-3wljbdagmhpi6h7viwogz9ul0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 3 - 0
