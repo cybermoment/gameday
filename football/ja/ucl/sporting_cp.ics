@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:スポルティング・リスボン VS カイラト
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-4xfj4wo4uaaxrxs3yo11cn7kk@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: エスタディオ・ジョゼ・アルバラ
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:ナポリ VS スポルティング・リスボン
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: サン・パオロ\n結果: 2 - 1
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:スポルティング・リスボン VS マルセイユ
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5aef6fbewvou5chh024lqfrbo@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: エスタディオ・ジョゼ・アルバラ
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:ユベントス FC VS スポルティング・リスボン
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5c6o9gkconkcdrpnsx0b5k4r8@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: アリアンツ・スタジアム\n結果: 1 - 
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:スポルティング・リスボン VS クルブ・ブルッヘ
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: エスタディオ・ジョゼ・アルバラ
@@ -83,7 +83,7 @@ SUMMARY:FC バイエルン・ミュンヘン VS スポルティング・
  リスボン
 DTSTART:20251209T174500Z
 DTEND:20251209T194500Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5ox5ahj58lip0umnt500qwjro@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: アリアンツ・アレーナ\n結果: 3 - 1
@@ -98,7 +98,7 @@ SUMMARY:スポルティング・リスボン VS パリ・サンジェル
  マン
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5xsc6ye9xqqmz62sa4qb8tlhw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: エスタディオ・ジョゼ・アルバラ
@@ -114,7 +114,7 @@ SUMMARY:アトレティック・クルブ VS スポルティング・リ
  スボン
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: サン・マメス\n結果: 2 - 3
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS スポルティング・リスボン
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: ラ
  ウンド16\nスタジアム: Aspmyra Stadion\n結果: 3 - 0
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:スポルティング・リスボン VS ボデ/グリムト
 DTSTART:20260317T174500Z
 DTEND:20260317T194500Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: ラ
  ウンド16\nスタジアム: エスタディオ・ジョゼ・アルバ
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:スポルティング・リスボン VS アーセナル
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 準
  々決勝\nスタジアム: エスタディオ・ジョゼ・アルバラ
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:アーセナル VS スポルティング・リスボン
 DTSTART:20260415T190000Z
 DTEND:20260415T210000Z
-DTSTAMP:20260723T211218Z
+DTSTAMP:20260723T223211Z
 UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: 準
  々決勝\nスタジアム: エミレーツ スタジアム\n結果: 0 - 0
