@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Lille
 DTSTART:20250817T130000Z
 DTEND:20250817T150000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-74zpn9q4fwxv9jgn3a7ijslck@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 3 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse VS Brest
 DTSTART:20250824T151500Z
 DTEND:20250824T171500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-78yvd6345ocoz4gxmaklttyqc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stadi
  um de Toulouse\nResultado: 2 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Brest
 DTSTART:20250829T184500Z
 DTEND:20250829T204500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7b72rgxdptmkdu4bauqvywvmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Bollaert-Delelis\nResultado: 3 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Paris FC
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7finhgei82ggqjmpqvozmy32s@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 1 - 2
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Niza
 DTSTART:20250920T170000Z
 DTEND:20250920T190000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7i3i9xsmgt7s9m90xj1pr6z2s@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 4 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Brest
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7kofummfmha2cguoivv9vyvbo@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Raymond Kopa\nResultado: 0 - 2
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Nantes
 DTSTART:20251004T170000Z
 DTEND:20251004T190000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7pwcv40os2bpgrh3td8elxhxw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 0 - 0
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Brest
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7suiizi1qmm8tr7ey7exckb9w@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   du Moustoir - Yves Allainmat\nResultado: 3 - 3
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Paris Saint-Germain
 DTSTART:20251025T150000Z
 DTEND:20251025T170000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7xev2belu7if982hoiysjsglw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 0 - 3
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Brest
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-7znx52cirafzl9sfcd5fcpd04@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Olympique Lyon
 DTSTART:20251102T194500Z
 DTEND:20251102T214500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-836cqx23u09nwnsi2tnmdcduc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 0 - 0
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique de Marsella VS Brest
 DTSTART:20251108T160000Z
 DTEND:20251108T180000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-84pk71yvb8kkl4rfrmqrudbmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Orang
  e Vélodrome\nResultado: 3 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Metz
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-89jasaj1ep0aadfc88obaz11w@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 3 - 2
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Estrasburgo VS Brest
 DTSTART:20251130T140000Z
 DTEND:20251130T160000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8d863d4hukktuken9r5812qz8@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de la Meinau\nResultado: 1 - 2
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS AS Mónaco
 DTSTART:20251205T180000Z
 DTEND:20251205T200000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8glj05zdcq5z920vg05lvn6z8@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 1 - 0
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Brest
 DTSTART:20251213T160000Z
 DTEND:20251213T180000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8j97zseqjb93yvwy9n2vf0ums@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Roazh
  on Park\nResultado: 3 - 1
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Auxerre
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8nq11nvlv3kcy4qidv1yii2ac@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 2 - 0
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lyon VS Brest
 DTSTART:20260118T194500Z
 DTEND:20260118T214500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8plljs64bsqgk05etnjow4opg@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Group
  ama Stadium\nResultado: 2 - 1
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Toulouse
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8t46s64zsh1t73iwei9nxcydw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 0 - 2
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Niza VS Brest
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8ydv3pe27le3jf7ma3ezyvdw4@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Allia
  nz Riviera\nResultado: 2 - 2
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Lorient
 DTSTART:20260207T180000Z
 DTEND:20260207T200000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-8zwdh40g17b67uxggrqi94i6s@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 2 - 0
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Brest
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-939i2u1dqhrqht2dk192oanmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Decat
  hlon Arena - Stade Pierre-Mauroy\nResultado: 1 - 1
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Olympique de Marsella
 DTSTART:20260220T194500Z
 DTEND:20260220T214500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-96zy9u5gs3rmkk4aldnbo6y38@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 2 - 0
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Brest
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9as9lbax5iqs4ifsddmbos3ro@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Saint-Symphorien\nResultado: 0 - 1
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Le Havre
 DTSTART:20260308T161500Z
 DTEND:20260308T181500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9d1i6ix9sinez5um1ic7284d0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 2 - 0
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Brest
 DTSTART:20260314T200500Z
 DTEND:20260314T220500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9ionuokb3g2k1ryu5vbm7b0gk@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Louis-II\nResultado: 2 - 0
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Brest
 DTSTART:20260321T180000Z
 DTEND:20260321T200000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9jziwyg6cgsvoirapcks32dxw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 3 - 0
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Rennes
 DTSTART:20260404T170000Z
 DTEND:20260404T190000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9ndqn7pe9rlo7eyftkjqlkoic@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 3 - 4
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Brest
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9w7ua9b67wzm28myjm68l50d0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Estad
  io de la Beaujoire - Louis Fonteneau\nResultado: 1 - 1
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Lens
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9zxjb8x1gt0a80798vsat6i38@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 3 - 3
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Brest
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-a2yvjth611uwq6dwxc6wuuy38@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Jean Bouin\nResultado: 4 - 0
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Brest
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-a42fzova76bvjvsu9hm8ow7is@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Parqu
  e de los Príncipes\nResultado: 1 - 0
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Estrasburgo
 DTSTART:20260513T170000Z
 DTEND:20260513T190000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-9rwlcosdmxen4l8qu9x0kdvro@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 1 - 2
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Angers
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260724T130304Z
+DTSTAMP:20260724T151453Z
 UID:fifa-a85xjra8twh5x8ahf0tivmdqs@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 1 - 1
