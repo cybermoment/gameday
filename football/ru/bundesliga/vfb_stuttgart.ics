@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Унион Берлин VS Штутгарт
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-cuy2jl56nzmr8kciofaw35mvo@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Stadion An
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Боруссия Менхенгладбах
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-cxgxfv4cgatuuo00n8tqnp250@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Штутгарт
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Europa-Par
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Санкт-Паули
 DTSTART:20250919T183000Z
 DTEND:20250919T203000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-d57dyecge1gksxij76pexjndg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Кельн VS Штутгарт
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-da1gkw7g8uurvecg8icqqu80k@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Стади
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Хайденхайм
 DTSTART:20251005T133000Z
 DTEND:20251005T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-dcbu0qyee86bq330g0zaxen84@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Вольфсбург VS Штутгарт
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-dhgn2s9vj1xh9qa8pa8do0hsk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Volkswagen
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Майнц 05
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:РБ Лейпциг VS Штутгарт
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-dob7jioiab4wpkqsh501gt8us@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Red Bull A
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Аугсбург
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-dsqxlgx55w9dyzteo543rekgk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Боруссия Дортмунд VS Штутгарт
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-dv3pyqp0u9k0vzrwxfqyw7pqs@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: SIGNAL IDU
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Гамбург VS Штутгарт
 DTSTART:20251130T143000Z
 DTEND:20251130T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-e1f69rve0isrkp77hh5c7s9hw@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Volksparks
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Бавария Мюнхен
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-e316y52k65mk03dm4as02k1ec@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Вердер Бремен VS Штутгарт
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Weserstadi
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Хоффенхайм
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ea4lmhpl5whsoh1piqqcssl5g@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Штутгарт
 DTSTART:20260110T173000Z
 DTEND:20260110T193000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ecvhruw09dh0sttcgksxez85w@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: BayArena\n
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Айнтрахт Франкфурт
 DTSTART:20260113T173000Z
 DTEND:20260113T193000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-eh9gvjxr0n86w07y0jj7dtqtw@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Унион Берлин
 DTSTART:20260118T143000Z
 DTEND:20260118T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ektysl1ncdd9c0sofo4gauvpw@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Боруссия Менхенгладбах VS Штутгарт
 DTSTART:20260125T143000Z
 DTEND:20260125T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ep7dzm3z4tfgwvyyw1kyxvxuc@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: BORUSSIA-P
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Фрайбург
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Санкт-Паули VS Штутгарт
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ewpv0e762q6h7lgsj9ttp6710@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Millerntor
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Кельн
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ezvw4rzkq2oh0hvwgw0dl7cwk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Хайденхайм VS Штутгарт
 DTSTART:20260222T183000Z
 DTEND:20260222T203000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-f48ekfjam5o4sn61u5cgqlb84@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Voith-Aren
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Вольфсбург
 DTSTART:20260301T143000Z
 DTEND:20260301T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-z5x4rla2wka1b60vymlgahg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Майнц 05 VS Штутгарт
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MEWA ARENA
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS РБ Лейпциг
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-8jtwam679udusbvzwv2egi6s@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Аугсбург VS Штутгарт
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-c2jl259mxclm0afht8mu5pg4@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: WWK Arena\
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Боруссия Дортмунд
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-f9p6jq6t9ykow3vrcstmoqhg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Гамбург
 DTSTART:20260412T153000Z
 DTEND:20260412T173000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-ip68aj1tv057ewa4zh0f3jtg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Штутгарт
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-l1unx7afl9hhfzuu40gzx0yc@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Allianz Ar
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Вердер Бремен
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Хоффенхайм VS Штутгарт
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-vdyf5bricl9fqbe7uviz5btg@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: PreZero Ar
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Штутгарт VS Байер Леверкузен
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-wypbnfvax0tbj73qs4iv94ic@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: MHPArena\n
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Айнтрахт Франкфурт VS Штутгарт
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260725T210024Z
+DTSTAMP:20260725T220416Z
 UID:fifa-1053ngfunkdt7v41cane05fkk@fifa.com
 DESCRIPTION:Турнир: Бундеслига\nСтадия: Регуля
  рный период соревнований\nСтадион: Deutsche B
