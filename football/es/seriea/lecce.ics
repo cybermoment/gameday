@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Génova VS Lecce
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-cj1crau6yj93nnyk80lzjpes4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Comunale Luigi Ferraris\nResultado: 0 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS AC Milan
 DTSTART:20250829T184500Z
 DTEND:20250829T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-cocjrxkycj7rojvg68psz8sno@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 2
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Lecce
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-cqdjyshnqqje3o55ba6jalono@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: New B
  alance Arena\nResultado: 4 - 1
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Cagliari
 DTSTART:20250919T184500Z
 DTEND:20250919T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-cwayb4slmogc08eftjr54x6ac@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 1 - 2
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Bolonia
 DTSTART:20250928T160000Z
 DTEND:20250928T180000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-czuo2pvhjnqvkbvqy4t5nwpw4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 2 - 2
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Lecce
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-d54tgboprbgicv3i71jygpz4k@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ennio Tardini\nResultado: 0 - 1
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Sassuolo
 DTSTART:20251018T130000Z
 DTEND:20251018T150000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-d8d1t5jcq22vyydtoit9n4jdg@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 0
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Lecce
 DTSTART:20251025T130000Z
 DTEND:20251025T150000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-ddlym8mubvauwp515wqsyazv8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Bluen
  ergy Stadium\nResultado: 3 - 2
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Nápoles
 DTSTART:20251028T173000Z
 DTEND:20251028T193000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-dh9dw8ynx40z3bjgfjxxohvkk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 1
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Lecce
 DTSTART:20251102T140000Z
 DTEND:20251102T160000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-diuxkzq1t6j5r3b8myu04i3h0@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Artemio Franchi\nResultado: 0 - 1
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Hellas Verona
 DTSTART:20251108T140000Z
 DTEND:20251108T160000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-dow8k870q7vkvk4h4gjfr5m38@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 0
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Lecce
 DTSTART:20251123T170000Z
 DTEND:20251123T190000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-ds5esvdr9jzrgdf3m7mg1hxqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico\nResultado: 2 - 0
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Torino
 DTSTART:20251130T113000Z
 DTEND:20251130T133000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-dwm79w7tnuve8xn9ietkl0mc4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 2 - 1
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Lecce
 DTSTART:20251207T113000Z
 DTEND:20251207T133000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-dz0y3waleoh6j2ih9chxlmzh0@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giovanni Zini\nResultado: 2 - 0
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Pisa
 DTSTART:20251212T194500Z
 DTEND:20251212T214500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-e4bjrtggvllrtp9utmav8836c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 1 - 0
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Como
 DTSTART:20251227T140000Z
 DTEND:20251227T160000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-ec3snqm0rvvrhq6gcckxajspg@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 3
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Lecce
 DTSTART:20260103T170000Z
 DTEND:20260103T190000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-ehd57it29eiid499msbkyw5jo@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Allia
  nz Stadium\nResultado: 1 - 1
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Roma
 DTSTART:20260106T170000Z
 DTEND:20260106T190000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-ek5ol2jqzzvwqaqamyq40idqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 2
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Parma
 DTSTART:20260111T113000Z
 DTEND:20260111T133000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-epet2s8f9nzgwui77ttese8es@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 1 - 2
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Lecce
 DTSTART:20260114T194500Z
 DTEND:20260114T214500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-e8fftcbn38afvjdakkxpxme50@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Meazza\nResultado: 1 - 0
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan VS Lecce
 DTSTART:20260118T194500Z
 DTEND:20260118T214500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-eso1gnu58c38mls1vab6jrswk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Meazza\nResultado: 1 - 0
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Lazio
 DTSTART:20260124T194500Z
 DTEND:20260124T214500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-exiq2izmkvobez4syavdwmb6c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 0
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Lecce
 DTSTART:20260201T113000Z
 DTEND:20260201T133000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-f2diu7wmdh2kczfhftc1it8gk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico Grande Torino\nResultado: 1 - 0
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Udinese
 DTSTART:20260208T140000Z
 DTEND:20260208T160000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-f56c1hbg188f69e7naokiszro@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 2 - 1
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Lecce
 DTSTART:20260216T194500Z
 DTEND:20260216T214500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-1kjtznun3k2gkms1o5kwvmz8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Unipo
  l Domus\nResultado: 0 - 2
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS FC Internazionale Milano
 DTSTART:20260221T170000Z
 DTEND:20260221T190000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-84auhudhy69hhn88ssk3r578@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 2
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Lecce
 DTSTART:20260228T140000Z
 DTEND:20260228T160000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-9q6fu735vnsucy5miabdk9hw@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Sinigaglia\nResultado: 3 - 1
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Cremonese
 DTSTART:20260308T113000Z
 DTEND:20260308T133000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-h79yjvlodruaaas0ro64o3ys@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 2 - 1
@@ -389,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Lecce
 DTSTART:20260314T170000Z
 DTEND:20260314T190000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-k3kyemvff2sg6hsdast631uc@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 1
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Lecce
 DTSTART:20260322T170000Z
 DTEND:20260322T190000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-q6zdo1nm0rrkh9tn8s3l6vis@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico\nResultado: 1 - 0
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Atalanta
 DTSTART:20260406T130000Z
 DTEND:20260406T150000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-s6w2fbl61fofgunqoxoib9ck@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 3
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Bolonia VS Lecce
 DTSTART:20260412T160000Z
 DTEND:20260412T180000Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-v1k9wzz1dta9n9imvaqjxf6c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Renato Dall'Ara\nResultado: 2 - 0
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Fiorentina
 DTSTART:20260420T184500Z
 DTEND:20260420T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-zw98chsznt1xdy1cdq20gbh0@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 1 - 1
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Verona VS Lecce
 DTSTART:20260425T184500Z
 DTEND:20260425T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-16ecwq7zy70pn3zjoss91lyc4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Marcantonio Bentegodi\nResultado: 0 - 0
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Lecce
 DTSTART:20260501T184500Z
 DTEND:20260501T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-198o7cwvp34fdlmlraotjlez8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Arena
   Garibaldi - Stadio Romeo Anconetani\nResultado: 1 - 2
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Juventus FC
 DTSTART:20260509T184500Z
 DTEND:20260509T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-1cfmwpcxj2zdssuzx1mj5nn6c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 1
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Lecce
 DTSTART:20260517T184500Z
 DTEND:20260517T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-1i4vbddsnmqmht6b1kxeqadqs@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 2 - 3
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Génova
 DTSTART:20260524T184500Z
 DTEND:20260524T204500Z
-DTSTAMP:20260725T083229Z
+DTSTAMP:20260725T103950Z
 UID:fifa-1kphzdmxua4z9u5fpl8ajx8us@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 1 - 0
