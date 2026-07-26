@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Midtjylland VS Hibernian
 DTSTART:20250724T173000Z
 DTEND:20250724T193000Z
-DTSTAMP:20260726T110411Z
+DTSTAMP:20260726T124026Z
 UID:fifa-exinbwqsqtpobfj3ef76h73f8@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: MCH Arena\nResult: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Hibernian VS Midtjylland
 DTSTART:20250731T190000Z
 DTEND:20250731T210000Z
-DTSTAMP:20260726T110411Z
+DTSTAMP:20260726T124026Z
 UID:fifa-f1gx1a5gifqw0lyz3i0zgrspg@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Easter Road Stadium\nResult: 1 - 2
