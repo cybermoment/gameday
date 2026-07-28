@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Noah VS Budućnost Podgorica
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
-DTSTAMP:20260728T211347Z
+DTSTAMP:20260728T223510Z
 UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Kotaik Stadium\nRésultat: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Budućnost Podgorica VS FC Noah
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260728T211347Z
+DTSTAMP:20260728T223510Z
 UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Stadion Pod Goricom\nRésultat: 2 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Noah VS Ferencváros
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260728T211347Z
+DTSTAMP:20260728T223510Z
 UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Kotaik Stadium\nRésultat: 1 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros VS FC Noah
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260728T211347Z
+DTSTAMP:20260728T223510Z
 UID:fifa-701azda2tmhto993kf731cowk@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Groupama Aréna\nRésultat: 4 - 3
