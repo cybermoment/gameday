@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Legia Varsovie VS Aktobe
 DTSTART:20250710T190000Z
 DTEND:20250710T210000Z
-DTSTAMP:20260728T113620Z
+DTSTAMP:20260728T142510Z
 UID:fifa-540cn7c28qer1k49px0qmuy38@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
  Stade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Aktobe VS Legia Varsovie
 DTSTART:20250717T160000Z
 DTEND:20250717T180000Z
-DTSTAMP:20260728T113620Z
+DTSTAMP:20260728T142510Z
 UID:fifa-577o52d84mj1bi4dw6qx2k0lw@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
  Stade: Ortalyq stadıon\nRésultat: 0 - 1
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Baník Ostrava VS Legia Varsovie
 DTSTART:20250724T170000Z
 DTEND:20250724T190000Z
-DTSTAMP:20260728T113620Z
+DTSTAMP:20260728T142510Z
 UID:fifa-9q8gkhr39w7ocg5p0bxmm2uqc@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
  \nStade: Městský stadion - Vítkovice Aréna\nRésultat: 2 - 2
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Legia Varsovie VS Baník Ostrava
 DTSTART:20250731T190000Z
 DTEND:20250731T210000Z
-DTSTAMP:20260728T113620Z
+DTSTAMP:20260728T142510Z
 UID:fifa-9ubst7bovh646y6n0jkfj4il0@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
  \nStade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS Legia Varsovie
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260728T113620Z
+DTSTAMP:20260728T142510Z
 UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
  \nStade: AEK Arena - George Karapatakis\nRésultat: 4 - 1
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Legia Varsovie VS AEK Larnaca
 DTSTART:20250814T190000Z
 DTEND:20250814T210000Z
-DTSTAMP:20260728T113620Z
+DTSTAMP:20260728T142510Z
 UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 3ème tour de qualification
  \nStade: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
