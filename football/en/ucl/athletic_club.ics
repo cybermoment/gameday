@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Arsenal
 DTSTART:20250916T164500Z
 DTEND:20250916T184500Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de San Mamés\nResult: 0 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Athletic Club
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: SIGNAL IDUNA PARK\nResult: 4 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Qarabag FK
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de San Mamés\nResult: 3 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle United VS Athletic Club
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-5gj09fi5vmedayoh6kb4q08pg@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: St. James' Park\nResult: 2 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Slavia Praha VS Athletic Club
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Fortuna Arena\nResult: 0 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Paris Saint-Germain
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de San Mamés\nResult: 0 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Athletic Club
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: New Balance Arena\nResult: 2 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Club VS Sporting CP
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260728T031636Z
+DTSTAMP:20260728T060946Z
 UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de San Mamés\nResult: 2 - 3
