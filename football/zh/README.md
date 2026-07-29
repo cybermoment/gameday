@@ -24,22 +24,22 @@
 <details>
 <summary>中超 (16)</summary>
 
-- [成都蓉城](https://cybermoment.app/gameday/football/zh/csl/chengdurongcheng)
-- [深圳新鹏城](https://cybermoment.app/gameday/football/zh/csl/shenzhenxinpengcheng)
-- [天津津门虎](https://cybermoment.app/gameday/football/zh/csl/tianjinjinmenhu)
-- [重庆铜梁龙](https://cybermoment.app/gameday/football/zh/csl/chongqingtonglianglong)
-- [山东泰山](https://cybermoment.app/gameday/football/zh/csl/shandongtaishan)
-- [辽宁铁人](https://cybermoment.app/gameday/football/zh/csl/liaoningtieren)
-- [上海申花](https://cybermoment.app/gameday/football/zh/csl/shanghaishenhua)
-- [大连英博](https://cybermoment.app/gameday/football/zh/csl/dalianyingbo)
-- [上海海港](https://cybermoment.app/gameday/football/zh/csl/shanghaihaigang)
+- [成都蓉城](https://cybermoment.app/gameday/football/zh/csl/rongcheng)
+- [深圳新鹏城](https://cybermoment.app/gameday/football/zh/csl/peng_city)
+- [天津津门虎](https://cybermoment.app/gameday/football/zh/csl/jinmen_tiger)
+- [重庆铜梁龙](https://cybermoment.app/gameday/football/zh/csl/tonglianglong)
+- [山东泰山](https://cybermoment.app/gameday/football/zh/csl/taishan)
+- [辽宁铁人](https://cybermoment.app/gameday/football/zh/csl/tieren)
+- [上海申花](https://cybermoment.app/gameday/football/zh/csl/shenhua)
+- [大连英博](https://cybermoment.app/gameday/football/zh/csl/yingbo)
+- [上海海港](https://cybermoment.app/gameday/football/zh/csl/port)
 - [河南](https://cybermoment.app/gameday/football/zh/csl/henan)
-- [云南玉昆](https://cybermoment.app/gameday/football/zh/csl/yunnanyukun)
-- [青岛海牛](https://cybermoment.app/gameday/football/zh/csl/qingdaohainiu)
+- [云南玉昆](https://cybermoment.app/gameday/football/zh/csl/yukun)
+- [青岛海牛](https://cybermoment.app/gameday/football/zh/csl/hainiu)
 - [浙江](https://cybermoment.app/gameday/football/zh/csl/zhejiang)
-- [青岛西海岸](https://cybermoment.app/gameday/football/zh/csl/qingdaoxihaian)
-- [武汉三镇](https://cybermoment.app/gameday/football/zh/csl/wuhansanzhen)
-- [北京国安](https://cybermoment.app/gameday/football/zh/csl/beijingguoan)
+- [青岛西海岸](https://cybermoment.app/gameday/football/zh/csl/west_coast)
+- [武汉三镇](https://cybermoment.app/gameday/football/zh/csl/three_towns)
+- [北京国安](https://cybermoment.app/gameday/football/zh/csl/guoan)
 
 </details>
 <details>

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Wolfsberger AC
 DTSTART:20250807T173000Z
 DTEND:20250807T193000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-6xzdplg23g3g3ni34nmh5di50@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadio Toumbas\nРезультат: 0 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsberger AC VS ПАОК
 DTSTART:20250814T170000Z
 DTEND:20250814T190000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-70zqarfg4fmdjhcormhtjou8k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: 28 Black Arena\nРезультат: 0 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Риека VS ПАОК
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-a00stu2r9waxfjiarrmhwdj4k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Stadion HNK Rijeka\nРезультат: 1 -
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Риека
 DTSTART:20250828T173000Z
 DTEND:20250828T193000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-a12pc4txf515i4sjnu4mt7ztg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Stadio Toumbas\nРезультат: 5 - 0
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Маккаби Тель-Авив
 DTSTART:20250924T164500Z
 DTEND:20250924T184500Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-2aobbvijozeza0rc41sx45s7o@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Stadio Toumbas\nРезультат: 0 - 0
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS ПАОК
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-2p12ccayurhclg9i6vuk51o9g@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estadio Abanca-Balaídos\nРезультат: 
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS ПАОК
 DTSTART:20251023T190000Z
 DTEND:20251023T210000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-2ubsd08ffg5auefqb9fzynklw@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Decathlon Arena - Stade Pierre-Mauroy\nРез
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Янг Бойз
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-31jqkml44wvatftseillengno@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Stadio Toumbas\nРезультат: 4 - 0
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Бранн
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-3635j318y9g5dzzbc8df2o0es@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Stadio Toumbas\nРезультат: 1 - 1
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:ФК Разград 2000 VS ПАОК
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-3cjw8pifgyo5wu0aikfw1f1g4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Huvepharma Arena\nРезультат: 3 - 3
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Бетис
 DTSTART:20260122T174500Z
 DTEND:20260122T194500Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-3jjwsgbtga3y1m8paorwbc6c4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Stadio Toumbas\nРезультат: 2 - 0
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Лион VS ПАОК
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-3szj84y9b1agyx0opssxxwhlg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Парк Олимпик Лионне\nРезу
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Сельта
 DTSTART:20260219T174500Z
 DTEND:20260219T194500Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-a0f82r78d5xjj6p7cfz3yj09g@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Kn
  ockout Round Play-offs\nСтадион: Stadio Toumbas\nРезультат
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS ПАОК
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
-DTSTAMP:20260729T094418Z
+DTSTAMP:20260729T120640Z
 UID:fifa-a0u8tj7f3s7nh9j0ytptatmok@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Kn
  ockout Round Play-offs\nСтадион: Estadio Abanca-Balaídos\nРезу

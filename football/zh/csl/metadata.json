@@ -7,47 +7,47 @@
     {
       "id": "400241414",
       "name": "成都蓉城",
-      "filename": "chengdurongcheng"
+      "filename": "rongcheng"
     },
     {
       "id": "a1a0zo3jliehxemg6qpa3lrva",
       "name": "深圳新鹏城",
-      "filename": "shenzhenxinpengcheng"
+      "filename": "peng_city"
     },
     {
       "id": "276",
       "name": "天津津门虎",
-      "filename": "tianjinjinmenhu"
+      "filename": "jinmen_tiger"
     },
     {
       "id": "cjnb1ayk5mruxqpud9qmy4t1w",
       "name": "重庆铜梁龙",
-      "filename": "chongqingtonglianglong"
+      "filename": "tonglianglong"
     },
     {
       "id": "1884139",
       "name": "山东泰山",
-      "filename": "shandongtaishan"
+      "filename": "taishan"
     },
     {
       "id": "7u46yssnarhr1uyxsmv4q5x3q",
       "name": "辽宁铁人",
-      "filename": "liaoningtieren"
+      "filename": "tieren"
     },
     {
       "id": "1884140",
       "name": "上海申花",
-      "filename": "shanghaishenhua"
+      "filename": "shenhua"
     },
     {
       "id": "dicpumaiand6vk7vqbn4tqdxw",
       "name": "大连英博",
-      "filename": "dalianyingbo"
+      "filename": "yingbo"
     },
     {
       "id": "2000018544",
       "name": "上海海港",
-      "filename": "shanghaihaigang"
+      "filename": "port"
     },
     {
       "id": "2147481975",
@@ -57,12 +57,12 @@
     {
       "id": "3n4jrcw6w965v1qvp0azx5kwk",
       "name": "云南玉昆",
-      "filename": "yunnanyukun"
+      "filename": "yukun"
     },
     {
       "id": "a3rgv4o76uowd2gxzx9pgf02d",
       "name": "青岛海牛",
-      "filename": "qingdaohainiu"
+      "filename": "hainiu"
     },
     {
       "id": "400241417",
@@ -72,17 +72,17 @@
     {
       "id": "2ff3aaqtf2g91wbcz4w80kkr8",
       "name": "青岛西海岸",
-      "filename": "qingdaoxihaian"
+      "filename": "west_coast"
     },
     {
       "id": "400241416",
       "name": "武汉三镇",
-      "filename": "wuhansanzhen"
+      "filename": "three_towns"
     },
     {
       "id": "1894053",
       "name": "北京国安",
-      "filename": "beijingguoan"
+      "filename": "guoan"
     }
   ]
 }
