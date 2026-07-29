@@ -7,7 +7,7 @@
     {
       "id": "44184",
       "name": "Stade Rennes",
-      "filename": "rennes"
+      "filename": "stade_rennes"
     },
     {
       "id": "33192",
@@ -17,12 +17,12 @@
     {
       "id": "400129932",
       "name": "RC Lens",
-      "filename": "lens"
+      "filename": "rc_lens"
     },
     {
       "id": "26230",
       "name": "Olympique Lyon",
-      "filename": "olympique_lyonnais"
+      "filename": "olympique_lyon"
     },
     {
       "id": "30983",
@@ -32,27 +32,27 @@
     {
       "id": "1955644",
       "name": "Le Havre AC",
-      "filename": "le_havre"
+      "filename": "le_havre_ac"
     },
     {
       "id": "44203",
       "name": "OGC Nizza",
-      "filename": "ogc_nice"
+      "filename": "ogc_nizza"
     },
     {
       "id": "33352",
       "name": "FC Toulouse",
-      "filename": "toulouse_fc"
+      "filename": "fc_toulouse"
     },
     {
       "id": "400079771",
       "name": "Stade Brest",
-      "filename": "stade_brestois"
+      "filename": "stade_brest"
     },
     {
       "id": "33350",
       "name": "OSC Lille",
-      "filename": "lille"
+      "filename": "osc_lille"
     },
     {
       "id": "31032",
@@ -62,12 +62,12 @@
     {
       "id": "44239",
       "name": "Racing Straßburg",
-      "filename": "rc_strasbourg_alsace"
+      "filename": "racing_stra_burg"
     },
     {
       "id": "2000019156",
       "name": "SCO Angers",
-      "filename": "angers_sco"
+      "filename": "sco_angers"
     },
     {
       "id": "8v00fx2zwhiwm05tqqkt122p5",
@@ -77,7 +77,7 @@
     {
       "id": "9bxav814mkuhueiyivyive82d",
       "name": "AJ Auxerre",
-      "filename": "auxerre"
+      "filename": "aj_auxerre"
     },
     {
       "id": "400129931",

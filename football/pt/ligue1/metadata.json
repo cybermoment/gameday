@@ -12,7 +12,7 @@
     {
       "id": "33192",
       "name": "Olympique de Marseille",
-      "filename": "olympique_marseille"
+      "filename": "olympique_de_marseille"
     },
     {
       "id": "400129932",
@@ -22,12 +22,12 @@
     {
       "id": "26230",
       "name": "Lyon",
-      "filename": "olympique_lyonnais"
+      "filename": "lyon"
     },
     {
       "id": "30983",
       "name": "Monaco",
-      "filename": "as_monaco"
+      "filename": "monaco"
     },
     {
       "id": "1955644",
@@ -37,17 +37,17 @@
     {
       "id": "44203",
       "name": "Nice",
-      "filename": "ogc_nice"
+      "filename": "nice"
     },
     {
       "id": "33352",
       "name": "Toulouse",
-      "filename": "toulouse_fc"
+      "filename": "toulouse"
     },
     {
       "id": "400079771",
       "name": "Brestois",
-      "filename": "stade_brestois"
+      "filename": "brestois"
     },
     {
       "id": "33350",
@@ -57,17 +57,17 @@
     {
       "id": "31032",
       "name": "Metz",
-      "filename": "fc_metz"
+      "filename": "metz"
     },
     {
       "id": "44239",
       "name": "Strasbourg",
-      "filename": "rc_strasbourg_alsace"
+      "filename": "strasbourg"
     },
     {
       "id": "2000019156",
       "name": "Angers",
-      "filename": "angers_sco"
+      "filename": "angers"
     },
     {
       "id": "8v00fx2zwhiwm05tqqkt122p5",
@@ -82,12 +82,12 @@
     {
       "id": "400129931",
       "name": "Lorient",
-      "filename": "fc_lorient"
+      "filename": "lorient"
     },
     {
       "id": "2000000574",
       "name": "Nantes",
-      "filename": "fc_nantes"
+      "filename": "nantes"
     },
     {
       "id": "1956449",
