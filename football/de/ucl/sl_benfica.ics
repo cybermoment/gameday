@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:OGC Nizza VS SL Benfica
 DTSTART:20250806T190000Z
 DTEND:20250806T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-76sk56g6n6lc9khib9ei9u51w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Allianz Riviera\nErgebnis: 0 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS OGC Nizza
 DTSTART:20250812T190000Z
 DTEND:20250812T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-79nymc9y4095m09315oezjq50@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 2 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahce VS SL Benfica
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: C
  hobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\nErgebnis: 
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Fenerbahce
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: E
  stádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 1 - 0
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Qarabağ Ağdam
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 2 - 3
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS SL Benfica
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Stamford Bridge\nErgebnis: 1 - 0
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle United VS SL Benfica
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-562r0ddozxsa83y9l1wfm74t0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: St. James' Park\nErgebnis: 3 - 0
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Bayer 04 Leverkusen
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-5h8w7ietnomxr4a3b88ewwk5w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 0 - 1
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax Amsterdam VS SL Benfica
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-5hnjhjd2o2wd899g579xeg6c4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Johan Cruijff ArenA\nErgebnis: 0 - 2
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS SSC Neapel
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 2 - 0
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS SL Benfica
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Allianz Stadium\nErgebnis: 2 - 0
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Real Madrid C.F.
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-68772t2j3wfmtm710ulwxrok4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 4 - 2
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Real Madrid C.F.
 DTSTART:20260217T200000Z
 DTEND:20260217T220000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-6mfc71dto86yoss3ru9hegvmc@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Knockout Round Play-
  offs\nStadion: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 0 - 
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS SL Benfica
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260730T153337Z
+DTSTAMP:20260730T174139Z
 UID:fifa-6msydlb539kqt5cemmh8napec@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Knockout Round Play-
  offs\nStadion: Estadio Bernabéu\nErgebnis: 2 - 1
