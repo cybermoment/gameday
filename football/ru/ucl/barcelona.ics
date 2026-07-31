@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Барселона
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-4x2w9j51dk7kc90orh6vkm2hg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: St. James' Park\nРезультат: 1 -
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS ПСЖ
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-535v16ejka2ckhekin6euxg5w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadi Olímpic Lluís Companys\nРез
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Олимпиакос Пирей
 DTSTART:20251021T164500Z
 DTEND:20251021T184500Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-547fv6pkd98zbsl3ha92ih0d0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadi Olímpic Lluís Companys\nРез
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Барселона
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-5fbfmxmdror7xvtcq3a41pkpg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Челси VS Барселона
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-5iss7tc562nnymg0uiewtt0r8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stamford Bridge\nРезультат: 3 -
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Айнтрахт Франкфурт
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-5q05t4o4el0d6rhmncz6pxqms@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Spotify Camp Nou\nРезультат: 2 
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Славия Прага VS Барселона
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-61upafdbc4mwkdmp1k5ajqu50@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Синот Тип Аре
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Копенгаген
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Spotify Camp Nou\nРезультат: 4 
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Барселона
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-cy57racub2br10hm6bcv5y39w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: St. James' Park\nРезультат:
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Ньюкасл
 DTSTART:20260318T174500Z
 DTEND:20260318T194500Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-d3utvvilysz7lkewu7ylnqntg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Spotify Camp Nou\nРезультат
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Атлетико Мадрид
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Spotify Camp Nou\nРезультат
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Барселона
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260731T170632Z
+DTSTAMP:20260731T185448Z
 UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Riyadh Air Metropolitano\nРезул
