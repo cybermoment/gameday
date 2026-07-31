@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Fredrikstad VS Midtjylland
 DTSTART:20250807T160000Z
 DTEND:20250807T180000Z
-DTSTAMP:20260731T185450Z
+DTSTAMP:20260731T202330Z
 UID:fifa-4pyetb0196j1bsnj4a931pic4@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Nye Fredrikstad Stadion\nResult: 1 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Midtjylland VS Fredrikstad
 DTSTART:20250814T160000Z
 DTEND:20250814T180000Z
-DTSTAMP:20260731T185450Z
+DTSTAMP:20260731T202330Z
 UID:fifa-4s5h8zjjvzrdkcgxi2vsz1y50@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: MCH Arena\nResult: 2 - 0
