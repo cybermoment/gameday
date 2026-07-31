@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Риека VS Шелбурн
 DTSTART:20250806T184500Z
 DTEND:20250806T204500Z
-DTSTAMP:20260731T214047Z
+DTSTAMP:20260731T230920Z
 UID:fifa-urqyhtxzw5f0e0162deegf10@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadion HNK Rijeka\nРезультат: 1 -
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Шелбурн VS Риека
 DTSTART:20250812T184500Z
 DTEND:20250812T204500Z
-DTSTAMP:20260731T214047Z
+DTSTAMP:20260731T230920Z
 UID:fifa-109tzu24amo985enu2dlo1a8k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Tolka Park\nРезультат: 1 - 3
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Риека VS ПАОК
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260731T214047Z
+DTSTAMP:20260731T230920Z
 UID:fifa-a00stu2r9waxfjiarrmhwdj4k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Stadion HNK Rijeka\nРезультат: 1 -
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:ПАОК VS Риека
 DTSTART:20250828T173000Z
 DTEND:20250828T193000Z
-DTSTAMP:20260731T214047Z
+DTSTAMP:20260731T230920Z
 UID:fifa-a12pc4txf515i4sjnu4mt7ztg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Stadio Toumbas\nРезультат: 5 - 0
