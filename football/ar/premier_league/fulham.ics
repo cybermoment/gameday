@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:برايتون VS فولهام
 DTSTART:20250816T140000Z
 DTEND:20250816T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-10jpwd1x2paywtbfatjev182c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب فا
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS نادي مانشستر يونايتد
 DTSTART:20250824T153000Z
 DTEND:20250824T173000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-16ogxo1bxdi6eza02h0s9i5n8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:تشيلسي VS فولهام
 DTSTART:20250830T113000Z
 DTEND:20250830T133000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1929jvcf42axkdr52hdrfuvis@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ستامفو
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS ليدز يونايتد
 DTSTART:20250913T140000Z
 DTEND:20250913T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1ejplc4zz2mafz8ve5yaztgyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS برينتفورد
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1hotdoe44db3avxd1j91hxw5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:أستون فيلا VS فولهام
 DTSTART:20250928T130000Z
 DTEND:20250928T150000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1k3eld3sysqfeherxz48tzoyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: فيلا با
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:بورنموث VS فولهام
 DTSTART:20251003T190000Z
 DTEND:20251003T210000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1o40goci4ply97jh7uhh3zq50@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: دين كور
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS أرسنال
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1taq9euew4fs51eqk666nc2dw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:نيوكاسل VS فولهام
 DTSTART:20251025T140000Z
 DTEND:20251025T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-1zf0zsabpkibbzn05lty6cv10@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: سينت جي
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS ولفرهامبتون
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-21e9qf2g143huh7h7gqpcj310@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:إيفرتون VS فولهام
 DTSTART:20251108T150000Z
 DTEND:20251108T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-25soeaibarxqqknu9tqwgiqdw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب هي
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS سندرلاند
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-29stxec16t171gwpixb6tcaok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:توتنهام VS فولهام
 DTSTART:20251129T200000Z
 DTEND:20251129T220000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-2fe6zf414gquq687ftwrxeplg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب تو
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS مانشستر سيتي
 DTSTART:20251202T193000Z
 DTEND:20251202T213000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-2huqn7q2qf5wv5w6t7zntjh1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS كريستال بالاس
 DTSTART:20251207T163000Z
 DTEND:20251207T183000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-2luiolpt1jy5d28eus95spudw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:بيرنلي VS فولهام
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-2p2bn6raq23z2z9d2ubzelkpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: تورف مو
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS نوتنغهام فورست
 DTSTART:20251222T200000Z
 DTEND:20251222T220000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-2u05w864nrk2n7f7xxb2dvfo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:وست هام VS فولهام
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-301qv7qh7f68fs8msq82ki51w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب لن
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:كريستال بالاس VS فولهام
 DTSTART:20260101T173000Z
 DTEND:20260101T193000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3213l7phvb9z5fvoks5hkjnkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: سيلهور
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS ليفربول
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-36e9umplcfioh9jroyvcwq0pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS تشيلسي
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3b88lgitioom79f9582v671n8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:ليدز يونايتد VS فولهام
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3e02p7upavgzcp7hlm9ie1xjo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: إيلان ر
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS برايتون
 DTSTART:20260124T150000Z
 DTEND:20260124T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3j7tp9n0yhxrv1kpyax05gy6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:نادي مانشستر يونايتد VS فولهام
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3mupduyj99i9jq4xrg9rneoes@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أولد تر
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS إيفرتون
 DTSTART:20260207T150000Z
 DTEND:20260207T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3qhpjpugj6pxygbjsx1afzzmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:مانشستر سيتي VS فولهام
 DTSTART:20260211T193000Z
 DTEND:20260211T213000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3uwscuw3pka1nis987nbuotn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:سندرلاند VS فولهام
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-3zqsl82hkajpz8q2ta9wz1ono@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ستاديو
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS توتنهام
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-42jx3wx1mip1d4gb7xxr5xqms@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS وست هام
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-46l5tcessu8s61wzg7lfykob8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:نوتنغهام فورست VS فولهام
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4btd13vohred1mnqymrbxt72s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ذا سيتي
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS بيرنلي
 DTSTART:20260321T150000Z
 DTEND:20260321T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4eljvcto747n3og5zxhsgn4es@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS فولهام
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4j6ivw9f5me8lnzenpp7vnuok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: أنفيلد\
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:برينتفورد VS فولهام
 DTSTART:20260418T113000Z
 DTEND:20260418T133000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4lm557n5sh5s5bv94m63lgj6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: ملعب بر
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS أستون فيلا
 DTSTART:20260425T113000Z
 DTEND:20260425T133000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4rb4ziwutw24zx7ni67cnask4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:أرسنال VS فولهام
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4u45d36alhjxa1qxmvmzja80k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS بورنموث
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-4z1zxqksc6bleu9a1009ng7pw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:ولفرهامبتون VS فولهام
 DTSTART:20260517T140000Z
 DTEND:20260517T160000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-55j21gxnbt3gda8onzs81rf2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: استاد ا
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:فولهام VS نيوكاسل
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260802T123605Z
+DTSTAMP:20260802T143945Z
 UID:fifa-5770cell6dg85i03xfikgnwus@fifa.com
 DESCRIPTION:المسابقة: الدوري الإنجليزي الممتا
  ز\nالمرحلة: الموسم الحالي\nالملعب: كرافين 
