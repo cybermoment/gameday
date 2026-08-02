@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Арсенал
 DTSTART:20250916T164500Z
 DTEND:20250916T184500Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Боруссия Дортмунд VS Атлетик
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: SIGNAL IDUNA PARK\nРезультат: 4
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Карабах
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Атлетик
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-5gj09fi5vmedayoh6kb4q08pg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: St. James' Park\nРезультат: 2 -
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Славия Прага VS Атлетик
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-5k8vzrigcdi1o95w2pyfrxfys@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Синот Тип Аре
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS ПСЖ
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-5smhf84om1dhdf2edquq6xo2c@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Атлетик
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-5zmmmc2jjkytmiu66jih5nor8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: New Balance Arena\nРезультат: 2
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Спортинг Лиссабон
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260802T160610Z
+DTSTAMP:20260802T173343Z
 UID:fifa-63bt6c9wn9nexq4z6mx3hopw4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
