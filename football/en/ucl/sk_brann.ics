@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:SK Brann VS FC Salzburg
 DTSTART:20250723T170000Z
 DTEND:20250723T190000Z
-DTSTAMP:20260803T113723Z
+DTSTAMP:20260803T145450Z
 UID:fifa-48bnci3h4qtm8qeph5cm74lqs@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Brann Stadion\nResult: 1 - 4
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:FC Salzburg VS SK Brann
 DTSTART:20250730T184500Z
 DTEND:20250730T204500Z
-DTSTAMP:20260803T113723Z
+DTSTAMP:20260803T145450Z
 UID:fifa-49kq24idqeokbcsr5e9ox6fpw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Red Bull Arena\nResult: 1 - 1
