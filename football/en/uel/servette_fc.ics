@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Servette FC VS FC Utrecht
 DTSTART:20250807T183000Z
 DTEND:20250807T203000Z
-DTSTAMP:20260803T000320Z
+DTSTAMP:20260803T040811Z
 UID:fifa-ajf4t8sm17xy2ilx7rkn05o9g@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Stade de Genève\nResult: 1 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:FC Utrecht VS Servette FC
 DTSTART:20250814T180000Z
 DTEND:20250814T200000Z
-DTSTAMP:20260803T000320Z
+DTSTAMP:20260803T040811Z
 UID:fifa-akq60d1anbwh91lladx7n24gk@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Stadion Galgenwaard\nResult: 2 - 1
