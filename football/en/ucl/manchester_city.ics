@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Napoli
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Etihad Stadium\nResult: 2 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco VS Manchester City
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-5227vfuuiwhekbemsnyzbx3bo@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Stade Louis-II\nResult: 2 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Manchester City
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-574tgvqb4oyjvuwcmqqar4kyc@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de la Cerámica\nResult: 0 - 2
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Borussia Dortmund
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Etihad Stadium\nResult: 4 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Bayer Leverkusen
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-5jj2hoxdj3jozbpos1o0t9j4k@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Etihad Stadium\nResult: 0 - 2
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Manchester City
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-5ughwgykdnyfllb65u6fsou1g@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 1 - 2
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:FK Bodø/Glimt VS Manchester City
 DTSTART:20260120T174500Z
 DTEND:20260120T194500Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Aspmyra Stadion\nResult: 3 - 1
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Galatasaray
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Etihad Stadium\nResult: 2 - 0
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Manchester City
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-6nqqxwuv26u9t8rexoc10r85w@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 8th Finals\nStadium
  : Estadio Bernabéu\nResult: 3 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Real Madrid C.F.
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260803T075818Z
+DTSTAMP:20260803T113723Z
 UID:fifa-6qwoqwykx59aavhu3wobdqrdg@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 8th Finals\nStadium
  : Etihad Stadium\nResult: 1 - 2
