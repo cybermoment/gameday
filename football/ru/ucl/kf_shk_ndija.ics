@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Зе Нью-Сейнтс VS Шкендия 79
 DTSTART:20250708T180000Z
 DTEND:20250708T200000Z
-DTSTAMP:20260802T223150Z
+DTSTAMP:20260803T000318Z
 UID:fifa-blndl2ndwrpxfrqub5i4t99n8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Park Hall
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Шкендия 79 VS Зе Нью-Сейнтс
 DTSTART:20250715T180000Z
 DTEND:20250715T200000Z
-DTSTAMP:20260802T223150Z
+DTSTAMP:20260803T000318Z
 UID:fifa-bqzyd79rpfqahlc7e1xmlsbh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Наци
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Шкендия 79 VS Стяуа Бухарест
 DTSTART:20250722T180000Z
 DTEND:20250722T200000Z
-DTSTAMP:20260802T223150Z
+DTSTAMP:20260803T000318Z
 UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Националная арена и
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Стяуа Бухарест VS Шкендия 79
 DTSTART:20250730T173000Z
 DTEND:20250730T193000Z
-DTSTAMP:20260802T223150Z
+DTSTAMP:20260803T000318Z
 UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Стадион Арена Нацио
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Шкендия 79 VS Карабах
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260802T223150Z
+DTSTAMP:20260803T000318Z
 UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Националная арена и
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Карабах VS Шкендия 79
 DTSTART:20250812T160000Z
 DTEND:20250812T180000Z
-DTSTAMP:20260802T223150Z
+DTSTAMP:20260803T000318Z
 UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Республиканский ста
