@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS فيردر بريمن
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-ct1wksqog4t3a6w7kt2fc4jys@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS باير ليفركوزن
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-cx35c8zr87zjimkz2uwfddbtg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:بوروسيا مونشنجلادباخ VS فيردر بريمن
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-d1cy4wrr4rd2acrxtboi4srh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS فرايبورج
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS فيردر بريمن
 DTSTART:20250926T183000Z
 DTEND:20250926T203000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-d6szvgos484n5uqg0evyd0j6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS سانت باولي
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dbw5g0o17tchoakvvzrwgkr2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS فيردر بريمن
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dituz3c97msg96vhpedi607x0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS يونيون برلين
 DTSTART:20251024T183000Z
 DTEND:20251024T203000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dl2rx9bj47scg1mvhhbixludw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS فيردر بريمن
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dnwxghd3j1pqk5thh3jxu5dlg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS فولفسبورج
 DTSTART:20251107T193000Z
 DTEND:20251107T213000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dsaps5s5iyf83fnhqix50i9sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS فيردر بريمن
 DTSTART:20251123T143000Z
 DTEND:20251123T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dvw130uaptg56d8tbk21y7wgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS كولن
 DTSTART:20251129T143000Z
 DTEND:20251129T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-dzuruvbg3buwiby9eqwiot05w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS فيردر بريمن
 DTSTART:20251207T143000Z
 DTEND:20251207T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-e4zhb4p8lttt8hvcls920ns44@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS شتوتجارت
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS فيردر بريمن
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-eawxbkkj8ae5hw8yod8bw9mhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS فيردر بريمن
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-eg32vnng1c7spei56g5ldgmc4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS آينرتخت فرانكفورت
 DTSTART:20260116T193000Z
 DTEND:20260116T213000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-ekfuiat7hd0b93yqb33xo0ufo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS فيردر بريمن
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-enmzcbmzxj7mqk9rglbi7p5as@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS هوفنهايم
 DTSTART:20260127T193000Z
 DTEND:20260127T213000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-ee44qec2quq4b3rlshopmbh90@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS بوروسيا مونشنجلادباخ
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-eryaudkr50cz25pcdgb4bvr4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS فيردر بريمن
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS بايرن ميونيخ
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-ezhro218v7fr1mcebcdfn41zo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS فيردر بريمن
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-f3u9vmz1e5404zt2x54ye6l1w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS هايدينهايم
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-l178xz57e0f6jla7scv04k4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:يونيون برلين VS فيردر بريمن
 DTSTART:20260308T163000Z
 DTEND:20260308T183000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-4ybfeqfnqtumfk43wp2pbj10@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS ماينتس
 DTSTART:20260315T143000Z
 DTEND:20260315T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-85awldjeh348ic7lb2w5o8ic@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS فيردر بريمن
 DTSTART:20260321T143000Z
 DTEND:20260321T163000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-boe8da0rdeitunb1itudqs5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS لايبزيج
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-evkygv6vtxb2w8xxfz6w5fkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS فيردر بريمن
 DTSTART:20260412T133000Z
 DTEND:20260412T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-knqudityzu8iotqfyn7369sk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS هامبورج
 DTSTART:20260418T133000Z
 DTEND:20260418T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-mmkbdhus44bo4g4c4ytz9wyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS فيردر بريمن
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS أوجسبورج
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-ttd11jegtqmqlpqeeg85jo5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS فيردر بريمن
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-y6qmgniqgf59lo9d7tc27eac@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS نادي بوروسيا دورتموند
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260804T221755Z
+DTSTAMP:20260804T233420Z
 UID:fifa-10xtffi2776zhej0uesve88b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
