@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Ноттингем Форест VS Брентфорд
 DTSTART:20250817T130000Z
 DTEND:20250817T150000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-110stnyllsj1u0mhdabeuvyfo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: The Ci
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Астон Вилла
 DTSTART:20250823T140000Z
 DTEND:20250823T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-154ru5ptp2kfs14iguma92kno@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Сандерленд VS Брентфорд
 DTSTART:20250830T140000Z
 DTEND:20250830T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1b0aavyqhw9g2ebi1cua6uiac@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Stadiu
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Челси
 DTSTART:20250913T190000Z
 DTEND:20250913T210000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1cy3zxa3qlhra05l8tmcnmgwk@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Фулхэм VS Брентфорд
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1hotdoe44db3avxd1j91hxw5w@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Craven
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Манчестер Юнайтед
 DTSTART:20250927T113000Z
 DTEND:20250927T133000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1khr3704psti8rqgjsvafpa1g@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Манчестер Сити
 DTSTART:20251005T153000Z
 DTEND:20251005T173000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1paikangkucvx6etwyog8bxg4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Вест Хэм Юнайтед VS Брентфорд
 DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1vrxomf1ihb6xrivhrvs4nd3o@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: London
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Ливерпуль
 DTSTART:20251025T190000Z
 DTEND:20251025T210000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-1xebw5ifrjl5exfgvwogidmok@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Кристал Пэлас VS Брентфорд
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-21035eerys56hl1oi5yw20wes@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Selhur
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Ньюкасл
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-24m5mde1dqsnrirt0mxg8gr9w@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Брайтон VS Брентфорд
 DTSTART:20251122T150000Z
 DTEND:20251122T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-290hyavp000xtwoqfwwrpnj84@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Americ
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Бернли
 DTSTART:20251129T150000Z
 DTEND:20251129T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-2ckrxonh0xhlk5zh2hd42xk44@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Брентфорд
 DTSTART:20251203T193000Z
 DTEND:20251203T213000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-2gktdb7h1jkkld873ss0s0kyc@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Тоттенхэм VS Брентфорд
 DTSTART:20251206T150000Z
 DTEND:20251206T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-2nfh5mrn0tysgea5b9nvvrpqs@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Totten
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Лидс Юнайтед
 DTSTART:20251214T163000Z
 DTEND:20251214T183000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-2oo4yru8uymi9bjbi0aq2ttsk@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Вулверхэмптон VS Брентфорд
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-2w06t64qae19l0yny98uq21hw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Moline
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Борнмут
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-2wsp462b52gxk2tjm26x7vehg@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Тоттенхэм
 DTSTART:20260101T200000Z
 DTEND:20260101T220000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-30u45n5nmbx3jivwb5yg3y2vo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Эвертон VS Брентфорд
 DTSTART:20260104T150000Z
 DTEND:20260104T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-35zvgdgoufjbcg1zsgcev26tw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Hill D
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Сандерленд
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-39miak5jrvirotdvy8525nxg4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:Челси VS Брентфорд
 DTSTART:20260117T150000Z
 DTEND:20260117T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-3dlnunu8dl6de213ygwkac6j8@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Stamfo
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Ноттингем Форест
 DTSTART:20260125T140000Z
 DTEND:20260125T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-3hm43jg83vt9ppz1555taod1w@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Астон Вилла VS Брентфорд
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-3kv7dtapynhbnlfenn593qrro@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Villa 
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Брентфорд
 DTSTART:20260207T173000Z
 DTEND:20260207T193000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-3s39ztipo4s0wdvo7c3u3vkt0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Арсенал
 DTSTART:20260212T200000Z
 DTEND:20260212T220000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-3ta3lmi2yhygyqebvoqytbf2s@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Брайтон
 DTSTART:20260221T150000Z
 DTEND:20260221T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-3xb9emuqqhgacprgggpb0mpec@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Бернли VS Брентфорд
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-425ir4df7xnr0yefcph23r3mc@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Turf M
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Борнмут VS Брентфорд
 DTSTART:20260303T193000Z
 DTEND:20260303T213000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4502gmnydtfejbtkeik323ztg@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Vitali
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Вулверхэмптон
 DTSTART:20260316T200000Z
 DTEND:20260316T220000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-49dg9z1yukcltg3c2wv8dq1as@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Лидс Юнайтед VS Брентфорд
 DTSTART:20260321T200000Z
 DTEND:20260321T220000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4ezyab1abkqxrr5gv5mn6os2c@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Elland
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Эвертон
 DTSTART:20260411T140000Z
 DTEND:20260411T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4hhbdo474aqj544kw5b4xhl3o@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Фулхэм
 DTSTART:20260418T113000Z
 DTEND:20260418T133000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4lm557n5sh5s5bv94m63lgj6c@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Юнайтед VS Брентфорд
 DTSTART:20260427T190000Z
 DTEND:20260427T210000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4s4lfi1tj69ftoawrdig1erys@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Old Tr
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Вест Хэм Юнайтед
 DTSTART:20260502T140000Z
 DTEND:20260502T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4uxlhy8tqj36ztvez70j932tw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Сити VS Брентфорд
 DTSTART:20260509T163000Z
 DTEND:20260509T183000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-4zvbzemavxseozb5xmct44tg4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Etihad
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Кристал Пэлас
 DTSTART:20260517T140000Z
 DTEND:20260517T160000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-534tol61uap1u42acft5cep04@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -546,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:Ливерпуль VS Брентфорд
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260804T165738Z
+DTSTAMP:20260804T184412Z
 UID:fifa-57mwrh5wr8gy7obpu0kjmstg4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Anfiel
