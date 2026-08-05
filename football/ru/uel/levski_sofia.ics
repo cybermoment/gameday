@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Левски София VS Хапоэль Беэр-Шева
 DTSTART:20250710T173000Z
 DTEND:20250710T193000Z
-DTSTAMP:20260805T113736Z
+DTSTAMP:20260805T142359Z
 UID:fifa-6f82698scw2670hxkqci38kr8@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Stadion Georgi 
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Хапоэль Беэр-Шева VS Левски София
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260805T113736Z
+DTSTAMP:20260805T142359Z
 UID:fifa-6ha35p7vsqiciqqyxt6el2rro@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Városi Stadion
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Левски София VS Спортинг Брага
 DTSTART:20250724T173000Z
 DTEND:20250724T193000Z
-DTSTAMP:20260805T113736Z
+DTSTAMP:20260805T142359Z
 UID:fifa-8f8mn7eq13nfk9o1q2ag1hxqs@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadion Georgi Asparuhov\nРезульта
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Левски София
 DTSTART:20250731T190000Z
 DTEND:20250731T210000Z
-DTSTAMP:20260805T113736Z
+DTSTAMP:20260805T142359Z
 UID:fifa-8hzxfg2240bw9dtten8cg83ys@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Estádio Municipal de Braga\nРезульт
