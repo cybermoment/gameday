@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Maccabi Tel Aviv VS Dynamo Kyiv
 DTSTART:20250821T181500Z
 DTEND:20250821T201500Z
-DTSTAMP:20260806T071850Z
+DTSTAMP:20260806T101129Z
 UID:fifa-54rk1kg28ge28wmz10n2psk5w@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: TS
  C Arena\nResult: 3 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamo Kyiv VS Maccabi Tel Aviv
 DTSTART:20250828T180000Z
 DTEND:20250828T200000Z
-DTSTAMP:20260806T071850Z
+DTSTAMP:20260806T101129Z
 UID:fifa-577d7etyg53p2y824zylrlq1g@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: Mo
  tor Lublin Arena\nResult: 1 - 0
