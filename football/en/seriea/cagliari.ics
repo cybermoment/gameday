@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Fiorentina
 DTSTART:20250824T163000Z
 DTEND:20250824T183000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-ci2kxxx76lbrwh0aw8wl24avo@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Cagliari
 DTSTART:20250830T184500Z
 DTEND:20250830T204500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-coqrhq09kxd16iejvgtzj3mz8@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio D
  iego Armando Maradona\nResult: 1 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Parma
 DTSTART:20250913T130000Z
 DTEND:20250913T150000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-cqrnaavxgeypn5c4h3nvbayvo@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 2 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Cagliari
 DTSTART:20250919T184500Z
 DTEND:20250919T204500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-cwayb4slmogc08eftjr54x6ac@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio E
  ttore Giardiniero - Via del Mare\nResult: 1 - 2
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS FC Internazionale Milano
 DTSTART:20250927T184500Z
 DTEND:20250927T204500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-cy9s1cccxhtx6nkhlj4u1te6s@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 2
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Cagliari
 DTSTART:20251005T103000Z
 DTEND:20251005T123000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-d5j5q19nxheidda4qq7pfof84@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Bluenerg
  y Stadium\nResult: 1 - 1
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Bologna
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-d6rs8i22079apm2uhqqg71edw@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 2
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Verona VS Cagliari
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-de0f2p1wl2iw9w068jdvh2bys@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio M
  arcantonio Bentegodi\nResult: 2 - 2
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Sassuolo
 DTSTART:20251030T173000Z
 DTEND:20251030T193000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-df7pc4tsmi40f808ft7kkvvo4@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 1 - 2
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Cagliari
 DTSTART:20251103T194500Z
 DTEND:20251103T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-dj93wlc4y6a5z30ns89tmayac@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio O
  limpico\nResult: 2 - 0
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Cagliari
 DTSTART:20251108T140000Z
 DTEND:20251108T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-dnarz7g34ocl241c9fgxzp3pw@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio G
  iuseppe Sinigaglia\nResult: 0 - 0
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Genoa
 DTSTART:20251122T140000Z
 DTEND:20251122T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-dqi2afpogoxcqe16jjfngwpp0@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 3 - 3
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Cagliari
 DTSTART:20251129T170000Z
 DTEND:20251129T190000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-dw7l04vfj0i7p0g0hnp73cro4@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Allianz 
  Stadium\nResult: 2 - 1
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS AS Roma
 DTSTART:20251207T140000Z
 DTEND:20251207T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-dymba46s2x3m84cophpcnnlzo@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 1 - 0
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Cagliari
 DTSTART:20251213T194500Z
 DTEND:20251213T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-e2pafpo3vzld4dn6vy9tdi784@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: New Bala
  nce Arena\nResult: 2 - 1
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Pisa
 DTSTART:20251221T113000Z
 DTEND:20251221T133000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-e6tpfxp6ju1ri8t0tbhms0d1w@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 2 - 2
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Cagliari
 DTSTART:20251227T140000Z
 DTEND:20251227T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-ee3xl5vlrk8rwfcvjvrhyuzo4@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio O
  limpico Grande Torino\nResult: 1 - 2
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Milan
 DTSTART:20260102T194500Z
 DTEND:20260102T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-efb4054pkim890m38geyhzpqs@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 1
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Cagliari
 DTSTART:20260108T173000Z
 DTEND:20260108T193000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-ejcqsnfujvrrjh1eu3qq8xb10@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio G
  iovanni Zini\nResult: 2 - 2
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Genoa VS Cagliari
 DTSTART:20260112T173000Z
 DTEND:20260112T193000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-eo7rchwee8ucktswv023iaej8@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio C
  omunale Luigi Ferraris\nResult: 3 - 0
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Juventus FC
 DTSTART:20260117T194500Z
 DTEND:20260117T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-erezqmpfgndqhtkxj1wczdst0@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 1 - 0
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Cagliari
 DTSTART:20260124T170000Z
 DTEND:20260124T190000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-evv8cmnssdlr3i857zu7k7578@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio A
  rtemio Franchi\nResult: 1 - 2
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Hellas Verona
 DTSTART:20260131T194500Z
 DTEND:20260131T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-ezijfihwl2ggtddbl8w6v3f2s@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 4 - 0
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma VS Cagliari
 DTSTART:20260209T194500Z
 DTEND:20260209T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-d7rozixb3dhmow4gpbhydjo@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio O
  limpico\nResult: 2 - 0
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Lecce
 DTSTART:20260216T194500Z
 DTEND:20260216T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-1kjtznun3k2gkms1o5kwvmz8@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 2
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Lazio
 DTSTART:20260221T194500Z
 DTEND:20260221T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-6el28kt4wix2t8iwoh4vkkyc@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 0
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Cagliari
 DTSTART:20260227T194500Z
 DTEND:20260227T214500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-bdvvpz48cp9w0lbkjdd56nmc@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio E
  nnio Tardini\nResult: 1 - 1
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Como
 DTSTART:20260307T140000Z
 DTEND:20260307T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-f6be7zpfzas42zfhqdpu50yc@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 1 - 2
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Cagliari
 DTSTART:20260315T140000Z
 DTEND:20260315T160000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-ki794byd0j3awobhie3mj5sk@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Arena Ga
  ribaldi - Stadio Romeo Anconetani\nResult: 3 - 1
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Napoli
 DTSTART:20260320T173000Z
 DTEND:20260320T193000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-nbzv28n95d9kvq955jt5kiz8@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 1
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Cagliari
 DTSTART:20260404T130000Z
 DTEND:20260404T150000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-tfoo35e6mvmhfnryoh0dn85w@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: MAPEI St
  adium - Città del Tricolore\nResult: 2 - 1
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Cremonese
 DTSTART:20260411T130000Z
 DTEND:20260411T150000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-vg5aklozj6dgt6a67jemcopg@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 1 - 0
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Cagliari
 DTSTART:20260417T184500Z
 DTEND:20260417T204500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-z3g9n8q46abi2xsbgs2c5w5w@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio G
  iuseppe Meazza\nResult: 3 - 0
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Atalanta
 DTSTART:20260427T163000Z
 DTEND:20260427T183000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-135q4hqvn4i7d60rouldzex3o@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 3 - 2
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Cagliari
 DTSTART:20260503T103000Z
 DTEND:20260503T123000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-1774je45x71hlqa2zwnp1ng2c@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio R
  enato Dall'Ara\nResult: 0 - 0
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Udinese
 DTSTART:20260509T130000Z
 DTEND:20260509T150000Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-1au7hbbfgz3457h9k1bv5gmc4@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 0 - 2
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Torino
 DTSTART:20260517T184500Z
 DTEND:20260517T204500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-1fainz3780yrnmdbbjyc7cdg4@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Unipol D
  omus\nResult: 2 - 1
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Milan VS Cagliari
 DTSTART:20260524T184500Z
 DTEND:20260524T204500Z
-DTSTAMP:20260807T214655Z
+DTSTAMP:20260807T224429Z
 UID:fifa-1l5y0lgdhuhigyrh0e4lb0x04@fifa.com
 DESCRIPTION:Competition: Serie A\nStage: Regular Season\nStadium: Stadio G
  iuseppe Meazza\nResult: 1 - 2
