@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Egnatia Rrogozhinë VS Breiðablik Kópavogur
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
-DTSTAMP:20260807T224411Z
+DTSTAMP:20260807T233901Z
 UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
  de\nStadion: Arena Egnatia\nErgebnis: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Breiðablik Kópavogur VS Egnatia Rrogozhinë
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260807T224411Z
+DTSTAMP:20260807T233901Z
 UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 1. Qualifikationsrun
  de\nStadion: Kópavogsvöllur\nErgebnis: 5 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:KKS Lech Poznan VS Breiðablik Kópavogur
 DTSTART:20250722T183000Z
 DTEND:20250722T203000Z
-DTSTAMP:20260807T224411Z
+DTSTAMP:20260807T233901Z
 UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Enea Stadion\nErgebnis: 7 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Breiðablik Kópavogur VS KKS Lech Poznan
 DTSTART:20250730T183000Z
 DTEND:20250730T203000Z
-DTSTAMP:20260807T224411Z
+DTSTAMP:20260807T233901Z
 UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Kópavogsvöllur\nErgebnis: 0 - 1

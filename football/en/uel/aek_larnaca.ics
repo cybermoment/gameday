@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS Partizan Beograd
 DTSTART:20250710T163000Z
 DTEND:20250710T183000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-7q6fqfjfyxtyqq2zkaiguz5sk@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: AEK Arena - George Karapatakis\nResult: 1 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Partizan Beograd VS AEK Larnaca
 DTSTART:20250717T190000Z
 DTEND:20250717T210000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-7trtt9i10a1hoe1p2mikn182c@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Stadion Partizana\nResult: 2 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje VS AEK Larnaca
 DTSTART:20250724T180000Z
 DTEND:20250724T200000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-7366wtevmanq0otla4swyzbbo@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Stadion Z'dežele\nResult: 1 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS NK Celje
 DTSTART:20250731T163000Z
 DTEND:20250731T183000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-74a58utzgpm01v9ozw2m3otg4@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: AEK Arena - George Karapatakis\nResult: 2 - 1
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS Legia Warszawa
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: AEK Arena - George Karapatakis\nResult: 4 - 1
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Legia Warszawa VS AEK Larnaca
 DTSTART:20250814T190000Z
 DTEND:20250814T210000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskie
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:SK Brann VS AEK Larnaca
 DTSTART:20250821T170000Z
 DTEND:20250821T190000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-8esik66moepd1ywpgy24a0f10@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: Br
  ann Stadion\nResult: 2 - 1
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS SK Brann
 DTSTART:20250827T163000Z
 DTEND:20250827T183000Z
-DTSTAMP:20260807T224413Z
+DTSTAMP:20260807T233903Z
 UID:fifa-8g2kv7p1dbvjv6nevwq735b10@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: Play-offs\nStadium: AE
  K Arena - George Karapatakis\nResult: 0 - 4
