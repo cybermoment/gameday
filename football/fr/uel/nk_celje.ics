@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sabah VS NK Celje
 DTSTART:20250710T160000Z
 DTEND:20250710T180000Z
-DTSTAMP:20260807T182410Z
+DTSTAMP:20260807T193206Z
 UID:fifa-2f6h6i97foyk2tu0v3pl5ma6s@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
  Stade: Bank Respublika Arena\nRésultat: 2 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje VS Sabah
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260807T182410Z
+DTSTAMP:20260807T193206Z
 UID:fifa-2jh727gls85kvh4no8ld22mtw@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 1er tour de qualification\n
  Stade: Stadion Z'dežele\nRésultat: 3 - 3
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:NK Celje VS AEK Larnaca
 DTSTART:20250724T180000Z
 DTEND:20250724T200000Z
-DTSTAMP:20260807T182410Z
+DTSTAMP:20260807T193206Z
 UID:fifa-7366wtevmanq0otla4swyzbbo@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
  \nStade: Stadion Z'dežele\nRésultat: 1 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS NK Celje
 DTSTART:20250731T163000Z
 DTEND:20250731T183000Z
-DTSTAMP:20260807T182410Z
+DTSTAMP:20260807T193206Z
 UID:fifa-74a58utzgpm01v9ozw2m3otg4@fifa.com
 DESCRIPTION:Compétition: Ligue Europa\nPhase: 2ème tour de qualification
  \nStade: AEK Arena - George Karapatakis\nRésultat: 2 - 1
