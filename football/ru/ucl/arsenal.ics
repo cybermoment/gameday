@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Арсенал
 DTSTART:20250916T164500Z
 DTEND:20250916T184500Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-4ra5d8plwlqwcj0703hgi4rh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estadio de San Mamés\nРезульта
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Олимпиакос Пирей
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-51pmokefm21mo1i26kyokvvo4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 2 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Атлетико Мадрид
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 4 
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Славия Прага VS Арсенал
 DTSTART:20251104T174500Z
 DTEND:20251104T194500Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-5ar7r75v5tj8t5k5c0lafex3o@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Синот Тип Аре
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Бавария Мюнхен
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-5loq6e5cekfnkddrm6my8xtzo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 3 
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Арсенал
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-5tp7r7lkjm2n3sj60puy8f7ys@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Интернационале VS Арсенал
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-5wmfkj6y4bbcpfbso62fcqoes@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Stadio Giuseppe Meazza\nРезульта
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Кайрат
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-62lvos0mfgim6h9rr88uu09hw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 3 
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Байер Леверкузен VS Арсенал
 DTSTART:20260311T174500Z
 DTEND:20260311T194500Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-7kfjarhihp4cwnarwndmwgufo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: BayArena\nРезультат: 1 - 1
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Байер Леверкузен
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-86ciqz1lhb8781xd70dgc795g@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Emirates Stadium\nРезультат
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Лиссабон VS Арсенал
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-ck6gmfx70rbzasmqnq3ph7k0k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Estádio José Alvalade\nРезул
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Спортинг Лиссабон
 DTSTART:20260415T190000Z
 DTEND:20260415T210000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-4qu1s75euu2ss5r6topy3alg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Emirates Stadium\nРезультат
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Арсенал
 DTSTART:20260429T190000Z
 DTEND:20260429T210000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-ca2i4o1c3ajp4nhwbvs6tmqs4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Riyadh Air Metropolitano\nРезул
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Атлетико Мадрид
 DTSTART:20260505T190000Z
 DTEND:20260505T210000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-em2v2c6m9jnpx7kkz1fomfz84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Emirates Stadium\nРезультат
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Арсенал
 DTSTART:20260530T160000Z
 DTEND:20260530T180000Z
-DTSTAMP:20260807T135116Z
+DTSTAMP:20260807T145934Z
 UID:fifa-6sb5ga83yrll15624x1z0gwt0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Финал\nСтадион: Puskás Aréna\nРезультат: 1 - 1
