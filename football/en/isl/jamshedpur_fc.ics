@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Mohammedan SC
 DTSTART:20260215T113000Z
 DTEND:20260215T133000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-8b59518froavzvtdlsbjhv7ro@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Minerva Punjab
 DTSTART:20260221T140000Z
 DTEND:20260221T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-8f9620nxpbtyd5jtpo4wow7is@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 0
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Kingfisher East Bengal VS Jamshedpur FC
 DTSTART:20260227T113000Z
 DTEND:20260227T133000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-8jfmh2b4d0pbfo2ihofrbx6hg@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 1 - 2
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Inter Kashi
 DTSTART:20260306T140000Z
 DTEND:20260306T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-8o4fjo4f6drwrasaiq9u8oiz8@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 0
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:NorthEast United VS Jamshedpur FC
 DTSTART:20260315T113000Z
 DTEND:20260315T133000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-8vbwmyeow4rsmy9tbmzo8j7ro@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Indira Gandhi Athletic Stadium\nResult: 2 - 1
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Delhi VS Jamshedpur FC
 DTSTART:20260319T140000Z
 DTEND:20260319T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-8yacckgnxbcizszp4k613f9qs@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 1 - 1
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Mohun Bagan
 DTSTART:20260404T113000Z
 DTEND:20260404T133000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-96r9pusqb79u27chl8avlgyz8@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 1
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Mumbai City
 DTSTART:20260409T140000Z
 DTEND:20260409T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-9dqm0jvock9jajw4lljfdvod0@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 1
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Kerala Blasters VS Jamshedpur FC
 DTSTART:20260418T113000Z
 DTEND:20260418T133000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-9kb6cmaicet3sl07vrtfmjc44@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 2 - 0
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Chennaiyin FC
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-9oylvylic7fjqyg3x5nm43h90@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 4 - 1
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Goa
 DTSTART:20260501T140000Z
 DTEND:20260501T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-9r3vger74bbdei6nak2xao6qc@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 2 - 0
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Bengaluru FC
 DTSTART:20260509T140000Z
 DTEND:20260509T160000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-9vwu6uhyrbxlgc1fkj9tz88wk@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 0 - 1
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Odisha FC
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260808T035211Z
+DTSTAMP:20260808T050414Z
 UID:fifa-be2cdk19uapbj3lschnmcg2s4@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium

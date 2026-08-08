@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Ливерпуль VS Атлетико Мадрид
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Anfield\nРезультат: 3 - 2
@@ -23,7 +23,7 @@ SUMMARY:Атлетико Мадрид VS Айнтрахт Франкфур
  т
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Атлетико Мадрид
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Emirates Stadium\nРезультат: 4 
@@ -53,7 +53,7 @@ SUMMARY:Атлетико Мадрид VS Юнион Сент-Жиллуа
  з
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Интернационале
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:ПСВ VS Атлетико Мадрид
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-5qqu3i9dgj6ummpnfzm05yf4k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Филипс\nРезул
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Галатасарай VS Атлетико Мадрид
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Тюрк Телеком 
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Будё / Глимт
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Riyadh Air Metropolitano\nРезульт
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Атлетико Мадрид
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Jan Breydelstadion\nРезу
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Клуб Брюгге
 DTSTART:20260224T174500Z
 DTEND:20260224T194500Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Riyadh Air Metropolitano\nР
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Тоттенхэм
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-25hk7u04fup5ze2892je0za50@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Riyadh Air Metropolitano\nРезул
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Тоттенхэм VS Атлетико Мадрид
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-2a1ktq8ai1l1rh7uycbh0pk44@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/8 финала\nСтадион: Tottenham Hotspur Stadium\nРезу
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Атлетико Мадрид
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Spotify Camp Nou\nРезультат
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Барселона
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/4 финала\nСтадион: Riyadh Air Metropolitano\nРезул
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Арсенал
 DTSTART:20260429T190000Z
 DTEND:20260429T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-ca2i4o1c3ajp4nhwbvs6tmqs4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Riyadh Air Metropolitano\nРезул
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Атлетико Мадрид
 DTSTART:20260505T190000Z
 DTEND:20260505T210000Z
-DTSTAMP:20260808T035200Z
+DTSTAMP:20260808T050408Z
 UID:fifa-em2v2c6m9jnpx7kkz1fomfz84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 1/2 финала\nСтадион: Emirates Stadium\nРезультат
