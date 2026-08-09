@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Юнайтед VS Арсенал
 DTSTART:20250817T153000Z
 DTEND:20250817T173000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-13h7obu9sa1vfh3a0esob4jdg@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Old Tr
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Лидс Юнайтед
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-14qo3uypv7lmce0ewcvxe89w4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Ливерпуль VS Арсенал
 DTSTART:20250831T153000Z
 DTEND:20250831T173000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-19ty1jsiu05lygxc15uw4exp0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Anfiel
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Ноттингем Форест
 DTSTART:20250913T113000Z
 DTEND:20250913T133000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-1ck3f5txde110a1im9lxy0ys4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Манчестер Сити
 DTSTART:20250921T153000Z
 DTEND:20250921T173000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-1gil6wudqtyaauvngcgucwbh0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Ньюкасл VS Арсенал
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-1mv5kukvh2gold9lzbfle86qc@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: St. Ja
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Вест Хэм Юнайтед
 DTSTART:20251004T140000Z
 DTEND:20251004T160000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-1oi3hkt91umhnxou8rk970ums@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Фулхэм VS Арсенал
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-1taq9euew4fs51eqk666nc2dw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Craven
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Кристал Пэлас
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-1wlvabjugecgxexpyqugbo7bo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Бернли VS Арсенал
 DTSTART:20251101T150000Z
 DTEND:20251101T170000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-20lqgnidk2bwum92qqbsimxp0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Turf M
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Сандерленд VS Арсенал
 DTSTART:20251108T173000Z
 DTEND:20251108T193000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-26zfrrhdp3qw2inh0oyvmdzbo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Stadiu
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Тоттенхэм
 DTSTART:20251123T163000Z
 DTEND:20251123T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-28m9dl3dg3b2kv50yxgrt2sk4@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Челси VS Арсенал
 DTSTART:20251130T163000Z
 DTEND:20251130T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-2cz22hrl9l7pesg0j8977wrh0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Stamfo
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Брентфорд
 DTSTART:20251203T193000Z
 DTEND:20251203T213000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-2gktdb7h1jkkld873ss0s0kyc@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Астон Вилла VS Арсенал
 DTSTART:20251206T123000Z
 DTEND:20251206T143000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-2knvskhww99qrbj71gbu13578@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Villa 
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Вулверхэмптон
 DTSTART:20251213T200000Z
 DTEND:20251213T220000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-2o9v97aqrj9rmg20rell04xec@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Эвертон VS Арсенал
 DTSTART:20251220T200000Z
 DTEND:20251220T220000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-2tm0x6wlasz3xmigxsq5f6c5w@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Hill D
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Брайтон
 DTSTART:20251227T150000Z
 DTEND:20251227T170000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-2wehv0cptselv086q8jud4hec@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Астон Вилла
 DTSTART:20251230T201500Z
 DTEND:20251230T221500Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-30fwl59qqa9t2ospcpwuytdzo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Борнмут VS Арсенал
 DTSTART:20260103T173000Z
 DTEND:20260103T193000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-34oxxtv9gbzl6xcda8ldgnz84@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Vitali
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Ливерпуль
 DTSTART:20260108T200000Z
 DTEND:20260108T220000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-396bo5t5fzkfqcmcj0rlhtez8@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Ноттингем Форест VS Арсенал
 DTSTART:20260117T173000Z
 DTEND:20260117T193000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-3f8kheyscdow1tquwqldlvi1g@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: The Ci
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Манчестер Юнайтед
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-3h7uw06wrdggi4gvmvcm40xlg@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Лидс Юнайтед VS Арсенал
 DTSTART:20260131T150000Z
 DTEND:20260131T170000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-3m29fhxvog8hxn10pfyhgs0lw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Elland
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Сандерленд
 DTSTART:20260207T150000Z
 DTEND:20260207T170000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-3paqoync1x6ffgogsb85v15p0@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Брентфорд VS Арсенал
 DTSTART:20260212T200000Z
 DTEND:20260212T220000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-3ta3lmi2yhygyqebvoqytbf2s@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Gtech 
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Вулверхэмптон VS Арсенал
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-4go4bjgjd216pca6xkuxtolxw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Moline
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Тоттенхэм VS Арсенал
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-405a2do557or1ct3j3l0vo6j8@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Totten
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Челси
 DTSTART:20260301T163000Z
 DTEND:20260301T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-41cldzbwls4xo9gxeu50cu2vo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Брайтон VS Арсенал
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-45skrbpsdh3x4g4jsq6rb56ac@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Americ
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Эвертон
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-48z7dzv6kdvzis2mn5v5th250@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Борнмут
 DTSTART:20260411T113000Z
 DTEND:20260411T133000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-4h2ew9waug2vsce1xchjf9zbo@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -458,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Манчестер Сити VS Арсенал
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-4nwnb9i8nivpfmdru07fywsgk@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Etihad
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Ньюкасл
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-4pwek6ufip2m51lyelp0r5las@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Фулхэм
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-4u45d36alhjxa1qxmvmzja80k@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Вест Хэм Юнайтед VS Арсенал
 DTSTART:20260510T153000Z
 DTEND:20260510T173000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-51i8bgm45ruiglvkbgnyb6ihg@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: London
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Арсенал VS Бернли
 DTSTART:20260518T190000Z
 DTEND:20260518T210000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-52bponwfjilfsdlm8gj7f6k2c@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Emirat
@@ -528,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Кристал Пэлас VS Арсенал
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260809T062434Z
+DTSTAMP:20260809T073530Z
 UID:fifa-56sqj49wua0241sbk71k9rdhw@fifa.com
 DESCRIPTION:Турнир: Премьер-Лига\nСтадия: Регу
  лярный период соревнований\nСтадион: Selhur
