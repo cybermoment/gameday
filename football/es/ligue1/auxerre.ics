@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Lorient
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-74h5os2atpg4gkrdbrss9gefo@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 1 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Niza VS Auxerre
 DTSTART:20250823T170000Z
 DTEND:20250823T190000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-78ltzch15j0kgdvqr7fww0nbo@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Allia
  nz Riviera\nResultado: 3 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Auxerre
 DTSTART:20250830T170000Z
 DTEND:20250830T190000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7bk8twwdbyyipms1jnzmt3ims@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Estad
  io de la Beaujoire - Louis Fonteneau\nResultado: 1 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS AS Mónaco
 DTSTART:20250913T190500Z
 DTEND:20250913T210500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7efmhwisdsjjgbfwh06ou8nbo@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 1 - 2
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Toulouse
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7iglc3pzsvxdcv3y06926j6l0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 1 - 0
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Auxerre
 DTSTART:20250927T190500Z
 DTEND:20250927T210500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7na0v7epd0x1r94af3u4dso44@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Parqu
  e de los Príncipes\nResultado: 2 - 0
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Lens
 DTSTART:20251004T190500Z
 DTEND:20251004T210500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7q9habd412g1giclzyhxwqm1g@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 1 - 2
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Auxerre
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7tyy0bjxwgzgrr2s7lnn698no@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Roazh
  on Park\nResultado: 2 - 2
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Le Havre
 DTSTART:20251026T161500Z
 DTEND:20251026T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7vxtdk1qltv5nokw7qo9kk9p0@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 1
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Estrasburgo VS Auxerre
 DTSTART:20251029T200500Z
 DTEND:20251029T220500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-7yvumhtfkzi2mp08th02rzhg4@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de la Meinau\nResultado: 3 - 0
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Olympique de Marsella
 DTSTART:20251101T200500Z
 DTEND:20251101T220500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-84cd9y0ujv779suuvt17xv7ro@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 1
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Auxerre
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-85tfgt0ebqh6zi9jd3xfvqhhw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Raymond Kopa\nResultado: 2 - 0
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Olympique Lyon
 DTSTART:20251123T140000Z
 DTEND:20251123T160000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8a9wa7pzfck1g5z5t33z06784@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 0
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Auxerre
 DTSTART:20251129T180000Z
 DTEND:20251129T200000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8bqrt5xzfyok5v7dblphpd4pg@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Jean Bouin\nResultado: 1 - 1
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Metz
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8fh296rt2px5vbp5y7457qxas@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 3 - 1
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Lille
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8ivxronb80ztyzfv5pr850sno@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 3 - 4
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Auxerre
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8nq11nvlv3kcy4qidv1yii2ac@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Francis-Le Blé\nResultado: 2 - 0
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Auxerre
 DTSTART:20260117T160000Z
 DTEND:20260117T180000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8pysxkqzqxm5buurzebf08e8k@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Bollaert-Delelis\nResultado: 1 - 0
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Paris Saint-Germain
 DTSTART:20260123T190000Z
 DTEND:20260123T210000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8sr1cnoxz6t9nr359umloabro@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 1
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse VS Auxerre
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-8wub8phw726z2s7c0xd95xfkk@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stadi
  um de Toulouse\nResultado: 0 - 0
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Paris FC
 DTSTART:20260208T161500Z
 DTEND:20260208T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-90mzl6cpsvr2ctujlp4he6fis@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 0
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Auxerre
 DTSTART:20260215T161500Z
 DTEND:20260215T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9404tejjdtw065b44zk6aj5sk@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Saint-Symphorien\nResultado: 1 - 3
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Rennes
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-98wrlx9pesn8r95d5wm0qfims@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 3
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Auxerre
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9af53o9hfgs4hfirkjmlljndg@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   du Moustoir - Yves Allainmat\nResultado: 2 - 2
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Estrasburgo
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9ewdmzregj6oqyc4h5wd30fmc@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 0
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique de Marsella VS Auxerre
 DTSTART:20260313T194500Z
 DTEND:20260313T214500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9j3m943ydaqhzkip4dm8x36s4@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Orang
  e Vélodrome\nResultado: 1 - 0
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Brest
 DTSTART:20260321T180000Z
 DTEND:20260321T200000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9jziwyg6cgsvoirapcks32dxw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 3 - 0
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Auxerre
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9oi06kws1i8wrxbdkl4pnf5sk@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Océane\nResultado: 1 - 1
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Nantes
 DTSTART:20260411T170000Z
 DTEND:20260411T190000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9t2ybu6n2todh9f2qi3uyg4r8@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 0 - 0
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Auxerre
 DTSTART:20260419T130000Z
 DTEND:20260419T150000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9vsnlak9lmoalib3eyd64z9ck@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   Louis-II\nResultado: 2 - 2
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lyon VS Auxerre
 DTSTART:20260425T130000Z
 DTEND:20260425T150000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-9z6uqobyhlmmv7r1ntaszb5zo@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Group
  ama Stadium\nResultado: 3 - 2
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Angers
 DTSTART:20260503T151500Z
 DTEND:20260503T171500Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-a3bwsw6j5a69te8hyh8e2ytxw@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 3 - 1
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Niza
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-a5jgajvb594m84xr48f4aqo0k@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Stade
   de l'Abbé Deschamps\nResultado: 2 - 1
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Auxerre
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260809T155959Z
+DTSTAMP:20260809T164911Z
 UID:fifa-a8jcx98nbda7y3qmm4aigetqs@fifa.com
 DESCRIPTION:Competición: Ligue 1\nFase: Temporada Regular\nEstadio: Decat
  hlon Arena - Stade Pierre-Mauroy\nResultado: 0 - 2
