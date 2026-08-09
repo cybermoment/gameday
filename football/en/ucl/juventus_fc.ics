@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Borussia Dortmund
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-4s2m5vmbv79astpbzzz1bh8us@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Allianz Stadium\nResult: 4 - 4
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Juventus FC
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-53uv9nt6mmwd2snmpdhdrzbx0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio de la Cerámica\nResult: 2 - 2
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Juventus FC
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-5a1g6r8o0nw2fuy68ka0ls0es@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Estadio Bernabéu\nResult: 1 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Sporting CP
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-5c6o9gkconkcdrpnsx0b5k4r8@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Allianz Stadium\nResult: 1 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:FK Bodø/Glimt VS Juventus FC
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-5j5rc4wpittutm2qulb97arro@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Aspmyra Stadion\nResult: 2 - 3
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Pafos FC
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-5u1wyaby2c1x5iom7r2070p3o@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Allianz Stadium\nResult: 2 - 0
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS SL Benfica
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-60pmm5c1dunl19bu2ivztc6qc@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Allianz Stadium\nResult: 2 - 0
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:AS Monaco VS Juventus FC
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-62yriqtd43xg8ioh1ejxzw7pw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: League Stage\nStadi
  um: Stade Louis-II\nResult: 0 - 0
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Juventus FC
 DTSTART:20260217T174500Z
 DTEND:20260217T194500Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-2ivwkprq3bnkkp2bfa2cdintg@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Knockout Round Play
  -offs\nStadium: RAMS Park\nResult: 5 - 2
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Galatasaray
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260809T085210Z
+DTSTAMP:20260809T094704Z
 UID:fifa-2je80aixlyto9e2rtr0c0bpjo@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: Knockout Round Play
  -offs\nStadium: Allianz Stadium\nResult: 3 - 2
