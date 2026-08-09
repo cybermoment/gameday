@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:كومو VS لاتسيو
 DTSTART:20250824T163000Z
 DTEND:20250824T183000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-cijyabwrwwuazjxynj4k53yfo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS هيلاس
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-cnye1t7vywtihm10fiy3n6ot0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:ساسوولو VS لاتسيو
 DTSTART:20250914T160000Z
 DTEND:20250914T180000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-ctirptm06szy6db17n31sdgr8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS روما
 DTSTART:20250921T103000Z
 DTEND:20250921T123000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-cvwv2nuu43dmvycrt5mse7lec@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:جنوى VS لاتسيو
 DTSTART:20250929T184500Z
 DTEND:20250929T204500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-cz23urlp2fqu90rtkbatvaadw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميونالي
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS تورينو
 DTSTART:20251004T130000Z
 DTEND:20251004T150000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-d4bf8awg8k155fyjhvi6qov84@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS لاتسيو
 DTSTART:20251019T160000Z
 DTEND:20251019T180000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-d6dhthqfbbqbffuo2pxce5kpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أتليتي أز
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS نادي يوفنتوس
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-db7u0fk0bzsdqr84t6t7chgk4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS لاتسيو
 DTSTART:20251030T194500Z
 DTEND:20251030T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-dhnuk2lkv2t2krxmz9ezd2vpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS كالياري
 DTSTART:20251103T194500Z
 DTEND:20251103T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-dj93wlc4y6a5z30ns89tmayac@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:إنتر ميلان VS لاتسيو
 DTSTART:20251109T194500Z
 DTEND:20251109T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-do3jie3bxgeab77cfb661pj4k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS ليتشي
 DTSTART:20251123T170000Z
 DTEND:20251123T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-ds5esvdr9jzrgdf3m7mg1hxqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:نادي ميلان VS لاتسيو
 DTSTART:20251129T194500Z
 DTEND:20251129T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-dx0msvb8l9mbv6nayc3tdjfh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS بولونيا
 DTSTART:20251207T170000Z
 DTEND:20251207T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-dzus54uynnlkk8kunhzse0u1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:بارما VS لاتسيو
 DTSTART:20251213T170000Z
 DTEND:20251213T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-e54xho1vjc5wpg0ck8yumyjo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إنيو تارد
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS كريمونيزي
 DTSTART:20251220T170000Z
 DTEND:20251220T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-e98iaxuhnp31i9wwzo57upfro@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:أودينيزي VS لاتسيو
 DTSTART:20251227T170000Z
 DTEND:20251227T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-eeiearb86xbt33aakaoj5rbx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد فريولي\nال
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS نابولي
 DTSTART:20260104T113000Z
 DTEND:20260104T133000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-ehrgqtm5ghe0vn3dx37fepixg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS فيورنتينا
 DTSTART:20260107T194500Z
 DTEND:20260107T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-ejrea7dcgzve3s4xipdffrml0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:هيلاس VS لاتسيو
 DTSTART:20260111T170000Z
 DTEND:20260111T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-eqm50hc29ki4dx7pcyszgz66s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مارك أنطو
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS كومو
 DTSTART:20260119T194500Z
 DTEND:20260119T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-es9m1d8tdtthb69t2zer74ufo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:ليتشي VS لاتسيو
 DTSTART:20260124T194500Z
 DTEND:20260124T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-exiq2izmkvobez4syavdwmb6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS جنوى
 DTSTART:20260130T194500Z
 DTEND:20260130T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-f0prwprw92hfgu5p39x4zji8k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS لاتسيو
 DTSTART:20260208T194500Z
 DTEND:20260208T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-f4ryog8rqhu4s379tam0pv5ec@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS أتالانتا
 DTSTART:20260214T170000Z
 DTEND:20260214T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-37dn875ajhz86yyro06httzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:كالياري VS لاتسيو
 DTSTART:20260221T194500Z
 DTEND:20260221T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-6el28kt4wix2t8iwoh4vkkyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:تورينو VS لاتسيو
 DTSTART:20260301T170000Z
 DTEND:20260301T190000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-d5pt6kna4c869xy8s7llm0pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS ساسوولو
 DTSTART:20260309T194500Z
 DTEND:20260309T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-gsljes6y6ccnrm2sfii6lwk4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS نادي ميلان
 DTSTART:20260315T194500Z
 DTEND:20260315T214500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-joutig10ir544yicn3b9ifx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:بولونيا VS لاتسيو
 DTSTART:20260322T140000Z
 DTEND:20260322T160000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-mxk28qlh6zzkndih290geyhg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS بارما
 DTSTART:20260404T184500Z
 DTEND:20260404T204500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-rshw4ezhypjmwddcxoh9vkes@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:فيورنتينا VS لاتسيو
 DTSTART:20260413T184500Z
 DTEND:20260413T204500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-w8szsndsknydqz5fjj1k9ams@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:نابولي VS لاتسيو
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-10amluuny91r89wcb128ft9uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان باولو\
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS أودينيزي
 DTSTART:20260427T184500Z
 DTEND:20260427T204500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-14eagebob7amo7toz34ypin10@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -522,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS لاتسيو
 DTSTART:20260504T163000Z
 DTEND:20260504T183000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-1800klupn4itbmreau5ofcutw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS إنتر ميلان
 DTSTART:20260509T160000Z
 DTEND:20260509T180000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-1c16z8sfcig3obhqc1enrs00k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -552,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:روما VS لاتسيو
 DTSTART:20260517T100000Z
 DTEND:20260517T120000Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-1hq8rf1klj6a0yqv8dycurvh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS بيزا
 DTSTART:20260523T184500Z
 DTEND:20260523T204500Z
-DTSTAMP:20260809T150247Z
+DTSTAMP:20260809T155956Z
 UID:fifa-1kano1peqbw5ho0zlex7mdw5w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
