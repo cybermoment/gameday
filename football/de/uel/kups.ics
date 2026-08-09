@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Rīgas FS VS KuPS Kuopio
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260809T113556Z
+DTSTAMP:20260809T130435Z
 UID:fifa-258eswpmjkvdk07riloeuzdp0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: LNK Sporta Parks dabīgais\nErgebnis: 1 - 2
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio VS Rīgas FS
 DTSTART:20250814T150000Z
 DTEND:20250814T170000Z
-DTSTAMP:20260809T113556Z
+DTSTAMP:20260809T130435Z
 UID:fifa-28abhiz0drasfw8sbk05iwnpw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Väre Areena\nErgebnis: 1 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:FC Midtjylland VS KuPS Kuopio
 DTSTART:20250821T163000Z
 DTEND:20250821T183000Z
-DTSTAMP:20260809T113556Z
+DTSTAMP:20260809T130435Z
 UID:fifa-1hrz06s9q780z4e4ujqya4ob8@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: MCH 
  Arena\nErgebnis: 4 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS Kuopio VS FC Midtjylland
 DTSTART:20250828T150000Z
 DTEND:20250828T170000Z
-DTSTAMP:20260809T113556Z
+DTSTAMP:20260809T130435Z
 UID:fifa-1kfkp6eshi7hkko3c10xhc7is@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Vär
  e Areena\nErgebnis: 0 - 2
