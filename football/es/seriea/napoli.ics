@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sassuolo VS Nápoles
 DTSTART:20250823T163000Z
 DTEND:20250823T183000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-cli1lgf9lcih5ons3pft9iqz8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: MAPEI
   Stadium - Città del Tricolore\nResultado: 0 - 2
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Cagliari
 DTSTART:20250830T184500Z
 DTEND:20250830T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-coqrhq09kxd16iejvgtzj3mz8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 1 - 0
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Fiorentina VS Nápoles
 DTSTART:20250913T184500Z
 DTEND:20250913T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-crjn81u7zfyuq3acjvddvhedw@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Artemio Franchi\nResultado: 1 - 3
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Pisa
 DTSTART:20250922T184500Z
 DTEND:20250922T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-cwp801847hnz6cu08s3qng3ro@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 3 - 2
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:AC Milan VS Nápoles
 DTSTART:20250928T184500Z
 DTEND:20250928T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-d09944d1ux39ydv2wp8sx7hn8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Meazza\nResultado: 2 - 1
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Génova
 DTSTART:20251005T160000Z
 DTEND:20251005T180000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-d4pwyiyho3sntimg7gb5yssno@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 1
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Torino VS Nápoles
 DTSTART:20251018T160000Z
 DTEND:20251018T180000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-d9ymqc53t61s1cxt7tau89c7o@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico Grande Torino\nResultado: 1 - 0
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS FC Internazionale Milano
 DTSTART:20251025T160000Z
 DTEND:20251025T180000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dc0ileeq572dt6lk7j3q6n1n8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 3 - 1
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Lecce VS Nápoles
 DTSTART:20251028T173000Z
 DTEND:20251028T193000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dh9dw8ynx40z3bjgfjxxohvkk@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ettore Giardiniero - Via del Mare\nResultado: 0 - 1
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Como
 DTSTART:20251101T170000Z
 DTEND:20251101T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dk1y2p3cuhqk9g9jrvfmk6784@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 0 - 0
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Bolonia VS Nápoles
 DTSTART:20251109T140000Z
 DTEND:20251109T160000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dmwg1gvcw4ie6d5l4q676ym1g@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Renato Dall'Ara\nResultado: 2 - 0
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Atalanta
 DTSTART:20251122T194500Z
 DTEND:20251122T214500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dsjz0ccrqs2n0j591bnkv8tg4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 3 - 1
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Roma VS Nápoles
 DTSTART:20251130T194500Z
 DTEND:20251130T214500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dy7z0c1nl7x403oo7s9ic1las@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico\nResultado: 0 - 1
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Juventus FC
 DTSTART:20251207T194500Z
 DTEND:20251207T214500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-e096ecqrgn0fwuv0s58t1az9w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 1
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Udinese VS Nápoles
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-e6cu4bc2wvzzoo0ja9jvfqqz8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Bluen
  ergy Stadium\nResultado: 1 - 0
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Cremonese VS Nápoles
 DTSTART:20251228T140000Z
 DTEND:20251228T160000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-ebnmnf2geg6rtju8p1g0zyfis@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giovanni Zini\nResultado: 0 - 2
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Lazio VS Nápoles
 DTSTART:20260104T113000Z
 DTEND:20260104T133000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-ehrgqtm5ghe0vn3dx37fepixg@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Olimpico\nResultado: 0 - 2
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Hellas Verona
 DTSTART:20260107T173000Z
 DTEND:20260107T193000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-ekyr1h6np9h1d6ooh6v1smlg4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 2
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:FC Internazionale Milano VS Nápoles
 DTSTART:20260111T194500Z
 DTEND:20260111T214500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-eom4wiyoq5er0g124axh5o4k4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Meazza\nResultado: 2 - 2
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Parma
 DTSTART:20260114T173000Z
 DTEND:20260114T193000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-e9n7n8yfsr12gjtx9g7mq426s@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 0 - 0
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Sassuolo
 DTSTART:20260117T170000Z
 DTEND:20260117T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-et2geg4x7h15khe3ul40v845w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 1 - 0
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Nápoles
 DTSTART:20260125T170000Z
 DTEND:20260125T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-ex4brgymhxbpo9dgkrgmof7ys@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Allia
  nz Stadium\nResultado: 3 - 0
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Fiorentina
 DTSTART:20260131T170000Z
 DTEND:20260131T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-f146ajvfctngv7alhhtv7bv9w@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 1
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Génova VS Nápoles
 DTSTART:20260207T170000Z
 DTEND:20260207T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-f4dpn9pt0dx67oue2aigxphjo@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Comunale Luigi Ferraris\nResultado: 2 - 3
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Roma
 DTSTART:20260215T194500Z
 DTEND:20260215T214500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-3lnkua64b5kypkhgjy6kkc2c@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 2
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Nápoles
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-5lm578z7pw97780blu941x5g@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: New B
  alance Arena\nResultado: 2 - 1
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Hellas Verona VS Nápoles
 DTSTART:20260228T170000Z
 DTEND:20260228T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-dyojuj300pwut6ul2xt4h0r8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Marcantonio Bentegodi\nResultado: 1 - 2
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Torino
 DTSTART:20260306T194500Z
 DTEND:20260306T214500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-i0vew24dsk4vfoxr3x0p8rh0@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 1
@@ -389,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Lecce
 DTSTART:20260314T170000Z
 DTEND:20260314T190000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-k3kyemvff2sg6hsdast631uc@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 1
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Cagliari VS Nápoles
 DTSTART:20260320T173000Z
 DTEND:20260320T193000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-nbzv28n95d9kvq955jt5kiz8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Unipo
  l Domus\nResultado: 0 - 1
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS AC Milan
 DTSTART:20260406T184500Z
 DTEND:20260406T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-sl9epaqkp8y44fkzmqwubms4@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 1 - 0
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Parma VS Nápoles
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-xg55dqtttt1i6r7b92lzgrh0@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Ennio Tardini\nResultado: 1 - 1
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Lazio
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-10amluuny91r89wcb128ft9uc@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 0 - 2
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Cremonese
 DTSTART:20260424T184500Z
 DTEND:20260424T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-1576pjjsr7mcnv5p5fnbs8bv8@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 4 - 0
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Como VS Nápoles
 DTSTART:20260502T160000Z
 DTEND:20260502T180000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-17lmrepgi92vherqakompkb2s@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Giuseppe Sinigaglia\nResultado: 0 - 0
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Bolonia
 DTSTART:20260511T184500Z
 DTEND:20260511T204500Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-1d8em3ehs8e7rfo1sbevmsqac@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 2 - 3
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Pisa VS Nápoles
 DTSTART:20260517T100000Z
 DTEND:20260517T120000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-1hbn9i3wwdt46jmrp4cfhggt0@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Arena
   Garibaldi - Stadio Romeo Anconetani\nResultado: 0 - 3
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Nápoles VS Udinese
 DTSTART:20260524T160000Z
 DTEND:20260524T180000Z
-DTSTAMP:20260808T233611Z
+DTSTAMP:20260809T021230Z
 UID:fifa-1lknqdz9vmb3hnqu144zkkefo@fifa.com
 DESCRIPTION:Competición: Serie A\nFase: Temporada Regular\nEstadio: Stadi
  o Diego Armando Maradona\nResultado: 1 - 0
