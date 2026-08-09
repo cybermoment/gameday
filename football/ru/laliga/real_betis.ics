@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Эльче VS Бетис
 DTSTART:20250818T190000Z
 DTEND:20250818T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2t5f41usmgztitxkybrycidw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Алавес
 DTSTART:20250822T193000Z
 DTEND:20250822T213000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-5chzep0qs16scjx4m95i8owk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Сельта VS Бетис
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-kxz64yu7ddap0d1agwdxugwk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Атлетик
 DTSTART:20250831T170000Z
 DTEND:20250831T190000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-9rnhp2t23qi248bbos0taxp0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Леванте VS Бетис
 DTSTART:20250914T141500Z
 DTEND:20250914T161500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-dh2jy2sqqln0u67dgau8p53o@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Реал Сосьедад
 DTSTART:20250919T190000Z
 DTEND:20250919T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-exqzwxpls360bd9qf89ggff8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Осасуна
 DTSTART:20250928T190000Z
 DTEND:20250928T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-mulhl7s94em1faqw5y2499uc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Эспаньол VS Бетис
 DTSTART:20251005T163000Z
 DTEND:20251005T183000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-rp9h3yrxylg9bwywpccje8lw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Вильярреал VS Бетис
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-vue1zih02z58m1ihnz9pod90@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Атлетико Мадрид
 DTSTART:20251027T200000Z
 DTEND:20251027T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-ygjm4bbtl6jbrz9gsd661vys@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Мальорка
 DTSTART:20251102T200000Z
 DTEND:20251102T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Валенсия VS Бетис
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-176p8ms7mmtnsyiwqb87aavx0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Хирона
 DTSTART:20251123T151500Z
 DTEND:20251123T171500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-18b3vyjp3y356x49ce7z1qdxw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Севилья VS Бетис
 DTSTART:20251130T151500Z
 DTEND:20251130T171500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-1eaz7mdny12eiuyeysnycnw2c@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Барселона
 DTSTART:20251206T173000Z
 DTEND:20251206T193000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-1gkqfp2d7qi9h6k34k3mo8zkk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Райо Вальекано VS Бетис
 DTSTART:20251215T200000Z
 DTEND:20251215T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-1kcl2n7fay0ptltdwj2k47tp0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Хетафе
 DTSTART:20251221T200000Z
 DTEND:20251221T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-1q09wu5t41r3rdtsv757pyf4k@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Мадрид VS Бетис
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-1s8ry79zt6zhqqa2eoakvm904@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Овьедо VS Бетис
 DTSTART:20260110T130000Z
 DTEND:20260110T150000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-1vn4i7o4gvzy4wej9uoz5qz9w@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Вильярреал
 DTSTART:20260117T200000Z
 DTEND:20260117T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-212c0txlhb4ljff92d2cu5edw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Алавес VS Бетис
 DTSTART:20260125T200000Z
 DTEND:20260125T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-24ggs30od6yf2dz3uyz8zjlec@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Валенсия
 DTSTART:20260201T151500Z
 DTEND:20260201T171500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-28lvz9j35a3we5r2jy9lff7dg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Бетис
 DTSTART:20260208T173000Z
 DTEND:20260208T193000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2d48hhckok4yi8bluy55trf2s@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Мальорка VS Бетис
 DTSTART:20260215T200000Z
 DTEND:20260215T220000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Райо Вальекано
 DTSTART:20260221T151500Z
 DTEND:20260221T171500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2kn874mea28rs8m0s333xmp78@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Севилья
 DTSTART:20260301T173000Z
 DTEND:20260301T193000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2napzcxsfy1ju0ixutyi6z8yc@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Хетафе VS Бетис
 DTSTART:20260308T151500Z
 DTEND:20260308T171500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2s67ol8ci5kpjktfuw80c58gk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Сельта
 DTSTART:20260315T173000Z
 DTEND:20260315T193000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2vji7tw0khxdvfeo52geb0jkk@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетик VS Бетис
 DTSTART:20260322T173000Z
 DTEND:20260322T193000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-2xuajcyluofrmnt1siit15jbo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Эспаньол
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-32dgfvl5v0zo942n2e2zihfdg@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Осасуна VS Бетис
 DTSTART:20260412T120000Z
 DTEND:20260412T140000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-37mlon39zla9t9jjetz0zei38@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Хирона VS Бетис
 DTSTART:20260421T193000Z
 DTEND:20260421T213000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-3eve0z8ko67bbailw6nhbl3x0@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -480,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Реал Мадрид
 DTSTART:20260424T190000Z
 DTEND:20260424T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-38r38grppqfwcb99s9ikyv6s4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Реал Овьедо
 DTSTART:20260503T163000Z
 DTEND:20260503T183000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-3gs6lllokoo9wk19co9k4yyac@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -510,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Реал Сосьедад VS Бетис
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-3m24sjc20wo15f6mmkw3qeqz8@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Эльче
 DTSTART:20260512T180000Z
 DTEND:20260512T200000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-3njoj8cm40koxt8u94a1h3yfo@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Барселона VS Бетис
 DTSTART:20260517T191500Z
 DTEND:20260517T211500Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-3rpa9gg887sphjnou8h1uv6s4@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
@@ -554,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Леванте
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260809T204041Z
+DTSTAMP:20260809T213902Z
 UID:fifa-3v3zljn1yog1g4knq4uoaledw@fifa.com
 DESCRIPTION:Турнир: Примера-Дивизион\nСтадия: 
  Регулярный период соревнований\nСтадион
