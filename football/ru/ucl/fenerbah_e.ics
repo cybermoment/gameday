@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Фейеноорд VS Фенербахче
 DTSTART:20250806T190000Z
 DTEND:20250806T210000Z
-DTSTAMP:20260810T172807Z
+DTSTAMP:20260810T182712Z
 UID:fifa-85iry6msydnvkotsa5rlkdrtg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Стадион Фейеноорд\nР
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Фенербахче VS Фейеноорд
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260810T172807Z
+DTSTAMP:20260810T182712Z
 UID:fifa-870twm71j86v2wd4r1wvhz2tw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Стадион Шюкрю Сарад
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Фенербахче VS Бенфика
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260810T172807Z
+DTSTAMP:20260810T182712Z
 UID:fifa-6si5xvp4wdp17unkqp0z3340k@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Стадион Шюкрю Сарад
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Бенфика VS Фенербахче
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260810T172807Z
+DTSTAMP:20260810T182712Z
 UID:fifa-6vj9dqngq7fccs4b4mh0t1d78@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Стадион Эстадио до С
