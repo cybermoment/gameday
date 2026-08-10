@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Jamshedpur FC VS Minerva Punjab
 DTSTART:20260221T140000Z
 DTEND:20260221T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-8f9620nxpbtyd5jtpo4wow7is@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: JRD Tata Sports Complex Stadium\nResult: 1 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Bengaluru FC VS Minerva Punjab
 DTSTART:20260227T140000Z
 DTEND:20260227T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-8k3hb2v83t0f9kv3yhb37byfo@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Sree Kanteerava Stadium\nResult: 0 - 2
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS NorthEast United
 DTSTART:20260309T140000Z
 DTEND:20260309T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-8rq0dcw5qou6u5fljww62j7dg@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 1 - 1
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS Goa
 DTSTART:20260316T140000Z
 DTEND:20260316T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-8xafi7wejk65403vnywmo9yc4@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 1 - 1
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Kerala Blasters VS Minerva Punjab
 DTSTART:20260321T140000Z
 DTEND:20260321T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-92zgqlxdo40aeo0fimdrh4vmc@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 1 - 3
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS Mohammedan SC
 DTSTART:20260403T140000Z
 DTEND:20260403T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-95x75lhhhcz1lhv7x0654kmc4@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 2 - 1
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Mohun Bagan VS Minerva Punjab
 DTSTART:20260412T140000Z
 DTEND:20260412T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-9hiwkg0dgkruwjw80uuzkitjo@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 3 - 2
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS Inter Kashi
 DTSTART:20260420T140000Z
 DTEND:20260420T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-9lzcgroyiss3a7xtp31jodmac@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 3 - 0
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting Delhi VS Minerva Punjab
 DTSTART:20260502T140000Z
 DTEND:20260502T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-9s52sury1dv7t3i79djntzml0@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 0 - 0
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS Chennaiyin FC
 DTSTART:20260506T140000Z
 DTEND:20260506T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-9ubx6h0rzb62vfk53fld4xixg@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium\nResult: 1 - 0
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Kingfisher East Bengal VS Minerva Punjab
 DTSTART:20260511T140000Z
 DTEND:20260511T160000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-9nu0eo06taq6l3jgorwjo836c@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Vivekananda Yuba Bharati Krirangan Stadium\nResult: 0 - 0
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Odisha FC VS Minerva Punjab
 DTSTART:20260516T113000Z
 DTEND:20260516T133000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-8cebt9i8lgg9hd8x6rygl3fh0@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium Goa
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Minerva Punjab VS Mumbai City
 DTSTART:20260517T000000Z
 DTEND:20260517T020000Z
-DTSTAMP:20260810T121001Z
+DTSTAMP:20260810T135745Z
 UID:fifa-bcwes78dnl29r0mpe7pcardas@fifa.com
 DESCRIPTION:Competition: Indian Super League\nStage: Regular Season\nStadi
  um: Jawaharlal Nehru Stadium
