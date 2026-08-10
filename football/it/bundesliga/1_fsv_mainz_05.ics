@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Colonia
 DTSTART:20250824T133000Z
 DTEND:20250824T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-cu011cv61zc09nnf1ti8z36dw@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburg VS Magonza
 DTSTART:20250831T133000Z
 DTEND:20250831T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-cxuujvkku9vf1uynns2ust8us@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Vol
  kswagen Arena\nRisultato: 1 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS RB Lipsia
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-d0z5ezb2vs51yzblzmwzb1b84@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 0 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Augusta VS Magonza
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-d5n34b7rzrhq0gv720bvle2ok@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: WWK
   Arena\nRisultato: 1 - 4
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Borussia Dortmund
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-d7kwmfj2kqzufe8d3v7w4hno4@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 0 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Amburgo VS Magonza
 DTSTART:20251005T153000Z
 DTEND:20251005T173000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-dea7nch24w5mkjq786umw8oic@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Vol
  ksparkstadion\nRisultato: 4 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Bayer Leverkusen
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-dg7pwauvil1221pczw9mxacd0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 3 - 4
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Stoccarda VS Magonza
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MHP
  Arena\nRisultato: 2 - 1
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Werder Brema
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-dnwxghd3j1pqk5thh3jxu5dlg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 1 - 1
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Francoforte VS Magonza
 DTSTART:20251109T183000Z
 DTEND:20251109T203000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-drhvn5pnlf4o1iw3w7us0se1g@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Deu
  tsche Bank Park\nRisultato: 1 - 0
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Hoffenheim
 DTSTART:20251121T193000Z
 DTEND:20251121T213000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-dvhvv2vrq6ittqcap7qh7ieqc@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 1 - 1
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Friburgo VS Magonza
 DTSTART:20251130T183000Z
 DTEND:20251130T203000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Eur
  opa-Park Stadion\nRisultato: 4 - 0
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Borussia M'gladbach
 DTSTART:20251205T193000Z
 DTEND:20251205T213000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-e27feyftlktx85ujh9cov8ahg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 0 - 1
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Magonza
 DTSTART:20251214T163000Z
 DTEND:20251214T183000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-e5djt090tj51tdtlbwkxkje38@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: All
  ianz Arena\nRisultato: 2 - 2
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS St. Pauli
 DTSTART:20251221T143000Z
 DTEND:20251221T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-e9cdd7a7r1bs45h5pugf0yn84@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 0 - 0
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Union Berlino VS Magonza
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-eewmtntk967s32llxfrnmxdsk@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Sta
  dion An der Alten Försterei\nRisultato: 2 - 2
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Heidenheim 1846
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-egh6bjq6zc9xlkxw4fozshjpw@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 2 - 1
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Colonia VS Magonza
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-emesrc98t387qvdp3v2flz8d0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Rhe
  inEnergieSTADION\nRisultato: 2 - 1
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Wolfsburg
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-eot5qteqrve14yv3diwwp1h5g@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 3 - 1
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:RB Lipsia VS Magonza
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-erk6terb8zyabi551pisqtnh0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Red
   Bull Arena\nRisultato: 1 - 2
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Augusta
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-ev57itsj39n72qf50tfqwumms@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 2 - 0
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Magonza
 DTSTART:20260213T193000Z
 DTEND:20260213T213000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-eypkzcn7uvbt0uixyixwa7m6s@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: SIG
  NAL IDUNA PARK\nRisultato: 4 - 0
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Amburgo
 DTSTART:20260220T194000Z
 DTEND:20260220T214000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-f28hzs4i28wfhjzc2g99da7mc@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 1 - 1
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Magonza
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-f50rfh9i8rkm9lvaqebpifswk@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Bay
  Arena\nRisultato: 1 - 1
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Stoccarda
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 2 - 2
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Brema VS Magonza
 DTSTART:20260315T143000Z
 DTEND:20260315T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-85awldjeh348ic7lb2w5o8ic@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Wes
  erstadion\nRisultato: 0 - 2
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Eintracht Francoforte
 DTSTART:20260322T143000Z
 DTEND:20260322T163000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-avzo5ktl8b1vckxemqjascus@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 2 - 1
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Magonza
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-ggixvkizh5mys4yi21umzc44@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Pre
  Zero Arena\nRisultato: 1 - 2
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Friburgo
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 0 - 1
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS Magonza
 DTSTART:20260419T173000Z
 DTEND:20260419T193000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-n0pifg6rklbeuban7j8tsr9w@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: BOR
  USSIA-PARK\nRisultato: 1 - 1
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS FC Bayern München
 DTSTART:20260425T133000Z
 DTEND:20260425T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-p3gv18y11i6zm4hawkwhvdas@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 3 - 4
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Magonza
 DTSTART:20260503T133000Z
 DTEND:20260503T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-uzzly9hzyjl74d9z6bborbbo@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Mil
  lerntor-Stadion\nRisultato: 1 - 2
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Magonza VS Union Berlino
 DTSTART:20260510T173000Z
 DTEND:20260510T193000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-w6dqlvvx3s5uhwkyvwtyxst0@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: MEW
  A ARENA\nRisultato: 1 - 3
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim 1846 VS Magonza
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260810T075806Z
+DTSTAMP:20260810T094302Z
 UID:fifa-12iayvq5mixkb4k0slwofc8pg@fifa.com
 DESCRIPTION:Competizione: Bundesliga\nFase: Stagione regolare\nStadio: Voi
  th-Arena\nRisultato: 0 - 2
