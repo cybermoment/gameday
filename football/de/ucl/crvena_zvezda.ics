@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Roter Stern Belgrad
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260811T182953Z
+DTSTAMP:20260811T194016Z
 UID:fifa-46xbmy1svtjsenauhcjtorz10@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Europa Point Stadium\nErgebnis: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Roter Stern Belgrad VS Lincoln Red Imps
 DTSTART:20250729T190000Z
 DTEND:20250729T210000Z
-DTSTAMP:20260811T182953Z
+DTSTAMP:20260811T194016Z
 UID:fifa-48t6pnn4up7tu28f6swem8duc@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Stadion Rajko Mitić\nErgebnis: 5 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:KKS Lech Poznan VS Roter Stern Belgrad
 DTSTART:20250806T183000Z
 DTEND:20250806T203000Z
-DTSTAMP:20260811T182953Z
+DTSTAMP:20260811T194016Z
 UID:fifa-c3x6lvs9dk8pyp5fj76w195p0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Enea Stadion\nErgebnis: 1 - 3
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Roter Stern Belgrad VS KKS Lech Poznan
 DTSTART:20250812T190000Z
 DTEND:20250812T210000Z
-DTSTAMP:20260811T182953Z
+DTSTAMP:20260811T194016Z
 UID:fifa-c4xoo7g1uefu6hj1vgsn3r95g@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Stadion Rajko Mitić\nErgebnis: 1 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Roter Stern Belgrad VS Pafos
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260811T182953Z
+DTSTAMP:20260811T194016Z
 UID:fifa-eklbtanrg41db9bg2oj7fnevo@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: S
  tadion Rajko Mitić\nErgebnis: 1 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Pafos VS Roter Stern Belgrad
 DTSTART:20250826T190000Z
 DTEND:20250826T210000Z
-DTSTAMP:20260811T182953Z
+DTSTAMP:20260811T194016Z
 UID:fifa-emypvbslto43ter68roe6cc2c@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: A
  lphamega Stadium\nErgebnis: 1 - 1
