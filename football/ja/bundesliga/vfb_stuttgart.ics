@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ウニオン・ベルリン VS シュトゥットガルト
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-cuy2jl56nzmr8kciofaw35mvo@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: シュタディオン・アン・デア・
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ボルシアMG
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-cxgxfv4cgatuuo00n8tqnp250@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:フライブルク VS シュトゥットガルト
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: Europa-Park Stadion\n結果: 3 - 1
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ザンクト・パウリ
 DTSTART:20250919T183000Z
 DTEND:20250919T203000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-d57dyecge1gksxij76pexjndg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:ケルン VS シュトゥットガルト
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-da1gkw7g8uurvecg8icqqu80k@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ラインエネルギーシュタディオ
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ハイデンハイム
 DTSTART:20251005T133000Z
 DTEND:20251005T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-dcbu0qyee86bq330g0zaxen84@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:ヴォルフスブルク VS シュトゥットガルト
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-dhgn2s9vj1xh9qa8pa8do0hsk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: フォルクスワーゲン・アレーナ\
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS マインツ
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:RBライプツィヒ VS シュトゥットガルト
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-dob7jioiab4wpkqsh501gt8us@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: レッドブル・アレーナ\n結果: 3 -
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS アウクスブルク
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-dsqxlgx55w9dyzteo543rekgk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシア・ドルトムント VS シュトゥットガルト
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-dv3pyqp0u9k0vzrwxfqyw7pqs@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ジグナル・イドゥナ・パルク\n
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:ハンブルガーSV VS シュトゥットガルト
 DTSTART:20251130T143000Z
 DTEND:20251130T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-e1f69rve0isrkp77hh5c7s9hw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: フォルクスパルクシュタディオ
@@ -189,7 +189,7 @@ SUMMARY:シュトゥットガルト VS FC バイエルン・ミュンヘ
  ン
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-e316y52k65mk03dm4as02k1ec@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:ヴェルダー・ブレーメン VS シュトゥットガルト
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴェーザーシュタディオン\n結
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ホッフェンハイム
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ea4lmhpl5whsoh1piqqcssl5g@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:レヴァークーゼン VS シュトゥットガルト
 DTSTART:20260110T173000Z
 DTEND:20260110T193000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ecvhruw09dh0sttcgksxez85w@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: バイアレーナ\n結果: 1 - 4
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS フランクフルト
 DTSTART:20260113T173000Z
 DTEND:20260113T193000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-eh9gvjxr0n86w07y0jj7dtqtw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ウニオン・ベルリン
 DTSTART:20260118T143000Z
 DTEND:20260118T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ektysl1ncdd9c0sofo4gauvpw@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシアMG VS シュトゥットガルト
 DTSTART:20260125T143000Z
 DTEND:20260125T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ep7dzm3z4tfgwvyyw1kyxvxuc@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ボルシアパルク\n結果: 0 - 3
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS フライブルク
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:ザンクト・パウリ VS シュトゥットガルト
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ewpv0e762q6h7lgsj9ttp6710@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ミレントア・シュタディオン\n
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ケルン
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ezvw4rzkq2oh0hvwgw0dl7cwk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:ハイデンハイム VS シュトゥットガルト
 DTSTART:20260222T183000Z
 DTEND:20260222T203000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-f48ekfjam5o4sn61u5cgqlb84@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ヴォイト・アレーナ\n結果: 3 - 3
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ヴォルフスブルク
 DTSTART:20260301T143000Z
 DTEND:20260301T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-z5x4rla2wka1b60vymlgahg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:マインツ VS シュトゥットガルト
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: OPELアレーナ\n結果: 2 - 2
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS RBライプツィヒ
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-8jtwam679udusbvzwv2egi6s@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:アウクスブルク VS シュトゥットガルト
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-c2jl259mxclm0afht8mu5pg4@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: WWKアレーナ\n結果: 2 - 5
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ボルシア・ドルトムント
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-f9p6jq6t9ykow3vrcstmoqhg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ハンブルガーSV
 DTSTART:20260412T153000Z
 DTEND:20260412T173000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-ip68aj1tv057ewa4zh0f3jtg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -436,7 +436,7 @@ SUMMARY:FC バイエルン・ミュンヘン VS シュトゥットガル
  ト
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-l1unx7afl9hhfzuu40gzx0yc@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: アリアンツ・アレーナ\n結果: 4 -
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS ヴェルダー・ブレーメン
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -466,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:ホッフェンハイム VS シュトゥットガルト
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-vdyf5bricl9fqbe7uviz5btg@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: ライン・ネッカー・アレーナ\n
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥットガルト VS レヴァークーゼン
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-wypbnfvax0tbj73qs4iv94ic@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: メルセデス・ベンツ・アレーナ\
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:フランクフルト VS シュトゥットガルト
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260812T143815Z
+DTSTAMP:20260812T160347Z
 UID:fifa-1053ngfunkdt7v41cane05fkk@fifa.com
 DESCRIPTION:大会: ブンデスリーガ\nラウンド: レギュラー
  シーズン\nスタジアム: コメルツバンク・アレーナ\n結
