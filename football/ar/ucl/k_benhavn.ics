@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS دريتا
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-9dhbll93kmrgh0yya180w6vpw@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: تيليا با
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:دريتا VS كوبنهاجن
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-9gke67xnrinvimlbkxh1b9p1w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثاني\nالملعب: ملعب فاض
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:مالمو VS كوبنهاجن
 DTSTART:20250805T170000Z
 DTEND:20250805T190000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-94kr5bwt6oticc945i2w6mas4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: استاد سو
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS مالمو
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-9etdts4kh4rspdnzg2fmq426s@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور التصفيات الثالث\nالملعب: تيليا با
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:بازل VS كوبنهاجن
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-3iubkdxqqo0td0u2ib5ig8lck@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: سانت ج
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS بازل
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-3kcpr67bjfbqjx7tkkuv1u2ok@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: المبارايات الاختتامية\nالملعب: تيليا 
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS باير ليفركوزن
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-4vztu080wke11le259fjnfdp0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:كارباغ أغدام VS كوبنهاجن
 DTSTART:20251001T164500Z
 DTEND:20251001T184500Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب توفيق بهرا
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS نادي بوروسيا دورتموند
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:توتنهام VS كوبنهاجن
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-5dvbfx9w8zmqjabpmshvexs0k@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب توتنهام هو
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS قايرات ألماته
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-5kyx3oei9qwufppsacuaxnifo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:فياريال VS كوبنهاجن
 DTSTART:20251210T174500Z
 DTEND:20251210T194500Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-5s9nt12is41lwav2mpse1fp5g@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد دي لا سيرا
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:كوبنهاجن VS نابولي
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: تيليا باركن\nالن
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS كوبنهاجن
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260812T022803Z
+DTSTAMP:20260812T042416Z
 UID:fifa-65lxswiag0r6pt7m7s7nz6g44@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: كامب نو\nالنتيجة
