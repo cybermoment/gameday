@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS غلطة سراي
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-4wcjch9j9nzd1cfu19oioy9sk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد كوميرزبان
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS ليفربول
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-4zy839pwz57fo6s7vmh7ntv6c@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS بودو جليمت
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-57vuceh50t8ljktlsz99kwh04@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:أياكس VS غلطة سراي
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-5eyjs5dmee4khfup2nzycajo4@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: يوهان كرويف أري
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS أونيون سانت جيلواز
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-5i0c80gxlounme20ekaqrx0yc@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:موناكو VS غلطة سراي
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ستاد لوي الثاني\
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS أتلتيكو مدريد
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: ملعب تورك تليكو
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:مانشستر سيتي VS غلطة سراي
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الدوري\nالملعب: استاد الإتحاد\nا
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS نادي يوفنتوس
 DTSTART:20260217T174500Z
 DTEND:20260217T194500Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-2ivwkprq3bnkkp2bfa2cdintg@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: ملعب تورك ت
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS غلطة سراي
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-2je80aixlyto9e2rtr0c0bpjo@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: مرحلة الإقصائيات\nالملعب: يوفنتوس أري
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:غلطة سراي VS ليفربول
 DTSTART:20260310T174500Z
 DTEND:20260310T194500Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-4mgtzo7ycptzkfyv1top89st0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: ملعب تورك تليكوم\nال
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:ليفربول VS غلطة سراي
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260813T051905Z
+DTSTAMP:20260813T065827Z
 UID:fifa-4p8fjg0wpd5eyaa0t0mv8pzx0@fifa.com
 DESCRIPTION:المسابقة: دوري أبطال أوروبا\nالمرح
  لة: دور الـ16\nالملعب: أنفيلد\nالنتيجة: 4 - 0
