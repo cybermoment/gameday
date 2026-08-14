@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Зальцбург VS Клуб Брюгге
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-4kaoetw1v79yjhvefdf3wg7is@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Ред Булл Арена\nРезу
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Зальцбург
 DTSTART:20250812T173000Z
 DTEND:20250812T193000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-4mw62xq9whvjft1pqjkxh6xw4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 3-й Раунд\nСтадион: Jan Breydelstadion\nРезульта
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Рейнджерс VS Клуб Брюгге
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-83509np6cybipasjyz6nbxpg4@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Ibrox Stadium\nРезультат: 1 
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Рейнджерс
 DTSTART:20250827T190000Z
 DTEND:20250827T210000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-847pdw2q6zi71o572y4xmmjh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: плей офф\nСтадион: Jan Breydelstadion\nРезульта
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Монако
 DTSTART:20250918T164500Z
 DTEND:20250918T184500Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-4vn56t4pxoy4bv8dlacifua6s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Аталанта VS Клуб Брюгге
 DTSTART:20250930T164500Z
 DTEND:20250930T184500Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-4xs86vowvf2xcks0ln8eu9e6s@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: New Balance Arena\nРезультат: 2
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Бавария Мюнхен VS Клуб Брюгге
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-59okcwx8e7548yvwcxc3b1b84@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Allianz Arena\nРезультат: 4 - 0
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Барселона
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-5fbfmxmdror7xvtcq3a41pkpg@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Лиссабон VS Клуб Брюгге
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-5o69xht1oo35xkvbwqq94u0ic@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Estádio José Alvalade\nРезульт
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Арсенал
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-5tp7r7lkjm2n3sj60puy8f7ys@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Кайрат VS Клуб Брюгге
 DTSTART:20260120T153000Z
 DTEND:20260120T173000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-5v8hwooa0jtfx005o0xujkff8@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Стадион Астана Арена\n
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Олимпик Марсель
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-64sx5q7qlo1ahz8cb3ss3lp90@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: League Stage\nСтадион: Jan Breydelstadion\nРезультат: 
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Клуб Брюгге VS Атлетико Мадрид
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Jan Breydelstadion\nРезу
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Атлетико Мадрид VS Клуб Брюгге
 DTSTART:20260224T174500Z
 DTEND:20260224T194500Z
-DTSTAMP:20260814T000915Z
+DTSTAMP:20260814T030809Z
 UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Knockout Round Play-offs\nСтадион: Riyadh Air Metropolitano\nР
