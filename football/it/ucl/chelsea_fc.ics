@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Chelsea FC
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-4ul6yr2fksq114k3r287afg9g@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Allianz Arena\nRisultato: 3 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS SL Benfica
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-4ywa27fk4gjqw9lpav3e2sy6s@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Stamford Bridge\nRisultato: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Ajax
 DTSTART:20251022T190000Z
 DTEND:20251022T210000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-58ypxe2wvxq7e89u8q0k0ep04@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Stamford Bridge\nRisultato: 5 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ VS Chelsea FC
 DTSTART:20251105T174500Z
 DTEND:20251105T194500Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-5eldqjhp1rtk3xd9olxavsvmc@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Tofiq Bəhramov adına Respublika stadionu\nRisultato: 2 - 2
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Barcelona
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-5iss7tc562nnymg0uiewtt0r8@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Stamford Bridge\nRisultato: 3 - 0
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Atalanta VS Chelsea FC
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-5pn7mzdx02v7lyxj8p1kr2cd0@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: New Balance Arena\nRisultato: 2 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Pafos
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-5zzgoq20bhr6m700r68oc87x0@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Stamford Bridge\nRisultato: 1 - 0
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Napoli VS Chelsea FC
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Fase Campionato\nSt
  adio: Stadio Diego Armando Maradona\nRisultato: 2 - 3
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Chelsea FC
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-2bhi66etavhwksr15mtds3jmc@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Ottavi di finale\nS
  tadio: Parco dei Principi\nRisultato: 5 - 2
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Paris Saint-Germain
 DTSTART:20260317T200000Z
 DTEND:20260317T220000Z
-DTSTAMP:20260814T145739Z
+DTSTAMP:20260814T155942Z
 UID:fifa-2nekushi1t6nmi7ecukkoza50@fifa.com
 DESCRIPTION:Competizione: UEFA Champions League\nFase: Ottavi di finale\nS
  tadio: Stamford Bridge\nRisultato: 0 - 3
