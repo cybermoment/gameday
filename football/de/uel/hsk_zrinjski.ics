@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Zrinjski VS Breiðablik Kópavogur
 DTSTART:20250807T180000Z
 DTEND:20250807T200000Z
-DTSTAMP:20260815T053022Z
+DTSTAMP:20260815T065030Z
 UID:fifa-6qkme6vyn4nl950powrwxt9g4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Stadion HŠK Zrinjski\nErgebnis: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Breiðablik Kópavogur VS Zrinjski
 DTSTART:20250814T173000Z
 DTEND:20250814T193000Z
-DTSTAMP:20260815T053022Z
+DTSTAMP:20260815T065030Z
 UID:fifa-6se1oni96vfa56cx66tu16has@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Kópavogsvöllur\nErgebnis: 1 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Zrinjski VS FC Utrecht
 DTSTART:20250821T180000Z
 DTEND:20250821T200000Z
-DTSTAMP:20260815T053022Z
+DTSTAMP:20260815T065030Z
 UID:fifa-6yzohc7o27nrqy008agsoczdg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Stad
  ion HŠK Zrinjski\nErgebnis: 0 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:FC Utrecht VS Zrinjski
 DTSTART:20250828T180000Z
 DTEND:20250828T200000Z
-DTSTAMP:20260815T053022Z
+DTSTAMP:20260815T065030Z
 UID:fifa-70srxazhtbiqm5lg2r043an10@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: Playoffs\nStadion: Stad
  ion Galgenwaard\nErgebnis: 0 - 0
