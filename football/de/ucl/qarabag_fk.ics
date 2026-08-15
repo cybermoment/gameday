@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS Qarabağ Ağdam
 DTSTART:20250723T184500Z
 DTEND:20250723T204500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-15au93rf3haritiab0g6dnj84@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Tolka Park\nErgebnis: 0 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Shelbourne
 DTSTART:20250730T160000Z
 DTEND:20250730T180000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-1855o8trnuavzs9zq1ubf5us4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 2. Qualifikationsrun
  de\nStadion: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 1 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Shkëndija Tetovo VS Qarabağ Ağdam
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-23k8l6ncqdj2gok7h518acphw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Nacionalna Arena Toše Proeski\nErgebnis: 0 - 1
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Shkëndija Tetovo
 DTSTART:20250812T160000Z
 DTEND:20250812T180000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-25e03ef6ay63s66h6g2ru7pck@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: 3. Qualifikationsrun
  de\nStadion: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 5 - 1
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencváros Budapest VS Qarabağ Ağdam
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-d5b02fjhta8o2wp45d8odkbv8@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: G
  roupama Aréna\nErgebnis: 1 - 3
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Ferencváros Budapest
 DTSTART:20250827T164500Z
 DTEND:20250827T184500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-d7jv0n051zxtm2au10ni8oys4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Playoffs\nStadion: T
  ofiq Bəhramov adına Respublika stadionu\nErgebnis: 2 - 3
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS Qarabağ Ağdam
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-4ss3nn1l6wqkwpfcnky8m6l1w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 2 - 3
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS FC Kopenhagen
 DTSTART:20251001T164500Z
 DTEND:20251001T184500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5104qayfydr051q69yxvq9tzo@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 2 - 0
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Qarabağ Ağdam
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-57hkc7sflvvd9br8rn38ahg5w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estadio de San Mamés\nErgebnis: 3 - 1
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Chelsea FC
 DTSTART:20251105T174500Z
 DTEND:20251105T194500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5eldqjhp1rtk3xd9olxavsvmc@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 2 - 2
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:SSC Neapel VS Qarabağ Ağdam
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Stadio Diego Armando Maradona\nErgebnis: 2 - 0
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Ajax Amsterdam
 DTSTART:20251210T174500Z
 DTEND:20251210T194500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5rwblgpp1p54pam18ie7bjnro@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 2 - 4
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Eintracht Frankfurt
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5z9jt02azordg6y6m97cvmc5w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 3 - 2
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Qarabağ Ağdam
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-65yo7coecrnl1gwgkdatt2xas@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Anfield\nErgebnis: 6 - 0
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Qarabağ Ağdam VS Newcastle United
 DTSTART:20260218T174500Z
 DTEND:20260218T194500Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5kfusd0dm3a7nj9phmwand7h0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Knockout Round Play-
  offs\nStadion: Tofiq Bəhramov adına Respublika stadionu\nErgebnis: 1 - 6
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle United VS Qarabağ Ağdam
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
-DTSTAMP:20260815T043731Z
+DTSTAMP:20260815T053018Z
 UID:fifa-5ku5l0q1alklhnot6zgxnww7o@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: Knockout Round Play-
  offs\nStadion: St. James' Park\nErgebnis: 3 - 2
