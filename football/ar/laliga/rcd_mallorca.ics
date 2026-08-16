@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS برشلونة
 DTSTART:20250816T173000Z
 DTEND:20250816T193000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2d4xobwd1t1rd2kxlcjmqcyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS سيلتا فيغو
 DTSTART:20250823T150000Z
 DTEND:20250823T170000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-62wqjuo2ykej3fzagx0scs9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS ريال مايوركا
 DTSTART:20250830T193000Z
 DTEND:20250830T213000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-77rmbjidsouxav300f54behg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:إسبانيول VS ريال مايوركا
 DTSTART:20250915T190000Z
 DTEND:20250915T210000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-c0ed2ycw3cur2spz99c0r2ms@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد باور ايت\n
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS أتلتيكو مدريد
 DTSTART:20250921T141500Z
 DTEND:20250921T161500Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-gg5bnkuq3inqnecavarjo3dg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS ريال مايوركا
 DTSTART:20250924T193000Z
 DTEND:20250924T213000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-hxr2ojynmpps6ni1gbdsa1hw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ديبورتيفو ألافيس
 DTSTART:20250927T163000Z
 DTEND:20250927T183000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-nyhzbo7wncd07zhc7pysjris@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:أتليتيكو بلباو VS ريال مايوركا
 DTSTART:20251004T163000Z
 DTEND:20251004T183000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-pt81qdbd7pkbnnkpq246rtw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان ماميه\
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:إشبيلية VS ريال مايوركا
 DTSTART:20251018T120000Z
 DTEND:20251018T140000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-wlegmdabr8ruispvl8gtzv9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد رامون سان
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ليفانتي
 DTSTART:20251026T130000Z
 DTEND:20251026T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-zzqopgn9iz38xxwmgsl6ccus@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:ريال بيتيس VS ريال مايوركا
 DTSTART:20251102T200000Z
 DTEND:20251102T220000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-11hplskmrac4dwfmqv72f9nh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS خيتافي
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:فياريال VS ريال مايوركا
 DTSTART:20251122T200000Z
 DTEND:20251122T220000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1bbwtdnimi7tbl6aatezlnwno@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS أوساسونا
 DTSTART:20251129T130000Z
 DTEND:20251129T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1cg5aiu7phyw89gyr0m9hme50@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:ريال أوفيدو VS ريال مايوركا
 DTSTART:20251205T200000Z
 DTEND:20251205T220000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1i2f9ycdq0mof2nmr7jievlsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS إلتشي
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال مايوركا
 DTSTART:20251219T200000Z
 DTEND:20251219T220000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1p93rklxg8b0b4dymsqjlcbh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS جيرونا
 DTSTART:20260104T173000Z
 DTEND:20260104T193000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1szis91vby48oriy7er25lams@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:رايو فاييكانو VS ريال مايوركا
 DTSTART:20260111T130000Z
 DTEND:20260111T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1x4ja8gant6mmc4sm9odbjcpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS أتليتيكو بلباو
 DTSTART:20260117T151500Z
 DTEND:20260117T171500Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-1zyd1rcyvotux5kjh936dehp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS ريال مايوركا
 DTSTART:20260125T130000Z
 DTEND:20260125T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-24tv2ajrcwbqaq46kxd54mgpg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS إشبيلية
 DTSTART:20260202T200000Z
 DTEND:20260202T220000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-28z661pl07w40fr1in36f97o4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS ريال مايوركا
 DTSTART:20260207T151500Z
 DTEND:20260207T171500Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2dhi57c0oalm6wvrjttsm44k4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: كامب نو\nالنتيجة
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ريال بيتيس
 DTSTART:20260215T200000Z
 DTEND:20260215T220000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2eyrfe9uog3f5s72qy88imxp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:سيلتا فيغو VS ريال مايوركا
 DTSTART:20260222T173000Z
 DTEND:20260222T193000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2l0hlraqbbo3sgfhtv0iaa49g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ريال سوسيداد
 DTSTART:20260228T173000Z
 DTEND:20260228T193000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2o1qezfdq50juhi4b82nyesk4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:أوساسونا VS ريال مايوركا
 DTSTART:20260307T130000Z
 DTEND:20260307T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2pivvji4pf47xn5ziqca3ttlg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد السدار\nال
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS إسبانيول
 DTSTART:20260315T130000Z
 DTEND:20260315T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2taxjp7kgsyqb2x6zjjbiwys4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:إلتشي VS ريال مايوركا
 DTSTART:20260321T130000Z
 DTEND:20260321T150000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد مانويل ما
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ريال مدريد
 DTSTART:20260404T141500Z
 DTEND:20260404T161500Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-334grr0hqs8zr92mx518hdjpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS رايو فاييكانو
 DTSTART:20260412T141500Z
 DTEND:20260412T161500Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-36img9yditg3x8kvo810l3ims@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS فالنسيا
 DTSTART:20260421T170000Z
 DTEND:20260421T190000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-3ddiuilkmzwc7z89f5cjy1pn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:ديبورتيفو ألافيس VS ريال مايوركا
 DTSTART:20260425T120000Z
 DTEND:20260425T140000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-38dsrz394cwn8gbxbm6ahnllg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد دي منديزو
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:جيرونا VS ريال مايوركا
 DTSTART:20260501T190000Z
 DTEND:20260501T210000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-3i9z3nd0s3lxkt3l5hpy8wil0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS فياريال
 DTSTART:20260510T120000Z
 DTEND:20260510T140000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-3lazt464v4k6hjwcq9ljf0ums@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:خيتافي VS ريال مايوركا
 DTSTART:20260513T193000Z
 DTEND:20260513T213000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
@@ -547,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:ليفانتي VS ريال مايوركا
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-3sg7p1fgas9oyig0lv5gdmvis@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS ريال أوفيدو
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260816T083707Z
+DTSTAMP:20260816T093335Z
 UID:fifa-3wljbdagmhpi6h7viwogz9ul0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
