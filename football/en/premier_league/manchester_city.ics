@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Wolverhampton Wanderers VS Manchester City
 DTSTART:20250816T163000Z
 DTEND:20250816T183000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-12gtk3hwf4px68mpjs890rehg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: M
  olineux Stadium\nResult: 0 - 4
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Tottenham Hotspur
 DTSTART:20250823T113000Z
 DTEND:20250823T133000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-172cmeucd0eh693911rgimuj8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 0 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Brighton & Hove Albion VS Manchester City
 DTSTART:20250831T130000Z
 DTEND:20250831T150000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-18o9ldivk2e84zcrejou19dlg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: A
  merican Express Stadium\nResult: 2 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Manchester United
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-1exxqpardhibndjt24yvj2l1w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Manchester City
 DTSTART:20250921T153000Z
 DTEND:20250921T173000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-1gil6wudqtyaauvngcgucwbh0@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  mirates Stadium\nResult: 1 - 1
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Burnley
 DTSTART:20250927T140000Z
 DTEND:20250927T160000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-1mgz1t6rbrx41ljreydpdy39w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 5 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Brentford VS Manchester City
 DTSTART:20251005T153000Z
 DTEND:20251005T173000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-1paikangkucvx6etwyog8bxg4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: G
  tech Community Stadium\nResult: 0 - 1
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Everton
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-1u36beg0t6rceb5etaa7rcwes@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 2 - 0
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa VS Manchester City
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-1x07v32ex6xevmomsysc6e4us@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: V
  illa Park\nResult: 1 - 0
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Bournemouth
 DTSTART:20251102T163000Z
 DTEND:20251102T183000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-226u5j38rgjs64xqe4t2j2fis@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 1
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Liverpool
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-266x8afjnwzm848lkn11qjmdw@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Newcastle United VS Manchester City
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2be0iellzfr9f97wvwb3qf6s4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  t. James' Park\nResult: 2 - 1
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Leeds United
 DTSTART:20251129T150000Z
 DTEND:20251129T170000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2e7k8n5g5qy61sq7e9nzw6djo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 2
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Fulham VS Manchester City
 DTSTART:20251202T193000Z
 DTEND:20251202T213000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2huqn7q2qf5wv5w6t7zntjh1w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: C
  raven Cottage\nResult: 4 - 5
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Sunderland
 DTSTART:20251206T150000Z
 DTEND:20251206T170000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2mn02i70sx3s7vcdf62kpucyc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Palace VS Manchester City
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2puvu6w2xhmlm3xgj1fqihpn8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  elhurst Park\nResult: 0 - 3
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS West Ham United
 DTSTART:20251220T150000Z
 DTEND:20251220T170000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2ust52gpo2ahhjz76xjxcymfo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham Forest VS Manchester City
 DTSTART:20251227T123000Z
 DTEND:20251227T143000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-2z98uvv8ew6frqtuw6byswkyc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  he City Ground\nResult: 1 - 2
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Sunderland VS Manchester City
 DTSTART:20260101T200000Z
 DTEND:20260101T220000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-33mddkzucn8g1zl6swwenocus@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  tadium of Light\nResult: 0 - 0
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Chelsea FC
 DTSTART:20260104T173000Z
 DTEND:20260104T193000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-376x4oj5st9ovcbc0cdsuxxjo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 1 - 1
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Brighton & Hove Albion
 DTSTART:20260107T193000Z
 DTEND:20260107T213000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3bmnia1jn5bzt2z4pea3yr66s@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 1 - 1
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester United VS Manchester City
 DTSTART:20260117T123000Z
 DTEND:20260117T143000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3euckq6g15mkb2d6jes5yi68k@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: O
  ld Trafford\nResult: 2 - 0
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Wolverhampton Wanderers
 DTSTART:20260124T150000Z
 DTEND:20260124T170000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3jmfogrcihpuf81y4u5jxwcus@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 2 - 0
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham Hotspur VS Manchester City
 DTSTART:20260201T163000Z
 DTEND:20260201T183000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3o1on3ufinfu3kop2z2v3sb2s@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  ottenham Hotspur Stadium\nResult: 2 - 2
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Manchester City
 DTSTART:20260208T163000Z
 DTEND:20260208T183000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3ragu84a8rxxqwkao5j5m4mqc@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: A
  nfield\nResult: 1 - 2
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Fulham
 DTSTART:20260211T193000Z
 DTEND:20260211T213000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3uwscuw3pka1nis987nbuotn8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Newcastle United
 DTSTART:20260221T200000Z
 DTEND:20260221T220000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-3ywhjhhi3hutlsan04ezftk44@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 2 - 1
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds United VS Manchester City
 DTSTART:20260228T173000Z
 DTEND:20260228T193000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-42yc011p2ll2efprhqeeq03ys@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  lland Road\nResult: 0 - 1
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Nottingham Forest
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-47dvoq5r75sixlz45j51y0ys4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 2 - 2
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:West Ham United VS Manchester City
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4cm108ohxx531fr98bh9uy68k@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: L
  ondon Stadium\nResult: 1 - 1
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Manchester City
 DTSTART:20260412T153000Z
 DTEND:20260412T173000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4ib5b6h12ok2qgdkbzwg1jv9w@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: S
  tamford Bridge\nResult: 0 - 3
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Arsenal
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4nwnb9i8nivpfmdru07fywsgk@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 2 - 1
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Burnley VS Manchester City
 DTSTART:20260422T190000Z
 DTEND:20260422T210000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4qx1vfv92l7yqyy7fs7ekytjo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: T
  urf Moor\nResult: 0 - 1
@@ -439,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Everton VS Manchester City
 DTSTART:20260504T190000Z
 DTEND:20260504T210000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4vs4yw5xl6m0llsmolmoloob8@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: H
  ill Dickinson Stadium\nResult: 3 - 3
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Brentford
 DTSTART:20260509T163000Z
 DTEND:20260509T183000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4zvbzemavxseozb5xmct44tg4@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Crystal Palace
 DTSTART:20260513T190000Z
 DTEND:20260513T210000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-4fghd8ykrqusg7duvwfkhy6fo@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 3 - 0
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Bournemouth VS Manchester City
 DTSTART:20260519T183000Z
 DTEND:20260519T203000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-51wruvqfagv0fz9vzksxri4gk@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: V
  itality Stadium\nResult: 1 - 1
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Aston Villa
 DTSTART:20260524T150000Z
 DTEND:20260524T170000Z
-DTSTAMP:20260817T095001Z
+DTSTAMP:20260817T103807Z
 UID:fifa-5831hbgqqz9ehu1ae5qlphvdg@fifa.com
 DESCRIPTION:Competition: Premier League\nStage: Regular Season\nStadium: E
  tihad Stadium\nResult: 1 - 2
