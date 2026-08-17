@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS ベティス
 DTSTART:20250818T190000Z
 DTEND:20250818T210000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2t5f41usmgztitxkybrycidw@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:アトレティコ・マドリード VS エルチェ
 DTSTART:20250823T173000Z
 DTEND:20250823T193000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-49e80e647ljijc5bz8tqc2l0@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: ワンダ・メトロポリターノ\n結果: 1 - 1
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS レバンテ
 DTSTART:20250829T173000Z
 DTEND:20250829T193000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-8auqwdd7rhk8k4erd29m5c0k@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 2 - 0
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:セビージャ VS エルチェ
 DTSTART:20250912T190000Z
 DTEND:20250912T210000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-du8jha9qxukb7ki17m3y3aj8@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: ラモン・サンチェス・ピスファン\n結
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS レアル・オビエド
 DTSTART:20250921T163000Z
 DTEND:20250921T183000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-faxb5rfdawpnwaoof1j1o3ro@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 0
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:オサスナ VS エルチェ
 DTSTART:20250925T173000Z
 DTEND:20250925T193000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-lcqefumn96v640d0yzsv7xuc@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio El Sadar\n結果: 1 - 1
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS セルタ・デ・ビーゴ
 DTSTART:20250928T141500Z
 DTEND:20250928T161500Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-opadvx9ieaoaai2n08r4sqok@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 2 - 1
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:アラべス VS エルチェ
 DTSTART:20251005T120000Z
 DTEND:20251005T140000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-pftv5ujrolgrr85ijlnj728k@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: メンディソロッサ\n結果: 3 - 1
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS アトレティック・クルブ
 DTSTART:20251019T120000Z
 DTEND:20251019T140000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-vgz6kc0y9dz9ecnnqulzb578@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 0 - 0
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:エスパニョール VS エルチェ
 DTSTART:20251025T141500Z
 DTEND:20251025T161500Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-zkqu9lm76sa6ypjcluvnr578@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: RCDEスタジアム\n結果: 1 - 0
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:バルセロナ VS エルチェ
 DTSTART:20251102T173000Z
 DTEND:20251102T193000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-113wccwt50kebz0thqf0fxkpg@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadi Olímpic Lluís Companys\n結果: 3 - 1
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS レアル・ソシエダ
 DTSTART:20251107T200000Z
 DTEND:20251107T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-15au35re7u5b9ru4hoko7f3f8@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 1
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS レアル・マドリード CF
 DTSTART:20251123T200000Z
 DTEND:20251123T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-18ojlro5jtdeu8nv72repur6c@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 2 - 2
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:ヘタフェ VS エルチェ
 DTSTART:20251128T200000Z
 DTEND:20251128T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-1eq00zu9dngz36evkyw20uw44@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: コリセウム・アルフォンソ・ペレス\n
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS ジローナ
 DTSTART:20251207T130000Z
 DTEND:20251207T150000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-1fu4ltpxdb9j94v6s2kbx1puc@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 3 - 0
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:マジョルカ VS エルチェ
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-1kpzn7hqfuvbxrrrsh2c6mdxw@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: ソン・モイス\n結果: 3 - 1
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS ラージョ・バジェカーノ
 DTSTART:20251221T173000Z
 DTEND:20251221T193000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-1qdreckuiubqc7yotymp8jggk@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 4 - 0
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS ビジャレアル
 DTSTART:20260103T173000Z
 DTEND:20260103T193000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-1uit2aujexe8xc2izg1a2uyvo@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 3
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:バレンシア VS エルチェ
 DTSTART:20260110T200000Z
 DTEND:20260110T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-1wdy4ggbun88lgjv5mhlw53pw@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: メスタージャ\n結果: 1 - 1
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS セビージャ
 DTSTART:20260119T200000Z
 DTEND:20260119T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-21t9p2uvl57vfs1xsytfooxzo@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 2 - 2
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:レバンテ VS エルチェ
 DTSTART:20260123T200000Z
 DTEND:20260123T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-22jwwfu5djp7vwtjkvcujieqc@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: シウダ・デ・バレンシア\n結果: 3 - 2
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS バルセロナ
 DTSTART:20260131T200000Z
 DTEND:20260131T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-26p4gv6nxij3gqaoea17rxct0@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 3
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:レアル・ソシエダ VS エルチェ
 DTSTART:20260207T200000Z
 DTEND:20260207T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2agwdhyd4f3pb3wugya4art3o@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: アノエタ\n結果: 3 - 1
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS オサスナ
 DTSTART:20260213T200000Z
 DTEND:20260213T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2fpgp04qfqn3zanmznei2zmdw@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 0 - 0
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:アトレティック・クルブ VS エルチェ
 DTSTART:20260220T200000Z
 DTEND:20260220T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2jiyipev8f7wvnf4rp16n8n4k@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: サン・マメス\n結果: 2 - 1
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS エスパニョール
 DTSTART:20260301T130000Z
 DTEND:20260301T150000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2no6er6enaks2abnft8fknndg@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 2 - 2
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:ビジャレアル VS エルチェ
 DTSTART:20260308T130000Z
 DTEND:20260308T150000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2sjqtzqw7toxdc5xpqu843vh0@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: ラ・セラミカ\n結果: 2 - 1
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:レアル・マドリード CF VS エルチェ
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2sx9kf2syjyyqwaxz74i46n10@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: サンティアゴ・ベルナベウ\n結果: 4 - 1
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS マジョルカ
 DTSTART:20260321T130000Z
 DTEND:20260321T150000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-2yl5s151fw9kjhq3j3dx1g2l0@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 2 - 1
@@ -408,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:ラージョ・バジェカーノ VS エルチェ
 DTSTART:20260403T190000Z
 DTEND:20260403T210000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-30u02n6fw3bxc2lk51wv1cowk@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio de Vallecas\n結果: 1 - 0
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS バレンシア
 DTSTART:20260411T141500Z
 DTEND:20260411T161500Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-363nbiu36arb8us8vuxlizqc4@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 0
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS アトレティコ・マドリード
 DTSTART:20260422T170000Z
 DTEND:20260422T190000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3ehzlcos9xo56ol70wttwmu50@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 3 - 2
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:レアル・オビエド VS エルチェ
 DTSTART:20260426T141500Z
 DTEND:20260426T161500Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3bihehy0y8mtxizg74rkkuh3o@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Municipal Carlos Tartiere\n結果: 1 - 2
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:セルタ・デ・ビーゴ VS エルチェ
 DTSTART:20260503T120000Z
 DTEND:20260503T140000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3h5n4m7klbnl9dx9yx9w5zk7o@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: バライドス\n結果: 3 - 1
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS アラべス
 DTSTART:20260509T120000Z
 DTEND:20260509T140000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3logguenlwy065aa7gb1hf3tg@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 1
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:ベティス VS エルチェ
 DTSTART:20260512T180000Z
 DTEND:20260512T200000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3njoj8cm40koxt8u94a1h3yfo@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio La Cartuja de Sevilla\n結果: 2 - 1
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:エルチェ VS ヘタフェ
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3s2q5sph3bm3auk1b8odb493o@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: Estadio Manuel Martínez Valero\n結果: 1 - 0
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:ジローナ VS エルチェ
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260817T014403Z
+DTSTAMP:20260817T030633Z
 UID:fifa-3y3gz2ufpcbu5vkgph7jyg74k@fifa.com
 DESCRIPTION:大会: ラ リーガ\nラウンド: レギュラーシーズ
  ン\nスタジアム: モンティリビ\n結果: 1 - 1
