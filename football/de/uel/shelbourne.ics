@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:HNK Rijeka VS Shelbourne
 DTSTART:20250806T184500Z
 DTEND:20250806T204500Z
-DTSTAMP:20260818T040912Z
+DTSTAMP:20260818T050350Z
 UID:fifa-urqyhtxzw5f0e0162deegf10@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Stadion HNK Rijeka\nErgebnis: 1 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Shelbourne VS HNK Rijeka
 DTSTART:20250812T184500Z
 DTEND:20250812T204500Z
-DTSTAMP:20260818T040912Z
+DTSTAMP:20260818T050350Z
 UID:fifa-109tzu24amo985enu2dlo1a8k@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Europa League\nPhase: 3. Qualifikationsrunde\
  nStadion: Tolka Park\nErgebnis: 1 - 3
