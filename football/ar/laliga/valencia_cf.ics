@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال سوسيداد
 DTSTART:20250816T193000Z
 DTEND:20250816T213000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-f4pxrt9gy35rbm5zxmjvxu5uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:أوساسونا VS فالنسيا
 DTSTART:20250824T150000Z
 DTEND:20250824T170000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-4mfxv5abl2kcamp8edxmwzkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد السدار\nال
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS خيتافي
 DTSTART:20250829T193000Z
 DTEND:20250829T213000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-6uofyrgo5n51e1rbx8n8eeqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:برشلونة VS فالنسيا
 DTSTART:20250914T190000Z
 DTEND:20250914T210000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-b88u5e429cnb6ng0i5t4f9jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: Estadi Johan Cruyff\nالنت
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS أتليتيكو بلباو
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-g1dat3xp3jfi5wvyc0njidxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:إسبانيول VS فالنسيا
 DTSTART:20250923T170000Z
 DTEND:20250923T190000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-j23bvmu4uuofecr7aaeurtw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد باور ايت\n
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال أوفيدو
 DTSTART:20250930T180000Z
 DTEND:20250930T200000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-lqdgf26mjssi4yz9o00xco44@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:جيرونا VS فالنسيا
 DTSTART:20251004T141500Z
 DTEND:20251004T161500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-q89ix5d2x25rptwlhkq27j10@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد بلدية دي م
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:ديبورتيفو ألافيس VS فالنسيا
 DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-t6q5ftwcnm8os0cb3stk1kic@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد دي منديزو
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS فياريال
 DTSTART:20251025T190000Z
 DTEND:20251025T210000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-xpp766lmrig4xeolfmmtehp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مدريد VS فالنسيا
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1288ajju0cadnuxxhvkal1mok@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سانتياغو 
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال بيتيس
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-176p8ms7mmtnsyiwqb87aavx0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ليفانتي
 DTSTART:20251121T200000Z
 DTEND:20251121T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1ayj7qyruvkyprfzr6plov4t0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:رايو فاييكانو VS فالنسيا
 DTSTART:20251201T200000Z
 DTEND:20251201T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1ctejm87t066zop4ert2zb4es@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: Estadio de Vallecas\nالنت
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS إشبيلية
 DTSTART:20251207T151500Z
 DTEND:20251207T171500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1ifuis5x6296qke087rpwo5jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:أتلتيكو مدريد VS فالنسيا
 DTSTART:20251213T130000Z
 DTEND:20251213T150000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1mlai6ycmblrejdaxysomfw2c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب واندا ميتر
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال مايوركا
 DTSTART:20251219T200000Z
 DTEND:20251219T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1p93rklxg8b0b4dymsqjlcbh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:سيلتا فيغو VS فالنسيا
 DTSTART:20260103T130000Z
 DTEND:20260103T150000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1u5e5gvy0cadt3stkrffvi8es@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلايدوس\nا
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS إلتشي
 DTSTART:20260110T200000Z
 DTEND:20260110T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1wdy4ggbun88lgjv5mhlw53pw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:خيتافي VS فالنسيا
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-1yshj5s9yj440ar0xld31xxqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: مدرج ألفونسو بي
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS إسبانيول
 DTSTART:20260124T151500Z
 DTEND:20260124T171500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-22x7y5lc2ynqrwdkh5kl64a38@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:ريال بيتيس VS فالنسيا
 DTSTART:20260201T151500Z
 DTEND:20260201T171500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-28lvz9j35a3we5r2jy9lff7dg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب إشبيلية ال
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ريال مدريد
 DTSTART:20260208T200000Z
 DTEND:20260208T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2bl3hdm49yj3nhnvngy8p6qs4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:ليفانتي VS فالنسيا
 DTSTART:20260215T173000Z
 DTEND:20260215T193000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2ggfagcn46v6b5rbqpgdj7das@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سيوداد دي 
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:فياريال VS فالنسيا
 DTSTART:20260222T200000Z
 DTEND:20260222T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2ieudkqygyu0aa32xvmgllc7o@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي لا سيرا
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS أوساسونا
 DTSTART:20260301T151500Z
 DTEND:20260301T171500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2mieos6z7lqo2pb9bsl6j0xsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS ديبورتيفو ألافيس
 DTSTART:20260308T200000Z
 DTEND:20260308T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2rswicw0gb42ehlbg8gcvyjh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:ريال أوفيدو VS فالنسيا
 DTSTART:20260314T173000Z
 DTEND:20260314T193000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2vwyt47ub9v6e27mu6ddaxhqs@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد كارلوس تا
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:إشبيلية VS فالنسيا
 DTSTART:20260321T200000Z
 DTEND:20260321T220000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-2zpoy8pxorsqwffemhjkcff2s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد رامون سان
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS سيلتا فيغو
 DTSTART:20260405T141500Z
 DTEND:20260405T161500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-30gnuehy43on5orc9n3sh8pw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:إلتشي VS فالنسيا
 DTSTART:20260411T141500Z
 DTEND:20260411T161500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-363nbiu36arb8us8vuxlizqc4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: إستاد مانويل ما
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:ريال مايوركا VS فالنسيا
 DTSTART:20260421T170000Z
 DTEND:20260421T190000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-3ddiuilkmzwc7z89f5cjy1pn8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إيبيروستا
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS جيرونا
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-380ebum8hdpxn90su6vzm4bo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS أتلتيكو مدريد
 DTSTART:20260502T141500Z
 DTEND:20260502T161500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-3indehxonm3sorl5dn4ojvj84@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:أتليتيكو بلباو VS فالنسيا
 DTSTART:20260510T141500Z
 DTEND:20260510T161500Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-3jromoqjf4ywqhz6gv1xpo0lw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان ماميه\
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS رايو فاييكانو
 DTSTART:20260514T170000Z
 DTEND:20260514T190000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-3psr2605g4d19sdukq2711gd0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
@@ -547,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:ريال سوسيداد VS فالنسيا
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-3t723gzwnzh44w0jdk8bfjdhw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بلدية أنو
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:فالنسيا VS برشلونة
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260818T163901Z
+DTSTAMP:20260818T173328Z
 UID:fifa-3xq4alyjtlltd6j11gckoxvkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإسباني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد دي مستالا\
