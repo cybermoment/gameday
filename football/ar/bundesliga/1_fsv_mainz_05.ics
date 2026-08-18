@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS كولن
 DTSTART:20250824T133000Z
 DTEND:20250824T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-cu011cv61zc09nnf1ti8z36dw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS ماينتس
 DTSTART:20250831T133000Z
 DTEND:20250831T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-cxuujvkku9vf1uynns2ust8us@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS لايبزيج
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-d0z5ezb2vs51yzblzmwzb1b84@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS ماينتس
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-d5n34b7rzrhq0gv720bvle2ok@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS نادي بوروسيا دورتموند
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-d7kwmfj2kqzufe8d3v7w4hno4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS ماينتس
 DTSTART:20251005T153000Z
 DTEND:20251005T173000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-dea7nch24w5mkjq786umw8oic@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS باير ليفركوزن
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-dg7pwauvil1221pczw9mxacd0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS ماينتس
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS فيردر بريمن
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-dnwxghd3j1pqk5thh3jxu5dlg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS ماينتس
 DTSTART:20251109T183000Z
 DTEND:20251109T203000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-drhvn5pnlf4o1iw3w7us0se1g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS هوفنهايم
 DTSTART:20251121T193000Z
 DTEND:20251121T213000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-dvhvv2vrq6ittqcap7qh7ieqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS ماينتس
 DTSTART:20251130T183000Z
 DTEND:20251130T203000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS بوروسيا مونشنجلادباخ
 DTSTART:20251205T193000Z
 DTEND:20251205T213000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-e27feyftlktx85ujh9cov8ahg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS ماينتس
 DTSTART:20251214T163000Z
 DTEND:20251214T183000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-e5djt090tj51tdtlbwkxkje38@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS سانت باولي
 DTSTART:20251221T143000Z
 DTEND:20251221T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-e9cdd7a7r1bs45h5pugf0yn84@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:يونيون برلين VS ماينتس
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-eewmtntk967s32llxfrnmxdsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS هايدينهايم
 DTSTART:20260113T193000Z
 DTEND:20260113T213000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-egh6bjq6zc9xlkxw4fozshjpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS ماينتس
 DTSTART:20260117T143000Z
 DTEND:20260117T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-emesrc98t387qvdp3v2flz8d0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS فولفسبورج
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-eot5qteqrve14yv3diwwp1h5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS ماينتس
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-erk6terb8zyabi551pisqtnh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS أوجسبورج
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-ev57itsj39n72qf50tfqwumms@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS ماينتس
 DTSTART:20260213T193000Z
 DTEND:20260213T213000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-eypkzcn7uvbt0uixyixwa7m6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS هامبورج
 DTSTART:20260220T194000Z
 DTEND:20260220T214000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-f28hzs4i28wfhjzc2g99da7mc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS ماينتس
 DTSTART:20260228T143000Z
 DTEND:20260228T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-f50rfh9i8rkm9lvaqebpifswk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -356,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS شتوتجارت
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS ماينتس
 DTSTART:20260315T143000Z
 DTEND:20260315T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-85awldjeh348ic7lb2w5o8ic@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS آينرتخت فرانكفورت
 DTSTART:20260322T143000Z
 DTEND:20260322T163000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-avzo5ktl8b1vckxemqjascus@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS ماينتس
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-ggixvkizh5mys4yi21umzc44@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS فرايبورج
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:بوروسيا مونشنجلادباخ VS ماينتس
 DTSTART:20260419T173000Z
 DTEND:20260419T193000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-n0pifg6rklbeuban7j8tsr9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS بايرن ميونيخ
 DTSTART:20260425T133000Z
 DTEND:20260425T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-p3gv18y11i6zm4hawkwhvdas@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS ماينتس
 DTSTART:20260503T133000Z
 DTEND:20260503T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-uzzly9hzyjl74d9z6bborbbo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS يونيون برلين
 DTSTART:20260510T173000Z
 DTEND:20260510T193000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-w6dqlvvx3s5uhwkyvwtyxst0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS ماينتس
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260818T134958Z
+DTSTAMP:20260818T144015Z
 UID:fifa-12iayvq5mixkb4k0slwofc8pg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
