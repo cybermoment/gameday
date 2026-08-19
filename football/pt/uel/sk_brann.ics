@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Häcken VS Brann Bergen
 DTSTART:20250807T170000Z
 DTEND:20250807T190000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-c6a2zhj3ah136lfhjrp95onis@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: 3ª rodada classificatória\
  nEstádio: Nordic Wellness Arena\nResultado: 0 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Häcken
 DTSTART:20250814T170000Z
 DTEND:20250814T190000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-c7nhn7w12amuzckfmwpcipkic@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: 3ª rodada classificatória\
  nEstádio: Brann Stadion\nResultado: 0 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS AEK Larnaca
 DTSTART:20250821T170000Z
 DTEND:20250821T190000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-8esik66moepd1ywpgy24a0f10@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: Brann S
  tadion\nResultado: 2 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Larnaca VS Brann Bergen
 DTSTART:20250827T163000Z
 DTEND:20250827T183000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-8g2kv7p1dbvjv6nevwq735b10@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs\nEstádio: AEK Are
  na - George Karapatakis\nResultado: 0 - 4
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Brann Bergen
 DTSTART:20250925T164500Z
 DTEND:20250925T184500Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-2f60zksbxgdbrxstlp16a7hg4@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Dec
  athlon Arena - Stade Pierre-Mauroy\nResultado: 2 - 1
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Utrecht
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-2lyk3frzz3jzr4n7uo40qfoyc@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Bra
  nn Stadion\nResultado: 1 - 0
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Rangers
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-2ss9k2ljvpk72owkzd0qs4kr8@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Bra
  nn Stadion\nResultado: 3 - 0
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Brann Bergen
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-30fj5ydpv1c5awa827icevh1w@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dio Renato Dall'Ara\nResultado: 0 - 0
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Brann Bergen
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-3635j318y9g5dzzbc8df2o0es@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dio Toumbas\nResultado: 1 - 1
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Fenerbahce
 DTSTART:20251211T200000Z
 DTEND:20251211T220000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-3gu8pmxg0b991nweo8cedch04@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Bra
  nn Stadion\nResultado: 0 - 4
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Midtjylland
 DTSTART:20260122T174500Z
 DTEND:20260122T194500Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-3kajq2yeeefexnx4xaj8kk7bo@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Bra
  nn Stadion\nResultado: 3 - 3
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Sturm Graz VS Brann Bergen
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-3uhcmnz3tssfyan8r6mikuluc@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Primeira Fase\nEstádio: Sta
  dion Graz-Liebenau\nResultado: 1 - 0
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Brann Bergen VS Bologna
 DTSTART:20260219T174500Z
 DTEND:20260219T194500Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-16p7vivqg0e2azmdn82ndt4pg@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs do Mata-mata\nEst
  ádio: Brann Stadion\nResultado: 0 - 1
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS Brann Bergen
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
-DTSTAMP:20260819T084532Z
+DTSTAMP:20260819T093940Z
 UID:fifa-172osk3w3viqal75lkvnxve38@fifa.com
 DESCRIPTION:Competição: Liga Europa\nEtapa: Play-offs do Mata-mata\nEst
  ádio: Stadio Renato Dall'Ara\nResultado: 1 - 0
