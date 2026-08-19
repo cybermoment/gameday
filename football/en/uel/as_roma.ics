@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:OGC Nice VS AS Roma
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-2cgyjlei0abd7ncu7lz56d5as@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Allianz Riviera\nResult: 1 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma VS Lille
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-2j1od5pip2s496mqkb7018d90@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Stadio Olimpico\nResult: 0 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma VS Viktoria Plzeň
 DTSTART:20251023T190000Z
 DTEND:20251023T210000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-2t7dlyh36i6oj8kfwpm0sygwk@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Stadio Olimpico\nResult: 1 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Rangers VS AS Roma
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-31x4nz197jxswqczfdoi4jms4@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Ibrox Stadium\nResult: 0 - 2
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma VS Midtjylland
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-33gm7qda92ab4649bufyj6gwk@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Stadio Olimpico\nResult: 2 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Celtic VS AS Roma
 DTSTART:20251211T200000Z
 DTEND:20251211T220000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-3ds0wyg6gfefpfmx56jbockd0@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Celtic Park\nResult: 0 - 3
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma VS VfB Stuttgart
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-3knxrp3lodexy4p8mamjqisd0@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Stadio Olimpico\nResult: 2 - 0
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Panathinaikos VS AS Roma
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-3tcveo6je79m4z9lwovs2aqdw@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: League Stage\nStadium:
   Olympiako Stadio Spyros Louis\nResult: 1 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Bologna VS AS Roma
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-6jtgjtwda7tz5zpwefarnexw4@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 8th Finals\nStadium: S
  tadio Renato Dall'Ara\nResult: 1 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:AS Roma VS Bologna
 DTSTART:20260319T200000Z
 DTEND:20260319T220000Z
-DTSTAMP:20260819T223052Z
+DTSTAMP:20260819T232807Z
 UID:fifa-7552xi57ttnm7jupev95ll53o@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 8th Finals\nStadium: S
  tadio Olimpico\nResult: 3 - 4
