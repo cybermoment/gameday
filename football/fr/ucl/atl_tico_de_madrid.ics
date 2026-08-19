@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Atlético de Madrid
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-4uxttaq5aye615oo9bylytl3o@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Anfield\nRésultat: 3 - 2
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Eintracht Francfort
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-4yjkn4fr15vuunkq4k1ishno4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Riyadh Air Metropolitano\nRésultat: 5 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Atlético de Madrid
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-54wrukg4isygsvnewwllku3o4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Emirates Stadium\nRésultat: 4 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Union Saint-Gilloise
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Riyadh Air Metropolitano\nRésultat: 3 - 1
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS FC Internazionale Milano
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-5m1qe4769ci21sl369uvd6has@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Riyadh Air Metropolitano\nRésultat: 2 - 1
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven VS Atlético de Madrid
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-5qqu3i9dgj6ummpnfzm05yf4k@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Philips Stadion\nRésultat: 2 - 3
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Atlético de Madrid
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: RAMS Park\nRésultat: 1 - 1
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Bodø / Glimt
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Riyadh Air Metropolitano\nRésultat: 1 - 2
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Club Bruges VS Atlético de Madrid
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-2x42c5yqdnkqekje6tf906rro@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Tour éliminatoire\n
  Stade: Jan Breydelstadion\nRésultat: 3 - 3
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Club Bruges
 DTSTART:20260224T174500Z
 DTEND:20260224T194500Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-2xh1af1ne593geye7pqbdt1jo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Tour éliminatoire\n
  Stade: Riyadh Air Metropolitano\nRésultat: 4 - 1
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Tottenham
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-25hk7u04fup5ze2892je0za50@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
  ade: Riyadh Air Metropolitano\nRésultat: 5 - 2
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Tottenham VS Atlético de Madrid
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-2a1ktq8ai1l1rh7uycbh0pk44@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 8èmes de finale\nSt
  ade: Tottenham Hotspur Stadium\nRésultat: 3 - 2
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:FC Barcelone VS Atlético de Madrid
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-b95mome0lnr0ff5mb4vqmej2s@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Quarts de finale\nSt
  ade: Spotify Camp Nou\nRésultat: 0 - 2
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS FC Barcelone
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-3hvtgkttdl56azxog1v4ic844@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Quarts de finale\nSt
  ade: Riyadh Air Metropolitano\nRésultat: 1 - 2
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Arsenal
 DTSTART:20260429T190000Z
 DTEND:20260429T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-ca2i4o1c3ajp4nhwbvs6tmqs4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Demi-finales\nStade:
   Riyadh Air Metropolitano\nRésultat: 1 - 1
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal VS Atlético de Madrid
 DTSTART:20260505T190000Z
 DTEND:20260505T210000Z
-DTSTAMP:20260819T065839Z
+DTSTAMP:20260819T074810Z
 UID:fifa-em2v2c6m9jnpx7kkz1fomfz84@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Demi-finales\nStade:
   Emirates Stadium\nRésultat: 1 - 0
