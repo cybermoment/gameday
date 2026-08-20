@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Egnatia VS Breiðablik
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
-DTSTAMP:20260820T223405Z
+DTSTAMP:20260820T233112Z
 UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: Arena Egnatia\nResult: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Breiðablik VS Egnatia
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260820T223405Z
+DTSTAMP:20260820T233112Z
 UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: Kópavogsvöllur\nResult: 5 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Lech Poznan VS Breiðablik
 DTSTART:20250722T183000Z
 DTEND:20250722T203000Z
-DTSTAMP:20260820T223405Z
+DTSTAMP:20260820T233112Z
 UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Enea Stadion\nResult: 7 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Breiðablik VS Lech Poznan
 DTSTART:20250730T183000Z
 DTEND:20250730T203000Z
-DTSTAMP:20260820T223405Z
+DTSTAMP:20260820T233112Z
 UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Kópavogsvöllur\nResult: 0 - 1
