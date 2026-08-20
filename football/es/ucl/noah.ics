@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Noah VS Buducnost Podgorica
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
-DTSTAMP:20260820T203547Z
+DTSTAMP:20260820T213346Z
 UID:fifa-az3t52jf6566u09b8gxbvzcpg@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 1ra Ronda de clasif
  icación\nEstadio: Kotaik Stadium\nResultado: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Buducnost Podgorica VS FC Noah
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260820T203547Z
+DTSTAMP:20260820T213346Z
 UID:fifa-b210xd7xmk39xbl9ufvsouz9w@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 1ra Ronda de clasif
  icación\nEstadio: Stadion Pod Goricom\nResultado: 2 - 2
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC Noah VS Ferencvaros
 DTSTART:20250722T160000Z
 DTEND:20250722T180000Z
-DTSTAMP:20260820T203547Z
+DTSTAMP:20260820T213346Z
 UID:fifa-6wk4mvijr4fglpw3wk1o10zro@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Kotaik Stadium\nResultado: 1 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ferencvaros VS FC Noah
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260820T203547Z
+DTSTAMP:20260820T213346Z
 UID:fifa-701azda2tmhto993kf731cowk@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: 2da Ronda de clasif
  icación\nEstadio: Groupama Aréna\nResultado: 4 - 3
