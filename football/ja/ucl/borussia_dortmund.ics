@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:ユベントス FC VS ボルシア・ドルトムント
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-4s2m5vmbv79astpbzzz1bh8us@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: アリアンツ・スタジアム\n結果: 4 - 
@@ -25,7 +25,7 @@ SUMMARY:ボルシア・ドルトムント VS アトレティック・ク
  ルブ
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-52ria8k29x4thupus7h3zcoic@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ジグナル・イドゥナ・パルク\n結果
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:コペンハーゲン VS ボルシア・ドルトムント
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-55osvvn2rt4yh5rcx8dwf8gt0@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: パルケン・スタディオン\n結果: 2 - 
@@ -56,7 +56,7 @@ SUMMARY:マンチェスター・シティ VS ボルシア・ドルトム
  ント
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-5g2fgbz3xee5qeuzcpj6giv4k@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: エティハド スタジアム\n結果: 4 - 1
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシア・ドルトムント VS ビジャレアル
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-5ift1ypsxbwlm3fh0yqke8h04@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ジグナル・イドゥナ・パルク\n結果
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシア・ドルトムント VS ボデ/グリムト
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-5tcbsszjd0zwish7c0udvnzf8@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ジグナル・イドゥナ・パルク\n結果
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:トッテナム VS ボルシア・ドルトムント
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-5y5k8zvc34l3egxsjfjfy5edw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: Tottenham Hotspur Stadium\n結果: 2 - 0
@@ -115,7 +115,7 @@ SUMMARY:ボルシア・ドルトムント VS FC インテルナツィオ
  ナーレ・ミラノ
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-64g5mr0x49o08xbllu18gl3pw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ジグナル・イドゥナ・パルク\n結果
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシア・ドルトムント VS アタランタ
 DTSTART:20260217T201500Z
 DTEND:20260217T221500Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-oex4se9z2myo4tc7eyhy9no4@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Knoc
  kout Round Play-offs\nスタジアム: ジグナル・イドゥナ・パ
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:アタランタ VS ボルシア・ドルトムント
 DTSTART:20260225T174500Z
 DTEND:20260225T194500Z
-DTSTAMP:20260821T060007Z
+DTSTAMP:20260821T070256Z
 UID:fifa-oskmoxh73kh8jf9z4p8h0jys@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Knoc
  kout Round Play-offs\nスタジアム: アトレティ・アズーリ・
