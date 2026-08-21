@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS بارما
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-ck0djtpx1mzn7xyncs3eifv9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:جنوى VS نادي يوفنتوس
 DTSTART:20250831T163000Z
 DTEND:20250831T183000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-cn63x2v18luvioyw8kovsgkyc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميونالي
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS إنتر ميلان
 DTSTART:20250913T160000Z
 DTEND:20250913T180000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-crxnwayoksm2qllunbop37w9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:هيلاس VS نادي يوفنتوس
 DTSTART:20250920T160000Z
 DTEND:20250920T180000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-cxvo1oohfwovsdei3cpw6tes4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مارك أنطو
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS أتالانتا
 DTSTART:20250927T160000Z
 DTEND:20250927T180000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-czgfsy6it2t6xq68unh5m43ro@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS نادي ميلان
 DTSTART:20251005T184500Z
 DTEND:20251005T204500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-d3x6fe0w9bbzch8xuw4gkng9g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:كومو VS نادي يوفنتوس
 DTSTART:20251019T103000Z
 DTEND:20251019T123000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-d760hjpwhimi7tvktc4u66d5g@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جوزيبي سين
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:لاتسيو VS نادي يوفنتوس
 DTSTART:20251026T194500Z
 DTEND:20251026T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-db7u0fk0bzsdqr84t6t7chgk4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS أودينيزي
 DTSTART:20251029T173000Z
 DTEND:20251029T193000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-dgv0e7dm17h0zgaph0utle7f8@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:كريمونيزي VS نادي يوفنتوس
 DTSTART:20251101T194500Z
 DTEND:20251101T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-digmzny5no6kxh6hfopalgahg@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب جيوفاني زي
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS تورينو
 DTSTART:20251108T170000Z
 DTEND:20251108T190000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-dohyl0ad5ysvxd4ai8yzzmrys@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:فيورنتينا VS نادي يوفنتوس
 DTSTART:20251122T170000Z
 DTEND:20251122T190000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-drcehua6mov8dgeptqggfq42c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أرتيميو ف
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS كالياري
 DTSTART:20251129T170000Z
 DTEND:20251129T190000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-dw7l04vfj0i7p0g0hnp73cro4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:نابولي VS نادي يوفنتوس
 DTSTART:20251207T194500Z
 DTEND:20251207T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-e096ecqrgn0fwuv0s58t1az9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد سان باولو\
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:بولونيا VS نادي يوفنتوس
 DTSTART:20251214T194500Z
 DTEND:20251214T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-e33vxyc8k04if8gzc5gi3tn9w@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريناتو دال
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS روما
 DTSTART:20251220T194500Z
 DTEND:20251220T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-e8tvzuht0l1djh5ni0e3irlzo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:بيزا VS نادي يوفنتوس
 DTSTART:20251227T194500Z
 DTEND:20251227T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-edb0ezyz2qh8ioasdyywy5zpw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: أرينا غاريبالدي
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS ليتشي
 DTSTART:20260103T170000Z
 DTEND:20260103T190000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-ehd57it29eiid499msbkyw5jo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:ساسوولو VS نادي يوفنتوس
 DTSTART:20260106T194500Z
 DTEND:20260106T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-em5sawp2n1ma8ix5uvoarjuvo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ديل سيتا ت
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS كريمونيزي
 DTSTART:20260112T194500Z
 DTEND:20260112T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-ep0g9l3db3avpnzfq7c5i11xw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:كالياري VS نادي يوفنتوس
 DTSTART:20260117T194500Z
 DTEND:20260117T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-erezqmpfgndqhtkxj1wczdst0@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: سردينيا أرينا\nا
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS نابولي
 DTSTART:20260125T170000Z
 DTEND:20260125T190000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-ex4brgymhxbpo9dgkrgmof7ys@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:بارما VS نادي يوفنتوس
 DTSTART:20260201T194500Z
 DTEND:20260201T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-f1ixg21n70uh4ry0pt8aay68k@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد إنيو تارد
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS لاتسيو
 DTSTART:20260208T194500Z
 DTEND:20260208T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-f4ryog8rqhu4s379tam0pv5ec@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:إنتر ميلان VS نادي يوفنتوس
 DTSTART:20260214T194500Z
 DTEND:20260214T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-2t3ss1xq1uvs0v6mqsbk8aac@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS كومو
 DTSTART:20260221T140000Z
 DTEND:20260221T160000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-7pq3nd78kt9kjugym6e9muqc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:روما VS نادي يوفنتوس
 DTSTART:20260301T194500Z
 DTEND:20260301T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-cb0zsjthgo4ug5fke27lah3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاديو أولمبيك
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS بيزا
 DTSTART:20260307T194500Z
 DTEND:20260307T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-ge43njbo3ilpf10bpjw6uzo4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:أودينيزي VS نادي يوفنتوس
 DTSTART:20260314T194500Z
 DTEND:20260314T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-lpyrpuu4kpapaccwxl7iwvmc@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد فريولي\nال
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS ساسوولو
 DTSTART:20260321T194500Z
 DTEND:20260321T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-ozxd45mht6z40uyjye0kktg4@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS جنوى
 DTSTART:20260406T160000Z
 DTEND:20260406T180000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-re64kdulxtne6yvaa7hs1vkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:أتالانتا VS نادي يوفنتوس
 DTSTART:20260411T184500Z
 DTEND:20260411T204500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-un3t6z92xgcma369nqbgpous@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أتليتي أز
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS بولونيا
 DTSTART:20260419T184500Z
 DTEND:20260419T204500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-zhukpwrs0g1sobh6idueivis@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:نادي ميلان VS نادي يوفنتوس
 DTSTART:20260426T184500Z
 DTEND:20260426T204500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-14sp91ug5y0pjvkyl5mf5pu6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد جوزيبي مي
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS هيلاس
 DTSTART:20260503T160000Z
 DTEND:20260503T180000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-18uf8n5c2u2c1o0hfpn5y4x04@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -538,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:ليتشي VS نادي يوفنتوس
 DTSTART:20260509T184500Z
 DTEND:20260509T204500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-1cfmwpcxj2zdssuzx1mj5nn6c@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مجمع فيا د
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:نادي يوفنتوس VS فيورنتينا
 DTSTART:20260517T100000Z
 DTEND:20260517T120000Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-1gwzn2kpi7f4sxwrm770fphxw@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: يوفنتوس أرينا\nا
@@ -568,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:تورينو VS نادي يوفنتوس
 DTSTART:20260524T194500Z
 DTEND:20260524T214500Z
-DTSTAMP:20260821T193035Z
+DTSTAMP:20260821T203221Z
 UID:fifa-1mirtl64axmc9us45pzzojevo@fifa.com
 DESCRIPTION:المسابقة: الدوري الإيطالي\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد أولمبيكو 
