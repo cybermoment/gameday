@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS シュトゥルム・グラーツ
 DTSTART:20250820T190000Z
 DTEND:20250820T210000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-9hb4z2iwh8sazow23a3nnw9g@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: プ
  レーオフ\nスタジアム: Aspmyra Stadion\n結果: 5 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:シュトゥルム・グラーツ VS ボデ/グリムト
 DTSTART:20250826T190000Z
 DTEND:20250826T210000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-jrqj1tlsc31sq3x10bkqb4lw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: プ
  レーオフ\nスタジアム: ヒポグループ・アレーナ\n結果: 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:スラヴィア・プラハ VS ボデ/グリムト
 DTSTART:20250917T164500Z
 DTEND:20250917T184500Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-4tvunt9ccx4cn40c8x2jlnwno@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: シノー・ティップ・アレナ\n結果: 2
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS トッテナム
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-4zlje47s72rm7ucdu1xma8jdg@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: Aspmyra Stadion\n結果: 2 - 2
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:ガラタサライ VS ボデ/グリムト
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-57vuceh50t8ljktlsz99kwh04@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: トルコ・テレコム・アリーナ\n結果
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS モナコ
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-5btub7q42mag1r6mj1qj74o44@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: Aspmyra Stadion\n結果: 0 - 1
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS ユベントス FC
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-5j5rc4wpittutm2qulb97arro@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: Aspmyra Stadion\n結果: 2 - 3
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:ボルシア・ドルトムント VS ボデ/グリムト
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-5tcbsszjd0zwish7c0udvnzf8@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ジグナル・イドゥナ・パルク\n結果
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS マンチェスター・シティ
 DTSTART:20260120T174500Z
 DTEND:20260120T194500Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-5vlb0p47xj2o16q44uhptnthw@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: Aspmyra Stadion\n結果: 3 - 1
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:アトレティコ・マドリード VS ボデ/グリムト
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-63owkq641bskw0zmhc7rtjdw4@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Leag
  ue Stage\nスタジアム: ワンダ・メトロポリターノ\n結果: 1
@@ -149,7 +149,7 @@ SUMMARY:ボデ/グリムト VS FC インテルナツィオナーレ・ミ
  ラノ
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-7q33s9t4g6xvu2fzqz8fb9tsk@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Knoc
  kout Round Play-offs\nスタジアム: Aspmyra Stadion\n結果: 3 - 1
@@ -163,7 +163,7 @@ SUMMARY:FC インテルナツィオナーレ・ミラノ VS ボデ/グリ
  ムト
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-7qfyzlbmm47bxpk9p327ao1zo@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: Knoc
  kout Round Play-offs\nスタジアム: ジュゼッペ・メアッツァ\n
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:ボデ/グリムト VS スポルティング・リスボン
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-5o041y75gcsox89gw9ezbmwpg@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: ラ
  ウンド16\nスタジアム: Aspmyra Stadion\n結果: 3 - 0
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:スポルティング・リスボン VS ボデ/グリムト
 DTSTART:20260317T174500Z
 DTEND:20260317T194500Z
-DTSTAMP:20260822T035101Z
+DTSTAMP:20260822T043928Z
 UID:fifa-5qh5y8vri1miit3i0qn7fp638@fifa.com
 DESCRIPTION:大会: UEFAチャンピオンズリーグ\nラウンド: ラ
  ウンド16\nスタジアム: エスタディオ・ジョゼ・アルバ
