@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Левски София VS Спортинг Брага
 DTSTART:20250724T173000Z
 DTEND:20250724T193000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-8f8mn7eq13nfk9o1q2ag1hxqs@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadion Georgi Asparuhov\nРезульта
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Левски София
 DTSTART:20250731T190000Z
 DTEND:20250731T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-8hzxfg2240bw9dtten8cg83ys@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Estádio Municipal de Braga\nРезульт
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:ЧФР Клуж VS Спортинг Брага
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-66s9pcsf4jcys1hzeqdwl3v9w@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadionul Dr. Constantin Rădulescu\nРез
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS ЧФР Клуж
 DTSTART:20250814T183000Z
 DTEND:20250814T203000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-6ar0axb2q5636y2zuid5jwqok@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Estádio Municipal de Braga\nРезульт
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Lincoln Red Imps VS Спортинг Брага
 DTSTART:20250821T190000Z
 DTEND:20250821T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-5a5u4m7vd2dmxo385kgm3ay38@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Estádio do Algarve\nРезультат: 0 
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Lincoln Red Imps
 DTSTART:20250828T190000Z
 DTEND:20250828T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-5c1m5vy1th8dptbzx60xv7x1w@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Estádio Municipal de Braga\nРезульт
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Фейеноорд
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-2dfosrsh726tlvaj439c8qbro@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estádio Municipal de Braga\nРезульта
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Селтик VS Спортинг Брага
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-2js0pi2kik1psfkyyjhl28s2c@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Celtic Park\nРезультат: 0 - 2
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Црвена Звезда
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-2sf15l9g6ryxn628i3pnu9mvo@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estádio Municipal de Braga\nРезульта
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Генк
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-32o40q8we8adv4dywxbsa52j8@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estádio Municipal de Braga\nРезульта
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Рейнджерс VS Спортинг Брага
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-39i0dm99ngi2o9hx8a3gtc2s4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Ibrox Stadium\nРезультат: 1 - 1
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Ницца VS Спортинг Брага
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-3c6mgyfpbm5iee2ulsjbbyl1w@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Альянц Ривьера\nРезульта
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Ноттингем Форест
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-3ntrb1loucgw1nhpoj21ewxzo@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: Estádio Municipal de Braga\nРезульта
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Гоу Эхед Иглз VS Спортинг Брага
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-3qyj40mb8wkbl2cegldsnr4es@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: Le
  ague Stage\nСтадион: De Adelaarshorst\nРезультат: 0 - 0
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Ференцварош VS Спортинг Брага
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-7wcps4ugc0ann8jjeursjt2qc@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  8 финала\nСтадион: Groupama Aréna\nРезультат: 2 - 0
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Ференцварош
 DTSTART:20260318T153000Z
 DTEND:20260318T173000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-8qbuf4i1okgnom3q0silrbjf8@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  8 финала\nСтадион: Estádio Municipal de Braga\nРезуль
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Бетис
 DTSTART:20260408T164500Z
 DTEND:20260408T184500Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-5sb3nsdbez1j927jb73rc74k@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  4 финала\nСтадион: Estádio Municipal de Braga\nРезуль
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Бетис VS Спортинг Брага
 DTSTART:20260416T190000Z
 DTEND:20260416T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-5adlvuesdb4axljrp95addixg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  4 финала\nСтадион: Estadio La Cartuja de Sevilla\nРезул
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Спортинг Брага VS Фрайбург
 DTSTART:20260430T190000Z
 DTEND:20260430T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-3zhrwpftvyvhw7klt94yiii38@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  2 финала\nСтадион: Estádio Municipal de Braga\nРезуль
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Фрайбург VS Спортинг Брага
 DTSTART:20260507T190000Z
 DTEND:20260507T210000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-5m6urg4y28szt4xv9hnxtdmvo@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 1/
  2 финала\nСтадион: Europa-Park Stadion\nРезультат: 3

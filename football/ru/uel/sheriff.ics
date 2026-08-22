@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Шериф VS Prishtina
 DTSTART:20250710T170000Z
 DTEND:20250710T190000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-f59gg14k8q0f2krt7i3nc14pg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Bolshaya Sporti
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Prishtina VS Шериф
 DTSTART:20250717T180000Z
 DTEND:20250717T200000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-32yssqutk0xg9erldxw02r6c@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Stadiumi Fadil 
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Шериф VS Утрехт
 DTSTART:20250724T170000Z
 DTEND:20250724T190000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-dsv9rgfekagl152af8g5a37dg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadionul Orășenesc\nРезультат: 
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Утрехт VS Шериф
 DTSTART:20250731T180000Z
 DTEND:20250731T200000Z
-DTSTAMP:20260822T013801Z
+DTSTAMP:20260822T030020Z
 UID:fifa-dw98cmzn248gwpl04tt0v1pg4@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadion Galgenwaard\nРезультат: 4 
