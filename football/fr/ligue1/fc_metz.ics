@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Strasbourg
 DTSTART:20250817T151500Z
 DTEND:20250817T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-75vj2kkzx3rsh4sljwh5yv2tw@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon VS Metz
 DTSTART:20250823T190500Z
 DTEND:20250823T210500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-79brtmu270u71wnu6nqh6uj2s@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Group
  ama Stadium\nRésultat: 3 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Paris FC VS Metz
 DTSTART:20250831T151500Z
 DTEND:20250831T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7c9ygcprmgav5uii8a89w9o2c@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Jean Bouin\nRésultat: 3 - 2
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Angers
 DTSTART:20250914T151500Z
 DTEND:20250914T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7f5r9wk8ccx0tfz0ykc4bzvo4@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 1 - 1
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Monaco VS Metz
 DTSTART:20250921T151500Z
 DTEND:20250921T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7j6xkqxwykwo1ey199ysxhul0@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Louis-II\nRésultat: 5 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Le Havre
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7lt407efe035jm3gv41dg8vmc@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Marseille
 DTSTART:20251004T150000Z
 DTEND:20251004T170000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7o0gmehom5mzsocak42ultt78@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 3
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Toulouse VS Metz
 DTSTART:20251019T151500Z
 DTEND:20251019T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7s40axsqq7zfk748ymaw8jtw4@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stadi
  um de Toulouse\nRésultat: 4 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Lille VS Metz
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-7wb6zzjgh7wp418sn45p6q87o@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Decat
  hlon Arena - Stade Pierre-Mauroy\nRésultat: 6 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Lens
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-80ep8gebj6p6l3xr3x3983kes@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 2 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Nantes VS Metz
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-83jr3gvavdtyibbwtnq8tz5zo@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   de la Beaujoire - Louis Fonteneau\nRésultat: 0 - 2
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Nice
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-85g24yt5o01b410wl4njd2sk4@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 2 - 1
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Brest VS Metz
 DTSTART:20251123T161500Z
 DTEND:20251123T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-89jasaj1ep0aadfc88obaz11w@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Francis-Le Blé\nRésultat: 3 - 2
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Rennes
 DTSTART:20251128T194500Z
 DTEND:20251128T214500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8cuxefm9l1ux973t156sp0opg@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 1
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Auxerre VS Metz
 DTSTART:20251207T161500Z
 DTEND:20251207T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8fh296rt2px5vbp5y7457qxas@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   de l'Abbé Deschamps\nRésultat: 3 - 1
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Paris Saint-Germain
 DTSTART:20251213T180000Z
 DTEND:20251213T200000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8kd48mdv34g7t95d9b6glcwt0@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 2 - 3
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Lorient VS Metz
 DTSTART:20260104T161500Z
 DTEND:20260104T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8nb1272u5o0h57dfnsz05n3f8@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   du Moustoir - Yves Allainmat\nRésultat: 1 - 1
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Strasbourg VS Metz
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8p7bz5si0ywkxxrzfe5d1007o@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   de la Meinau\nRésultat: 2 - 1
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Lyon
 DTSTART:20260125T161500Z
 DTEND:20260125T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8u7y3t0dlfofkey5h05n2datw@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 2 - 5
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Angers VS Metz
 DTSTART:20260201T161500Z
 DTEND:20260201T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-8yrcdxksb2ul8rdr1gza8e978@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Raymond Kopa\nRésultat: 1 - 0
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Lille
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9241nze9bak869q57rjeaq3h0@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 0
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Auxerre
 DTSTART:20260215T161500Z
 DTEND:20260215T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9404tejjdtw065b44zk6aj5sk@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 1 - 3
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain VS Metz
 DTSTART:20260221T200500Z
 DTEND:20260221T220500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-96ldfp9679q8i4hdcoxutsg7o@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Parc 
  des Princes\nRésultat: 3 - 0
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Brest
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9as9lbax5iqs4ifsddmbos3ro@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 1
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Lens VS Metz
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9e5nae59jjcp07kxv2w21oe1g@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Bollaert-Delelis\nRésultat: 3 - 0
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Toulouse
 DTSTART:20260315T161500Z
 DTEND:20260315T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9hj1424xlip8civkt6hskt2j8@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 3 - 4
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Rennes VS Metz
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9kcqiybypw9kix606xckqoqhg@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Roazh
  on Park\nRésultat: 0 - 0
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Nantes
 DTSTART:20260405T151500Z
 DTEND:20260405T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9o4n55lkslbeyjajky43umsyc@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 0
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Marseille VS Metz
 DTSTART:20260410T190500Z
 DTEND:20260410T210500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9qcdaq1wjtf8da69phljb2z9w@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Orang
  e Vélodrome\nRésultat: 3 - 1
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Paris FC
 DTSTART:20260419T151500Z
 DTEND:20260419T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9undrxf1ijzcnw6pqwcorrml0@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 1 - 3
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Le Havre VS Metz
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-9y2s6ykrv8q191sxyzu8g8dg4@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Océane\nRésultat: 4 - 4
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Monaco
 DTSTART:20260502T170000Z
 DTEND:20260502T190000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-a1hw3ldrle31gbslwfj4x24us@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 1 - 2
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Metz VS Lorient
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-a6bkq6sjyd3dcv8ig0d7haxp0@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Stade
   Saint-Symphorien\nRésultat: 0 - 4
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Nice VS Metz
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260823T192801Z
+DTSTAMP:20260823T203040Z
 UID:fifa-a8wp4lhl199rhbglul7qk87x0@fifa.com
 DESCRIPTION:Compétition: Ligue 1\nPhase: Saison régulière\nStade: Allia
  nz Riviera\nRésultat: 0 - 0
