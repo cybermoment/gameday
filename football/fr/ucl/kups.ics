@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS VS Milsami Orhei
 DTSTART:20250708T150000Z
 DTEND:20250708T170000Z
-DTSTAMP:20260824T130232Z
+DTSTAMP:20260824T141245Z
 UID:fifa-ac82ek1pqoe03lyjo49smlono@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Väre Areena\nRésultat: 1 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Milsami Orhei VS KuPS
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260824T130232Z
+DTSTAMP:20260824T141245Z
 UID:fifa-aeqlfugv0kmjqx10jsvqc6iac@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Complexul Sportiv Raional\nRésultat: 0 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:KuPS VS Kaïrat
 DTSTART:20250722T150000Z
 DTEND:20250722T170000Z
-DTSTAMP:20260824T130232Z
+DTSTAMP:20260824T141245Z
 UID:fifa-2kmwl6g1l17o5bpi47zr1dx5g@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Väre Areena\nRésultat: 2 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Kaïrat VS KuPS
 DTSTART:20250729T150000Z
 DTEND:20250729T170000Z
-DTSTAMP:20260824T130232Z
+DTSTAMP:20260824T141245Z
 UID:fifa-2ot9c8s3otz3xfz1jc76dd34k@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Ortalyq stadıon\nRésultat: 3 - 0
