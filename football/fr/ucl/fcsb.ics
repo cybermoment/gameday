@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:FC Steaua Bucarest VS Inter Club Escaldes
 DTSTART:20250709T173000Z
 DTEND:20250709T193000Z
-DTSTAMP:20260824T113451Z
+DTSTAMP:20260824T130232Z
 UID:fifa-63wi7u2dyddcx22dn3xlcxno4@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Stadionul Steaua\nRésultat: 3 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Inter Club Escaldes VS FC Steaua Bucarest
 DTSTART:20250715T183000Z
 DTEND:20250715T203000Z
-DTSTAMP:20260824T113451Z
+DTSTAMP:20260824T130232Z
 UID:fifa-680o3jgip3hhagbzecne30ob8@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 1er tour de qualific
  ation\nStade: Estadi de la FAF d'Encamp\nRésultat: 2 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Shkëndija Tetovo VS FC Steaua Bucarest
 DTSTART:20250722T180000Z
 DTEND:20250722T200000Z
-DTSTAMP:20260824T113451Z
+DTSTAMP:20260824T130232Z
 UID:fifa-ebzao9kdawv93mzygzqjh25n8@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Nacionalna Arena Toše Proeski\nRésultat: 1 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:FC Steaua Bucarest VS Shkëndija Tetovo
 DTSTART:20250730T173000Z
 DTEND:20250730T193000Z
-DTSTAMP:20260824T113451Z
+DTSTAMP:20260824T130232Z
 UID:fifa-eddy5b2es18v1ps8p5zqimz9w@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Arena Naţională\nRésultat: 1 - 2
