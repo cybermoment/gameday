@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Spartak Trnava VS BK Häcken
 DTSTART:20250710T181500Z
 DTEND:20250710T201500Z
-DTSTAMP:20260825T100240Z
+DTSTAMP:20260825T115600Z
 UID:fifa-19mnvfumzflebewsrsqq7xu6s@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: CITY ARENA – Štadión Antona Malatinského\nResult: 0 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:BK Häcken VS Spartak Trnava
 DTSTART:20250717T170000Z
 DTEND:20250717T190000Z
-DTSTAMP:20260825T100240Z
+DTSTAMP:20260825T115600Z
 UID:fifa-1g65uxx895gn55e8x1fycr1uc@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 1st Qualifying Round\n
  Stadium: Nordic Wellness Arena\nResult: 2 - 2
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Anderlecht VS BK Häcken
 DTSTART:20250724T180000Z
 DTEND:20250724T200000Z
-DTSTAMP:20260825T100240Z
+DTSTAMP:20260825T115600Z
 UID:fifa-ce8ymreedf4mfyrkgtw2vqbys@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Lotto Park\nResult: 1 - 0
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:BK Häcken VS Anderlecht
 DTSTART:20250731T170000Z
 DTEND:20250731T190000Z
-DTSTAMP:20260825T100240Z
+DTSTAMP:20260825T115600Z
 UID:fifa-cm3d6wt2u5uvgga454fn4vq50@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 2nd Qualifying Round\n
  Stadium: Nordic Wellness Arena\nResult: 2 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:BK Häcken VS SK Brann
 DTSTART:20250807T170000Z
 DTEND:20250807T190000Z
-DTSTAMP:20260825T100240Z
+DTSTAMP:20260825T115600Z
 UID:fifa-c6a2zhj3ah136lfhjrp95onis@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Nordic Wellness Arena\nResult: 0 - 2
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:SK Brann VS BK Häcken
 DTSTART:20250814T170000Z
 DTEND:20250814T190000Z
-DTSTAMP:20260825T100240Z
+DTSTAMP:20260825T115600Z
 UID:fifa-c7nhn7w12amuzckfmwpcipkic@fifa.com
 DESCRIPTION:Competition: UEFA Europa League\nStage: 3rd Qualifying Round\n
  Stadium: Brann Stadion\nResult: 0 - 1
