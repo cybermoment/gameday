@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS Maccabi Tel Aviv
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-2llj9g9hkmh7pc5rq1wmhjaqc@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: Alphamega Stadium\nRésultat: 1 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Maccabi Tel Aviv VS Páfos
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-2p8utvgjvhobdvwdphdw7w1ec@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 2ème tour de qualif
  ication\nStade: TSC Arena\nRésultat: 0 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamo Kiev VS Páfos
 DTSTART:20250805T180000Z
 DTEND:20250805T200000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-u5k3gwm4hyjz3i6edre3e0pg@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Motor Lublin Arena\nRésultat: 0 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS Dynamo Kiev
 DTSTART:20250812T170000Z
 DTEND:20250812T190000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-vnrrgyyrfq4pl0sp9f31ib6c@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: 3ème tour de qualif
  ication\nStade: Alphamega Stadium\nRésultat: 2 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Étoile rouge de Belgrade VS Páfos
 DTSTART:20250819T190000Z
 DTEND:20250819T210000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-eklbtanrg41db9bg2oj7fnevo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Barrages\nStade: Sta
  dion Rajko Mitić\nRésultat: 1 - 2
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS Étoile rouge de Belgrade
 DTSTART:20250826T190000Z
 DTEND:20250826T210000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-emypvbslto43ter68roe6cc2c@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Barrages\nStade: Alp
  hamega Stadium\nRésultat: 1 - 1
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Olympiakos Pirée VS Páfos
 DTSTART:20250917T164500Z
 DTEND:20250917T184500Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-4thsy1pya5y11wggav6gql4wk@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Stadio Georgios Karaiskáki\nRésultat: 0 - 0
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS FC Bayern München
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-50nj6r3qfjg2ji8ayitzkiwpg@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Alphamega Stadium\nRésultat: 1 - 5
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Kaïrat VS Páfos
 DTSTART:20251021T164500Z
 DTEND:20251021T184500Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-54jwyyjv479n2g29919th9edw@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Ortalyq stadıon\nRésultat: 0 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS Villarreal
 DTSTART:20251105T174500Z
 DTEND:20251105T194500Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-5e8c81yfj5wleflr99m651mok@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Alphamega Stadium\nRésultat: 1 - 0
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS Monaco
 DTSTART:20251126T174500Z
 DTEND:20251126T194500Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-5lbsbtse68liz0gwxdru0oqvo@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Alphamega Stadium\nRésultat: 2 - 2
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Páfos
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-5u1wyaby2c1x5iom7r2070p3o@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Allianz Stadium\nRésultat: 2 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea FC VS Páfos
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-5zzgoq20bhr6m700r68oc87x0@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Stamford Bridge\nRésultat: 1 - 0
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Páfos VS Slavia Prague
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260825T233012Z
+DTSTAMP:20260826T014518Z
 UID:fifa-66qr8r2yuseer81y1i1tp5hqs@fifa.com
 DESCRIPTION:Compétition: Ligue des champions\nPhase: Phase de Ligue\nStad
  e: Alphamega Stadium\nRésultat: 4 - 1
