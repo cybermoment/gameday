@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Galatasaray
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-4wcjch9j9nzd1cfu19oioy9sk@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Deutsche Bank Park\nResultado: 5 - 1
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Liverpool
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-4zy839pwz57fo6s7vmh7ntv6c@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   RAMS Park\nResultado: 1 - 0
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Bodo Glimt
 DTSTART:20251022T164500Z
 DTEND:20251022T184500Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-57vuceh50t8ljktlsz99kwh04@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   RAMS Park\nResultado: 3 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Ajax VS Galatasaray
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-5eyjs5dmee4khfup2nzycajo4@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Johan Cruijff ArenA\nResultado: 0 - 3
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Union Saint-Gilloise
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-5i0c80gxlounme20ekaqrx0yc@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   RAMS Park\nResultado: 0 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:AS Mónaco VS Galatasaray
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-5pa2vykzigbhxqstuu3wjgcgk@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Stade Louis-II\nResultado: 1 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Atlético de Madrid
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-5yw1ty2mjr8ne1oevh88nivbo@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   RAMS Park\nResultado: 1 - 1
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS Galatasaray
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-66dpqixoih0mta26qwlp8sob8@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Fase Liga\nEstadio:
   Etihad Stadium\nResultado: 2 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Juventus FC
 DTSTART:20260217T174500Z
 DTEND:20260217T194500Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-2ivwkprq3bnkkp2bfa2cdintg@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
  liminatorios\nEstadio: RAMS Park\nResultado: 5 - 2
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Juventus FC VS Galatasaray
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-2je80aixlyto9e2rtr0c0bpjo@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Ronda de Playoffs E
  liminatorios\nEstadio: Allianz Stadium\nResultado: 3 - 2
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray VS Liverpool
 DTSTART:20260310T174500Z
 DTEND:20260310T194500Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-4mgtzo7ycptzkfyv1top89st0@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
  stadio: RAMS Park\nResultado: 1 - 0
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool VS Galatasaray
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
-DTSTAMP:20260826T160138Z
+DTSTAMP:20260826T181747Z
 UID:fifa-4p8fjg0wpd5eyaa0t0mv8pzx0@fifa.com
 DESCRIPTION:Competición: UEFA Champions League\nFase: Octavos de Final\nE
  stadio: Anfield\nResultado: 4 - 0
