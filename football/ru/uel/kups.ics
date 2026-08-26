@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Даугава Рига VS КуПС
 DTSTART:20250806T170000Z
 DTEND:20250806T190000Z
-DTSTAMP:20260826T081123Z
+DTSTAMP:20260826T092009Z
 UID:fifa-258eswpmjkvdk07riloeuzdp0@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: LNK Sporta Parks dabīgais\nРезульт
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:КуПС VS Даугава Рига
 DTSTART:20250814T150000Z
 DTEND:20250814T170000Z
-DTSTAMP:20260826T081123Z
+DTSTAMP:20260826T092009Z
 UID:fifa-28abhiz0drasfw8sbk05iwnpw@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Väre Areena\nРезультат: 1 - 0
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Мидтъюлланд VS КуПС
 DTSTART:20250821T163000Z
 DTEND:20250821T183000Z
-DTSTAMP:20260826T081123Z
+DTSTAMP:20260826T092009Z
 UID:fifa-1hrz06s9q780z4e4ujqya4ob8@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: MCH Arena\nРезультат: 4 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:КуПС VS Мидтъюлланд
 DTSTART:20250828T150000Z
 DTEND:20250828T170000Z
-DTSTAMP:20260826T081123Z
+DTSTAMP:20260826T092009Z
 UID:fifa-1kfkp6eshi7hkko3c10xhc7is@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: п
  лей офф\nСтадион: Väre Areena\nРезультат: 0 - 2
