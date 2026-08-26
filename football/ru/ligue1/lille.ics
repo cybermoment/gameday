@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Брест VS Лилль
 DTSTART:20250817T130000Z
 DTEND:20250817T150000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-74zpn9q4fwxv9jgn3a7ijslck@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Francis-Le Bl
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Монако
 DTSTART:20250824T184500Z
 DTEND:20250824T204500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-77j13otir5d57ue444m10kqac@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Лорьян VS Лилль
 DTSTART:20250830T150000Z
 DTEND:20250830T170000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7czutwaxk9tqhjmf8ttgrixp0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade du Moustoir -
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Тулуза
 DTSTART:20250914T130000Z
 DTEND:20250914T150000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7gajlkhpq82gxrxhu19og0qhg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Ланс VS Лилль
 DTSTART:20250920T190500Z
 DTEND:20250920T210500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7h0i7e61tfj9c8pebjoyccx04@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Bollaert-Dele
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Олимпик Лион
 DTSTART:20250928T151500Z
 DTEND:20250928T171500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7mwwqwnv8mcxrkauh686zdxjo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS ПСЖ
 DTSTART:20251005T184500Z
 DTEND:20251005T204500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7qmk3hlyd0dcnxnh6p1unaxas@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Нант VS Лилль
 DTSTART:20251019T184500Z
 DTEND:20251019T204500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7tlbjk7fi973p87e8pgizgtuc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Бо
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Метц
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-7wb6zzjgh7wp418sn45p6q87o@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Ницца VS Лилль
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-80wh2fbewlez7ttmv63yowlqs@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Альянц Рив
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Анжер
 DTSTART:20251102T161500Z
 DTEND:20251102T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-820yilruplpojta9jznqwt82c@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Страсбур VS Лилль
 DTSTART:20251109T161500Z
 DTEND:20251109T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-87nkivfh38imdea2mlokcvu38@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de la Meinau\
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Париж ФК
 DTSTART:20251123T194500Z
 DTEND:20251123T214500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-89wmzpjtz2u1jq65kkfz1hyj8@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Гавр VS Лилль
 DTSTART:20251130T161500Z
 DTEND:20251130T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8chiraxydxwe3x80yl1bozkes@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Océane\nРе
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Олимпик Марсель
 DTSTART:20251205T200000Z
 DTEND:20251205T220000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8eql64qcpxsivzywyfr3p3s44@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Осер VS Лилль
 DTSTART:20251214T161500Z
 DTEND:20251214T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8ivxronb80ztyzfv5pr850sno@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade de l'Abbé De
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Ренн
 DTSTART:20260103T200500Z
 DTEND:20260103T220500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8mkls8wflm36ps9v71yuoe61g@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:ПСЖ VS Лилль
 DTSTART:20260116T200000Z
 DTEND:20260116T220000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8rga2f9w2h9eqamd4c0ieybro@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк де Пр
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Страсбур
 DTSTART:20260125T194500Z
 DTEND:20260125T214500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8sbt68kf1vu4u298a2b8a08pg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Лион VS Лилль
 DTSTART:20260201T140000Z
 DTEND:20260201T160000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-8w416tbdarkpzgnefbpldyvpw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Парк Олимп
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Метц VS Лилль
 DTSTART:20260206T194500Z
 DTEND:20260206T214500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9241nze9bak869q57rjeaq3h0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Стадион Ст
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Брест
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-939i2u1dqhrqht2dk192oanmc@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Анжер VS Лилль
 DTSTART:20260222T161500Z
 DTEND:20260222T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-98ji44fvlaloy2apebw4yl6hg@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Raymond Kopa\
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Нант
 DTSTART:20260301T161500Z
 DTEND:20260301T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9b5nkrzt8ku0bp3x883tgxmvo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Лорьян
 DTSTART:20260308T161500Z
 DTEND:20260308T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9eixig78n4sav3qfoboz38qac@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Ренн VS Лилль
 DTSTART:20260315T194500Z
 DTEND:20260315T214500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9hwe5k0b5yv8dfdsquahq8zys@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Roazhon Park\nРе
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Олимпик Марсель VS Лилль
 DTSTART:20260322T161500Z
 DTEND:20260322T181500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9mlx4iqslyu1521yjvzc0jvh0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Оранж Вело
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Ланс
 DTSTART:20260404T190500Z
 DTEND:20260404T210500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9p8eybm8kroprwrs3sd151nh0@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Тулуза VS Лилль
 DTSTART:20260412T151500Z
 DTEND:20260412T171500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9sni5hkp2nuxqrbbjmm9heo0k@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stadium de Toulouse
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Ницца
 DTSTART:20260418T190500Z
 DTEND:20260418T210500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9wl2aexkvn2nyfp79cawh45jo@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Париж ФК VS Лилль
 DTSTART:20260426T151500Z
 DTEND:20260426T171500Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-9yg1rb5k622djgynfoisbjdhw@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Jean Bouin\n
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Гавр
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-a1uynt862yubvos469tnn6c5w@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Монако VS Лилль
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-a71zm3hyrcgh30hixbbbbacr8@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Stade Louis-II\nР
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:Лилль VS Осер
 DTSTART:20260517T190000Z
 DTEND:20260517T210000Z
-DTSTAMP:20260826T041230Z
+DTSTAMP:20260826T050733Z
 UID:fifa-a8jcx98nbda7y3qmm4aigetqs@fifa.com
 DESCRIPTION:Турнир: Лига 1\nСтадия: Регулярный 
  период соревнований\nСтадион: Decathlon Arena - S
