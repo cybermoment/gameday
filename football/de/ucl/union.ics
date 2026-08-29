@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven VS Union Saint-Gilloise
 DTSTART:20250916T164500Z
 DTEND:20250916T184500Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-4rq18t2s467wo5dbh8iwip1jo@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Philips Stadion\nErgebnis: 1 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise VS Newcastle United
 DTSTART:20251001T164500Z
 DTEND:20251001T184500Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-51cxywc10d5578261crewjnkk@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Lotto Park\nErgebnis: 0 - 4
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise VS FC Internazionale Milano
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-56sbokbrbftomg93nof38dvro@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Lotto Park\nErgebnis: 0 - 4
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Union Saint-Gilloise
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-5bh296zaaweqezgf1h126snx0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Riyadh Air Metropolitano\nErgebnis: 3 - 1
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray Istanbul VS Union Saint-Gilloise
 DTSTART:20251125T174500Z
 DTEND:20251125T194500Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-5i0c80gxlounme20ekaqrx0yc@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: RAMS Park\nErgebnis: 0 - 1
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise VS Olympique Marseille
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-5r3sfsleiu2c82yuruwzhcv84@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Lotto Park\nErgebnis: 2 - 3
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Union Saint-Gilloise
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-60cf47tmbsv54dj3ruq6r5dec@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Allianz Arena\nErgebnis: 2 - 0
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise VS Atalanta Bergamo
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260829T142040Z
+DTSTAMP:20260829T175042Z
 UID:fifa-67u5as824q96mp65srnyt7thw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Lotto Park\nErgebnis: 1 - 0
