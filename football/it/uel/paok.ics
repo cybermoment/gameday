@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Wolfsberger AC
 DTSTART:20250807T173000Z
 DTEND:20250807T193000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-6xzdplg23g3g3ni34nmh5di50@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: 3° Turno Qualificazio
  ni\nStadio: Stadio Toumbas\nRisultato: 0 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsberger AC VS PAOK
 DTSTART:20250814T170000Z
 DTEND:20250814T190000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-70zqarfg4fmdjhcormhtjou8k@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: 3° Turno Qualificazio
  ni\nStadio: 28 Black Arena\nRisultato: 0 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Rijeka VS PAOK
 DTSTART:20250821T184500Z
 DTEND:20250821T204500Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-a00stu2r9waxfjiarrmhwdj4k@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Play-off\nStadio: Stad
  ion HNK Rijeka\nRisultato: 1 - 0
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Rijeka
 DTSTART:20250828T173000Z
 DTEND:20250828T193000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-a12pc4txf515i4sjnu4mt7ztg@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Play-off\nStadio: Stad
  io Toumbas\nRisultato: 5 - 0
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Maccabi Tel Aviv
 DTSTART:20250924T164500Z
 DTEND:20250924T184500Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-2aobbvijozeza0rc41sx45s7o@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Stadio Toumbas\nRisultato: 0 - 0
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo VS PAOK
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-2p12ccayurhclg9i6vuk51o9g@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Estadio Abanca-Balaídos\nRisultato: 3 - 1
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Lilla VS PAOK
 DTSTART:20251023T190000Z
 DTEND:20251023T210000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-2ubsd08ffg5auefqb9fzynklw@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Decathlon Arena - Stade Pierre-Mauroy\nRisultato: 3 - 4
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Young Boys
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-31jqkml44wvatftseillengno@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Stadio Toumbas\nRisultato: 4 - 0
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Brann
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-3635j318y9g5dzzbc8df2o0es@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Stadio Toumbas\nRisultato: 1 - 1
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Ludogorets VS PAOK
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-3cjw8pifgyo5wu0aikfw1f1g4@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Huvepharma Arena\nRisultato: 3 - 3
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Real Betis
 DTSTART:20260122T174500Z
 DTEND:20260122T194500Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-3jjwsgbtga3y1m8paorwbc6c4@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Stadio Toumbas\nRisultato: 2 - 0
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Olympique Lione VS PAOK
 DTSTART:20260129T200000Z
 DTEND:20260129T220000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-3szj84y9b1agyx0opssxxwhlg@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Fase Campionato\nStadi
  o: Groupama Stadium\nRisultato: 4 - 2
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:PAOK VS Celta Vigo
 DTSTART:20260219T174500Z
 DTEND:20260219T194500Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-a0f82r78d5xjj6p7cfz3yj09g@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Knockout Round Play-of
  fs\nStadio: Stadio Toumbas\nRisultato: 1 - 2
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Celta Vigo VS PAOK
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
-DTSTAMP:20260830T180235Z
+DTSTAMP:20260830T212636Z
 UID:fifa-a0u8tj7f3s7nh9j0ytptatmok@fifa.com
 DESCRIPTION:Competizione: UEFA Europa League\nFase: Knockout Round Play-of
  fs\nStadio: Estadio Abanca-Balaídos\nRisultato: 1 - 0
