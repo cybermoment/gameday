@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Легия Варшава VS Актобе
 DTSTART:20250710T190000Z
 DTEND:20250710T210000Z
-DTSTAMP:20260831T231823Z
+DTSTAMP:20260901T020010Z
 UID:fifa-540cn7c28qer1k49px0qmuy38@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Stadion Miejski
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Актобе VS Легия Варшава
 DTSTART:20250717T160000Z
 DTEND:20250717T180000Z
-DTSTAMP:20260831T231823Z
+DTSTAMP:20260901T020010Z
 UID:fifa-577o52d84mj1bi4dw6qx2k0lw@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: К
  валификационный раунд\nСтадион: Ortalyq stadıo
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Баник Острава VS Легия Варшава
 DTSTART:20250724T170000Z
 DTEND:20250724T190000Z
-DTSTAMP:20260831T231823Z
+DTSTAMP:20260901T020010Z
 UID:fifa-9q8gkhr39w7ocg5p0bxmm2uqc@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Městský stadion - Vítkovice Aréna\nРе
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Легия Варшава VS Баник Острава
 DTSTART:20250731T190000Z
 DTEND:20250731T210000Z
-DTSTAMP:20260831T231823Z
+DTSTAMP:20260901T020010Z
 UID:fifa-9ubst7bovh646y6n0jkfj4il0@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 2-
  й Раунд\nСтадион: Stadion Miejski Legii Warszawa im. Marszał
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:АЕК VS Легия Варшава
 DTSTART:20250807T163000Z
 DTEND:20250807T183000Z
-DTSTAMP:20260831T231823Z
+DTSTAMP:20260901T020010Z
 UID:fifa-3dmkt27yjjc9otj7l56h6n5lg@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: AEK Arena - George Karapatakis\nРезул
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Легия Варшава VS АЕК
 DTSTART:20250814T190000Z
 DTEND:20250814T210000Z
-DTSTAMP:20260831T231823Z
+DTSTAMP:20260901T020010Z
 UID:fifa-3fmbn9jt33mh6ys7j94s7cjro@fifa.com
 DESCRIPTION:Турнир: Лига Европы УЕФА\nСтадия: 3-
  й Раунд\nСтадион: Stadion Miejski Legii Warszawa im. Marszał
