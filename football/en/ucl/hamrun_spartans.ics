@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Zalgiris Vilnius VS Hamrun Spartans
 DTSTART:20250709T160000Z
 DTEND:20250709T180000Z
-DTSTAMP:20260902T053900Z
+DTSTAMP:20260902T110321Z
 UID:fifa-8vv1rc4c98tn4zz81qgagcd90@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: FK Žalgiris namų stadionas\nResult: 2 - 0
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Hamrun Spartans VS Zalgiris Vilnius
 DTSTART:20250715T170000Z
 DTEND:20250715T190000Z
-DTSTAMP:20260902T053900Z
+DTSTAMP:20260902T110321Z
 UID:fifa-90uxxfwbdcsfx2dso0oac39ck@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 1st Qualifying Roun
  d\nStadium: Ta'Qali National Stadium\nResult: 2 - 0
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Hamrun Spartans VS Dynamo Kyiv
 DTSTART:20250722T170000Z
 DTEND:20250722T190000Z
-DTSTAMP:20260902T053900Z
+DTSTAMP:20260902T110321Z
 UID:fifa-1oeoeakce7ca8qeecjwtc6vpw@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: MFA Centenary Stadium\nResult: 0 - 3
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Dynamo Kyiv VS Hamrun Spartans
 DTSTART:20250729T180000Z
 DTEND:20250729T200000Z
-DTSTAMP:20260902T053900Z
+DTSTAMP:20260902T110321Z
 UID:fifa-1r2kahhmuclgvbruy4545yrro@fifa.com
 DESCRIPTION:Competition: UEFA Champions League\nStage: 2nd Qualifying Roun
  d\nStadium: Motor Lublin Arena\nResult: 3 - 0
