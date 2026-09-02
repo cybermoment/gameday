@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Celta de Vigo VS Getafe
 DTSTART:20250817T150000Z
 DTEND:20250817T170000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-z0rmb36p9jp9acw2he9dgk4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Abanca-Balaídos\nResultado: 0 - 2
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Sevilla VS Getafe
 DTSTART:20250825T193000Z
 DTEND:20250825T213000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3677z72kaa3hckjtmi5qnb4k@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ramón Sánchez Pizjuán\nResultado: 1 - 2
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Valencia VS Getafe
 DTSTART:20250829T193000Z
 DTEND:20250829T213000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-6uofyrgo5n51e1rbx8n8eeqc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mestalla\nResultado: 3 - 0
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Real Oviedo
 DTSTART:20250913T120000Z
 DTEND:20250913T140000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-cdmj53c561vyvy44s5q32p04@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 0
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona VS Getafe
 DTSTART:20250921T190000Z
 DTEND:20250921T210000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-ekk0usjk6blgzpziu4ho01zo@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Johan Cruyff\nResultado: 3 - 0
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Alavés
 DTSTART:20250924T170000Z
 DTEND:20250924T190000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-k7c27bcujfnarux79y4ike1g@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 1 - 1
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Levante
 DTSTART:20250927T120000Z
 DTEND:20250927T140000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-n7tx1yzdm3jcvtma21rf6al0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 1 - 1
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Osasuna VS Getafe
 DTSTART:20251003T190000Z
 DTEND:20251003T210000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-s2odkp4oybdaqou9lx1fd6ok@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio El Sadar\nResultado: 2 - 1
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Real Madrid C.F.
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-uoe12e3coa1i9fov19pdukus@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 1
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Athletic Bilbao VS Getafe
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-10d1132abu0fa9xolj05top3o@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de San Mamés\nResultado: 0 - 1
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Girona
 DTSTART:20251031T200000Z
 DTEND:20251031T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-11uxeay5z2isuekqd9fq0usyc@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 1
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Mallorca VS Getafe
 DTSTART:20251109T173000Z
 DTEND:20251109T193000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-17kbnro1phdt3xdaadluy52j8@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Mallorca Son Moix\nResultado: 1 - 0
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Atlético de Madrid
 DTSTART:20251123T173000Z
 DTEND:20251123T193000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1al4jq2l4mkefxzf7iqmiledw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 1
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Elche
 DTSTART:20251128T200000Z
 DTEND:20251128T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1eq00zu9dngz36evkyw20uw44@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 1 - 0
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal VS Getafe
 DTSTART:20251206T130000Z
 DTEND:20251206T150000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1hbkc2pl94wmoej46f3izy4gk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de la Cerámica\nResultado: 2 - 0
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Espanyol
 DTSTART:20251213T200000Z
 DTEND:20251213T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1l3ezfcz5pfa7eixz6hnfmj9w@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 1
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Betis VS Getafe
 DTSTART:20251221T200000Z
 DTEND:20251221T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1q09wu5t41r3rdtsv757pyf4k@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio La Cartuja de Sevilla\nResultado: 4 - 0
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Rayo Vallecano VS Getafe
 DTSTART:20260102T200000Z
 DTEND:20260102T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1sm9e25y9tbcyvop5fmwgz8k4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Vallecas\nResultado: 1 - 1
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Real Sociedad
 DTSTART:20260109T200000Z
 DTEND:20260109T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1xweeu166hhelv9hh9l8lnpjo@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 1 - 2
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Valencia
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-1yshj5s9yj440ar0xld31xxqs@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 1
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Girona VS Getafe
 DTSTART:20260126T200000Z
 DTEND:20260126T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-23c7lgceh27fdelyfo5a4ygwk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adi Municipal de Montilivi\nResultado: 1 - 1
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Celta de Vigo
 DTSTART:20260201T173000Z
 DTEND:20260201T193000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-272epdgf25skn7iaizs21mzh0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 0
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Alavés VS Getafe
 DTSTART:20260208T130000Z
 DTEND:20260208T150000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2cbrliiyprq7a205rp3w1qz9w@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio de Mendizorroza\nResultado: 0 - 2
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Villarreal
 DTSTART:20260214T151500Z
 DTEND:20260214T171500Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2g2ynxffaiw8no1j61y45vvh0@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 1
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Sevilla
 DTSTART:20260222T130000Z
 DTEND:20260222T150000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2hktnqo0d8lx8h65s2ac67ac4@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 1
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid C.F. VS Getafe
 DTSTART:20260302T200000Z
 DTEND:20260302T220000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2m4sef2l4im49rda90k3p41lg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Bernabéu\nResultado: 0 - 1
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Betis
 DTSTART:20260308T151500Z
 DTEND:20260308T171500Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2s67ol8ci5kpjktfuw80c58gk@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 0
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Atlético de Madrid VS Getafe
 DTSTART:20260314T151500Z
 DTEND:20260314T171500Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2usu4a3m9ufgguju2iqilurys@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Riy
  adh Air Metropolitano\nResultado: 1 - 0
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Espanyol VS Getafe
 DTSTART:20260321T151500Z
 DTEND:20260321T171500Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-2yypobxbbgweakpwxt4090v10@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: RCD
  E Stadium\nResultado: 1 - 2
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Athletic Bilbao
 DTSTART:20260405T120000Z
 DTEND:20260405T140000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-33vcbxcbnojlxdm39q4elkutw@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 2 - 0
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Levante VS Getafe
 DTSTART:20260413T190000Z
 DTEND:20260413T210000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-348p051ww3c5h5f7yu6puqplg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Ciudad de Valencia\nResultado: 1 - 0
@@ -419,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Real Sociedad VS Getafe
 DTSTART:20260422T180000Z
 DTEND:20260422T200000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3bvyrbl5qq7s93s7yat969q1g@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal de Anoeta\nResultado: 0 - 1
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Barcelona
 DTSTART:20260425T141500Z
 DTEND:20260425T161500Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3apuzcf26kfvpej8uc98l2n10@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 2
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Rayo Vallecano
 DTSTART:20260503T141500Z
 DTEND:20260503T161500Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3hwithiznhjl7ecaoxv7hemfo@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 0 - 2
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Real Oviedo VS Getafe
 DTSTART:20260510T163000Z
 DTEND:20260510T183000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3msszbu4fc0okhk1cy6k7f09g@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Municipal Carlos Tartiere\nResultado: 0 - 0
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Mallorca
 DTSTART:20260513T193000Z
 DTEND:20260513T213000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3oazgnn4to0s2xa8mtme8o36c@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 3 - 1
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Elche VS Getafe
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3s2q5sph3bm3auk1b8odb493o@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Manuel Martínez Valero\nResultado: 1 - 0
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Getafe VS Osasuna
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
-DTSTAMP:20260902T214126Z
+DTSTAMP:20260902T235840Z
 UID:fifa-3w881304b6s154go90fihrjtg@fifa.com
 DESCRIPTION:Competição: La Liga\nEtapa: Temporada regular\nEstádio: Est
  adio Coliseum\nResultado: 1 - 0
