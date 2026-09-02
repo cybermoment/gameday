@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Union Berlin VS Stuttgart
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-cuy2jl56nzmr8kciofaw35mvo@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Stadion An der Alten Försterei\nResultado: 2 - 1
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Borussia Mönchengladbach
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-cxgxfv4cgatuuo00n8tqnp250@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 1 - 0
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Freiburg VS Stuttgart
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Europa-Park Stadion\nResultado: 3 - 1
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS St. Pauli
 DTSTART:20250919T183000Z
 DTEND:20250919T203000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-d57dyecge1gksxij76pexjndg@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 2 - 0
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Colônia VS Stuttgart
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-da1gkw7g8uurvecg8icqqu80k@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  RheinEnergieSTADION\nResultado: 1 - 2
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Heidenheim
 DTSTART:20251005T133000Z
 DTEND:20251005T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-dcbu0qyee86bq330g0zaxen84@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 1 - 0
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburg VS Stuttgart
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-dhgn2s9vj1xh9qa8pa8do0hsk@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Volkswagen Arena\nResultado: 0 - 3
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Mainz
 DTSTART:20251026T163000Z
 DTEND:20251026T183000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-dlh15woxhfiexcpfgrcumikgk@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 2 - 1
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS Stuttgart
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-dob7jioiab4wpkqsh501gt8us@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Red Bull Arena\nResultado: 3 - 1
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Augsburg
 DTSTART:20251109T163000Z
 DTEND:20251109T183000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-dsqxlgx55w9dyzteo543rekgk@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 3 - 2
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS Stuttgart
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-dv3pyqp0u9k0vzrwxfqyw7pqs@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  SIGNAL IDUNA PARK\nResultado: 3 - 3
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburgo VS Stuttgart
 DTSTART:20251130T143000Z
 DTEND:20251130T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-e1f69rve0isrkp77hh5c7s9hw@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Volksparkstadion\nResultado: 2 - 1
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS FC Bayern München
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-e316y52k65mk03dm4as02k1ec@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 0 - 5
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Bremen VS Stuttgart
 DTSTART:20251214T183000Z
 DTEND:20251214T203000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-e6xmssfs7feuz2qc85zxwmkno@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Weserstadion\nResultado: 0 - 4
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Hoffenheim
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ea4lmhpl5whsoh1piqqcssl5g@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 0 - 0
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS Stuttgart
 DTSTART:20260110T173000Z
 DTEND:20260110T193000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ecvhruw09dh0sttcgksxez85w@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  BayArena\nResultado: 1 - 4
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Eintracht Frankfurt
 DTSTART:20260113T173000Z
 DTEND:20260113T193000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-eh9gvjxr0n86w07y0jj7dtqtw@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 3 - 2
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Union Berlin
 DTSTART:20260118T143000Z
 DTEND:20260118T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ektysl1ncdd9c0sofo4gauvpw@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 1 - 1
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Mönchengladbach VS Stuttgart
 DTSTART:20260125T143000Z
 DTEND:20260125T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ep7dzm3z4tfgwvyyw1kyxvxuc@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  BORUSSIA-PARK\nResultado: 0 - 3
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Freiburg
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 1 - 0
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS Stuttgart
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ewpv0e762q6h7lgsj9ttp6710@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Millerntor-Stadion\nResultado: 2 - 1
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Colônia
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ezvw4rzkq2oh0hvwgw0dl7cwk@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 3 - 1
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim VS Stuttgart
 DTSTART:20260222T183000Z
 DTEND:20260222T203000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-f48ekfjam5o4sn61u5cgqlb84@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Voith-Arena\nResultado: 3 - 3
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Wolfsburg
 DTSTART:20260301T143000Z
 DTEND:20260301T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-z5x4rla2wka1b60vymlgahg@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 4 - 0
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Mainz VS Stuttgart
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-3rybbdyy7myrktd169rdr0us@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MEWA ARENA\nResultado: 2 - 2
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS RB Leipzig
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-8jtwam679udusbvzwv2egi6s@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 1 - 0
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Augsburg VS Stuttgart
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-c2jl259mxclm0afht8mu5pg4@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  WWK Arena\nResultado: 2 - 5
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Borussia Dortmund
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-f9p6jq6t9ykow3vrcstmoqhg@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 0 - 2
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Hamburgo
 DTSTART:20260412T153000Z
 DTEND:20260412T173000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-ip68aj1tv057ewa4zh0f3jtg@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 4 - 0
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS Stuttgart
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-l1unx7afl9hhfzuu40gzx0yc@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Allianz Arena\nResultado: 4 - 2
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Werder Bremen
 DTSTART:20260426T133000Z
 DTEND:20260426T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-pvqdwp6agipteqvpv06bd0d0@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 1 - 1
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Hoffenheim VS Stuttgart
 DTSTART:20260502T133000Z
 DTEND:20260502T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-vdyf5bricl9fqbe7uviz5btg@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  PreZero Arena\nResultado: 3 - 3
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Stuttgart VS Bayer Leverkusen
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-wypbnfvax0tbj73qs4iv94ic@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  MHPArena\nResultado: 3 - 1
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS Stuttgart
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260902T151432Z
+DTSTAMP:20260902T185433Z
 UID:fifa-1053ngfunkdt7v41cane05fkk@fifa.com
 DESCRIPTION:Competição: Bundesliga\nEtapa: Temporada regular\nEstádio: 
  Deutsche Bank Park\nResultado: 2 - 2
