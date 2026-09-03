@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS FC Augsburg
 DTSTART:20250823T133000Z
 DTEND:20250823T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-ctiyi3fh9yo41q6wyssamhyc4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 1 - 3
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:1. FC Köln VS SC Freiburg
 DTSTART:20250831T173000Z
 DTEND:20250831T193000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-cz0pjg0mj1a5m91lqszpb2bkk@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Rhein
  EnergieSTADION\nResult: 4 - 1
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS VfB Stuttgart
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-d0l7e6plbfs12q8ugxzae4e1g@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 3 - 1
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Werder Bremen VS SC Freiburg
 DTSTART:20250920T133000Z
 DTEND:20250920T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-d4tjud23f4a8gcst386ayhpn8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Weser
  stadion\nResult: 0 - 3
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS TSG 1899 Hoffenheim
 DTSTART:20250928T133000Z
 DTEND:20250928T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-d76yzyflinjbjue96ve9zekgk@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 1 - 1
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia M'gladbach VS SC Freiburg
 DTSTART:20251005T173000Z
 DTEND:20251005T193000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-dcrccxyi2q3cw0t8hmksn3ok4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: BORUS
  SIA-PARK\nResult: 0 - 0
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Eintracht Frankfurt
 DTSTART:20251019T133000Z
 DTEND:20251019T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-dfmkm0af0rgtmxs4ow219prtg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 2
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen VS SC Freiburg
 DTSTART:20251026T143000Z
 DTEND:20251026T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-djrsa1siv252tot4dqegveyok@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: BayAr
  ena\nResult: 2 - 0
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Union Berlin VS SC Freiburg
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-dpi74rfcl5l4gor7uzfi7mot0@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Stadi
  on An der Alten Försterei\nResult: 0 - 0
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS St. Pauli
 DTSTART:20251109T143000Z
 DTEND:20251109T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-drwds3zpvjelfi2ne49dahous@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 1
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern München VS SC Freiburg
 DTSTART:20251122T143000Z
 DTEND:20251122T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-duphpfn76nnmm87fh3hkmobh0@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Allia
  nz Arena\nResult: 6 - 2
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS 1. FSV Mainz 05
 DTSTART:20251130T183000Z
 DTEND:20251130T203000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-dzgo9hg4wasozqpc7l2xd7504@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 4 - 0
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Heidenheim VS SC Freiburg
 DTSTART:20251206T143000Z
 DTEND:20251206T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-e478laz1p8875b08kujh0lces@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Voith
  -Arena\nResult: 2 - 1
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Borussia Dortmund
 DTSTART:20251214T143000Z
 DTEND:20251214T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-e6jj6eibzyfv0o6jmv6pdsqhg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 1 - 1
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Wolfsburg VS SC Freiburg
 DTSTART:20251220T143000Z
 DTEND:20251220T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-eaiqxd2ocdb9meu07n6figglw@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Volks
  wagen Arena\nResult: 3 - 4
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Hamburger SV
 DTSTART:20260110T143000Z
 DTEND:20260110T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-edpwo151usyqwitu53kqeobh0@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 1
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:RB Leipzig VS SC Freiburg
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-egv9ep9u1qftm8duqphe094b8@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Red B
  ull Arena\nResult: 2 - 0
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:FC Augsburg VS SC Freiburg
 DTSTART:20260118T163000Z
 DTEND:20260118T183000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-elm64iezyo4chxb3ukcdxjl04@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: WWK A
  rena\nResult: 2 - 2
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS 1. FC Köln
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-eof2idjdw3bvltio6b49clpuc@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 1
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:VfB Stuttgart VS SC Freiburg
 DTSTART:20260201T143000Z
 DTEND:20260201T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-escdgxorg226dog95c0giv6s4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: MHPAr
  ena\nResult: 1 - 0
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Werder Bremen
 DTSTART:20260207T143000Z
 DTEND:20260207T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-eur1ldpdplwudwtsxvagdclqs@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 1 - 0
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:TSG 1899 Hoffenheim VS SC Freiburg
 DTSTART:20260214T143000Z
 DTEND:20260214T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-f0nyu34ar99b8yxjac3jpyolw@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: PreZe
  ro Arena\nResult: 3 - 0
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Borussia M'gladbach
 DTSTART:20260222T143000Z
 DTEND:20260222T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-f1ud2i8b4rezfxix7czncsis4@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 1
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Eintracht Frankfurt VS SC Freiburg
 DTSTART:20260301T163000Z
 DTEND:20260301T183000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-f5esrxkpcocxsk0umq5p2yoes@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Deuts
  che Bank Park\nResult: 2 - 0
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Bayer Leverkusen
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-3dvpg0zqnvzgoqj263zl3g9g@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 3 - 3
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Union Berlin
 DTSTART:20260315T163000Z
 DTEND:20260315T183000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-7r14isj1f999evgg9xt7ydxw@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 0 - 1
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:St. Pauli VS SC Freiburg
 DTSTART:20260322T163000Z
 DTEND:20260322T183000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-cgq5h1fz7sm71cfnxdnn3j10@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Mille
  rntor-Stadion\nResult: 1 - 2
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS FC Bayern München
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-ehm6p0fs4lr0jykl70umuuxg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 3
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:1. FSV Mainz 05 VS SC Freiburg
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-htofxwcnpfmdlkkz1xr50104@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: MEWA 
  ARENA\nResult: 0 - 1
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Heidenheim
 DTSTART:20260419T133000Z
 DTEND:20260419T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-m8e1thtcqeuy54l3zyouar6c@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 2 - 1
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Borussia Dortmund VS SC Freiburg
 DTSTART:20260426T153000Z
 DTEND:20260426T173000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-opeabpi1vy53fxn3l5zfwt1w@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: SIGNA
  L IDUNA PARK\nResult: 4 - 0
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS Wolfsburg
 DTSTART:20260503T173000Z
 DTEND:20260503T193000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-tfbsbfqni95nhdkgdis9cd1w@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 1 - 1
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Hamburger SV VS SC Freiburg
 DTSTART:20260510T133000Z
 DTEND:20260510T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-yyscgqr7sskeagimqimfx6hg@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Volks
  parkstadion\nResult: 3 - 2
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:SC Freiburg VS RB Leipzig
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260903T174605Z
+DTSTAMP:20260903T205231Z
 UID:fifa-10jnauxzq6mmvzk1xmhl552qc@fifa.com
 DESCRIPTION:Competition: Bundesliga\nStage: Regular Season\nStadium: Europ
  a-Park Stadion\nResult: 4 - 1
