@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:بايرن ميونيخ VS لايبزيج
 DTSTART:20250822T183000Z
 DTEND:20250822T203000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-cs0hy642fmy1in51iqx5z2syc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: أليانز أرينا\nال
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS هايدينهايم
 DTSTART:20250830T133000Z
 DTEND:20250830T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-cwpatex7372a8mv88jzm02g44@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:ماينتس VS لايبزيج
 DTSTART:20250913T133000Z
 DTEND:20250913T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-d0z5ezb2vs51yzblzmwzb1b84@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: كوفاس أرينا\nالن
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS كولن
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-d4fo4fsi67dvqhh7vghr4i49g@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:فولفسبورج VS لايبزيج
 DTSTART:20250927T133000Z
 DTEND:20250927T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-d8ct4iygkd4y5mz7k477sa68k@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فوكسفاجن أرينا\n
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:نادي بوروسيا دورتموند VS لايبزيج
 DTSTART:20251004T133000Z
 DTEND:20251004T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-dbgrv2byy5yl05pmv9183d9uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: سيغنال إيدونا ب
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS هامبورج
 DTSTART:20251018T133000Z
 DTEND:20251018T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-dgz3q482zrij0z527wzmvwavo@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:أوجسبورج VS لايبزيج
 DTSTART:20251025T133000Z
 DTEND:20251025T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-dm9gxigwmhc4pnxjqpjaexvys@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إس جي إل أرينا\nا
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS شتوتجارت
 DTSTART:20251101T143000Z
 DTEND:20251101T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-dob7jioiab4wpkqsh501gt8us@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:هوفنهايم VS لايبزيج
 DTSTART:20251108T143000Z
 DTEND:20251108T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-dtxfvl2svhx6p6st0kkwzjok4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: بري زيرو أرينا\n
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS فيردر بريمن
 DTSTART:20251123T143000Z
 DTEND:20251123T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-dvw130uaptg56d8tbk21y7wgk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:بوروسيا مونشنجلادباخ VS لايبزيج
 DTSTART:20251128T193000Z
 DTEND:20251128T213000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-e08ujcciiuc1y376jdm13ex3o@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد بوروسيا ب
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS آينرتخت فرانكفورت
 DTSTART:20251206T173000Z
 DTEND:20251206T193000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-e2lgu3u0ctzr5ztd4krvikxsk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:يونيون برلين VS لايبزيج
 DTSTART:20251212T193000Z
 DTEND:20251212T213000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-e7qjj2q7v7oh9ggp5qkqp54b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد آن دير آلت
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS باير ليفركوزن
 DTSTART:20251220T173000Z
 DTEND:20251220T193000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-e9qftixhywnb4zvrz5qxejllg@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS فرايبورج
 DTSTART:20260114T193000Z
 DTEND:20260114T213000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-egv9ep9u1qftm8duqphe094b8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS بايرن ميونيخ
 DTSTART:20260117T173000Z
 DTEND:20260117T193000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-ek1pv96xmwca85z77g31pplhw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:هايدينهايم VS لايبزيج
 DTSTART:20260124T143000Z
 DTEND:20260124T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-eqdsszp1x3vilsvty4f65nnys@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: فويت أرينا\nالنت
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:سانت باولي VS لايبزيج
 DTSTART:20260127T193000Z
 DTEND:20260127T213000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-efatr9ob12zmdu8ywkny5btas@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ميلرنتور شتاديو
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS ماينتس
 DTSTART:20260131T143000Z
 DTEND:20260131T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-erk6terb8zyabi551pisqtnh0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:كولن VS لايبزيج
 DTSTART:20260208T143000Z
 DTEND:20260208T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-exhr046jamy90vfwil7rjt9uc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد راين إنرج
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS فولفسبورج
 DTSTART:20260215T163000Z
 DTEND:20260215T183000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-ez3odnbp4b69qlmxauzjkk4yc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS نادي بوروسيا دورتموند
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-f2mhh70jo2wbshdulij5umhw4@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:هامبورج VS لايبزيج
 DTSTART:20260301T183000Z
 DTEND:20260301T203000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-2lx9iok68xltis6waxxaf578@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: إسمتش أرينا\nالن
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS أوجسبورج
 DTSTART:20260307T143000Z
 DTEND:20260307T163000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-461qzs6xlzl17sy53gvqt8gk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:شتوتجارت VS لايبزيج
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-8jtwam679udusbvzwv2egi6s@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد مرسيدس بن
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS هوفنهايم
 DTSTART:20260320T193000Z
 DTEND:20260320T213000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-ba7avwl1nake8cdgxapqhlp0@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:فيردر بريمن VS لايبزيج
 DTSTART:20260404T133000Z
 DTEND:20260404T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-evkygv6vtxb2w8xxfz6w5fkk@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد ويسرستادن
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS بوروسيا مونشنجلادباخ
 DTSTART:20260411T133000Z
 DTEND:20260411T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-iatakdhgxm0pvmitbb5r1mac@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:آينرتخت فرانكفورت VS لايبزيج
 DTSTART:20260418T163000Z
 DTEND:20260418T183000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-lu8298fxxegjsnz5wlmlbgno@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: استاد كوميرزبان
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS يونيون برلين
 DTSTART:20260424T183000Z
 DTEND:20260424T203000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-phiswocmpm6dcqizfflflclw@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:باير ليفركوزن VS لايبزيج
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-sn9w804q1z2n57skbyurj8r8@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب باي أرينا\n
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:لايبزيج VS سانت باولي
 DTSTART:20260509T133000Z
 DTEND:20260509T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-wkn5bqxml024y6uxcjfnq044@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب ريد بول أري
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:فرايبورج VS لايبزيج
 DTSTART:20260516T133000Z
 DTEND:20260516T153000Z
-DTSTAMP:20260904T214411Z
+DTSTAMP:20260904T235305Z
 UID:fifa-10jnauxzq6mmvzk1xmhl552qc@fifa.com
 DESCRIPTION:المسابقة: الدوري الألماني\nالمرحل
  ة: الموسم الحالي\nالملعب: ملعب أوروبا بار
