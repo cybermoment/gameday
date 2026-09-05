@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Эгнация Рогожина VS Брейдаблик
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
-DTSTAMP:20260905T040138Z
+DTSTAMP:20260905T083124Z
 UID:fifa-3p6ebnmfq1iwcm02nq57diolw@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Arena Egn
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Брейдаблик VS Эгнация Рогожина
 DTSTART:20250715T190000Z
 DTEND:20250715T210000Z
-DTSTAMP:20260905T040138Z
+DTSTAMP:20260905T083124Z
 UID:fifa-3skzndk83pqvo7jlfaiis5mok@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: Квалификационный раунд\nСтадион: Kópavogs
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Лех Познань VS Брейдаблик
 DTSTART:20250722T183000Z
 DTEND:20250722T203000Z
-DTSTAMP:20260905T040138Z
+DTSTAMP:20260905T083124Z
 UID:fifa-82gylvjal14mwzliv23by6jh0@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Стадион Мьежски (гор
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Брейдаблик VS Лех Познань
 DTSTART:20250730T183000Z
 DTEND:20250730T203000Z
-DTSTAMP:20260905T040138Z
+DTSTAMP:20260905T083124Z
 UID:fifa-85c7sdp364r8sgndk6h0cneok@fifa.com
 DESCRIPTION:Турнир: Лига чемпионов УЕФА\nСтади
  я: 2-й Раунд\nСтадион: Kópavogsvöllur\nРезультат:
