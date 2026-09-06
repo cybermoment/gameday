@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester City VS SSC Neapel
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-4wp9z2tfe21drwyz966ojvpjo@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Etihad Stadium\nErgebnis: 2 - 0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:SSC Neapel VS Sporting Lissabon
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-53ieurhaftrltylp7pe70795g@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Stadio Diego Armando Maradona\nErgebnis: 2 - 1
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:PSV Eindhoven VS SSC Neapel
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-56flul4umnrjdekx5ny22y7tg@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Philips Stadion\nErgebnis: 6 - 2
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:SSC Neapel VS Eintracht Frankfurt
 DTSTART:20251104T174500Z
 DTEND:20251104T194500Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-5b46wuyejszmlnabyu6px8lxw@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Stadio Diego Armando Maradona\nErgebnis: 0 - 0
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:SSC Neapel VS Qarabağ Ağdam
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-5klsgyaimzk0vf9kez1x7lno4@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Stadio Diego Armando Maradona\nErgebnis: 2 - 0
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:SL Benfica VS SSC Neapel
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-5uvmcr3z17bmsz8isqq8823h0@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Estádio do Sport Lisboa e Benfica (da Luz)\nErgebnis: 2 - 0
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:FC Kopenhagen VS SSC Neapel
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-5vy63q5grjqxjipcqb8jljv9w@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Parken\nErgebnis: 1 - 1
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:SSC Neapel VS Chelsea FC
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
-DTSTAMP:20260906T004610Z
+DTSTAMP:20260906T054347Z
 UID:fifa-68k4ds142ioex11nuohdtmoes@fifa.com
 DESCRIPTION:Wettbewerb: UEFA Champions League\nPhase: League Stage\nStadio
  n: Stadio Diego Armando Maradona\nErgebnis: 2 - 3
